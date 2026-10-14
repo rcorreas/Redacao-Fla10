@@ -1,35 +1,36 @@
 # Apuração e Integridade Factual
 
 ## Regra central
-Não inventar. Plausibilidade não é confirmação, e várias páginas podem estar repetindo uma única fonte original.
+Não inventar fatos para completar uma matéria, aumentar o impacto do título ou dar aparência de profundidade. Se não for possível confirmar informação importante, omitir, atribuir com precisão ou explicar que permanece sem confirmação.
 
-## Tipos de afirmação
-- **Confirmado:** sustentado por fonte primária ou por fontes confiáveis e independentes suficientes.
-- **Atribuído:** publicado por fonte identificada, mas não confirmado de forma independente. Atribuir corretamente.
-- **Contextual:** informação que ajuda a explicar o caso; conferir se ainda é válida.
-- **Análise:** interpretação baseada nos fatos apresentados. Explicar a ligação entre evidência e conclusão.
-- **Hipótese:** possibilidade apresentada como condicional, com base explicitada.
-- **Desconhecido:** não preencher a lacuna; buscar confirmação, omitir ou explicitar a incerteza.
+## Categorias de afirmação
+- **Confirmada:** sustentada por fonte confiável apropriada ao fato.
+- **Atribuída:** divulgada por fonte identificável, sem confirmação independente suficiente.
+- **Contexto:** fato de fundo verificado e relevante.
+- **Análise:** interpretação argumentada a partir de fatos.
+- **Hipótese/cenário:** possibilidade explicitamente incerta.
+- **Não confirmada:** não afirmar como fato.
 
-## Pesquisa de notícias atuais
-1. Confirmar data, competição, fase, mando e horário em fonte atual.
-2. Priorizar comunicados oficiais, clubes, organizadores, súmulas e declarações integrais para fatos primários.
-3. Usar veículos confiáveis para apuração, repercussão e informação atribuída.
-4. Conferir data, contexto e eventuais correções.
-5. Buscar confirmação independente para informação controversa ou decisiva.
-6. Manter a origem de informações importantes rastreável durante a pesquisa, mesmo que os links não apareçam no texto publicável.
+## Fontes
+Consultar [[Pesquisa e Fontes]] e [[Critérios de Confiabilidade]]. Buscar a origem da informação. Reproduções de uma mesma reportagem não são confirmações independentes. Uma fonte oficial é valiosa para anúncios formais, mas não resolve automaticamente questões de interpretação ou bastidores.
 
-## Números, lesões e mercado
-- Não usar estatísticas apenas para dar aparência de robustez.
-- Conferir período, competição, definição da métrica e fonte.
-- Distinguir confirmação oficial, relato jornalístico e especulação em lesões, suspensões, escalações e negociações.
-- Não declarar prazo de recuperação, titularidade, negócio concluído ou valor exato sem base verificável.
+## Informações dinâmicas
+Reconfirmar antes da publicação, quando pertinente: lesões e previsão de retorno; escalações e suspensões; arbitragem, horário, estádio e transmissão; contratos, cláusulas, propostas e negociações; estatísticas, classificação e calendário; declarações e decisões recentes.
+
+## Atribuição
+Identificar quem divulgou ou afirmou a informação. Não converter um relato jornalístico em fato independente quando a atribuição for necessária. Repetição por vários perfis não transforma rumor em confirmação.
+
+## Números e estatísticas
+Usar números somente quando houver fonte ou cálculo verificável, recorte temporal claro, pertinência editorial e interpretação proporcional. Se o responsável pedir para não usar estatísticas, respeitar a instrução naquela entrega. Não usar números decorativos.
+
+## Lesões e saúde de atletas
+Não especular diagnóstico, gravidade, prazo ou causa. Distinguir comunicado médico, informação atribuída e expectativa. Não inferir prognóstico a partir de casos parecidos.
 
 ## Citações
-Não inventar aspas nem apresentar paráfrase como citação literal. Conferir o contexto e o teor integral sempre que possível; identificar quem disse o quê e em qual contexto.
+Não fabricar falas nem alterar o sentido de declarações. Confirmar a formulação original quando a citação direta for relevante. Se não houver acesso à formulação exata, preferir paráfrase atribuída e fiel.
 
-## Fontes no texto final
-No padrão habitual de matéria do site, não inserir links de fontes no corpo publicável nem terminar com lista de links, salvo pedido explícito. Isso não dispensa verificação nem impede fornecer referências separadamente.
+## Correções e divergências
+Se o responsável contestar um dado, reabrir a apuração. Se fontes confiáveis divergirem, explicar a divergência quando relevante em vez de escolher silenciosamente a versão mais conveniente.
 
-## Erros
-Corrigir com transparência, identificar afirmações afetadas e revisar trechos que dependam do mesmo dado. Não defender uma informação apenas porque já foi publicada.
+## Transparência operacional
+Não afirmar “pesquisei”, “confirmei”, “publiquei” ou “atualizei” sem realizar e verificar a ação. O vault não substitui checagem atual.
