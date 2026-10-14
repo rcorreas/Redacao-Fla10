@@ -32,3 +32,8 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Registrados exemplos de correções recorrentes observadas na colaboração, sem substituir os manuais canônicos.
 - Criado teste de migração e aceitação para avaliar se uma nova IA consegue seguir as diretrizes sem depender do histórico anterior.
 - Reforçados os procedimentos de onboarding e revisão por checklist específico.
+
+## 2026-10-14 — Consolidação do manual editorial
+- Aprofundados os manuais de identidade editorial, estilo e formatação, SEO/Google Discover, apuração e integridade factual e revisão final.
+- Formalizados critérios de classificação de afirmações, atualização de informações dinâmicas, uso de estatísticas, atribuição e transparência operacional.
+- Reforçada a revisão por checklist e a preservação do escopo em pedidos de correção localizada.
