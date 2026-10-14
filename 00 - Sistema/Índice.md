@@ -9,6 +9,7 @@
 - [[Registro de Decisões]]
 - [[Log de Atualizações]]
 - [[Procedimento de Migração de IA]]
+- [[Teste de Migração e Aceitação]]
 - [[Prompt de Inicialização da IA]]
 
 ## Manual editorial
@@ -18,6 +19,7 @@
 - [[SEO e Google Discover]]
 - [[Revisão e Controle de Qualidade]]
 - [[Preferências e Correções Recorrentes]]
+- [[Exemplos de Correções e Padrões de Qualidade]]
 
 ## Operação da redação
 - [[Fluxo de Produção]]
