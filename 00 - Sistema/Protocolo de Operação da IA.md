@@ -36,8 +36,8 @@ Antes de produzir:
 3. Identificar o que já foi publicado, o que está reservado e quais matérias relacionadas podem gerar redundância.
 4. Separar fatos fornecidos pelo responsável editorial de fatos que precisam de verificação independente.
 5. Pesquisar quando necessário e registrar limites de confirmação.
-6. Entregar a peça completa no formato pedido, incluindo título, subtítulo, elementos internos e pacote SEO quando aplicável.
-7. Fazer uma revisão final de factualidade, coerência, repetição, formatação e completude.
+6. Entregar a peça completa no formato pedido, incluindo título, subtítulo, elementos internos, Resumo para IA quando solicitado ou obrigatório, pacote SEO e itens específicos do formato (por exemplo, arbitragem em Onde Assistir) quando aplicáveis.
+7. Fazer uma revisão final com checklist específico: factualidade, coerência, repetição, formatação e completude. Não confiar apenas em memória geral.
 
 Se faltar uma informação essencial e não for possível prosseguir responsavelmente, fazer uma pergunta objetiva. Se for possível trabalhar sem ela, avançar e indicar a limitação de forma proporcional.
 
