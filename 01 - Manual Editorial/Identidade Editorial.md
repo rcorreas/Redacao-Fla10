@@ -1,38 +1,55 @@
-# Identidade Editorial da Redação Fla10
+# Identidade Editorial — Redação Fla10
 
 ## Missão
-Produzir jornalismo sobre o Flamengo que seja útil, confiável, atual, legível no celular e editorialmente distinto. O conteúdo deve informar, explicar e contextualizar, não apenas reembalar manchetes.
+Informar o torcedor do Flamengo com jornalismo claro, atualizado, útil e rigoroso, contextualizando o clube sem confundir paixão clubística com licença para exagerar ou inventar. A matéria precisa explicar o que aconteceu, por que importa e o que é possível afirmar com segurança.
 
-## Público e utilidade
-Escrever para torcedores que querem entender o que aconteceu, o que está confirmado, por que importa e quais consequências são plausíveis. Explicar termos táticos, regras e contexto quando isso melhorar a compreensão.
+## Leitor e utilidade
+O leitor principal é o torcedor que quer compreender rapidamente a notícia e, quando necessário, aprofundar-se no contexto esportivo, institucional, histórico ou tático. A leitura deve funcionar bem no celular: hierarquia clara, parágrafos objetivos, subtítulos funcionais e pouca redundância.
 
-## Voz
-- Direta e natural, segura quando a evidência permite e cautelosa quando não permite.
-- Jornalística, com ritmo de leitura e transições claras.
-- Analítica sem confundir interpretação com fato.
-- Emocional quando o gênero comportar, sem melodrama automático.
-- Crítica quando os fatos sustentarem a crítica; sem conflito artificial.
+## Voz editorial
+- Direta, informativa, contemporânea e natural.
+- Jornalística, com contexto e análise proporcional à evidência.
+- Próxima do universo rubro-negro sem transformar o texto em propaganda do clube.
+- Firme ao explicar consequências; prudente ao tratar de hipóteses, bastidores e previsões.
+- Em matérias factuais, a informação vem antes do floreio.
 
-## Referência de estilo
-Buscar clareza e fluidez de jornalismo esportivo profissional, com leitura móvel e atenção a SEO e Google Discover. Não copiar formulações ou textos de outros veículos.
+## Princípios inegociáveis
+1. **Precisão antes de velocidade:** notícia rápida não autoriza informação inventada ou não confirmada.
+2. **Clareza antes de ornamentação:** cada parágrafo deve informar, explicar ou demonstrar algo.
+3. **Contexto antes de exagero:** explicar a relevância real, sem transformar toda movimentação em crise, reviravolta ou decisão histórica.
+4. **Independência editorial:** não tratar o Flamengo como infalível nem adversários como caricaturas.
+5. **Separação de gêneros:** notícia, análise tática, reportagem, crônica e opinião têm funções distintas.
+6. **SEO sem deformação:** otimizar título e estrutura sem sacrificar exatidão ou legibilidade.
+7. **Transparência:** reconhecer lacunas, divergências e limites da apuração.
 
-## Evitar
-- Frases genéricas que serviriam para qualquer jogo ou clube.
-- Introduções longas que atrasam a informação central.
-- Repetir a mesma informação em título, subtítulo, abertura e vários parágrafos.
-- Adjetivação promocional, clickbait sem sustentação e afirmações sobre bastidores sem fonte.
-- Clichês automáticos, incluindo “a bola vai rolar”.
-- Começar frases repetidamente com “há...”.
-- Encerrar matérias com perguntas artificiais ao leitor.
+## Título e subtítulo
+O título deve identificar o assunto e destacar o fato ou ângulo de maior valor jornalístico. Evitar suspense artificial, promessas que o texto não cumpre, perguntas genéricas e fórmulas repetidas. O subtítulo deve acrescentar consequência, contexto ou detalhe — não apenas reescrever o título.
 
-## Estrutura habitual
-1. Título com informação central e ângulo claro.
-2. Subtítulo que acrescenta contexto ou consequência.
-3. Abertura que entrega o fato ou a tese.
-4. Desenvolvimento lógico com contexto e evidências.
-5. Subtítulos quando ajudarem a leitura.
-6. Fechamento que conclui sem pergunta retórica.
-7. SEO e resumo para IA quando aplicáveis.
+## Abertura
+O primeiro parágrafo deve apresentar o núcleo da matéria sem rodeios. Em notícias, responder tão cedo quanto possível o que aconteceu, quem está envolvido e por que isso importa. Em análises e reportagens, estabelecer a pergunta central ou a tensão narrativa, sem ocultar informação essencial apenas para criar suspense.
 
-## Prioridade editorial
-Precisão factual > utilidade e clareza > coerência narrativa > estilo > otimização. SEO deve ajudar o leitor a encontrar a matéria, não distorcer seu conteúdo.
+## Desenvolvimento
+Cada parágrafo deve acrescentar um dado, explicação, contexto, evidência ou consequência. Usar subtítulos quando melhorarem a navegação, não para fragmentar artificialmente um texto curto. Evitar repetir a mesma informação na abertura, no corpo e no fechamento.
+
+## Linguagem e estilo
+- Preferir verbos concretos e construções naturais.
+- Evitar clichês esportivos e aberturas automáticas como “a bola vai rolar”.
+- Evitar iniciar frases com “há” por hábito; reescrever quando isso tornar a prosa mais direta.
+- Evitar frases telegráficas em sequência, adjetivação excessiva e metáforas empilhadas.
+- Não encerrar matérias factuais com pergunta retórica.
+- Não usar “segundo informações” sem identificar a fonte ou explicar a atribuição.
+- Não apresentar inferência como fato nem opinião como informação apurada.
+
+## Identidade rubro-negra
+A perspectiva do torcedor é parte do contexto, não substituto da apuração. O texto pode reconhecer a dimensão histórica e cultural do Flamengo, mas deve sustentar afirmações sobre grandeza, títulos, recordes, público e desempenho com dados conferidos e recorte explícito.
+
+## O que evitar
+- Clickbait que distorce o conteúdo.
+- Adjetivos de certeza (“definitivo”, “inevitável”, “histórico”) sem sustentação.
+- Supor intenção de dirigentes, comissão técnica ou atletas.
+- Inventar números, declarações, bastidores, reações ou cenas.
+- Repetir informação só para alongar a matéria.
+- Confundir texto emocional com texto sem evidência.
+
+## Aplicação por gênero
+A notícia deve priorizar fatos e atualizações; a análise deve explicitar critérios e evidências; a reportagem deve apurar e contextualizar; a crônica deve interpretar sem inventar acontecimentos; o conteúdo de torcedor pode ser coloquial, mas deve distinguir opinião de fato. Consultar o manual específico de cada formato.
