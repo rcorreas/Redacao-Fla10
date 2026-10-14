@@ -21,4 +21,4 @@ Este repositório é a base editorial da Redação Fla10 e deve ser tratado como
 - Ao alterar arquivos de pauta, manter estado e data claros.
 
 ## Onboarding
-Para uma sessão nova, seguir `00 - Sistema/Procedimento de Migração de IA.md`. Se documentos necessários estiverem ausentes, sinalizar a lacuna em vez de fingir que o conteúdo foi consultado.
+Para uma sessão nova, seguir `00 - Sistema/Procedimento de Migração de IA.md` e validar com `00 - Sistema/Teste de Migração e Aceitação.md`. Se documentos necessários estiverem ausentes, sinalizar a lacuna em vez de fingir que o conteúdo foi consultado.
