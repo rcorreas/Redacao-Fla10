@@ -1,38 +1,48 @@
 # Revisão e Controle de Qualidade
 
-Use esta lista antes de entregar uma matéria completa. Nem todo item se aplica a todo formato, mas os itens obrigatórios não devem ser ignorados.
+## Objetivo
+Impedir que matérias sejam entregues incompletas, factualmente frágeis, repetitivas ou fora do padrão solicitado. A revisão deve usar o checklist do formato, não apenas uma leitura intuitiva.
 
-## Factualidade
-- [ ] Nomes, datas, horários, placares, competição e fase conferidos.
-- [ ] Lesões, suspensões, escalações, declarações e mercado atribuídos corretamente.
-- [ ] Nenhuma estatística, fala, detalhe ou fonte inventada.
-- [ ] Fatos separados de análise e hipótese.
-- [ ] Contexto temporal atualizado.
+## Revisão factual
+- [ ] Nomes, cargos, clubes e competição corretos.
+- [ ] Datas, horários, fuso e contexto atualizados.
+- [ ] Placar, gols, minutos e estatísticas conferidos quando usados.
+- [ ] Lesões, suspensões, escalações, arbitragem e transmissão reconfirmadas quando pertinentes.
+- [ ] Rumores e informações exclusivas atribuídos corretamente.
+- [ ] Nenhuma fala, dado ou cena foi inventada.
+- [ ] Análises e previsões estão identificadas como tais.
 
-## Jornalismo e estrutura
-- [ ] Título claro, fiel e sem promessa exagerada.
-- [ ] Subtítulo acrescenta informação.
-- [ ] Abertura entrega a notícia ou tese.
-- [ ] Cada seção tem função própria.
-- [ ] Texto explica por que o assunto importa.
-- [ ] Fechamento conclui sem pergunta retórica.
-- [ ] Não há redundâncias ou clichês automáticos.
+## Revisão editorial
+- [ ] Título informa o ângulo e corresponde ao texto.
+- [ ] Subtítulo acrescenta contexto.
+- [ ] Abertura entrega o fato ou a pergunta central.
+- [ ] Cada parágrafo acrescenta algo.
+- [ ] Não há repetição desnecessária entre abertura, corpo e fechamento.
+- [ ] O texto não exagera certeza, conflito ou consequência.
+- [ ] A matéria tem função distinta de outras peças relacionadas.
+- [ ] Não termina com pergunta retórica no padrão factual habitual.
 
-## Formatação
-- [ ] Subtítulos em `<h3>` quando esse padrão foi pedido.
-- [ ] Uso pertinente de `<b>` e `<i>`.
-- [ ] Cada parágrafo termina com `<br><br>` quando exigido.
-- [ ] Não há `<p></p>` vazios quando foi solicitada sua remoção.
-- [ ] HTML não está misturado com instruções internas.
+## Revisão de formato
+- [ ] Componentes específicos do gênero presentes.
+- [ ] Resumo para IA incluído quando solicitado ou exigido.
+- [ ] Pacote SEO completo quando aplicável.
+- [ ] Em Onde Assistir, serviço, transmissão, escalações e arbitragem tratados conforme o checklist.
+- [ ] Em Raio-X Tático, há evidência concreta e distinção entre estrutura e comportamento.
+- [ ] Em crônica, há interpretação autoral sem fabricação de acontecimentos.
 
-## SEO e completude
-- [ ] Pacote SEO incluído quando aplicável.
-- [ ] Resumo para IA incluído quando solicitado ou obrigatório.
-- [ ] Palavras-chave naturais e pertinentes.
-- [ ] Entregáveis solicitados incluídos: arbitragem, escalações, transmissão, redes sociais ou outros.
+## Revisão de formatação
+- [ ] `<h3>` nos subtítulos internos, quando o padrão HTML foi solicitado.
+- [ ] `<br><br>` no fim de cada parágrafo do corpo, quando exigido.
+- [ ] Sem `<p></p>` vazio quando sua remoção foi solicitada.
+- [ ] Negrito e itálico usados com moderação.
+- [ ] Fontes de apuração não foram inseridas no corpo publicável habitual sem pedido.
 
-## Entrega
-- [ ] O texto responde ao pedido específico.
-- [ ] Trechos complementares indicam onde devem ser inseridos.
-- [ ] Incertezas relevantes foram sinalizadas.
-- [ ] Não se afirma que houve publicação ou ação externa sem confirmação.
+## Revisão de entrega
+- [ ] O pedido foi atendido sem ampliar desnecessariamente o escopo.
+- [ ] Se foi solicitado apenas um trecho ou título, a resposta preserva o restante.
+- [ ] Se houve pesquisa, as fontes consultadas sustentam as afirmações.
+- [ ] Incertezas relevantes foram explicitadas.
+- [ ] Não se afirmou que uma ação externa ocorreu sem confirmação.
+
+## Critério de aprovação
+Uma matéria não está pronta apenas porque está bem escrita. Deve estar factual, completa para o formato, coerente com a pauta e formatada para o destino solicitado.
