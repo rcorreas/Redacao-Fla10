@@ -1,31 +1,47 @@
-# SEO e Google Discover
+# SEO e Google Discover — Redação Fla10
 
 ## Objetivo
-Facilitar que a matéria seja encontrada e compreendida sem sacrificar precisão, clareza ou interesse jornalístico.
+Facilitar que o conteúdo seja encontrado e compreendido por mecanismos de busca e leitores, sem subordinar a qualidade jornalística a fórmulas mecânicas.
 
-## Pacote SEO padrão
-Quando aplicável, incluir ao final:
-- **Título SEO:** claro, específico e coerente com o conteúdo.
-- **Meta Description:** resumo atraente e factual, sem promessas não cumpridas.
-- **Palavra-chave principal:** consulta central correspondente à intenção de busca.
-- **Palavras-chave secundárias:** variações e entidades relacionadas, sem repetição artificial.
+## Pacote SEO
+Quando a matéria exigir o pacote SEO, entregar ao final:
+- **Título SEO:** descritivo, específico e alinhado ao conteúdo.
+- **Meta Description:** síntese útil e atraente, sem prometer informação ausente.
+- **Palavra-chave principal:** expressão que represente a intenção central de busca.
+- **Palavras-chave secundárias:** entidades, competição, jogador, tema ou variações realmente relevantes.
 
-## Princípios
-- Colocar o assunto central cedo no título quando soar natural.
-- Entender a intenção de busca: notícia, serviço, análise, história ou coluna.
-- Usar nomes de clubes, jogadores, competições e datas quando úteis para desambiguar.
-- Não repetir palavras-chave mecanicamente nem produzir parágrafos apenas para SEO.
-- Não inventar volume de busca, tendência, ranking ou desempenho do site.
-- Nenhum título garante distribuição no Google Discover.
+## Títulos
+- Colocar o tema e a entidade central em posição clara.
+- Usar a linguagem que o leitor provavelmente empregaria para procurar a informação.
+- Destacar a novidade, consequência ou pergunta editorial específica.
+- Evitar excesso de palavras-chave, caixa alta, urgência falsa e suspense enganoso.
+- Não repetir mecanicamente o mesmo título no título SEO se uma versão mais clara for possível.
+
+## Subtítulo e abertura
+O subtítulo deve complementar o título. A abertura deve responder rapidamente à intenção provável do leitor e oferecer contexto suficiente para que a matéria faça sentido mesmo para quem chegou diretamente pela busca ou pelo Discover.
 
 ## Resumo para IA
-Quando solicitado ou obrigatório para o formato, incluir um bloco identificável chamado **Resumo para IA** dentro do artigo. Sintetizar o fato central, protagonistas, contexto e consequência com linguagem factual e autossuficiente. Não introduzir informação ausente do corpo.
+Quando solicitado ou previsto pelo formato, incluir uma seção claramente identificada como “Resumo para IA”. Ela deve ser autossuficiente, concisa e factual, sintetizando protagonistas, acontecimento, contexto e consequência. Não incluir especulações como se fossem fatos, nem introduzir informação que não esteja sustentada no texto.
 
-## Checklist
-- [ ] Título fiel ao conteúdo.
-- [ ] Subtítulo acrescenta algo.
-- [ ] Palavra-chave usada naturalmente.
-- [ ] Meta description factual.
-- [ ] Termos secundários pertinentes.
-- [ ] Resumo para IA incluído quando necessário.
-- [ ] Texto continua útil para leitores humanos.
+## Google Discover
+- Priorizar utilidade, atualidade, clareza e ângulo editorial real.
+- Usar títulos interessantes, mas fiéis ao conteúdo.
+- Evitar conteúdo superficial produzido apenas para capturar tendências.
+- A imagem principal deve ser relevante, de boa qualidade e coerente com a matéria; respeitar direitos e contexto.
+- Não presumir que SEO ou uma determinada estrutura garantirá distribuição, indexação ou tráfego.
+
+## Entidades e contexto
+Identificar corretamente nomes de atletas, clubes, torneios, estádios e dirigentes. Explicar siglas e contexto quando necessário. Usar variações semânticas naturalmente, sem repetição forçada.
+
+## Atualidade
+Para informações temporais, incluir datas claras quando isso evitar ambiguidade. Atualizar título, abertura e texto se o fato mudar; não deixar uma matéria antiga parecendo atual por causa de expressões como “hoje” ou “amanhã”.
+
+## Checklist SEO
+- [ ] Título específico e fiel.
+- [ ] Subtítulo acrescenta informação.
+- [ ] Abertura responde à intenção de busca.
+- [ ] Palavra-chave principal natural.
+- [ ] Entidades identificadas corretamente.
+- [ ] Meta description resume o conteúdo real.
+- [ ] Resumo para IA incluído quando solicitado/aplicável.
+- [ ] Nenhuma promessa exagerada ou palavra-chave artificial.
