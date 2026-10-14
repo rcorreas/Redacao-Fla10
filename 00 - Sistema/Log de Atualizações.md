@@ -16,3 +16,11 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - **Alteração:**
 - **Motivo:**
 - **Arquivos afetados:**
+
+
+## 2026-10-14 — Segunda camada de documentação
+- Criado protocolo de colaboração e aprendizado para interpretar pedidos, aplicar correções e manter a memória sem inferir estados.
+- Criado modelo de matéria para o site e checklist completo de serviço de jogo, reforçando resumo para IA, SEO, arbitragem e transmissão quando aplicáveis.
+- Criados formatos para análise de elenco/mercado e análise de treinador/gestão de jogo.
+- Criados registro de decisões editoriais e modelo de ficha de apuração.
+- Atualizado o índice para incluir os novos documentos.
