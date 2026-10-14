@@ -24,3 +24,11 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Criados formatos para análise de elenco/mercado e análise de treinador/gestão de jogo.
 - Criados registro de decisões editoriais e modelo de ficha de apuração.
 - Atualizado o índice para incluir os novos documentos.
+
+## 2026-10-14 — Colaboração, exemplos e validação de migração
+- Criado protocolo de colaboração e aprendizado para orientar a interpretação de pedidos, correções e manutenção da memória editorial.
+- Criado modelo geral de matéria para o site e checklist ampliado para serviço de jogo.
+- Criados manuais de análise de elenco/mercado e de treinador/gestão de jogo.
+- Registrados exemplos de correções recorrentes observadas na colaboração, sem substituir os manuais canônicos.
+- Criado teste de migração e aceitação para avaliar se uma nova IA consegue seguir as diretrizes sem depender do histórico anterior.
+- Reforçados os procedimentos de onboarding e revisão por checklist específico.
