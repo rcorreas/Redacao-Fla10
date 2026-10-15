@@ -136,3 +136,9 @@ Ao receber confirmação de publicação, registrar data e, se fornecida, URL. A
 - **Ângulo:** momento dos clubes, campeonatos nacionais, últimos jogos, desfalques, retrospecto, pressão em La Plata e implicações táticas.
 - **SEO:** palavra-chave principal “Estudiantes x Flamengo”; título SEO “Estudiantes x Flamengo: escalações e onde assistir à Libertadores”.
 - **Revisão pós-publicação:** verificar o status da inscrição de Marcos Rojo. O ge informou que a CONMEBOL rejeitou o pedido e que o Estudiantes recorreria ao TAS. Fonte: https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/15/contratacao-de-emergencia-do-estudiantes-na-semifinal-pode-ficar-fora-contra-o-flamengo-entenda.ghtml
+
+
+### Correção pós-publicação — Estudiantes x Flamengo (15/10/2026)
+- **Pendente de revisão no site:** substituir o trecho que apresenta Marcos Rojo como provável titular. A inscrição do zagueiro foi rejeitada pela CONMEBOL, e o Estudiantes tentava reverter a decisão.
+- **Trecho substituto registrado:** “A defesa do Estudiantes enfrenta mais um problema às vésperas da semifinal. A inscrição de Marcos Rojo foi rejeitada pela CONMEBOL, e o clube argentino tentava reverter a decisão para contar com o zagueiro diante do Flamengo. Revelado pelo próprio Estudiantes e campeão da Libertadores de 2009, o defensor era uma opção para reforçar o setor, mas sua participação dependia da resolução do impasse.”
+- Conferir também a provável escalação para garantir que Rojo não apareça como titular confirmado.
