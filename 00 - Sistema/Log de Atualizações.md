@@ -60,3 +60,9 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Atualizado o Painel de Pautas para marcar o pré-jogo como publicado.
 - Revisão factual prioritária: conferir se a matéria publicada menciona Marcos Rojo como provável titular. O ge publicou em 15/10 que a CONMEBOL rejeitou a inscrição do zagueiro e que o Estudiantes recorreria ao TAS. Fonte: https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/15/contratacao-de-emergencia-do-estudiantes-na-semifinal-pode-ficar-fora-contra-o-flamengo-entenda.ghtml.
 - Commit da ficha editorial: 59560851056f0bcdd60e424200af388a882b7654.
+
+
+## 2026-10-15 — Correção factual: inscrição de Marcos Rojo
+- Atualizada a ficha editorial da matéria Estudiantes x Flamengo com o texto substituto que esclarece que a inscrição de Marcos Rojo foi rejeitada pela CONMEBOL e que o clube tentava reverter a decisão.
+- Atualizado o Painel de Pautas com a correção e a pendência de revisão do texto no site, incluindo a escalação provável.
+- A atualização foi registrada no GitHub; o texto publicado no site não foi editado diretamente nesta operação.
