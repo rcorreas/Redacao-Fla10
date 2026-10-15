@@ -11,7 +11,7 @@ O responsável editorial informou que o dia terá três frentes esportivas — L
    - **Formato:** serviço de jogo — final do Campeonato Carioca masculino, 15/10/2026.
    - **Arquivo de produção:** [[2026-10-15 - Onde assistir Flamengo x Fluminense - basquete]].
    - **Apuração:** horário, local, formato e transmissão conferidos em fontes do Flamengo e da CBB; arbitragem e escalações não incluídas por falta de confirmação encontrada.
-   - **URL pública:** ainda não registrada no vault; adicionar quando fornecida.
+   - **URL pública:** https://fla10.news/noticias/flamengo-x-fluminense-onde-assistir-a-final-do-campeonato-carioca-de-basquete-hoje
 
 2. **Onde assistir — vôlei**
    - **Estado:** planejada; pendente de produção/publicação.
