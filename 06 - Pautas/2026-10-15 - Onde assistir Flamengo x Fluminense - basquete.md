@@ -103,7 +103,7 @@ Flamengo e Fluminense se enfrentam nesta quinta-feira, 15 de outubro de 2026, à
 
 ## Apuração interna — não publicar
 
-**Estado editorial:** publicada no site em 15/10/2026, conforme confirmação do responsável editorial. A URL pública ainda não foi registrada no vault; adicionar quando fornecida.
+**Estado editorial:** publicada no site em 15/10/2026, conforme confirmação do responsável editorial. **URL pública:** https://fla10.news/noticias/flamengo-x-fluminense-onde-assistir-a-final-do-campeonato-carioca-de-basquete-hoje
 
 ### Fontes consultadas
 
