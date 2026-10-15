@@ -10,10 +10,13 @@ Definir fato ou questão central, ângulo, informações necessárias, fontes pr
 Pesquisar informações atuais quando necessário. Separar confirmação de relato atribuído, análise e hipótese. Verificar datas, nomes, placares, competição, mando, horários e disponibilidade de atletas.
 
 ## 4. Redação
-Começar pelo fato ou tese mais relevante. Organizar em progressão lógica. Dar a cada seção uma função diferente. Integrar contexto apenas quando ajudar a entender a notícia ou análise. Aplicar o manual do formato.
+Começar pelo fato ou tese mais relevante. Organizar em progressão lógica. Dar a cada seção uma função diferente. Integrar contexto apenas quando ajudar a entender a notícia ou análise. Aplicar o manual do formato e as regras de formatação da Fla10:
+- Subtítulos internos no formato `<h3>Texto do subtítulo</h3><br>` — usar **apenas um** `<br>` após `</h3>`.
+- Encerrar cada parágrafo de texto com `<br><br>`.
+- Não confundir a regra dos subtítulos com a dos parágrafos: após o título interno, um `<br>`; após cada parágrafo, dois.
 
 ## 5. Revisão
-Executar [[Revisão e Controle de Qualidade]]: factualidade, completude, clareza, redundância, estrutura, formatação, SEO e resumo para IA quando aplicáveis.
+Executar [[Revisão e Controle de Qualidade]]: factualidade, completude, clareza, redundância, estrutura, formatação, SEO e resumo para IA quando aplicáveis. A revisão de formatação deve verificar individualmente todos os subtítulos e parágrafos antes da primeira entrega.
 
 ## 6. Entrega
 Entregar no formato solicitado. Para matéria, incluir título, subtítulo e componentes obrigatórios. Para trecho, indicar onde encaixa. Para redes, separar versões por plataforma.
