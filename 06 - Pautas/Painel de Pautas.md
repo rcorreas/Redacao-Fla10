@@ -7,11 +7,11 @@
 O responsável editorial informou que o dia terá três frentes esportivas — Libertadores, basquete e vôlei — e que já há pautas suficientes para a cobertura. **Não é necessário abrir uma rodada de pesquisa de novas pautas para preencher a programação do dia.** A prioridade é executar a lista abaixo, apurar os dados de cada evento e atualizar o estado conforme a produção avançar.
 
 1. **Onde assistir — Flamengo x Fluminense (basquete)**
-   - **Estado:** rascunho pronto; publicação no site não confirmada.
+   - **Estado:** publicada no site em 15/10/2026, conforme confirmação do responsável editorial.
    - **Formato:** serviço de jogo — final do Campeonato Carioca masculino, 15/10/2026.
    - **Arquivo de produção:** [[2026-10-15 - Onde assistir Flamengo x Fluminense - basquete]].
-   - **Checagens registradas:** horário, local, formato e transmissão conferidos em fontes do Flamengo e da CBB; arbitragem e escalações não incluídas por falta de confirmação encontrada.
-   - **Próxima ação:** revisão final do HTML e confirmação explícita quando for publicada; só então registrar URL e alterar o estado.
+   - **Apuração:** horário, local, formato e transmissão conferidos em fontes do Flamengo e da CBB; arbitragem e escalações não incluídas por falta de confirmação encontrada.
+   - **URL pública:** ainda não registrada no vault; adicionar quando fornecida.
 
 2. **Onde assistir — vôlei**
    - **Estado:** planejada; pendente de produção/publicação.
