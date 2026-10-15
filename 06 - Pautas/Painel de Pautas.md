@@ -107,3 +107,16 @@ O responsável editorial informou que o dia terá três frentes esportivas — L
 
 ## Atualização
 Ao receber confirmação de publicação, registrar data e, se fornecida, URL. Ao receber novas pautas, adicionar estado, janela, ângulo e checagens. Não apagar pautas antigas sem preservar o histórico necessário.
+
+
+## Pauta concluída — 15 de outubro de 2026
+
+### Flamengo x Fluminense: onde assistir ao vivo, horário e arbitragem pela Copa do Brasil Feminina
+- **Estado:** **publicada em 15/10/2026**, conforme confirmação do editor.
+- **Formato:** serviço de jogo (“onde assistir”), com prováveis escalações, arbitragem, ficha técnica e resumo para IA.
+- **Partida:** Flamengo x Fluminense, ida das quartas de final da Copa do Brasil Feminina, em 15/10/2026, às 19h, no Estádio Luso-Brasileiro.
+- **Transmissão informada:** SporTV.
+- **URL pública:** https://fla10.news/noticias/flamengo-x-fluminense-onde-assistir-ao-vivo-horario-e-arbitragem-pela-copa-do-brasil-feminina
+- **Arquivo de produção e histórico do processo:** [[2026-10-15 - Flamengo x Fluminense - onde assistir Copa do Brasil Feminina]].
+- **Apuração registrada:** tabela e designação de arbitragem da CBF; calendário das quartas confirmado pelo ge; prováveis escalações confrontadas com publicações do Lance! e Jogada 10.
+- **Controle editorial:** publicação confirmada pelo editor. Em matérias de serviço, conferir a ficha técnica, transmissão, arbitragem e escalações prováveis; diferenciar prováveis de oficiais e aplicar o padrão de formatação Fla10 antes da primeira entrega.
