@@ -51,3 +51,12 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Atualizados os metadados da matéria para `status: publicada` e `publicacao_confirmada: true`.
 - Atualizado o Painel de Pautas para remover a pendência de confirmação da publicação.
 - URL pública registrada após envio do responsável editorial: https://fla10.news/noticias/flamengo-x-fluminense-onde-assistir-a-final-do-campeonato-carioca-de-basquete-hoje.
+
+
+## 2026-10-15 — Publicação confirmada: pré-jogo Estudiantes x Flamengo
+- O editor confirmou a publicação de “Estudiantes x Flamengo: desfalques, revanche e pressão em La Plata desafiam o Rubro-Negro na semifinal da Libertadores”.
+- URL pública registrada: https://fla10.news/noticias/estudiantes-x-flamengo-desfalques-revanche-e-pressao-em-la-plata-desafiam-o-rubro-negro-na-semifinal-da-libertadores.
+- Criada ficha editorial em `06 - Pautas/2026-10-15 - Estudiantes x Flamengo - pré-jogo Libertadores.md` com metadados, ângulo, SEO, histórico de produção e fontes.
+- Atualizado o Painel de Pautas para marcar o pré-jogo como publicado.
+- Revisão factual prioritária: conferir se a matéria publicada menciona Marcos Rojo como provável titular. O ge publicou em 15/10 que a CONMEBOL rejeitou a inscrição do zagueiro e que o Estudiantes recorreria ao TAS. Fonte: https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/15/contratacao-de-emergencia-do-estudiantes-na-semifinal-pode-ficar-fora-contra-o-flamengo-entenda.ghtml.
+- Commit da ficha editorial: 59560851056f0bcdd60e424200af388a882b7654.
