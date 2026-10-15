@@ -37,3 +37,10 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Aprofundados os manuais de identidade editorial, estilo e formatação, SEO/Google Discover, apuração e integridade factual e revisão final.
 - Formalizados critérios de classificação de afirmações, atualização de informações dinâmicas, uso de estatísticas, atribuição e transparência operacional.
 - Reforçada a revisão por checklist e a preservação do escopo em pedidos de correção localizada.
+
+
+## 2026-10-15 — Rascunho Onde Assistir: final do Carioca de basquete
+- Criado `06 - Pautas/2026-10-15 - Onde assistir Flamengo x Fluminense - basquete.md` com o texto editorial, pacote SEO e ficha interna de apuração/fontes.
+- Atualizado o Painel de Pautas para indicar rascunho pronto, sem presumir publicação no site.
+- Fontes registradas: Flamengo, CBB e ge; escalações e arbitragem ficaram de fora por falta de confirmação encontrada.
+- Commit: [3a1203b](https://github.com/rcorreas/Redacao-Fla10/commit/3a1203b84bd10264ee95f4d59fdf2ee90944f947).
