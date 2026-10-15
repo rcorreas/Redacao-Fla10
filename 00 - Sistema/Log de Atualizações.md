@@ -50,4 +50,4 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - O responsável editorial confirmou a publicação de `2026-10-15 - Onde assistir Flamengo x Fluminense - basquete.md` no site.
 - Atualizados os metadados da matéria para `status: publicada` e `publicacao_confirmada: true`.
 - Atualizado o Painel de Pautas para remover a pendência de confirmação da publicação.
-- A URL pública ainda não foi informada; não foi inventado link de publicação.
+- URL pública registrada após envio do responsável editorial: https://fla10.news/noticias/flamengo-x-fluminense-onde-assistir-a-final-do-campeonato-carioca-de-basquete-hoje.
