@@ -1,13 +1,13 @@
 ---
 tipo: materia
-status: rascunho-pronto
+status: publicada
 data: 2026-10-15
 formato: onde-assistir
 competicao: Campeonato Carioca masculino de basquete
 equipes:
   - Flamengo
   - Fluminense
-publicacao_confirmada: false
+publicacao_confirmada: true
 ---
 
 # Flamengo x Fluminense: onde assistir à final do Campeonato Carioca de basquete hoje
@@ -103,7 +103,7 @@ Flamengo e Fluminense se enfrentam nesta quinta-feira, 15 de outubro de 2026, à
 
 ## Apuração interna — não publicar
 
-**Estado editorial:** rascunho pronto; publicação no site não confirmada. Revisar antes de publicar, inclusive ordem das seções e marcação do bloco de imagem.
+**Estado editorial:** publicada no site em 15/10/2026, conforme confirmação do responsável editorial. A URL pública ainda não foi registrada no vault; adicionar quando fornecida.
 
 ### Fontes consultadas
 
