@@ -3,7 +3,7 @@ tipo: voz-do-torcedor
 coluna: Boteco Fla10 News
 autor: Cadu Marques
 data: 2026-10-15
-status: pronto para publicar
+status: publicado
 tags:
   - Flamengo
   - Estudiantes
@@ -13,6 +13,10 @@ tags:
 ---
 
 # Boteco Fla10 News — Segura o copo, Nação! Hoje é Libertadores, meu parceiro!
+
+## Status de publicação
+- **Estado:** publicado em 15/10/2026, conforme confirmação do editor.
+- **URL pública:** não registrada; o editor não forneceu o endereço da matéria.
 
 ## Crônica
 
@@ -73,7 +77,3 @@ Por Cadu Marques — Cadu na mesa do bar.
 - **Categoria:** Voz do Torcedor
 - **Seção:** Boteco Fla10 News — Cadu na Mesa do Bar
 - **Tags:** Flamengo; Estudiantes; Libertadores; Cadu Marques; Voz do Torcedor; Boteco Fla10 News
-
-## Nota editorial
-
-Antes de publicar, conferir as informações sobre o resultado de Palmeiras x Fluminense e a situação dos desfalques para garantir que estejam corretas na data da publicação.
