@@ -29,9 +29,13 @@ O responsável editorial informou que o dia terá três frentes esportivas — L
    - **Checagens:** resultado, parciais dos sets, destaques confirmados e contexto relevante.
 
 5. **Pré-jogo — Libertadores**
-   - **Estado:** planejada; pendente de produção/publicação.
-   - **Formato:** pré-jogo.
-   - **Checagens:** adversário, fase, horário, estádio, transmissão, escalações prováveis e arbitragem; não inventar informações ainda não confirmadas.
+   - **Estado:** **publicada em 15/10/2026**, conforme confirmação do editor.
+   - **Formato:** pré-jogo analítico / serviço de partida.
+   - **Título:** *Estudiantes x Flamengo: desfalques, revanche e pressão em La Plata desafiam o Rubro-Negro na semifinal da Libertadores*.
+   - **URL pública:** https://fla10.news/noticias/estudiantes-x-flamengo-desfalques-revanche-e-pressao-em-la-plata-desafiam-o-rubro-negro-na-semifinal-da-libertadores
+   - **Arquivo de produção:** [[2026-10-15 - Estudiantes x Flamengo - pré-jogo Libertadores]].
+   - **Ângulo:** desfalques, momento esportivo, retrospecto recente, pressão em La Plata e alternativas de Leonardo Jardim.
+   - **Nota de revisão:** conferir a atualização sobre Marcos Rojo; o ge informou em 15/10 que a CONMEBOL rejeitou sua inscrição e que o Estudiantes recorreria.
 
 6. **Pós-jogo — Libertadores**
    - **Estado:** planejada; produzir após o encerramento da partida.
@@ -120,3 +124,15 @@ Ao receber confirmação de publicação, registrar data e, se fornecida, URL. A
 - **Arquivo de produção e histórico do processo:** [[2026-10-15 - Flamengo x Fluminense - onde assistir Copa do Brasil Feminina]].
 - **Apuração registrada:** tabela e designação de arbitragem da CBF; calendário das quartas confirmado pelo ge; prováveis escalações confrontadas com publicações do Lance! e Jogada 10.
 - **Controle editorial:** publicação confirmada pelo editor. Em matérias de serviço, conferir a ficha técnica, transmissão, arbitragem e escalações prováveis; diferenciar prováveis de oficiais e aplicar o padrão de formatação Fla10 antes da primeira entrega.
+
+
+## Pauta concluída — 15 de outubro de 2026
+
+### Estudiantes x Flamengo: desfalques, revanche e pressão em La Plata desafiam o Rubro-Negro na semifinal da Libertadores
+- **Estado:** **publicada em 15/10/2026**, conforme confirmação do editor.
+- **Formato:** pré-jogo analítico / serviço de partida.
+- **URL pública:** https://fla10.news/noticias/estudiantes-x-flamengo-desfalques-revanche-e-pressao-em-la-plata-desafiam-o-rubro-negro-na-semifinal-da-libertadores
+- **Arquivo de produção:** [[2026-10-15 - Estudiantes x Flamengo - pré-jogo Libertadores]].
+- **Ângulo:** momento dos clubes, campeonatos nacionais, últimos jogos, desfalques, retrospecto, pressão em La Plata e implicações táticas.
+- **SEO:** palavra-chave principal “Estudiantes x Flamengo”; título SEO “Estudiantes x Flamengo: escalações e onde assistir à Libertadores”.
+- **Revisão pós-publicação:** verificar o status da inscrição de Marcos Rojo. O ge informou que a CONMEBOL rejeitou o pedido e que o Estudiantes recorreria ao TAS. Fonte: https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/15/contratacao-de-emergencia-do-estudiantes-na-semifinal-pode-ficar-fora-contra-o-flamengo-entenda.ghtml
