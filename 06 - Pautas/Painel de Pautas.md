@@ -1,8 +1,70 @@
 # Painel de Pautas
 
-> **Atenção:** ponto de partida com base no contexto disponível em 2026-10-14. Confirmar o estado antes de produzir; não presumir que as pautas continuam pendentes.
+> **Atenção:** ponto de partida com base no contexto disponível em 2026-10-15. Confirmar o estado antes de produzir; não presumir que as pautas continuam pendentes.
+
+## Programação editorial — 15 de outubro de 2026
+
+O responsável editorial informou que o dia terá três frentes esportivas — Libertadores, basquete e vôlei — e que já há pautas suficientes para a cobertura. **Não é necessário abrir uma rodada de pesquisa de novas pautas para preencher a programação do dia.** A prioridade é executar a lista abaixo, apurar os dados de cada evento e atualizar o estado conforme a produção avançar.
+
+1. **Onde assistir — basquete**
+   - **Estado:** planejada; pendente de produção/publicação.
+   - **Formato:** serviço de jogo.
+   - **Checagens:** evento, competição, data e horário locais, transmissão, local e demais informações confirmadas.
+
+2. **Onde assistir — vôlei**
+   - **Estado:** planejada; pendente de produção/publicação.
+   - **Formato:** serviço de jogo.
+   - **Checagens:** evento, competição, data e horário locais, transmissão, local e demais informações confirmadas.
+
+3. **Pós-jogo — basquete**
+   - **Estado:** planejada; produzir após o encerramento do jogo.
+   - **Formato:** notícia pós-jogo.
+   - **Checagens:** placar final, parciais quando disponíveis, destaques confirmados e contexto relevante.
+
+4. **Pós-jogo — vôlei**
+   - **Estado:** planejada; produzir após o encerramento do jogo.
+   - **Formato:** notícia pós-jogo.
+   - **Checagens:** resultado, parciais dos sets, destaques confirmados e contexto relevante.
+
+5. **Pré-jogo — Libertadores**
+   - **Estado:** planejada; pendente de produção/publicação.
+   - **Formato:** pré-jogo.
+   - **Checagens:** adversário, fase, horário, estádio, transmissão, escalações prováveis e arbitragem; não inventar informações ainda não confirmadas.
+
+6. **Pós-jogo — Libertadores**
+   - **Estado:** planejada; produzir após o encerramento da partida.
+   - **Formato:** notícia pós-jogo.
+   - **Checagens:** placar, lances decisivos, gols, substituições e declarações somente quando confirmados.
+
+7. **Análise — Libertadores**
+   - **Estado:** planejada; desenvolver com base no que a partida efetivamente mostrar.
+   - **Formato:** análise interpretativa separada da notícia pós-jogo.
+   - **Checagens:** sustentar avaliações em evidências observáveis; não antecipar conclusões antes do jogo nem duplicar a notícia.
+
+8. **Raio-X Tático — Libertadores**
+   - **Estado:** planejada; desenvolver após análise da partida.
+   - **Formato:** análise tática aprofundada.
+   - **Checagens:** estruturas com e sem bola, construção, pressão, transições, ajustes, substituições e funções individuais; separar observação de interpretação.
+
+9. **Depois do Apito — Libertadores**
+   - **Estado:** planejada; produzir após a partida.
+   - **Formato:** crônica pós-jogo assinada pela persona editorial Miguel Sampaio.
+   - **Checagens:** voz autoral e memória afetiva sem melodrama; não inventar cenas, falas ou acontecimentos.
+
+10. **A Voz do Torcedor**
+    - **Estado:** planejada; confirmar o recorte específico antes de redigir.
+    - **Formato:** coluna de torcedor, conforme as diretrizes próprias da seção.
+    - **Checagens:** definir o assunto e o gancho do dia; manter o tom característico sem transformar boato em fato.
+
+### Regras de execução do dia
+- A lista acima é a programação informada pelo editor, não uma confirmação de que as matérias já foram produzidas ou publicadas.
+- Não marcar como publicada sem confirmação explícita ou evidência verificável.
+- Fazer a apuração necessária para cada matéria, mesmo sem precisar buscar novas pautas.
+- Evitar sobreposição entre pós-jogo, análise, Raio-X Tático, Depois do Apito e A Voz do Torcedor: cada peça deve cumprir uma função editorial própria.
+- Atualizar o estado de cada item ao longo do dia e registrar correções ou decisões que possam melhorar o fluxo futuro.
 
 ## Pautas mencionadas para 14 de outubro de 2026
+
 
 ### Estudiantes também tem problemas na defesa: como as suspensões podem mudar a semifinal contra o Flamengo?
 - **Estado:** confirmar com o responsável editorial.
