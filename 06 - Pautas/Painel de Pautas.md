@@ -95,5 +95,15 @@ O responsável editorial informou que o dia terá três frentes esportivas — L
 - **Foco:** comparar partidas recentes documentadas para avaliar gestão de vantagem e fechamento de jogos.
 - **Limite:** não repetir a reportagem sobre Santos 2 x 2 Flamengo nem o Raio-X Tático; a pergunta e a evidência precisam ser próprias.
 
+## Pauta concluída — 15 de outubro de 2026
+
+### Flamengo Sub-20 goleia o Criciúma, recupera Pablo Lúcio e fica perto das quartas da Copa do Brasil
+- **Estado:** **publicada em 15/10/2026**, conforme confirmação do editor.
+- **Jogo:** Flamengo 4 x 1 Criciúma, em 14/10/2026, pela ida das oitavas da Copa do Brasil Sub-20.
+- **URL pública:** https://fla10.news/noticias/flamengo-sub-20-goleia-o-criciuma-recupera-pablo-lucio-e-fica-perto-das-quartas-da-copa-do-brasil
+- **Arquivo de produção e histórico do processo:** [[2026-10-15 - Flamengo Sub-20 goleia Criciúma - Copa do Brasil Sub-20]].
+- **Ângulo:** vantagem construída em casa, sequência dos gols, retorno de Pablo Lúcio e cenário para o jogo de volta.
+- **Controle de qualidade registrado:** a primeira versão foi corrigida para incluir `<br><br>` ao final de cada parágrafo; essa checagem deve ocorrer antes da entrega inicial de futuras matérias para o CMS.
+
 ## Atualização
 Ao receber confirmação de publicação, registrar data e, se fornecida, URL. Ao receber novas pautas, adicionar estado, janela, ângulo e checagens. Não apagar pautas antigas sem preservar o histórico necessário.
