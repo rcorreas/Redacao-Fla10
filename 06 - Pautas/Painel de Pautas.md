@@ -53,10 +53,12 @@ O responsável editorial informou que o dia terá três frentes esportivas — L
    - **Formato:** crônica pós-jogo assinada pela persona editorial Miguel Sampaio.
    - **Checagens:** voz autoral e memória afetiva sem melodrama; não inventar cenas, falas ou acontecimentos.
 
-10. **A Voz do Torcedor**
-    - **Estado:** planejada; confirmar o recorte específico antes de redigir.
-    - **Formato:** coluna de torcedor, conforme as diretrizes próprias da seção.
-    - **Checagens:** definir o assunto e o gancho do dia; manter o tom característico sem transformar boato em fato.
+10. **A Voz do Torcedor — Boteco Fla10 News**
+    - **Estado:** **publicado em 15/10/2026**, conforme confirmação do editor.
+    - **Título:** *Boteco Fla10 News — Segura o copo, Nação! Hoje é Libertadores, meu parceiro!*
+    - **Autor:** Cadu Marques — Cadu na mesa do bar.
+    - **Arquivo:** [[2026-10-15 - Boteco Fla10 - Segura o copo Nação]].
+    - **URL pública:** ainda não registrada no painel.
 
 ### Regras de execução do dia
 - A lista acima é a programação informada pelo editor, não uma confirmação de que as matérias já foram produzidas ou publicadas.
@@ -66,7 +68,6 @@ O responsável editorial informou que o dia terá três frentes esportivas — L
 - Atualizar o estado de cada item ao longo do dia e registrar correções ou decisões que possam melhorar o fluxo futuro.
 
 ## Pautas mencionadas para 14 de outubro de 2026
-
 
 ### Estudiantes também tem problemas na defesa: como as suspensões podem mudar a semifinal contra o Flamengo?
 - **Estado:** confirmar com o responsável editorial.
