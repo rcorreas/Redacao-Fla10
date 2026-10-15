@@ -49,3 +49,11 @@ Após a publicação, uma checagem do ge informa que a inscrição de Marcos Roj
 - [x] Ângulo editorial documentado.
 - [x] Fontes de apuração registradas.
 - [ ] Conferir e corrigir, se necessário, a informação sobre a inscrição de Marcos Rojo.
+
+
+## Correção pós-publicação — Marcos Rojo
+
+- **Correção:** a matéria não deve apresentar Marcos Rojo como provável titular. A inscrição do zagueiro foi rejeitada pela CONMEBOL, e o Estudiantes tentava reverter a decisão para contar com ele na semifinal.
+- **Trecho substituto:** “A defesa do Estudiantes enfrenta mais um problema às vésperas da semifinal. A inscrição de Marcos Rojo foi rejeitada pela CONMEBOL, e o clube argentino tentava reverter a decisão para contar com o zagueiro diante do Flamengo. Revelado pelo próprio Estudiantes e campeão da Libertadores de 2009, o defensor era uma opção para reforçar o setor, mas sua participação dependia da resolução do impasse.”
+- **Ação editorial:** substituir o parágrafo anterior na matéria publicada e conferir também a lista de prováveis titulares.
+- **Fonte de checagem:** ge, matéria publicada em 15/10/2026 sobre a inscrição de Marcos Rojo.
