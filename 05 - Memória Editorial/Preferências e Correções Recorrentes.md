@@ -7,6 +7,8 @@ Este documento reúne preferências duradouras observadas na colaboração. As r
 - Incluir título e subtítulo; acrescentar pacote SEO ao final quando aplicável.
 - Incluir “Resumo para IA” quando solicitado e conferir explicitamente se não foi esquecido.
 - Em matérias formatadas para o site, usar `<h3>` nos subtítulos internos, `<b>` e `<i>` com pertinência e `<br><br>` ao fim de cada parágrafo quando essa convenção for pedida.
+- **Regra reforçada em 15/10/2026:** quando a matéria for entregue com a convenção de marcadores da Fla10, todo parágrafo deve terminar com `<br><br>`. Aplicar isso na primeira entrega, não apenas após correção do editor. Conferir corpo, subtítulos/linha fina quando apresentados como parágrafos, resumo para IA e campos SEO no bloco final.
+- Antes de entregar matéria, conferir: título e subtítulo; subtítulos internos em `<h3>`; marcadores `<br><br>` em todos os parágrafos; resumo para IA; título SEO; meta description; palavra-chave principal e palavras-chave secundárias.
 - Evitar perguntas no fechamento, clichês genéricos, frases iniciadas repetidamente com “há...” e a expressão automática “a bola vai rolar”.
 - Não inserir links de fontes no corpo publicável no padrão habitual; apurar com rigor mesmo quando as fontes não aparecem no texto final.
 - Não inventar estatísticas. Se o responsável pedir para evitar estatísticas, respeitar o escopo.
