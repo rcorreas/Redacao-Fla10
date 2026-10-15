@@ -44,3 +44,10 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Atualizado o Painel de Pautas para indicar rascunho pronto, sem presumir publicação no site.
 - Fontes registradas: Flamengo, CBB e ge; escalações e arbitragem ficaram de fora por falta de confirmação encontrada.
 - Commit: [3a1203b](https://github.com/rcorreas/Redacao-Fla10/commit/3a1203b84bd10264ee95f4d59fdf2ee90944f947).
+
+
+## 2026-10-15 — Publicação confirmada: final do Carioca de basquete
+- O responsável editorial confirmou a publicação de `2026-10-15 - Onde assistir Flamengo x Fluminense - basquete.md` no site.
+- Atualizados os metadados da matéria para `status: publicada` e `publicacao_confirmada: true`.
+- Atualizado o Painel de Pautas para remover a pendência de confirmação da publicação.
+- A URL pública ainda não foi informada; não foi inventado link de publicação.
