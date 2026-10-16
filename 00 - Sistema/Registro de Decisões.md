@@ -41,3 +41,12 @@ Para cada decisão, preencher:
 ## Novas decisões
 
 Adicionar novas entradas abaixo. Ao mudar uma regra, atualizar também o documento de referência e marcar a decisão antiga como substituída quando necessário.
+
+
+### Proveniência do conteúdo
+- **Data:** 2026-10-16
+- **Decisão:** classificar como **fonte externa** todo conteúdo publicado que não tenha sido trabalhado, pesquisado, apurado e criado em colaboração pelo responsável editorial e pela IA.
+- **Motivo/contexto:** distinguir a produção editorial colaborativa própria de materiais cuja origem ou desenvolvimento ocorreu fora desse processo.
+- **Impacto operacional:** cada ficha de pauta/conteúdo deve registrar a origem. Quando aplicável, usar a classificação `origem: fonte externa` e identificar a marca nos metadados internos. Conteúdos desenvolvidos em colaboração devem ser registrados como produção interna. Não inserir automaticamente a etiqueta no conteúdo público: ela é, por padrão, uma marca de proveniência nos registros internos.
+- **Documento atualizado:** fichas de pauta e Painel de Pautas.
+- **Estado:** vigente.
