@@ -66,3 +66,11 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Atualizada a ficha editorial da matéria Estudiantes x Flamengo com o texto substituto que esclarece que a inscrição de Marcos Rojo foi rejeitada pela CONMEBOL e que o clube tentava reverter a decisão.
 - Atualizado o Painel de Pautas com a correção e a pendência de revisão do texto no site, incluindo a escalação provável.
 - A atualização foi registrada no GitHub; o texto publicado no site não foi editado diretamente nesta operação.
+
+
+## 2026-10-15 — Publicação confirmada: pós-jogo do Carioca de basquete
+- O editor confirmou a publicação de “Flamengo vence o Fluminense de virada e conquista o 50º título carioca de basquete”.
+- URL pública: https://fla10.news/noticias/flamengo-vence-o-fluminense-de-virada-e-conquista-o-50-titulo-carioca-de-basquete.
+- Criada ficha editorial em `06 - Pautas/2026-10-15 - Flamengo vence Fluminense - pós-jogo basquete.md`, com metadados, texto publicado, SEO e limites da apuração estatística.
+- Atualizado o Painel de Pautas para marcar o pós-jogo do basquete como publicado.
+- Registrado que não foi possível confirmar estatísticas completas do SofaScore e do Flashscore; não atribuir números adicionais a essas plataformas sem validação.
