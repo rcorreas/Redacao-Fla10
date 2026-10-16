@@ -235,8 +235,9 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **SEO:** palavra-chave principal “Bahia x Flamengo”; título SEO “Bahia x Flamengo: preparação, retorno de Acevedo e desafios de Jardim”.
 - **Controle de redundância:** matéria contextual publicada antes do serviço/pré-jogo completo. A cobertura posterior deve priorizar informações novas — relacionados, escalações prováveis, arbitragem, transmissão e atualização da preparação — sem repetir extensamente este enquadramento.
 
-### Próxima pauta em debate — publicação prevista para 21h de 16/10
-- **Estado:** ainda não debatida/aprovada para redação.
-- **Ideia preliminar:** impacto da rodada na disputa pela liderança do Brasileirão e cenário do Flamengo antes de enfrentar o Bahia.
-- **Regra:** discutir pergunta central, dados atuais da tabela, calendário do Palmeiras e diferencial em relação às matérias já publicadas; só redigir após autorização explícita do editor.
+### Pauta cancelada — liderança do Brasileirão antes de Bahia x Flamengo (16/10/2026)
+- **Estado:** cancelada pelo editor antes da redação.
+- **Ideia avaliada:** explicar os cenários em que Palmeiras poderia ultrapassar ou igualar o Flamengo na liderança antes do jogo de domingo.
+- **Motivo:** proposta considerada superficial, baseada principalmente em cenários previsíveis da tabela e sem diferencial jornalístico suficiente para justificar uma publicação própria.
+- **Decisão editorial:** não produzir nem publicar. Não substituir automaticamente por outra pauta; prospectar uma alternativa com apuração e valor informativo reais antes de propor nova matéria.
 
