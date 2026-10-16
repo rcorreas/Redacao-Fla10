@@ -25,3 +25,13 @@ Esta nota registra projetos ou pautas cuja continuidade importa além do dia. O 
 - Informações que precisam de confirmação.
 - Conteúdos relacionados que não devem ser repetidos.
 - Estado e data da última revisão.
+
+
+## Pautas canceladas — 16 de outubro de 2026
+
+O editor cancelou as duas pautas abaixo; não devem voltar a ser sugeridas como pautas ativas sem nova autorização explícita:
+
+- **“Data Fifa abre espaço para jovens: quem Jardim está observando”** — cancelada em 16/10/2026.
+- **“Flamengo precisa mudar a estratégia fora de casa”** — cancelada em 16/10/2026.
+
+Motivo: decisão editorial do responsável. Registrar como canceladas, não como publicadas.
