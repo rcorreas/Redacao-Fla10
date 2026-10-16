@@ -202,7 +202,7 @@ O editor determinou que cada pauta seja debatida individualmente antes de inicia
 
 - **Pauta 2 — As substituições de Leonardo Jardim mudaram o quê, afinal?** Formato previsto: análise tática complementar, com foco na sequência e no efeito das alterações, evitando repetir o Raio-X já publicado.
 - **Pauta 3 — O que o Flamengo precisa corrigir antes da decisão da Libertadores.** Formato previsto: análise de cenário voltada à partida de volta, com recomendações sustentadas pela apuração.
-- **Pauta 4 — Bahia x Flamengo: preparação para domingo.** Formato previsto: pré-jogo/serviço; confirmar horário, transmissão, arbitragem, desfalques e prováveis escalações.
+- **Pauta 4 — Bahia x Flamengo: preparação para domingo.** Reclassificada pelo editor em 16/10 como **pré-pré-jogo**, para publicação em 17/10. Objetivo: antecipar o contexto do confronto, o momento das equipes e os principais pontos de atenção; reservar a matéria de serviço/pré-jogo completo para mais perto da partida. Confirmar dados atuais e evitar repetir a pauta posterior.
 - **Pauta 5 — Flamengo feminino após a derrota para o Fluminense.** Formato previsto: análise pós-jogo da ida das quartas da Copa do Brasil Feminina; confirmar dados da partida e situação disciplinar.
 - **Pauta 7 — Jovens da base que podem ganhar espaço no profissional.** Formato previsto: reportagem; identificar nomes, desempenho e caminho plausível para o profissional, sem inferir promoção apenas pelo resultado coletivo.
 
