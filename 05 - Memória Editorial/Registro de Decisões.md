@@ -31,3 +31,12 @@ Este registro guarda decisões duradouras e o motivo delas. Não é um diário d
 - **Escopo:** regra permanente / exceção temporária / experimento
 - **Arquivos canônicos afetados:**
 - **Condição de revisão:**
+
+
+### Debater cada pauta antes de produzir
+- **Data:** 2026-10-16
+- **Decisão:** pautas selecionadas para o dia devem ser debatidas individualmente antes do início da redação; só produzir após autorização explícita do editor.
+- **Motivo:** definir uma tese própria, mapear a apuração necessária e evitar sobreposição entre matérias correlatas.
+- **Escopo:** regra operacional vigente.
+- **Arquivos canônicos afetados:** Painel de Pautas; fichas individuais de produção.
+- **Condição de revisão:** nova orientação explícita do editor.
