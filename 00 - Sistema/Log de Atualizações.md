@@ -74,3 +74,11 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Criada ficha editorial em `06 - Pautas/2026-10-15 - Flamengo vence Fluminense - pós-jogo basquete.md`, com metadados, texto publicado, SEO e limites da apuração estatística.
 - Atualizado o Painel de Pautas para marcar o pós-jogo do basquete como publicado.
 - Registrado que não foi possível confirmar estatísticas completas do SofaScore e do Flashscore; não atribuir números adicionais a essas plataformas sem validação.
+
+
+## 2026-10-16 — Cinco conteúdos publicados após Estudiantes x Flamengo
+- Criadas fichas de publicação para o pós-jogo Flamengo x Estudiantes, análise jornalística com foco na atuação e arbitragem, Raio-X Tático, crônica Depois do Apito e Voz do Torcedor.
+- URLs públicas e estados de publicação foram registrados nas fichas correspondentes.
+- As quatro primeiras peças foram trabalhadas em colaboração entre responsável editorial e IA; a peça Voz do Torcedor foi classificada como **fonte externa**, pois não foi produzida integralmente pelo processo colaborativo.
+- Nova decisão editorial: qualquer conteúdo publicado que não tenha sido trabalhado, pesquisado, apurado e criado em colaboração entre o responsável editorial e a IA recebe a classificação interna **fonte externa**.
+- Atualizado o Registro de Decisões Editoriais e o Painel de Pautas.
