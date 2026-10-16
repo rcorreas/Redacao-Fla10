@@ -183,3 +183,28 @@ Ao receber confirmação de publicação, registrar data e, se fornecida, URL. A
 
 ### Regra permanente de proveniência
 Todo conteúdo publicado que não tenha sido trabalhado, pesquisado, apurado e criado em colaboração entre o responsável editorial e a IA deve receber a marca interna **fonte externa**. Consultar [[Registro de Decisões]].
+
+
+## Programação editorial — 16 de outubro de 2026
+
+### Pauta 1 — Flamengo se protegeu tanto que esqueceu de jogar: Jardim descaracteriza o time em La Plata
+- **Estado:** **publicada em 16/10/2026**, conforme confirmação do editor.
+- **Formato:** análise crítica pós-jogo.
+- **URL pública:** https://fla10.news/noticias/flamengo-se-protegeu-tanto-que-esqueceu-de-jogar-jardim-descaracteriza-o-time-em-la-plata-e-sofre-para-conseguir-um-empate
+- **Arquivo de produção e histórico editorial:** [[2026-10-16 - Flamengo se protegeu tanto que esqueceu de jogar]].
+- **Tese:** a estratégia cautelosa de Leonardo Jardim pode ter limitado as virtudes ofensivas de um elenco tecnicamente qualificado e contribuído para o baixo rendimento coletivo.
+- **Tom:** crítico e contundente, distinguindo fatos, interpretações e hipóteses causais.
+- **SEO:** palavra-chave principal “Flamengo x Estudiantes”; título SEO “Flamengo: Jardim é criticado por postura defensiva na Libertadores”.
+- **Controle de redundância:** a análise discute a escolha estratégica e a responsabilidade da comissão técnica; o Raio-X Tático concentra o detalhamento do sistema e das conexões entre setores.
+
+### Demais pautas escolhidas para 16/10/2026 — ainda sem produção autorizada
+O editor determinou que cada pauta seja debatida individualmente antes de iniciar a criação. Não começar nenhuma delas sem concluir o debate específico e receber autorização.
+
+- **Pauta 2 — As substituições de Leonardo Jardim mudaram o quê, afinal?** Formato previsto: análise tática complementar, com foco na sequência e no efeito das alterações, evitando repetir o Raio-X já publicado.
+- **Pauta 3 — O que o Flamengo precisa corrigir antes da decisão da Libertadores.** Formato previsto: análise de cenário voltada à partida de volta, com recomendações sustentadas pela apuração.
+- **Pauta 4 — Bahia x Flamengo: preparação para domingo.** Formato previsto: pré-jogo/serviço; confirmar horário, transmissão, arbitragem, desfalques e prováveis escalações.
+- **Pauta 5 — Flamengo feminino após a derrota para o Fluminense.** Formato previsto: análise pós-jogo da ida das quartas da Copa do Brasil Feminina; confirmar dados da partida e situação disciplinar.
+- **Pauta 7 — Jovens da base que podem ganhar espaço no profissional.** Formato previsto: reportagem; identificar nomes, desempenho e caminho plausível para o profissional, sem inferir promoção apenas pelo resultado coletivo.
+
+### Regra de fluxo reafirmada em 16/10/2026
+Debater uma pauta por vez; definir pergunta central, tese, evidências necessárias e diferença em relação a matérias publicadas; só iniciar a redação após autorização explícita do editor.
