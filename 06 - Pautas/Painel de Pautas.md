@@ -19,7 +19,12 @@ O responsável editorial informou que o dia terá três frentes esportivas — L
    - **Checagens:** evento, competição, data e horário locais, transmissão, local e demais informações confirmadas.
 
 3. **Pós-jogo — basquete**
-   - **Estado:** planejada; produzir após o encerramento do jogo.
+   - **Estado:** **publicada em 15/10/2026**, conforme confirmação do responsável editorial.
+   - **Título:** *Flamengo vence o Fluminense de virada e conquista o 50º título carioca de basquete*.
+   - **URL pública:** https://fla10.news/noticias/flamengo-vence-o-fluminense-de-virada-e-conquista-o-50-titulo-carioca-de-basquete.
+   - **Arquivo de produção:** [[2026-10-15 - Flamengo vence Fluminense - pós-jogo basquete]].
+   - **Resumo:** vitória por 84 a 77, de virada; Flamengo conquista o 50º título estadual e o 19º consecutivo.
+   - **Checagens registradas:** placar, parciais e destaques individuais; estatísticas completas do SofaScore e Flashscore não foram confirmadas.
    - **Formato:** notícia pós-jogo.
    - **Checagens:** placar final, parciais quando disponíveis, destaques confirmados e contexto relevante.
 
