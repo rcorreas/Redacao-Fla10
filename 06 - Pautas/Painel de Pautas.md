@@ -147,3 +147,39 @@ Ao receber confirmação de publicação, registrar data e, se fornecida, URL. A
 - **Pendente de revisão no site:** substituir o trecho que apresenta Marcos Rojo como provável titular. A inscrição do zagueiro foi rejeitada pela CONMEBOL, e o Estudiantes tentava reverter a decisão.
 - **Trecho substituto registrado:** “A defesa do Estudiantes enfrenta mais um problema às vésperas da semifinal. A inscrição de Marcos Rojo foi rejeitada pela CONMEBOL, e o clube argentino tentava reverter a decisão para contar com o zagueiro diante do Flamengo. Revelado pelo próprio Estudiantes e campeão da Libertadores de 2009, o defensor era uma opção para reforçar o setor, mas sua participação dependia da resolução do impasse.”
 - Conferir também a provável escalação para garantir que Rojo não apareça como titular confirmado.
+
+
+## Publicações confirmadas — Estudiantes x Flamengo (15–16 de outubro de 2026)
+
+### Flamengo empata com Estudiantes na Argentina e leva decisão da Libertadores para o Maracanã
+- **Estado:** publicada.
+- **Origem:** produção interna — pauta, apuração e redação em colaboração.
+- **URL:** https://fla10.news/noticias/flamengo-empata-com-estudiantes-na-argentina-e-leva-decisao-da-libertadores-para-o-maracana
+- **Ficha:** [[2026-10-15 - Flamengo empata com Estudiantes - pós-jogo]].
+
+### Flamengo volta vivo de La Plata, mas atuação expõe problemas e arbitragem aumenta a tensão na semifinal
+- **Estado:** publicada.
+- **Origem:** produção interna — pesquisa, apuração, análise e redação em colaboração.
+- **URL:** https://fla10.news/noticias/flamengo-volta-vivo-de-la-plata-mas-atuacao-expoe-problemas-e-arbitragem-aumenta-a-tensao-na-semifinal
+- **Ficha:** [[2026-10-15 - Flamengo empata Estudiantes - análise jornalística e arbitragem]].
+
+### Raio-X Tático: Flamengo de Jardim não encaixa o 4-2-3-1, perde a conexão entre os setores e termina sem acertar o gol
+- **Estado:** publicada.
+- **Origem:** produção interna — análise tática e revisão em colaboração.
+- **URL:** https://fla10.news/raio-x/raio-x-tatico-flamengo-de-jardim-nao-encaixa-o-4-2-3-1-perde-a-conexao-entre-os-setores-e-termina-sem-acertar-o-gol
+- **Ficha:** [[2026-10-15 - Raio-X Tático Flamengo Estudiantes]].
+
+### Depois do Apito: O Flamengo trouxe um empate na mala, mas deixou futebol pelo caminho
+- **Estado:** publicada.
+- **Origem:** produção interna — crônica trabalhada em colaboração.
+- **URL:** https://fla10.news/colunas/o-flamengo-trouxe-um-empate-na-mala-mas-deixou-futebol-pelo-caminho
+- **Ficha:** [[2026-10-15 - Depois do Apito - empate em La Plata]].
+
+### Voz do Torcedor — Jardim, o Flamengo não é SAMU! Para de só apagar incêndio e bota esse time pra jogar!
+- **Estado:** publicada.
+- **Origem:** **FONTE EXTERNA** — conteúdo não desenvolvido integralmente pelo processo colaborativo de pesquisa, apuração e criação.
+- **URL:** https://fla10.news/voz-torcedor/jardim-o-flamengo-nao-e-samu-para-de-so-apagar-incendio-e-bota-esse-time-pra-jogar
+- **Ficha:** [[2026-10-15 - Voz do Torcedor - Jardim não é SAMU]].
+
+### Regra permanente de proveniência
+Todo conteúdo publicado que não tenha sido trabalhado, pesquisado, apurado e criado em colaboração entre o responsável editorial e a IA deve receber a marca interna **fonte externa**. Consultar [[Registro de Decisões]].
