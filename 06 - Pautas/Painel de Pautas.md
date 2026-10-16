@@ -203,8 +203,22 @@ O editor determinou que cada pauta seja debatida individualmente antes de inicia
 - **Pauta 2 — As substituições de Leonardo Jardim mudaram o quê, afinal?** Formato previsto: análise tática complementar, com foco na sequência e no efeito das alterações, evitando repetir o Raio-X já publicado.
 - **Pauta 3 — O que o Flamengo precisa corrigir antes da decisão da Libertadores.** Formato previsto: análise de cenário voltada à partida de volta, com recomendações sustentadas pela apuração.
 - **Pauta 4 — Bahia x Flamengo: preparação para domingo.** Reclassificada pelo editor em 16/10 como **pré-pré-jogo**, para publicação em 17/10. Objetivo: antecipar o contexto do confronto, o momento das equipes e os principais pontos de atenção; reservar a matéria de serviço/pré-jogo completo para mais perto da partida. Confirmar dados atuais e evitar repetir a pauta posterior.
-- **Pauta 5 — Flamengo feminino após a derrota para o Fluminense.** Formato previsto: análise pós-jogo da ida das quartas da Copa do Brasil Feminina; confirmar dados da partida e situação disciplinar.
+- **Pauta 5 — Flamengo feminino após a derrota para o Fluminense.** **Estado: publicada em 16/10/2026**, conforme confirmação do editor. Título: *Flamengo perde o Fla-Flu, falha nos momentos decisivos e terá de buscar reação na Copa do Brasil Feminina*. URL: https://fla10.news/noticias/flamengo-perde-o-fla-x-flu-falha-nos-momentos-decisivos-e-tera-de-buscar-reacao-na-copa-do-brasil-feminina?preview=1. Formato: análise pós-jogo da ida das quartas da Copa do Brasil Feminina; foco no desempenho, nos momentos decisivos, na expulsão de Mariana Fernandes e no cenário para o jogo de volta.
 - **Pauta 7 — Jovens da base que podem ganhar espaço no profissional.** Formato previsto: reportagem; identificar nomes, desempenho e caminho plausível para o profissional, sem inferir promoção apenas pelo resultado coletivo.
 
 ### Regra de fluxo reafirmada em 16/10/2026
 Debater uma pauta por vez; definir pergunta central, tese, evidências necessárias e diferença em relação a matérias publicadas; só iniciar a redação após autorização explícita do editor.
+
+
+## Publicação confirmada — Flamengo feminino (16 de outubro de 2026)
+
+### Flamengo perde o Fla-Flu, falha nos momentos decisivos e terá de buscar reação na Copa do Brasil Feminina
+- **Estado:** publicada em 16/10/2026, conforme confirmação do editor.
+- **URL informada pelo editor:** https://fla10.news/noticias/flamengo-perde-o-fla-x-flu-falha-nos-momentos-decisivos-e-tera-de-buscar-reacao-na-copa-do-brasil-feminina?preview=1
+- **Formato:** análise pós-jogo da partida de ida das quartas de final da Copa do Brasil Feminina.
+- **Resultado:** Flamengo 1 x 2 Fluminense, em 15/10/2026, no Estádio Luso-Brasileiro.
+- **Gols:** Nath Rodrigues e Driely para o Fluminense; Laysa para o Flamengo.
+- **Ponto disciplinar:** Mariana Fernandes foi expulsa e desfalcará o Flamengo na partida de volta.
+- **Cenário da volta:** marcada para 22/10/2026, às 19h, novamente no Luso-Brasileiro. O Flamengo precisa vencer por dois gols de diferença para avançar diretamente ou por um gol para levar a decisão aos pênaltis.
+- **Ângulo editorial:** além do resultado, a matéria aborda as dificuldades para sustentar a reação após o empate e a necessidade de equilibrar a busca ofensiva com a proteção defensiva.
+- **Controle de redundância:** distinguir esta análise da notícia imediata de resultado e da futura matéria de serviço sobre o jogo de volta.
