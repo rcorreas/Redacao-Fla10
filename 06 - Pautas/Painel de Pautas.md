@@ -222,3 +222,21 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **Cenário da volta:** marcada para 22/10/2026, às 19h, novamente no Luso-Brasileiro. O Flamengo precisa vencer por dois gols de diferença para avançar diretamente ou por um gol para levar a decisão aos pênaltis.
 - **Ângulo editorial:** além do resultado, a matéria aborda as dificuldades para sustentar a reação após o empate e a necessidade de equilibrar a busca ofensiva com a proteção defensiva.
 - **Controle de redundância:** distinguir esta análise da notícia imediata de resultado e da futura matéria de serviço sobre o jogo de volta.
+
+## Publicação confirmada — Bahia x Flamengo (16 de outubro de 2026)
+
+### Bahia ganha tempo para preparar duelo com Flamengo, que chega de compromisso intenso na Libertadores
+- **Estado:** publicada em 16/10/2026, conforme confirmação do editor.
+- **URL pública informada pelo editor:** https://fla10.news/noticias/bahia-ganha-tempo-para-preparar-duelo-com-flamengo-que-chega-de-compromisso-intenso-na-libertadores?preview=1
+- **Formato:** notícia contextual / prévia antecipada do confronto pelo Brasileirão.
+- **Partida:** Bahia x Flamengo, domingo, 18/10/2026, às 18h30, na Arena Fonte Nova, pela 31ª rodada do Campeonato Brasileiro.
+- **Ângulo:** diferença no tempo de preparação, retorno de Nicolás Acevedo após suspensão, trabalhos táticos do Bahia e desafios de recuperação e produção ofensiva do Flamengo depois do empate com o Estudiantes na Argentina.
+- **Limite editorial:** a matéria não afirma que o desgaste decidirá o jogo nem transforma a maior continuidade de treino do Bahia em vantagem garantida. Situações médicas e disponibilidade de atletas devem ser reconfirmadas em atualização posterior.
+- **SEO:** palavra-chave principal “Bahia x Flamengo”; título SEO “Bahia x Flamengo: preparação, retorno de Acevedo e desafios de Jardim”.
+- **Controle de redundância:** matéria contextual publicada antes do serviço/pré-jogo completo. A cobertura posterior deve priorizar informações novas — relacionados, escalações prováveis, arbitragem, transmissão e atualização da preparação — sem repetir extensamente este enquadramento.
+
+### Próxima pauta em debate — publicação prevista para 21h de 16/10
+- **Estado:** ainda não debatida/aprovada para redação.
+- **Ideia preliminar:** impacto da rodada na disputa pela liderança do Brasileirão e cenário do Flamengo antes de enfrentar o Bahia.
+- **Regra:** discutir pergunta central, dados atuais da tabela, calendário do Palmeiras e diferencial em relação às matérias já publicadas; só redigir após autorização explícita do editor.
+
