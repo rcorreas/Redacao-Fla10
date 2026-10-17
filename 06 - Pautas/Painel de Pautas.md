@@ -263,3 +263,16 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **Arquivo de produção:** [[2026-10-17 - Flamengo terá sequência decisiva no Rio]].
 - **Ângulo:** cinco partidas consecutivas no Rio, incluindo a volta da semifinal da Libertadores contra o Estudiantes e quatro compromissos pelo Brasileirão. A pauta destaca a vantagem logística sem tratar a partida contra o Vasco como mando rubro-negro.
 - **Proveniência:** produção interna.
+
+
+## 2026-10-17 — Publicação confirmada: Alex Sandro recupera protagonismo
+
+- **Estado:** publicada em 17/10/2026, conforme confirmação explícita do editor.
+- **Título:** *Alex Sandro recupera protagonismo no Flamengo e vira peça importante na reta decisiva*.
+- **URL pública:** https://fla10.news/noticias/alex-sandro-recupera-protagonismo-no-flamengo-e-vira-peca-importante-na-reta-decisiva
+- **Arquivo de produção:** [[2026-10-17 - Alex Sandro recupera protagonismo no Flamengo]].
+- **Formato:** análise de desempenho e contexto de elenco.
+- **Origem:** produção interna — pauta, pesquisa, apuração e redação em colaboração.
+- **Ângulo:** sequência como titular após a lesão de Ayrton Lucas, atuação defensiva contra o Estudiantes e desafio de manter regularidade após período de problemas físicos.
+- **SEO:** palavra-chave principal “Alex Sandro no Flamengo”; título SEO “Alex Sandro recupera espaço no Flamengo e ganha sequência como titular”.
+- **Controle de redundância:** futuras matérias sobre Alex Sandro devem acrescentar informação nova ou explorar um recorte tático diferente, evitando repetir o contexto da retomada e da gestão física.
