@@ -98,3 +98,12 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - URL pública: https://fla10.news/noticias/flamengo-tera-sequencia-decisiva-no-rio-e-pode-definir-rumo-da-temporada-em-cinco-jogos
 - Criada ficha editorial em `06 - Pautas/2026-10-17 - Flamengo terá sequência decisiva no Rio.md`, com metadados, ângulo, SEO e proveniência.
 - Atualizado o Painel de Pautas para registrar o estado publicado e reduzir o risco de pautas redundantes sobre a mesma sequência de calendário.
+
+
+## 2026-10-17 — Publicação confirmada: Alex Sandro recupera protagonismo
+- Confirmada pelo editor a publicação de “Alex Sandro recupera protagonismo no Flamengo e vira peça importante na reta decisiva”.
+- URL pública: https://fla10.news/noticias/alex-sandro-recupera-protagonismo-no-flamengo-e-vira-peca-importante-na-reta-decisiva
+- Atualizada a ficha editorial `06 - Pautas/2026-10-17 - Alex Sandro recupera protagonismo no Flamengo.md` com estado de publicação, proveniência, ângulo, contexto físico, fontes e pacote SEO.
+- O Painel de Pautas já continha o registro da publicação e o link para a ficha; conferido sem necessidade de nova alteração.
+- Controle de redundância: futuras matérias sobre Alex Sandro devem acrescentar informação nova ou adotar recorte tático distinto, evitando repetir a retomada e a gestão física.
+- As alterações documentais foram feitas no GitHub. Esta operação não altera diretamente o conteúdo publicado no site nem confirma sincronização do vault local.
