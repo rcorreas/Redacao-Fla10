@@ -50,3 +50,12 @@ Adicionar novas entradas abaixo. Ao mudar uma regra, atualizar também o documen
 - **Impacto operacional:** cada ficha de pauta/conteúdo deve registrar a origem. Quando aplicável, usar a classificação `origem: fonte externa` e identificar a marca nos metadados internos. Conteúdos desenvolvidos em colaboração devem ser registrados como produção interna. Não inserir automaticamente a etiqueta no conteúdo público: ela é, por padrão, uma marca de proveniência nos registros internos.
 - **Documento atualizado:** fichas de pauta e Painel de Pautas.
 - **Estado:** vigente.
+
+
+### Rotina de confirmação pós-publicação
+- **Data:** 2026-10-17
+- **Decisão:** sempre que o editor confirmar uma publicação e fornecer a URL, registrar a ficha da pauta com data, estado, URL, ângulo e proveniência; atualizar o Painel de Pautas e o Log de Atualizações. Não presumir alteração do site nem sincronização local a partir de uma atualização documental no GitHub.
+- **Motivo/contexto:** garantir que publicações recentes sejam recuperáveis pela redação e consideradas na prospecção futura, reduzindo duplicação e preservando a origem do conteúdo.
+- **Impacto operacional:** a confirmação de publicação passa a acionar um ciclo documental completo; mudanças permanentes de método são registradas aqui, enquanto cada publicação é registrada na ficha, no painel e no log.
+- **Documento atualizado:** [[Fluxo de Produção]], [[Painel de Pautas]] e [[Log de Atualizações]].
+- **Estado:** vigente.
