@@ -91,3 +91,10 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Atualizado o Painel de Pautas para registrar a publicação e orientar a prevenção de redundância.
 - Atualizado o Fluxo de Produção para formalizar a rotina pós-publicação: ficha, URL, painel e log; decisões duradouras ficam no Registro de Decisões.
 - Alterações documentais feitas no GitHub. Esta operação não altera diretamente o conteúdo publicado no site nem confirma sincronização do vault local.
+
+
+## 2026-10-17 — Publicação confirmada: sequência decisiva do Flamengo no Rio
+- O editor confirmou a publicação de “Flamengo terá sequência decisiva no Rio e pode definir rumo da temporada em cinco jogos”.
+- URL pública: https://fla10.news/noticias/flamengo-tera-sequencia-decisiva-no-rio-e-pode-definir-rumo-da-temporada-em-cinco-jogos
+- Criada ficha editorial em `06 - Pautas/2026-10-17 - Flamengo terá sequência decisiva no Rio.md`, com metadados, ângulo, SEO e proveniência.
+- Atualizado o Painel de Pautas para registrar o estado publicado e reduzir o risco de pautas redundantes sobre a mesma sequência de calendário.
