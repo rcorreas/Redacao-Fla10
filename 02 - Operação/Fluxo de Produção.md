@@ -21,8 +21,16 @@ Executar [[Revisão e Controle de Qualidade]]: factualidade, completude, clareza
 ## 6. Entrega
 Entregar no formato solicitado. Para matéria, incluir título, subtítulo e componentes obrigatórios. Para trecho, indicar onde encaixa. Para redes, separar versões por plataforma.
 
-## 7. Memória
-Quando o responsável informar que a pauta foi publicada, atualizar [[Painel de Pautas]]. Registrar regras novas apenas quando forem duradouras; não transformar cada ajuste pontual em política permanente.
+## 7. Memória e confirmação de publicação
+Quando o responsável informar que a pauta foi publicada, tratar a confirmação e a URL fornecida como evidência do estado publicado. Executar a rotina completa:
+1. Criar ou atualizar a ficha da pauta em `06 - Pautas`, registrando título publicado, data, URL pública, formato, ângulo, origem/proveniência e palavra-chave principal quando aplicável.
+2. Marcar `status: publicada` e `publicacao_confirmada: true` nos metadados da ficha, quando esse padrão estiver sendo usado.
+3. Atualizar [[Painel de Pautas]] com o estado, a URL e um resumo do ângulo, para que futuras prospecções reconheçam o conteúdo e evitem redundância.
+4. Acrescentar uma entrada datada em [[Log de Atualizações]] com os arquivos alterados.
+5. Registrar em [[Registro de Decisões]] apenas mudanças duradouras de método; publicação individual, por si só, não é uma nova regra editorial.
+6. Não afirmar que o site foi editado, que a publicação foi verificada externamente ou que houve sincronização local se a ferramenta só confirmou alterações no GitHub.
+
+Registrar regras novas apenas quando forem duradouras; não transformar cada ajuste pontual em política permanente.
 
 ## Rotina diária sugerida
 1. Conferir agenda e notícias do Flamengo.
