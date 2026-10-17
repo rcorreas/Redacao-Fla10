@@ -241,3 +241,15 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **Motivo:** proposta considerada superficial, baseada principalmente em cenários previsíveis da tabela e sem diferencial jornalístico suficiente para justificar uma publicação própria.
 - **Decisão editorial:** não produzir nem publicar. Não substituir automaticamente por outra pauta; prospectar uma alternativa com apuração e valor informativo reais antes de propor nova matéria.
 
+
+
+## Publicação confirmada — 17 de outubro de 2026
+
+### Jorginho volta ao Flamengo em momento decisivo e pode dar novo ritmo ao meio-campo
+- **Estado:** publicada em 17/10/2026, conforme confirmação explícita do editor.
+- **URL pública:** https://fla10.news/noticias/jorginho-volta-ao-flamengo-em-momento-decisivo-e-pode-dar-novo-ritmo-ao-meio-campo
+- **Ficha de produção:** [[2026-10-17 - Jorginho volta ao Flamengo - retorno e meio-campo]].
+- **Formato:** análise de impacto tático / preparação para a sequência entre Brasileirão e Libertadores.
+- **Origem:** produção interna — pauta, apuração, estrutura e redação em colaboração.
+- **Ângulo:** como Jorginho pode contribuir para a saída de bola e a organização do meio-campo, sem ser apresentado como solução isolada para os problemas ofensivos.
+- **Controle de redundância:** futuras matérias sobre o retorno do volante devem trazer informação nova ou um recorte diferente; evitar repetir a análise de sua função na circulação e na conexão entre os setores.
