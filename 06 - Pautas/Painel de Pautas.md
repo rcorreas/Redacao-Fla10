@@ -253,3 +253,13 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **Origem:** produção interna — pauta, apuração, estrutura e redação em colaboração.
 - **Ângulo:** como Jorginho pode contribuir para a saída de bola e a organização do meio-campo, sem ser apresentado como solução isolada para os problemas ofensivos.
 - **Controle de redundância:** futuras matérias sobre o retorno do volante devem trazer informação nova ou um recorte diferente; evitar repetir a análise de sua função na circulação e na conexão entre os setores.
+
+
+## 2026-10-17 — Publicação confirmada: sequência decisiva no Rio
+
+- **Estado:** publicada, conforme confirmação do editor.
+- **Título:** *Flamengo terá sequência decisiva no Rio e pode definir rumo da temporada em cinco jogos*.
+- **URL pública:** https://fla10.news/noticias/flamengo-tera-sequencia-decisiva-no-rio-e-pode-definir-rumo-da-temporada-em-cinco-jogos
+- **Arquivo de produção:** [[2026-10-17 - Flamengo terá sequência decisiva no Rio]].
+- **Ângulo:** cinco partidas consecutivas no Rio, incluindo a volta da semifinal da Libertadores contra o Estudiantes e quatro compromissos pelo Brasileirão. A pauta destaca a vantagem logística sem tratar a partida contra o Vasco como mando rubro-negro.
+- **Proveniência:** produção interna.
