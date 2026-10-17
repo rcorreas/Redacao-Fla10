@@ -82,3 +82,12 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - As quatro primeiras peças foram trabalhadas em colaboração entre responsável editorial e IA; a peça Voz do Torcedor foi classificada como **fonte externa**, pois não foi produzida integralmente pelo processo colaborativo.
 - Nova decisão editorial: qualquer conteúdo publicado que não tenha sido trabalhado, pesquisado, apurado e criado em colaboração entre o responsável editorial e a IA recebe a classificação interna **fonte externa**.
 - Atualizado o Registro de Decisões Editoriais e o Painel de Pautas.
+
+
+## 2026-10-17 — Publicação confirmada: análise sobre o retorno de Jorginho
+- O editor confirmou a publicação de “Jorginho volta ao Flamengo em momento decisivo e pode dar novo ritmo ao meio-campo”.
+- URL pública registrada: https://fla10.news/noticias/jorginho-volta-ao-flamengo-em-momento-decisivo-e-pode-dar-novo-ritmo-ao-meio-campo.
+- Criada ficha editorial `06 - Pautas/2026-10-17 - Jorginho volta ao Flamengo - retorno e meio-campo.md`, com data, estado, proveniência, ângulo e SEO.
+- Atualizado o Painel de Pautas para registrar a publicação e orientar a prevenção de redundância.
+- Atualizado o Fluxo de Produção para formalizar a rotina pós-publicação: ficha, URL, painel e log; decisões duradouras ficam no Registro de Decisões.
+- Alterações documentais feitas no GitHub. Esta operação não altera diretamente o conteúdo publicado no site nem confirma sincronização do vault local.
