@@ -297,3 +297,18 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **Proveniência:** produção interna — pesquisa, análise documental, apuração e redação em colaboração.
 - **Ângulo:** avaliar a dependência de receitas variáveis e premiações para sustentar o investimento no elenco, considerando resultado semestral, caixa, investimentos em direitos de atletas, vendas abaixo da meta e incerteza envolvendo patrocínio.
 - **Controle de redundância:** futuras atualizações devem acrescentar documentos financeiros, novos resultados ou desdobramentos regulatórios, sem apenas repetir o argumento central.
+
+
+## Publicação confirmada — Flamengo na História: os dois hinos (18 de outubro de 2026)
+
+### Flamengo na História: os dois hinos que atravessaram gerações e marcaram a identidade rubro-negra
+- **Estado:** publicada em 18/10/2026, conforme confirmação do responsável editorial.
+- **URL pública da matéria:** https://fla10.news/flahistoria/os-dois-hinos-que-atravessaram-geracoes-e-marcaram-a-identidade-rubro-negra
+- **Ficha editorial:** [[2026-10-18 - Flamengo na História - dois hinos rubro-negros]].
+- **Formato:** matéria histórica da seção Flamengo na História.
+- **Ângulo:** trajetória do hino oficial de Paulo Magalhães e da marcha popular de Lamartine Babo, explicando como as duas composições passaram a integrar a identidade rubro-negra.
+- **Conteúdo multimídia associado:** vídeo com o áudio dos dois hinos incorporado à matéria e publicado também como página independente: https://fla10.news/videos/ouca-os-2-hinos-oficiais-do-clube-de-regatas-do-flamengo
+- **Proveniência:** matéria — produção interna, desenvolvida em colaboração; vídeo — fonte externa para fins de registro, criado pelo responsável editorial sem participação da IA.
+- **Decisão editorial:** não incluir a seção sobre Lamartine Babo e as marchinhas dos clubes cariocas, por desviar do foco principal.
+- **Controle de redundância:** futuras pautas sobre os hinos devem trazer documentação nova, outro recorte histórico ou material de arquivo adicional, sem apenas recontar a origem das duas composições.
+- **Aprendizado de processo:** o editor esclareceu que já produzia vídeos complementares e os incorporava às matérias há algum tempo; a redação virtual passa a registrar também essas relações multimídia, sem presumir que sejam uma prática nova.
