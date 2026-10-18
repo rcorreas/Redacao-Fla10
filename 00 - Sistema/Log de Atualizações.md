@@ -107,3 +107,14 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - O Painel de Pautas já continha o registro da publicação e o link para a ficha; conferido sem necessidade de nova alteração.
 - Controle de redundância: futuras matérias sobre Alex Sandro devem acrescentar informação nova ou adotar recorte tático distinto, evitando repetir a retomada e a gestão física.
 - As alterações documentais foram feitas no GitHub. Esta operação não altera diretamente o conteúdo publicado no site nem confirma sincronização do vault local.
+
+
+## 2026-10-18 — Duas publicações confirmadas: serviço Bahia x Flamengo e reportagem financeira
+- Registrada a publicação de “Bahia x Flamengo: onde assistir ao vivo, horário, arbitragem e prováveis escalações — Tudo sobre o confronto em Salvador”.
+- URL pública: https://fla10.news/noticias/bahia-x-flamengo-onde-assistir-ao-vivo-horario-arbitragem-e-provaveis-escalacoes---tudo-sobre-o-confronto-em-salvador
+- Criada ficha editorial `06 - Pautas/2026-10-18 - Bahia x Flamengo - onde assistir.md`, com estado publicado, proveniência interna, ficha técnica, SEO e controle de redundância.
+- Registrada a publicação da reportagem “Flamengo aposta nos títulos para sustentar investimento bilionário, mas orçamento expõe riscos”.
+- URL pública: https://fla10.news/reportagens/flamengo-aposta-nos-titulos-para-sustentar-investimento-bilionario-mas-orcamento-expoe-riscos
+- Criada ficha editorial `06 - Pautas/2026-10-18 - Flamengo aposta nos títulos - investigação financeira.md`, com proveniência interna, ângulo, dados centrais e cautelas de interpretação.
+- Atualizado o Painel de Pautas para registrar as duas publicações e apoiar a prevenção de redundância.
+- Alterações documentais realizadas no GitHub. A sincronização do vault local do Obsidian não foi verificada; o conteúdo publicado no site não foi alterado por esta operação.
