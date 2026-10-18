@@ -118,3 +118,14 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Criada ficha editorial `06 - Pautas/2026-10-18 - Flamengo aposta nos títulos - investigação financeira.md`, com proveniência interna, ângulo, dados centrais e cautelas de interpretação.
 - Atualizado o Painel de Pautas para registrar as duas publicações e apoiar a prevenção de redundância.
 - Alterações documentais realizadas no GitHub. A sincronização do vault local do Obsidian não foi verificada; o conteúdo publicado no site não foi alterado por esta operação.
+
+
+## 2026-10-18 — Publicação confirmada: Flamengo na História e vídeo dos dois hinos
+- Registrada a publicação de “Flamengo na História: os dois hinos que atravessaram gerações e marcaram a identidade rubro-negra”.
+- URL da matéria: https://fla10.news/flahistoria/os-dois-hinos-que-atravessaram-geracoes-e-marcaram-a-identidade-rubro-negra
+- Criada ficha editorial `06 - Pautas/2026-10-18 - Flamengo na História - dois hinos rubro-negros.md`, com status, ângulo, SEO, proveniência e decisão editorial.
+- O editor informou que criou um vídeo com o áudio dos dois hinos, incorporou-o à matéria e publicou uma página independente na seção de vídeos: https://fla10.news/videos/ouca-os-2-hinos-oficiais-do-clube-de-regatas-do-flamengo
+- Proveniência registrada separadamente: matéria como produção interna colaborativa; vídeo como fonte externa, pois foi criado pelo editor sem participação da IA.
+- Decisão editorial registrada: não incluir o recorte sobre Lamartine Babo e as marchinhas dos clubes cariocas, por desviar do foco da matéria.
+- Aprendizado operacional: o editor esclareceu que já adotava a prática de produzir vídeos complementares e incorporá-los às matérias há algum tempo; o registro na redação virtual preserva o histórico, não marca o início da prática.
+- Atualizados o Painel de Pautas e a ficha editorial. O conteúdo publicado no site não foi alterado por esta operação; a sincronização do vault local do Obsidian não foi verificada.
