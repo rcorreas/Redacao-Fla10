@@ -276,3 +276,24 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **Ângulo:** sequência como titular após a lesão de Ayrton Lucas, atuação defensiva contra o Estudiantes e desafio de manter regularidade após período de problemas físicos.
 - **SEO:** palavra-chave principal “Alex Sandro no Flamengo”; título SEO “Alex Sandro recupera espaço no Flamengo e ganha sequência como titular”.
 - **Controle de redundância:** futuras matérias sobre Alex Sandro devem acrescentar informação nova ou explorar um recorte tático diferente, evitando repetir o contexto da retomada e da gestão física.
+
+
+## Publicações confirmadas — 17 e 18 de outubro de 2026
+
+### Bahia x Flamengo: onde assistir ao vivo, horário, arbitragem e prováveis escalações — Tudo sobre o confronto em Salvador
+- **Estado:** publicada em 17/10/2026; confirmação do editor recebida em 18/10/2026.
+- **URL pública:** https://fla10.news/noticias/bahia-x-flamengo-onde-assistir-ao-vivo-horario-arbitragem-e-provaveis-escalacoes---tudo-sobre-o-confronto-em-salvador
+- **Ficha editorial:** [[2026-10-18 - Bahia x Flamengo - onde assistir]].
+- **Formato:** serviço de jogo / onde assistir.
+- **Partida:** Bahia x Flamengo, 18/10/2026, às 18h30, na Arena Fonte Nova, pela 31ª rodada do Brasileirão.
+- **Proveniência:** produção interna — pesquisa, apuração e redação em colaboração.
+- **Controle de redundância:** matéria de serviço publicada; qualquer cobertura posterior deve se concentrar no resultado e em fatos novos.
+
+### Flamengo aposta nos títulos para sustentar investimento bilionário, mas orçamento expõe riscos
+- **Estado:** publicada em 18/10/2026, conforme confirmação do editor.
+- **URL pública:** https://fla10.news/reportagens/flamengo-aposta-nos-titulos-para-sustentar-investimento-bilionario-mas-orcamento-expoe-riscos
+- **Ficha editorial:** [[2026-10-18 - Flamengo aposta nos títulos - investigação financeira]].
+- **Formato:** reportagem / investigação financeira.
+- **Proveniência:** produção interna — pesquisa, análise documental, apuração e redação em colaboração.
+- **Ângulo:** avaliar a dependência de receitas variáveis e premiações para sustentar o investimento no elenco, considerando resultado semestral, caixa, investimentos em direitos de atletas, vendas abaixo da meta e incerteza envolvendo patrocínio.
+- **Controle de redundância:** futuras atualizações devem acrescentar documentos financeiros, novos resultados ou desdobramentos regulatórios, sem apenas repetir o argumento central.
