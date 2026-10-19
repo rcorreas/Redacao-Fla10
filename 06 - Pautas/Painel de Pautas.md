@@ -418,3 +418,14 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **Calendário:** Atlético-MG (casa), Vasco (fora), Grêmio (casa), Athletico-PR (casa), Palmeiras (fora), Coritiba (fora) e Chapecoense (casa).
 - **Controle de redundância:** existe uma matéria anterior sobre os dez jogos finais, publicada em setembro. A nova publicação atualiza a disputa após a 31ª rodada e não deve ser usada como justificativa para repetir a pauta sem mudança factual relevante.
 - **SEO:** palavra-chave principal “Flamengo no Brasileirão 2026”; título SEO “Flamengo tem sete finais para conquistar o Brasileirão”.
+
+
+## Publicação confirmada — 19 de outubro de 2026
+
+### Galeria de Arte Rubro-Negra — imagem externa
+- **Estado:** imagem publicada, conforme confirmação explícita do editor.
+- **URL pública:** https://fla10.news/galeria/ZuTvh9aMxJ2u16aEcBDI
+- **Ficha editorial:** [[2026-10-19 - Galeria de Arte Rubro-Negra - imagem externa]].
+- **Seção:** Galeria de Arte Rubro-Negra.
+- **Classificação:** **PAUTA EXTERNA**.
+- **Proveniência:** fonte externa; autoria, licença e origem específica da imagem não foram informadas nesta atualização.
