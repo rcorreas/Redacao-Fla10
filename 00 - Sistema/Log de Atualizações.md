@@ -164,3 +164,11 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Corrigida a estatística de posse usada na crônica externa: fontes de acompanhamento consultadas apontam aproximadamente 63% para o Flamengo, não 73%. Confirmar estatísticas e minutagem antes de publicar.
 - O rascunho recebeu marcadores `<br><br>` ao final dos parágrafos editoriais.
 - Commits de criação/formatação e registro: `523587e`, `7452ab1`, mais atualizações do painel e deste log.
+
+
+## 2026-10-18 — Publicação confirmada: Depois do Apito sobre Bahia 0 x 3 Flamengo
+- O editor confirmou a publicação da crônica de Miguel Sampaio: “Depois do Apito: O Flamengo ganhou de três, mas o futebol não cabe na conta”.
+- URL pública: https://fla10.news/colunas/o-flamengo-ganhou-de-tres-mas-o-futebol-nao-cabe-na-conta
+- Criada a ficha editorial `06 - Pautas/2026-10-18 - Depois do Apito - Flamengo vence Bahia.md`, com status publicado, ângulo, SEO, Resumo para IA e controle de redundância.
+- Atualizado o Painel de Pautas para registrar a publicação e diferenciar a função da crônica da notícia pós-jogo, da análise jornalística e do futuro Raio-X Tático.
+- Alterações realizadas no GitHub. A sincronização do vault local do Obsidian não foi verificada; esta operação não altera o conteúdo publicado no site.
