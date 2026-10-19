@@ -405,3 +405,16 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **Formato:** análise de preparação para a volta da semifinal da Libertadores.
 - **Ângulo:** soluções para conectar meio-campo e ataque, melhorar as condições do centroavante, variar os ataques e proteger a equipe contra transições.
 - **Controle de redundância:** diferenciar a prévia das análises já publicadas sobre a atuação na ida e a postura de Leonardo Jardim. Na cobertura pós-jogo, registrar os ajustes realmente observados, sem presumir que as propostas foram aplicadas.
+
+
+## Publicação confirmada — 19 de outubro de 2026
+
+### Flamengo retoma a liderança, mas ainda tem sete finais difíceis pela frente no Brasileirão
+- **Estado:** publicada em 19/10/2026, conforme confirmação explícita do editor.
+- **URL pública:** https://fla10.news/noticias/flamengo-retoma-a-lideranca-mas-ainda-tem-sete-finais-dificeis-pela-frente-no-brasileirao
+- **Ficha editorial:** [[2026-10-19 - Flamengo retoma liderança - sete finais Brasileirão]].
+- **Formato:** análise de contexto e calendário da reta final do Campeonato Brasileiro.
+- **Ângulo:** Flamengo retoma a liderança com 67 pontos, apenas um à frente do Palmeiras, mas ainda precisa atravessar sete rodadas decisivas.
+- **Calendário:** Atlético-MG (casa), Vasco (fora), Grêmio (casa), Athletico-PR (casa), Palmeiras (fora), Coritiba (fora) e Chapecoense (casa).
+- **Controle de redundância:** existe uma matéria anterior sobre os dez jogos finais, publicada em setembro. A nova publicação atualiza a disputa após a 31ª rodada e não deve ser usada como justificativa para repetir a pauta sem mudança factual relevante.
+- **SEO:** palavra-chave principal “Flamengo no Brasileirão 2026”; título SEO “Flamengo tem sete finais para conquistar o Brasileirão”.
