@@ -146,3 +146,12 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - A regra vale independentemente de a matéria associada ser produção interna colaborativa.
 - Corrigida a ficha do pós-jogo Bahia 0 x 3 Flamengo e a entrada correspondente no Painel de Pautas para classificar o vídeo dos gols como fonte externa.
 - Esta é uma regra editorial permanente; aplicar automaticamente nos próximos registros de vídeos.
+
+
+## 2026-10-18 — Publicação confirmada: Boteco Fla10 sobre Bahia 0 x 3 Flamengo
+- Criada ficha editorial `06 - Pautas/2026-10-18 - Boteco Fla10 - rodízio de chopp.md` com URL definitiva, proveniência, resumo editorial, SEO e controle de redundância.
+- URL pública: https://fla10.news/voz-torcedor/boteco-fla10--rodizio-de-chopp-3-gols-do-mengao-e-a-porcada-secando-ate-o-gelo-derreter
+- Atualizado o Painel de Pautas para registrar a publicação.
+- Classificação interna: **FONTE EXTERNA**. A crônica foi fornecida pelo editor; a assistência da IA limitou-se aos marcadores de parágrafo e ao Resumo para IA.
+- A crônica celebra a vitória por 3 a 0 sobre o Bahia, a retomada da liderança com 67 pontos e provocações ao Palmeiras. A notícia de pós-jogo já existente foi mantida como registro separado, com função editorial distinta.
+- Alterações realizadas diretamente no GitHub. A sincronização do vault local do Obsidian não foi verificada; o conteúdo publicado no site não foi alterado por esta operação.
