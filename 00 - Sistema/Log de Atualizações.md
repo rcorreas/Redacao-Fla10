@@ -172,3 +172,12 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Criada a ficha editorial `06 - Pautas/2026-10-18 - Depois do Apito - Flamengo vence Bahia.md`, com status publicado, ângulo, SEO, Resumo para IA e controle de redundância.
 - Atualizado o Painel de Pautas para registrar a publicação e diferenciar a função da crônica da notícia pós-jogo, da análise jornalística e do futuro Raio-X Tático.
 - Alterações realizadas no GitHub. A sincronização do vault local do Obsidian não foi verificada; esta operação não altera o conteúdo publicado no site.
+
+
+## 2026-10-18 — Publicação confirmada: Raio-X Tático Bahia 0 x 3 Flamengo
+- O editor confirmou a publicação de “Raio-X Tático: Flamengo acelera após o intervalo, desmonta o Bahia e vence por 3 a 0”.
+- URL pública: https://fla10.news/raio-x/raio-x-tatico-flamengo-acelera-apos-o-intervalo-desmonta-o-bahia-e-vence-por-3-a-0
+- Criada a ficha editorial `06 - Pautas/2026-10-18 - Raio-X Tático Flamengo Bahia 3 a 0.md`, com status publicado, URL, proveniência, síntese, SEO, referências de checagem e controle de redundância.
+- Atualizado o Painel de Pautas para registrar a publicação e distinguir o Raio-X da notícia imediata e da análise jornalística pós-jogo.
+- Registrada a pendência do campinho tático com setas: foi solicitado como complemento, mas ainda não foi gerado nem publicado.
+- A publicação do artigo foi informada pelo editor; esta operação atualiza somente a documentação no GitHub, não o conteúdo do site. A sincronização do vault local do Obsidian não foi verificada.
