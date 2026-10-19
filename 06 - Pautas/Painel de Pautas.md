@@ -312,3 +312,18 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **Decisão editorial:** não incluir a seção sobre Lamartine Babo e as marchinhas dos clubes cariocas, por desviar do foco principal.
 - **Controle de redundância:** futuras pautas sobre os hinos devem trazer documentação nova, outro recorte histórico ou material de arquivo adicional, sem apenas recontar a origem das duas composições.
 - **Aprendizado de processo:** o editor esclareceu que já produzia vídeos complementares e os incorporava às matérias há algum tempo; a redação virtual passa a registrar também essas relações multimídia, sem presumir que sejam uma prática nova.
+
+
+## Publicação confirmada — Bahia 0 x 3 Flamengo (18 de outubro de 2026)
+
+### Flamengo vence o Bahia por 3 a 0 na Fonte Nova e reassume a liderança do Brasileirão
+- **Estado:** publicada em 18/10/2026, conforme confirmação do editor.
+- **Formato:** notícia de pós-jogo imediato.
+- **URL pública:** https://fla10.news/noticias/flamengo-vence-o-bahia-por-3-a-0-na-fonte-nova-e-reassume-a-lideranca-do-brasileirao
+- **Ficha editorial:** [[2026-10-18 - Flamengo vence Bahia - pós-jogo]].
+- **Resultado:** Bahia 0 x 3 Flamengo, pela 31ª rodada do Brasileirão.
+- **Gols:** Jorginho (pênalti), Gonzalo Plata e Lucas Paquetá.
+- **Contexto:** Flamengo chegou a 67 pontos e retomou a liderança, um ponto à frente do Palmeiras; Bahia permaneceu com 49 pontos e caiu para a sétima posição.
+- **Conteúdo multimídia associado:** vídeo com os gols incorporado à matéria e publicado separadamente na seção de vídeos: https://fla10.news/videos/os-gols-de-bahia-0-x-3-flamengo
+- **Proveniência:** matéria — produção interna colaborativa. Proveniência do vídeo — confirmar se foi produzido em colaboração ou externamente.
+- **Controle de redundância:** considerar esta publicação na prospecção de pautas sobre a partida. Análises futuras devem trazer ângulo próprio, por exemplo desempenho coletivo, escolhas de Leonardo Jardim ou impacto da vitória na sequência decisiva, sem repetir a notícia imediata.
