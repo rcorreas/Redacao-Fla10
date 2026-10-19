@@ -181,3 +181,12 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Atualizado o Painel de Pautas para registrar a publicação e distinguir o Raio-X da notícia imediata e da análise jornalística pós-jogo.
 - Registrada a pendência do campinho tático com setas: foi solicitado como complemento, mas ainda não foi gerado nem publicado.
 - A publicação do artigo foi informada pelo editor; esta operação atualiza somente a documentação no GitHub, não o conteúdo do site. A sincronização do vault local do Obsidian não foi verificada.
+
+
+## 2026-10-19 — Publicação confirmada: títulos do Flamengo nos Barcos Curtos e Longos
+- O editor confirmou a publicação de “Flamengo conquista títulos nos Campeonatos Brasileiros de Barcos Curtos e Longos e reforça força do remo em 2026”.
+- URL pública: https://fla10.news/noticias/flamengo-conquista-titulos-nos-campeonatos-brasileiros-de-barcos-curtos-e-longos-e-reforca-forca-do-remo-em-2026
+- Criada a ficha editorial `06 - Pautas/2026-10-19 - Flamengo conquista títulos nos Barcos Curtos e Longos.md`, com status publicado, URL, proveniência, síntese, SEO, fontes e controle de redundância.
+- Atualizado o Painel de Pautas para registrar a publicação.
+- Precisão factual preservada: Flamengo campeão feminino e terceiro colocado masculino nos Barcos Curtos, conforme o resultado oficial do Comitê Brasileiro de Clubes; campeão sênior masculino e feminino nos Barcos Longos.
+- Alterações documentais realizadas no GitHub. Esta operação não altera o conteúdo publicado no site e não confirma sincronização do vault local do Obsidian.
