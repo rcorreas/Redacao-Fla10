@@ -381,3 +381,16 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **SEO:** palavra-chave principal “análise tática Flamengo x Bahia”; título SEO “Raio-X Tático: como o Flamengo venceu o Bahia por 3 a 0”.
 - **Controle de redundância:** diferencia-se da notícia pós-jogo e da análise jornalística por priorizar mecanismos coletivos, movimentações e funções individuais. Futuras pautas sobre a partida devem trazer um recorte novo.
 - **Recurso visual:** campinho tático com setas foi solicitado, mas ainda não foi gerado nem publicado; manter como pendência até confirmação.
+
+
+## Publicação confirmada — 19 de outubro de 2026
+
+### Flamengo conquista títulos nos Barcos Curtos e Longos e reforça força do remo em 2026
+- **Estado:** publicada em 19/10/2026, conforme confirmação explícita do editor.
+- **Seção:** Notícias.
+- **URL pública:** https://fla10.news/noticias/flamengo-conquista-titulos-nos-campeonatos-brasileiros-de-barcos-curtos-e-longos-e-reforca-forca-do-remo-em-2026
+- **Arquivo de produção e histórico editorial:** [[2026-10-19 - Flamengo conquista títulos nos Barcos Curtos e Longos]].
+- **Ângulo:** balanço conjunto dos títulos nacionais do remo rubro-negro em 2026, diferenciando o título feminino nos Barcos Curtos dos títulos sênior masculino e feminino nos Barcos Longos.
+- **Dados centrais:** sete ouros em oito provas sub-23 nos Barcos Longos; nos Barcos Curtos, Flamengo campeão feminino e terceiro colocado masculino, conforme classificação oficial do CBC.
+- **SEO:** palavra-chave principal “remo do Flamengo em 2026”; título SEO “Flamengo conquista títulos nos Barcos Curtos e Longos em 2026”.
+- **Controle de redundância:** tratar as duas competições separadamente em qualquer cobertura futura e não afirmar título masculino nos Barcos Curtos.
