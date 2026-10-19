@@ -394,3 +394,14 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **Dados centrais:** sete ouros em oito provas sub-23 nos Barcos Longos; nos Barcos Curtos, Flamengo campeão feminino e terceiro colocado masculino, conforme classificação oficial do CBC.
 - **SEO:** palavra-chave principal “remo do Flamengo em 2026”; título SEO “Flamengo conquista títulos nos Barcos Curtos e Longos em 2026”.
 - **Controle de redundância:** tratar as duas competições separadamente em qualquer cobertura futura e não afirmar título masculino nos Barcos Curtos.
+
+
+## Publicação confirmada — 19 de outubro de 2026
+
+### Flamengo prepara ajustes para o Estudiantes: o que Jardim precisa corrigir antes da decisão
+- **Estado:** publicada em 19/10/2026, conforme confirmação do editor.
+- **URL pública:** https://fla10.news/noticias/flamengo-prepara-ajustes-para-o-estudiantes-o-que-jardim-precisa-corrigir-antes-da-decisao
+- **Ficha editorial:** [[2026-10-19 - Flamengo prepara ajustes para o Estudiantes]].
+- **Formato:** análise de preparação para a volta da semifinal da Libertadores.
+- **Ângulo:** soluções para conectar meio-campo e ataque, melhorar as condições do centroavante, variar os ataques e proteger a equipe contra transições.
+- **Controle de redundância:** diferenciar a prévia das análises já publicadas sobre a atuação na ida e a postura de Leonardo Jardim. Na cobertura pós-jogo, registrar os ajustes realmente observados, sem presumir que as propostas foram aplicadas.
