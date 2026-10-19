@@ -327,3 +327,17 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **Conteúdo multimídia associado:** vídeo com os gols incorporado à matéria e publicado separadamente na seção de vídeos: https://fla10.news/videos/os-gols-de-bahia-0-x-3-flamengo
 - **Proveniência:** matéria — produção interna colaborativa; vídeo — fonte externa, conforme regra editorial permanente da Redação Fla10.
 - **Controle de redundância:** considerar esta publicação na prospecção de pautas sobre a partida. Análises futuras devem trazer ângulo próprio, por exemplo desempenho coletivo, escolhas de Leonardo Jardim ou impacto da vitória na sequência decisiva, sem repetir a notícia imediata.
+
+
+## Publicação confirmada — Boteco Fla10: Bahia 0 x 3 Flamengo (18 de outubro de 2026)
+
+### Boteco Fla10 — Rodízio de chopp, 3 gols do Mengão e a porcada secando até o gelo derreter!
+- **Estado:** publicado em 18/10/2026, conforme confirmação explícita do editor.
+- **Seção:** A Voz do Torcedor.
+- **Autor:** Cadu.
+- **Proveniência:** **FONTE EXTERNA** — crônica fornecida pelo editor; a colaboração nesta conversa limitou-se à aplicação dos marcadores `<br><br>` e à inclusão do Resumo para IA.
+- **URL pública:** https://fla10.news/voz-torcedor/boteco-fla10--rodizio-de-chopp-3-gols-do-mengao-e-a-porcada-secando-ate-o-gelo-derreter
+- **Ficha editorial:** [[2026-10-18 - Boteco Fla10 - rodízio de chopp]].
+- **Resumo:** crônica bem-humorada sobre a vitória por 3 a 0 sobre o Bahia, com gols de Jorginho, Plata e Lucas Paquetá, os 73% de posse de bola e a retomada da liderança do Brasileirão com 67 pontos, um à frente do Palmeiras.
+- **SEO registrado na ficha:** palavra-chave principal “Flamengo 3 a 0 Bahia”; secundárias incluem Flamengo x Bahia, Flamengo líder do Brasileirão, Jorginho, Gonzalo Plata, Lucas Paquetá, Cadu e Boteco Fla10.
+- **Controle de redundância:** a notícia de pós-jogo já cobre os fatos centrais. Esta crônica tem função distinta de resenha de torcedor, humor e provocação aos rivais; novas coberturas devem acrescentar apuração ou análise própria.
