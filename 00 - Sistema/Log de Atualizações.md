@@ -190,3 +190,12 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Atualizado o Painel de Pautas para registrar a publicação.
 - Precisão factual preservada: Flamengo campeão feminino e terceiro colocado masculino nos Barcos Curtos, conforme o resultado oficial do Comitê Brasileiro de Clubes; campeão sênior masculino e feminino nos Barcos Longos.
 - Alterações documentais realizadas no GitHub. Esta operação não altera o conteúdo publicado no site e não confirma sincronização do vault local do Obsidian.
+
+
+## 2026-10-19 — Publicação confirmada: ajustes do Flamengo para a decisão contra o Estudiantes
+- O editor confirmou a publicação de “Flamengo prepara ajustes para o Estudiantes: o que Jardim precisa corrigir antes da decisão”.
+- URL pública: https://fla10.news/noticias/flamengo-prepara-ajustes-para-o-estudiantes-o-que-jardim-precisa-corrigir-antes-da-decisao
+- Criada a ficha editorial `06 - Pautas/2026-10-19 - Flamengo prepara ajustes para o Estudiantes.md`, com estado publicado, ângulo, pontos desenvolvidos, pacote SEO, proveniência e controle de redundância.
+- Atualizado o Painel de Pautas para registrar a publicação e orientar a cobertura posterior da decisão.
+- O recorte é prospectivo: soluções para construção ofensiva, participação do centroavante, amplitude, transições e bolas paradas; evitar repetir a análise do jogo de ida e a crítica já publicada sobre a postura de Jardim.
+- Alterações documentais realizadas no GitHub. Esta operação não altera o conteúdo publicado no site e não confirma sincronização do vault local do Obsidian.
