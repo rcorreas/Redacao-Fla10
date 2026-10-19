@@ -366,3 +366,18 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **Autor-persona:** Miguel Sampaio.
 - **Ângulo:** a goleada foi merecida e devolveu a liderança ao Flamengo, mas não apaga as chances perdidas, as defesas de Ronaldo e o erro de Rossi. O golaço de Paquetá representa o prazer estético do futebol sem transformar o placar em certificado de perfeição.
 - **Controle de redundância:** crônica autoral e reflexiva, distinta da notícia imediata, da análise jornalística de lances e atuações e do futuro Raio-X Tático.
+
+
+## Publicação confirmada — Raio-X Tático: Bahia 0 x 3 Flamengo (18 de outubro de 2026)
+
+### Raio-X Tático: Flamengo acelera após o intervalo, desmonta o Bahia e vence por 3 a 0
+- **Estado:** publicada em 18/10/2026, conforme confirmação explícita do editor.
+- **URL pública:** https://fla10.news/raio-x/raio-x-tatico-flamengo-acelera-apos-o-intervalo-desmonta-o-bahia-e-vence-por-3-a-0
+- **Ficha editorial:** [[2026-10-18 - Raio-X Tático Flamengo Bahia 3 a 0]].
+- **Formato:** análise tática aprofundada.
+- **Partida:** Bahia 0 x 3 Flamengo, pela 31ª rodada do Brasileirão.
+- **Proveniência:** produção interna — análise tática, pesquisa, apuração e redação em colaboração.
+- **Ângulo:** estrutura de referência 4-3-3, amplitude pelos lados, função de Carrascal entre as linhas, mudança de contexto após o pênalti de Jorginho e aproveitamento dos espaços por Plata e Paquetá.
+- **SEO:** palavra-chave principal “análise tática Flamengo x Bahia”; título SEO “Raio-X Tático: como o Flamengo venceu o Bahia por 3 a 0”.
+- **Controle de redundância:** diferencia-se da notícia pós-jogo e da análise jornalística por priorizar mecanismos coletivos, movimentações e funções individuais. Futuras pautas sobre a partida devem trazer um recorte novo.
+- **Recurso visual:** campinho tático com setas foi solicitado, mas ainda não foi gerado nem publicado; manter como pendência até confirmação.
