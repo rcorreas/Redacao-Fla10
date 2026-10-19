@@ -325,5 +325,5 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **Gols:** Jorginho (pênalti), Gonzalo Plata e Lucas Paquetá.
 - **Contexto:** Flamengo chegou a 67 pontos e retomou a liderança, um ponto à frente do Palmeiras; Bahia permaneceu com 49 pontos e caiu para a sétima posição.
 - **Conteúdo multimídia associado:** vídeo com os gols incorporado à matéria e publicado separadamente na seção de vídeos: https://fla10.news/videos/os-gols-de-bahia-0-x-3-flamengo
-- **Proveniência:** matéria — produção interna colaborativa. Proveniência do vídeo — confirmar se foi produzido em colaboração ou externamente.
+- **Proveniência:** matéria — produção interna colaborativa; vídeo — fonte externa, conforme regra editorial permanente da Redação Fla10.
 - **Controle de redundância:** considerar esta publicação na prospecção de pautas sobre a partida. Análises futuras devem trazer ângulo próprio, por exemplo desempenho coletivo, escolhas de Leonardo Jardim ou impacto da vitória na sequência decisiva, sem repetir a notícia imediata.
