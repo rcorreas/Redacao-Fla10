@@ -199,3 +199,13 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Atualizado o Painel de Pautas para registrar a publicação e orientar a cobertura posterior da decisão.
 - O recorte é prospectivo: soluções para construção ofensiva, participação do centroavante, amplitude, transições e bolas paradas; evitar repetir a análise do jogo de ida e a crítica já publicada sobre a postura de Jardim.
 - Alterações documentais realizadas no GitHub. Esta operação não altera o conteúdo publicado no site e não confirma sincronização do vault local do Obsidian.
+
+
+## 2026-10-19 — Publicação confirmada: sete finais do Flamengo no Brasileirão
+- O editor confirmou a publicação de “Flamengo retoma a liderança, mas ainda tem sete finais difíceis pela frente no Brasileirão”.
+- URL pública: https://fla10.news/noticias/flamengo-retoma-a-lideranca-mas-ainda-tem-sete-finais-dificeis-pela-frente-no-brasileirao
+- Criada a ficha editorial `06 - Pautas/2026-10-19 - Flamengo retoma liderança - sete finais Brasileirão.md`, com status publicado, URL, proveniência, calendário restante, pacote SEO e controle de redundância.
+- Atualizado o Painel de Pautas para registrar a publicação.
+- O texto registra os sete confrontos informados pelo editor: Atlético-MG (casa), Vasco (fora), Grêmio (casa), Athletico-PR (casa), Palmeiras (fora), Coritiba (fora) e Chapecoense (casa).
+- Controle de redundância: comparada com a matéria anterior sobre os dez jogos finais do Brasileirão; esta ficha registra a atualização do cenário após a 31ª rodada, com 67 pontos para o Flamengo e 66 para o Palmeiras.
+- Alterações documentais realizadas no GitHub. Esta operação não altera o conteúdo publicado no site e não confirma sincronização do vault local do Obsidian.
