@@ -139,3 +139,10 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Atualizado o Painel de Pautas para registrar a publicação e orientar o controle de redundância.
 - Proveniência do artigo registrada como produção interna colaborativa; a origem de produção do vídeo ficou pendente de confirmação.
 - Alterações feitas no GitHub. A sincronização do vault local do Obsidian não foi verificada.
+
+
+## 2026-10-18 — Regra de proveniência para vídeos
+- O editor definiu que todos os vídeos publicados serão sempre classificados como `fonte externa`, inclusive quando incorporados ao corpo de uma matéria e também publicados como página independente na seção de vídeos.
+- A regra vale independentemente de a matéria associada ser produção interna colaborativa.
+- Corrigida a ficha do pós-jogo Bahia 0 x 3 Flamengo e a entrada correspondente no Painel de Pautas para classificar o vídeo dos gols como fonte externa.
+- Esta é uma regra editorial permanente; aplicar automaticamente nos próximos registros de vídeos.
