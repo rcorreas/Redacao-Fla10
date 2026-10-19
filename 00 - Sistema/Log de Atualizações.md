@@ -129,3 +129,13 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Decisão editorial registrada: não incluir o recorte sobre Lamartine Babo e as marchinhas dos clubes cariocas, por desviar do foco da matéria.
 - Aprendizado operacional: o editor esclareceu que já adotava a prática de produzir vídeos complementares e incorporá-los às matérias há algum tempo; o registro na redação virtual preserva o histórico, não marca o início da prática.
 - Atualizados o Painel de Pautas e a ficha editorial. O conteúdo publicado no site não foi alterado por esta operação; a sincronização do vault local do Obsidian não foi verificada.
+
+
+## 2026-10-18 — Publicação confirmada: pós-jogo Bahia 0 x 3 Flamengo e vídeo dos gols
+- O editor confirmou a publicação de “Flamengo vence o Bahia por 3 a 0 na Fonte Nova e reassume a liderança do Brasileirão”.
+- URL da matéria: https://fla10.news/noticias/flamengo-vence-o-bahia-por-3-a-0-na-fonte-nova-e-reassume-a-lideranca-do-brasileirao
+- Criada ficha editorial `06 - Pautas/2026-10-18 - Flamengo vence Bahia - pós-jogo.md`, com estado, resultado, gols, contexto da tabela, SEO, proveniência e relação multimídia.
+- Registrado o vídeo com os gols, incorporado à matéria e publicado também na seção de vídeos: https://fla10.news/videos/os-gols-de-bahia-0-x-3-flamengo
+- Atualizado o Painel de Pautas para registrar a publicação e orientar o controle de redundância.
+- Proveniência do artigo registrada como produção interna colaborativa; a origem de produção do vídeo ficou pendente de confirmação.
+- Alterações feitas no GitHub. A sincronização do vault local do Obsidian não foi verificada.
