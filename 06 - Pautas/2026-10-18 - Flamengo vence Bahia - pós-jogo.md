@@ -31,7 +31,7 @@ tags:
 ## Conteúdo multimídia associado
 - **Vídeo dos gols:** https://fla10.news/videos/os-gols-de-bahia-0-x-3-flamengo
 - **Uso:** vídeo incorporado ao corpo da matéria e publicado também como página independente na seção de vídeos.
-- **Proveniência do vídeo:** pendente de confirmação; registrar como produção interna colaborativa ou fonte externa conforme a participação efetiva da redação/IA.
+- **Proveniência do vídeo:** fonte externa. Regra editorial permanente: todos os vídeos publicados na seção de vídeos, inclusive quando incorporados a matérias, são classificados internamente como fonte externa.
 
 ## SEO registrado
 - **Título SEO:** Flamengo vence Bahia por 3 a 0 e reassume liderança do Brasileirão
@@ -41,7 +41,7 @@ tags:
 
 ## Proveniência e controle editorial
 - **Matéria:** produção interna colaborativa, conforme o fluxo de trabalho registrado.
-- **Vídeo:** origem ainda não confirmada; não classificar por inferência.
+- **Vídeo:** fonte externa, conforme regra editorial permanente da Redação Fla10.
 - **Controle de redundância:** esta é a notícia imediata do resultado. Novos conteúdos sobre a partida devem adotar pergunta, evidências e função editorial distintas — por exemplo, análise do desempenho, avaliação das escolhas de Leonardo Jardim ou impacto do resultado na sequência decisiva — sem repetir o relato básico dos gols e do placar.
 - **Fontes de referência para checagem:**  
   - Folha: https://www1.folha.uol.com.br/esporte/2026/10/flamengo-vence-o-bahia-por-3-a-0-e-retoma-a-lideranca-do-brasileiro.shtml  
