@@ -341,3 +341,17 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **Resumo:** crônica bem-humorada sobre a vitória por 3 a 0 sobre o Bahia, com gols de Jorginho, Plata e Lucas Paquetá, os 73% de posse de bola e a retomada da liderança do Brasileirão com 67 pontos, um à frente do Palmeiras.
 - **SEO registrado na ficha:** palavra-chave principal “Flamengo 3 a 0 Bahia”; secundárias incluem Flamengo x Bahia, Flamengo líder do Brasileirão, Jorginho, Gonzalo Plata, Lucas Paquetá, Cadu e Boteco Fla10.
 - **Controle de redundância:** a notícia de pós-jogo já cobre os fatos centrais. Esta crônica tem função distinta de resenha de torcedor, humor e provocação aos rivais; novas coberturas devem acrescentar apuração ou análise própria.
+
+
+## Rascunho em produção — Análise jornalística de Bahia 0 x 3 Flamengo (18 de outubro de 2026)
+
+### Flamengo transforma domínio em goleada na Fonte Nova, retoma a liderança e ganha confiança antes da Libertadores
+- **Estado:** rascunho criado para revisão editorial; **não publicado**.
+- **Formato:** análise jornalística pós-jogo, mais extensa que a notícia imediata.
+- **Arquivo de produção:** [[2026-10-18 - Análise jornalística Bahia Flamengo 3 a 0]].
+- **Escopo:** sequência dos lances, chances desperdiçadas, atuação de Ronaldo, erro de Rossi, pênalti sofrido por Carrascal e convertido por Jorginho, gol de Plata com assistência de Samuel Lino, golaço de Paquetá, desempenho do Bahia, implicações na tabela e contexto antes da volta contra o Estudiantes.
+- **Limite explícito:** não aprofundar sistemas, posicionamentos, pressão ou mecanismos coletivos; reservar esses temas à próxima matéria da seção **Raio-X Tático**.
+- **Checagem estatística:** usar aproximadamente 63% de posse do Flamengo, não os 73% citados na crônica externa. Confirmar números e minutagem antes da publicação, pois os fornecedores divergem em alguns dados.
+- **SEO:** palavra-chave principal “Flamengo vence o Bahia por 3 a 0”; pacote de SEO e Resumo para IA já incluídos no arquivo.
+- **Fontes de checagem:** UOL, ge, Correio 24 Horas e LANCE!, listadas na ficha de produção.
+- **Controle de redundância:** manter separada da notícia imediata já publicada; esta análise aprofunda os acontecimentos e os desempenhos, enquanto o Raio-X Tático terá foco próprio na dimensão tática.
