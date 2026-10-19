@@ -155,3 +155,12 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Classificação interna: **FONTE EXTERNA**. A crônica foi fornecida pelo editor; a assistência da IA limitou-se aos marcadores de parágrafo e ao Resumo para IA.
 - A crônica celebra a vitória por 3 a 0 sobre o Bahia, a retomada da liderança com 67 pontos e provocações ao Palmeiras. A notícia de pós-jogo já existente foi mantida como registro separado, com função editorial distinta.
 - Alterações realizadas diretamente no GitHub. A sincronização do vault local do Obsidian não foi verificada; o conteúdo publicado no site não foi alterado por esta operação.
+
+
+## 2026-10-18 — Criado rascunho de análise jornalística: Bahia 0 x 3 Flamengo
+- Criado `06 - Pautas/2026-10-18 - Análise jornalística Bahia Flamengo 3 a 0.md` com análise extensa do jogo, Resumo para IA, pacote SEO e fontes de checagem.
+- Atualizado o Painel de Pautas com status **rascunho para revisão editorial; não publicado**.
+- Escopo acordado: detalhar acontecimentos, chances, gols, atuações individuais, erros e implicações do resultado; não entrar em análise tática aprofundada, reservada à próxima matéria de **Raio-X Tático**.
+- Corrigida a estatística de posse usada na crônica externa: fontes de acompanhamento consultadas apontam aproximadamente 63% para o Flamengo, não 73%. Confirmar estatísticas e minutagem antes de publicar.
+- O rascunho recebeu marcadores `<br><br>` ao final dos parágrafos editoriais.
+- Commits de criação/formatação e registro: `523587e`, `7452ab1`, mais atualizações do painel e deste log.
