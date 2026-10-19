@@ -355,3 +355,14 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **SEO:** palavra-chave principal “Flamengo vence o Bahia por 3 a 0”; pacote de SEO e Resumo para IA já incluídos no arquivo.
 - **Fontes de checagem:** UOL, ge, Correio 24 Horas e LANCE!, listadas na ficha de produção.
 - **Controle de redundância:** manter separada da notícia imediata já publicada; esta análise aprofunda os acontecimentos e os desempenhos, enquanto o Raio-X Tático terá foco próprio na dimensão tática.
+
+
+## Publicação confirmada — Depois do Apito: Bahia 0 x 3 Flamengo (18 de outubro de 2026)
+
+### Depois do Apito: O Flamengo ganhou de três, mas o futebol não cabe na conta
+- **Estado:** publicada em 18/10/2026, conforme confirmação explícita do editor.
+- **URL pública:** https://fla10.news/colunas/o-flamengo-ganhou-de-tres-mas-o-futebol-nao-cabe-na-conta
+- **Ficha editorial:** [[2026-10-18 - Depois do Apito - Flamengo vence Bahia]].
+- **Autor-persona:** Miguel Sampaio.
+- **Ângulo:** a goleada foi merecida e devolveu a liderança ao Flamengo, mas não apaga as chances perdidas, as defesas de Ronaldo e o erro de Rossi. O golaço de Paquetá representa o prazer estético do futebol sem transformar o placar em certificado de perfeição.
+- **Controle de redundância:** crônica autoral e reflexiva, distinta da notícia imediata, da análise jornalística de lances e atuações e do futuro Raio-X Tático.
