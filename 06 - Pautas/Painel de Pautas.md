@@ -429,3 +429,32 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **Seção:** Galeria de Arte Rubro-Negra.
 - **Classificação:** **PAUTA EXTERNA**.
 - **Proveniência:** fonte externa; autoria, licença e origem específica da imagem não foram informadas nesta atualização.
+
+
+## Publicações confirmadas — 20 de outubro de 2026
+
+### Flamengo joga por sua temporada no Maracanã: vencer o Estudiantes exige mais do que camisa pesada
+- **Estado:** publicada em 20/10/2026, conforme confirmação explícita do editor.
+- **URL pública:** https://fla10.news/noticias/flamengo-joga-por-sua-temporada-no-maracana-vencer-o-estudiantes-exige-mais-do-que-camisa-pesada
+- **Ficha editorial:** [[2026-10-20 - Flamengo Estudiantes - decisão no Maracanã]].
+- **Formato:** matéria jornalística de contexto antes da volta da semifinal da Libertadores.
+- **Ângulo:** o Flamengo precisa converter o mando de campo em desempenho ofensivo e demonstrar resposta após o 0 a 0 sem finalizações certas na ida.
+- **Controle de redundância:** manter separada da matéria de serviço “Onde assistir” e do Raio-X Tático, ambos previstos para 21/10.
+
+### Flamengo x Botafogo no NBB: onde assistir ao vivo, horário e local do clássico
+- **Estado:** publicada em 20/10/2026, conforme confirmação explícita do editor.
+- **URL pública:** https://fla10.news/noticias/flamengo-x-botafogo-no-nbb-onde-assistir-ao-vivo-horario-e-local-do-classic
+- **Ficha editorial:** [[2026-10-20 - Flamengo x Botafogo - onde assistir NBB]].
+- **Formato:** serviço de jogo — onde assistir.
+- **Informações registradas:** partida pela segunda rodada do NBB 2026/2027, às 18h; local alterado para o Tijuca Tênis Clube, com portões fechados; transmissão informada pela ESPN e pelo Disney+.
+
+## Programação editorial — 21 de outubro de 2026
+
+- **Onde assistir — Flamengo x Estudiantes:** prevista para 21/10; conferir novamente horário, transmissão, arbitragem, local e demais dados de serviço antes da publicação.
+- **Raio-X Tático — Flamengo x Estudiantes:** prevista para 21/10; manter foco nas estruturas, funções, ajustes e alternativas táticas, sem repetir a matéria de contexto publicada em 20/10.
+- **Pré-jogo — Flamengo x Fluminense (futebol feminino):** prevista para 21/10; confirmar competição, data, horário, transmissão, local, regulamento e informações de elenco antes de produzir.
+
+## Pautas ainda pendentes — programação de 20 de outubro
+- **Paquetá e sua marca de gols:** pendente de produção/publicação; confirmar marco estatístico e contexto antes de fechar o recorte.
+- **Eficiência ofensiva do Flamengo no Brasileirão:** pendente de produção/publicação; apurar estatísticas atuais e fonte comparável, sem repetir a análise da vitória sobre o Bahia.
+- **Pausa nas renovações contratuais:** pendente de apuração e produção; confirmar o estado das negociações e atribuir informações a fontes identificadas antes de publicar.
