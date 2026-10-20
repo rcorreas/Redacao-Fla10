@@ -455,6 +455,12 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **Pré-jogo — Flamengo x Fluminense (futebol feminino):** prevista para 21/10; confirmar competição, data, horário, transmissão, local, regulamento e informações de elenco antes de produzir.
 
 ## Pautas ainda pendentes — programação de 20 de outubro
-- **Paquetá e sua marca de gols:** pendente de produção/publicação; confirmar marco estatístico e contexto antes de fechar o recorte.
+### Paquetá bate recorde pessoal no Flamengo e ganha peso na reta decisiva da temporada
+- **Estado:** publicada em 20/10/2026, conforme confirmação explícita do editor.
+- **URL pública:** https://fla10.news/noticias/paqueta-bate-recorde-pessoal-no-flamengo-e-ganha-peso-na-reta-decisiva-da-temporada
+- **Ficha editorial:** [[2026-10-20 - Paquetá bate recorde pessoal de gols]].
+- **Formato:** notícia de desempenho individual com contexto da reta decisiva.
+- **Síntese:** Paquetá chegou a 13 gols em 2026, superando suas marcas anteriores pelo Flamengo (12, em 2018) e pelo Lyon (11, em 2021/2022). O texto relaciona o recorde ao momento do clube no Brasileirão e na Libertadores.
+- **SEO:** palavra-chave principal “Lucas Paquetá”; pacote SEO e Resumo para IA registrados na ficha.
 - **Eficiência ofensiva do Flamengo no Brasileirão:** pendente de produção/publicação; apurar estatísticas atuais e fonte comparável, sem repetir a análise da vitória sobre o Bahia.
 - **Pausa nas renovações contratuais:** pendente de apuração e produção; confirmar o estado das negociações e atribuir informações a fontes identificadas antes de publicar.
