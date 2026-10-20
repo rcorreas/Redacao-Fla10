@@ -475,3 +475,16 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **Formato:** notícia sobre planejamento contratual.
 - **Ângulo:** diretoria prioriza a reta final do Brasileirão e da Libertadores antes de avançar nas conversas com Rossi, Danilo, Léo Pereira, Evertton Araújo e Pedro.
 - **Controle de redundância:** atualizar apenas quando houver novidades concretas nas negociações, declarações dos envolvidos ou mudança de situação contratual.
+
+
+## Publicação confirmada — 20 de outubro de 2026
+
+### Sesc RJ Flamengo estreia na Superliga com vitória por 3 sets a 0 sobre o Paulistano Barueri
+- **Estado:** publicada em 20/10/2026, conforme confirmação explícita do editor.
+- **URL pública:** https://fla10.news/noticias/sesc-rj-flamengo-estreia-na-superliga-com-vitoria-por-3-sets-a-0-sobre-o-paulistano-barueri
+- **Ficha editorial:** [[2026-10-20 - Sesc RJ Flamengo estreia Superliga]].
+- **Formato:** notícia de pós-jogo da Superliga Feminina 2026/27.
+- **Ângulo:** estreia segura do time de Bernardinho, com Simone Lee como maior pontuadora (16 pontos) e Lorena premiada com o Troféu VivaVôlei após marcar 12 pontos.
+- **Resultado:** 3 a 0, parciais de 25–19, 25–21 e 25–14, conforme registro oficial do Flamengo.
+- **Próximo compromisso:** Brasília Vôlei, fora de casa, sexta-feira (23/10), às 18h30, com transmissão da GE TV.
+- **Controle de redundância:** notícia de resultado imediato; futuras matérias devem acrescentar dados ou ângulos novos, sem repetir o relato da estreia.
