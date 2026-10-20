@@ -453,7 +453,7 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **Eficiência ofensiva do Flamengo no Brasileirão:** transferida de 20/10 para 21/10; apurar estatísticas atuais, escolher referência comparável e construir ângulo próprio, sem repetir a análise de Bahia 0 x 3 Flamengo.
 - **Onde assistir — Flamengo x Estudiantes:** prevista para 21/10; conferir novamente horário, transmissão, arbitragem, local e demais dados de serviço antes da publicação.
 - **Raio-X Tático — Flamengo x Estudiantes:** prevista para 21/10; manter foco nas estruturas, funções, ajustes e alternativas táticas, sem repetir a matéria de contexto publicada em 20/10.
-- **Pré-jogo — Flamengo x Fluminense (futebol feminino):** prevista para 21/10; confirmar competição, data, horário, transmissão, local, regulamento e informações de elenco antes de produzir.
+- **Pré-jogo — Flamengo x Fluminense (futebol feminino):** transferida para quinta-feira, 22/10/2026; confirmar competição, data, horário, transmissão, local, regulamento e informações de elenco antes de produzir.
 
 ## Pautas ainda pendentes — programação de 20 de outubro
 ### Paquetá bate recorde pessoal no Flamengo e ganha peso na reta decisiva da temporada
