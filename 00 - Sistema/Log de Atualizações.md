@@ -233,3 +233,12 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Atualizado o Painel de Pautas para registrar ambas as publicações e a programação prevista para 21/10: serviço Flamengo x Estudiantes, Raio-X Tático e pré-jogo do futebol feminino Flamengo x Fluminense.
 - Permanecem pendentes as pautas sobre a marca de gols de Paquetá, a eficiência ofensiva no Brasileirão e a pausa nas renovações contratuais; a última exige confirmação independente antes de publicar.
 - Alterações documentais realizadas no GitHub, branch `main`. Esta operação não altera o conteúdo publicado no site nem confirma sincronização do vault local do Obsidian.
+
+
+## 2026-10-20 — Publicação confirmada: recorde pessoal de Lucas Paquetá
+- O editor confirmou a publicação de “Paquetá bate recorde pessoal no Flamengo e ganha peso na reta decisiva da temporada”.
+- URL pública: https://fla10.news/noticias/paqueta-bate-recorde-pessoal-no-flamengo-e-ganha-peso-na-reta-decisiva-da-temporada
+- Criada a ficha editorial `06 - Pautas/2026-10-20 - Paquetá bate recorde pessoal de gols.md`, com estado publicado, síntese, proveniência, pacote SEO, Resumo para IA e fontes de checagem.
+- Atualizado o Painel de Pautas: a pauta sobre a marca de gols de Paquetá deixa de constar como pendente e passa a integrar as publicações confirmadas.
+- Ângulo registrado: recorde de 13 gols em 2026, superando as marcas anteriores pelo Flamengo (12, em 2018) e pelo Lyon (11, em 2021/2022), contextualizado na reta decisiva do Brasileirão e da Libertadores.
+- Alterações documentais realizadas no GitHub, branch `main`. Esta operação não altera o conteúdo publicado no site nem confirma sincronização do vault local do Obsidian.
