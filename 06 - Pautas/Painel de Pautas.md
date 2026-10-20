@@ -463,4 +463,15 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **Síntese:** Paquetá chegou a 13 gols em 2026, superando suas marcas anteriores pelo Flamengo (12, em 2018) e pelo Lyon (11, em 2021/2022). O texto relaciona o recorde ao momento do clube no Brasileirão e na Libertadores.
 - **SEO:** palavra-chave principal “Lucas Paquetá”; pacote SEO e Resumo para IA registrados na ficha.
 - **Eficiência ofensiva do Flamengo no Brasileirão:** pendente de produção/publicação; apurar estatísticas atuais e fonte comparável, sem repetir a análise da vitória sobre o Bahia.
-- **Pausa nas renovações contratuais:** pendente de apuração e produção; confirmar o estado das negociações e atribuir informações a fontes identificadas antes de publicar.
+- **Pausa nas renovações contratuais:** publicada em 20/10/2026; ficha editorial: [[2026-10-20 - Flamengo pausa negociações por renovações]].
+
+
+## Publicação confirmada — 20 de outubro de 2026
+
+### Flamengo pausa negociações por renovações e concentra esforços na reta decisiva da temporada
+- **Estado:** publicada em 20/10/2026, conforme confirmação explícita do editor.
+- **URL pública:** https://fla10.news/noticias/flamengo-pausa-negociacoes-por-renovacoes-e-concentra-esforcos-na-reta-decisiva-da-temporada
+- **Ficha editorial:** [[2026-10-20 - Flamengo pausa negociações por renovações]].
+- **Formato:** notícia sobre planejamento contratual.
+- **Ângulo:** diretoria prioriza a reta final do Brasileirão e da Libertadores antes de avançar nas conversas com Rossi, Danilo, Léo Pereira, Evertton Araújo e Pedro.
+- **Controle de redundância:** atualizar apenas quando houver novidades concretas nas negociações, declarações dos envolvidos ou mudança de situação contratual.
