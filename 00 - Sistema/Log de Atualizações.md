@@ -219,3 +219,17 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Atualizado o Painel de Pautas para registrar a publicação.
 - Não foram presumidos título da obra, autoria, licença ou origem específica da imagem.
 - Alterações documentais realizadas no GitHub. A sincronização do vault local do Obsidian não foi verificada; esta operação não altera a publicação no site.
+
+
+## 2026-10-20 — Duas publicações confirmadas
+- O editor confirmou a publicação de “Flamengo joga por sua temporada no Maracanã: vencer o Estudiantes exige mais do que camisa pesada”.
+- URL pública: https://fla10.news/noticias/flamengo-joga-por-sua-temporada-no-maracana-vencer-o-estudiantes-exige-mais-do-que-camisa-pesada
+- Criada a ficha editorial `06 - Pautas/2026-10-20 - Flamengo Estudiantes - decisão no Maracanã.md`, com estado publicado, URL, ângulo, SEO, Resumo para IA, proveniência e controle de redundância.
+- O recorte da matéria é a necessidade de resposta esportiva no jogo de volta; preservar a distinção em relação ao serviço “Onde assistir” e ao Raio-X Tático programados para 21/10.
+
+- O editor também confirmou a publicação de “Flamengo x Botafogo no NBB: onde assistir ao vivo, horário e local do clássico”.
+- URL pública: https://fla10.news/noticias/flamengo-x-botafogo-no-nbb-onde-assistir-ao-vivo-horario-e-local-do-classic
+- Criada a ficha editorial `06 - Pautas/2026-10-20 - Flamengo x Botafogo - onde assistir NBB.md`, com estado publicado, URL, informações de serviço, SEO, Resumo para IA e proveniência.
+- Atualizado o Painel de Pautas para registrar ambas as publicações e a programação prevista para 21/10: serviço Flamengo x Estudiantes, Raio-X Tático e pré-jogo do futebol feminino Flamengo x Fluminense.
+- Permanecem pendentes as pautas sobre a marca de gols de Paquetá, a eficiência ofensiva no Brasileirão e a pausa nas renovações contratuais; a última exige confirmação independente antes de publicar.
+- Alterações documentais realizadas no GitHub, branch `main`. Esta operação não altera o conteúdo publicado no site nem confirma sincronização do vault local do Obsidian.
