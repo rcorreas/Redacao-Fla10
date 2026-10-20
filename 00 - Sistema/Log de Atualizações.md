@@ -262,3 +262,10 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Resultado registrado conforme a fonte oficial do Flamengo: 3 a 0, parciais de 25–19, 25–21 e 25–14. A ficha anota a divergência de uma cobertura jornalística quanto à parcial do segundo set.
 - Ângulo editorial: notícia de resultado imediato; evitar repetir a estreia sem fato novo e reservar análises posteriores para dados adicionais de desempenho ou contexto.
 - Alterações documentais realizadas no GitHub, branch `main`. Esta operação não altera o conteúdo publicado no site nem confirma sincronização do vault local do Obsidian.
+
+
+## 2026-10-20 — Ajustes na programação editorial
+- O editor transferiu para 21/10/2026 a pauta **“Eficiência ofensiva do Flamengo no Brasileirão”**. A produção deve apurar estatísticas atualizadas, selecionar uma referência comparável e manter um ângulo próprio, sem repetir a análise de Bahia 0 x 3 Flamengo.
+- O editor **cancelou** o campinho tático com setas referente a Bahia 0 x 3 Flamengo. A tarefa não deve permanecer como pendência ativa nem ser produzida.
+- Incluído na programação de 20/10 o **pós-jogo de Flamengo x Botafogo pelo NBB**, a produzir após a partida, com checagem do placar final, parciais e destaques confirmados. A matéria deve cumprir função distinta do serviço “onde assistir” já publicado.
+- Atualizado o Painel de Pautas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
