@@ -242,3 +242,13 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Atualizado o Painel de Pautas: a pauta sobre a marca de gols de Paquetá deixa de constar como pendente e passa a integrar as publicações confirmadas.
 - Ângulo registrado: recorde de 13 gols em 2026, superando as marcas anteriores pelo Flamengo (12, em 2018) e pelo Lyon (11, em 2021/2022), contextualizado na reta decisiva do Brasileirão e da Libertadores.
 - Alterações documentais realizadas no GitHub, branch `main`. Esta operação não altera o conteúdo publicado no site nem confirma sincronização do vault local do Obsidian.
+
+
+## 2026-10-20 — Publicação confirmada: pausa nas negociações por renovações
+- O editor confirmou a publicação de “Flamengo pausa negociações por renovações e concentra esforços na reta decisiva da temporada”.
+- URL pública: https://fla10.news/noticias/flamengo-pausa-negociacoes-por-renovacoes-e-concentra-esforcos-na-reta-decisiva-da-temporada
+- Criada a ficha editorial `06 - Pautas/2026-10-20 - Flamengo pausa negociações por renovações.md`, com estado publicado, síntese, pacote SEO, Resumo para IA, fontes e controle de redundância.
+- Atualizado o Painel de Pautas: a pauta deixa de constar como pendente e passa a integrar as publicações confirmadas.
+- Ângulo registrado: o Flamengo posterga o avanço das negociações com Agustín Rossi, Danilo, Léo Pereira, Evertton Araújo e Pedro para concentrar esforços na reta decisiva do Brasileirão e da Libertadores. A ficha distingue os prazos contratuais e não trata a pausa como anúncio de saída.
+- Proveniência registrada como produção interna colaborativa.
+- Alterações documentais realizadas no GitHub, branch `main`. Esta operação não altera o conteúdo publicado no site nem confirma sincronização do vault local do Obsidian.
