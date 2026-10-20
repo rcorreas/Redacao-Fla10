@@ -252,3 +252,13 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Ângulo registrado: o Flamengo posterga o avanço das negociações com Agustín Rossi, Danilo, Léo Pereira, Evertton Araújo e Pedro para concentrar esforços na reta decisiva do Brasileirão e da Libertadores. A ficha distingue os prazos contratuais e não trata a pausa como anúncio de saída.
 - Proveniência registrada como produção interna colaborativa.
 - Alterações documentais realizadas no GitHub, branch `main`. Esta operação não altera o conteúdo publicado no site nem confirma sincronização do vault local do Obsidian.
+
+
+## 2026-10-20 — Publicação confirmada: estreia do Sesc RJ Flamengo na Superliga
+- O editor confirmou a publicação de “Sesc RJ Flamengo estreia na Superliga com vitória por 3 sets a 0 sobre o Paulistano Barueri”.
+- URL pública: https://fla10.news/noticias/sesc-rj-flamengo-estreia-na-superliga-com-vitoria-por-3-sets-a-0-sobre-o-paulistano-barueri
+- Criada a ficha editorial `06 - Pautas/2026-10-20 - Sesc RJ Flamengo estreia Superliga.md`, com status publicado, resultado, destaques individuais, pacote SEO, Resumo para IA, fontes e controle de redundância.
+- Atualizado o Painel de Pautas para registrar a publicação.
+- Resultado registrado conforme a fonte oficial do Flamengo: 3 a 0, parciais de 25–19, 25–21 e 25–14. A ficha anota a divergência de uma cobertura jornalística quanto à parcial do segundo set.
+- Ângulo editorial: notícia de resultado imediato; evitar repetir a estreia sem fato novo e reservar análises posteriores para dados adicionais de desempenho ou contexto.
+- Alterações documentais realizadas no GitHub, branch `main`. Esta operação não altera o conteúdo publicado no site nem confirma sincronização do vault local do Obsidian.
