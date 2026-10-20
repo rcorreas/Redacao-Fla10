@@ -380,7 +380,7 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **Ângulo:** estrutura de referência 4-3-3, amplitude pelos lados, função de Carrascal entre as linhas, mudança de contexto após o pênalti de Jorginho e aproveitamento dos espaços por Plata e Paquetá.
 - **SEO:** palavra-chave principal “análise tática Flamengo x Bahia”; título SEO “Raio-X Tático: como o Flamengo venceu o Bahia por 3 a 0”.
 - **Controle de redundância:** diferencia-se da notícia pós-jogo e da análise jornalística por priorizar mecanismos coletivos, movimentações e funções individuais. Futuras pautas sobre a partida devem trazer um recorte novo.
-- **Recurso visual:** campinho tático com setas foi solicitado, mas ainda não foi gerado nem publicado; manter como pendência até confirmação.
+- **Recurso visual:** o editor cancelou em 20/10/2026 a produção do campinho tático com setas. **Não produzir nem manter como pendência ativa.**
 
 
 ## Publicação confirmada — 19 de outubro de 2026
@@ -450,6 +450,7 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 
 ## Programação editorial — 21 de outubro de 2026
 
+- **Eficiência ofensiva do Flamengo no Brasileirão:** transferida de 20/10 para 21/10; apurar estatísticas atuais, escolher referência comparável e construir ângulo próprio, sem repetir a análise de Bahia 0 x 3 Flamengo.
 - **Onde assistir — Flamengo x Estudiantes:** prevista para 21/10; conferir novamente horário, transmissão, arbitragem, local e demais dados de serviço antes da publicação.
 - **Raio-X Tático — Flamengo x Estudiantes:** prevista para 21/10; manter foco nas estruturas, funções, ajustes e alternativas táticas, sem repetir a matéria de contexto publicada em 20/10.
 - **Pré-jogo — Flamengo x Fluminense (futebol feminino):** prevista para 21/10; confirmar competição, data, horário, transmissão, local, regulamento e informações de elenco antes de produzir.
@@ -462,7 +463,7 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **Formato:** notícia de desempenho individual com contexto da reta decisiva.
 - **Síntese:** Paquetá chegou a 13 gols em 2026, superando suas marcas anteriores pelo Flamengo (12, em 2018) e pelo Lyon (11, em 2021/2022). O texto relaciona o recorde ao momento do clube no Brasileirão e na Libertadores.
 - **SEO:** palavra-chave principal “Lucas Paquetá”; pacote SEO e Resumo para IA registrados na ficha.
-- **Eficiência ofensiva do Flamengo no Brasileirão:** pendente de produção/publicação; apurar estatísticas atuais e fonte comparável, sem repetir a análise da vitória sobre o Bahia.
+- **Eficiência ofensiva do Flamengo no Brasileirão:** transferida para 21/10/2026; pendente de produção/publicação. Apurar estatísticas atuais e fonte comparável, sem repetir a análise da vitória sobre o Bahia.
 - **Pausa nas renovações contratuais:** publicada em 20/10/2026; ficha editorial: [[2026-10-20 - Flamengo pausa negociações por renovações]].
 
 
@@ -488,3 +489,10 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **Resultado:** 3 a 0, parciais de 25–19, 25–21 e 25–14, conforme registro oficial do Flamengo.
 - **Próximo compromisso:** Brasília Vôlei, fora de casa, sexta-feira (23/10), às 18h30, com transmissão da GE TV.
 - **Controle de redundância:** notícia de resultado imediato; futuras matérias devem acrescentar dados ou ângulos novos, sem repetir o relato da estreia.
+
+
+## Programação editorial — 20 de outubro de 2026 (atualização)
+
+- **Pós-jogo — Flamengo x Botafogo (NBB):** incluído na programação de hoje. Produzir após o encerramento da partida, confirmando placar final, parciais, destaques individuais e declarações/fatos relevantes apenas quando verificados. Diferenciar a notícia de resultado do serviço “onde assistir” já publicado.
+- **Eficiência ofensiva do Flamengo no Brasileirão:** transferida para 21/10/2026; não consta mais como tarefa de hoje.
+- **Campinho tático — Bahia 0 x 3 Flamengo:** cancelado pelo editor em 20/10/2026; retirar da lista de pendências e não produzir.
