@@ -269,3 +269,8 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - O editor **cancelou** o campinho tático com setas referente a Bahia 0 x 3 Flamengo. A tarefa não deve permanecer como pendência ativa nem ser produzida.
 - Incluído na programação de 20/10 o **pós-jogo de Flamengo x Botafogo pelo NBB**, a produzir após a partida, com checagem do placar final, parciais e destaques confirmados. A matéria deve cumprir função distinta do serviço “onde assistir” já publicado.
 - Atualizado o Painel de Pautas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
+
+
+## 2026-10-20 — Alteração de data: pré-jogo do futebol feminino
+- O editor transferiu o pré-jogo de Flamengo x Fluminense (futebol feminino) de quarta-feira, 21/10, para quinta-feira, 22/10/2026.
+- O Painel de Pautas foi atualizado no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
