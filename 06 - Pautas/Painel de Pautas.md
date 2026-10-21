@@ -493,6 +493,18 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 
 ## Programação editorial — 20 de outubro de 2026 (atualização)
 
-- **Pós-jogo — Flamengo x Botafogo (NBB):** incluído na programação de hoje. Produzir após o encerramento da partida, confirmando placar final, parciais, destaques individuais e declarações/fatos relevantes apenas quando verificados. Diferenciar a notícia de resultado do serviço “onde assistir” já publicado.
+- **Pós-jogo — Flamengo x Botafogo (NBB):** **publicado em 20/10/2026**. Placar: Flamengo 81 x 71 Botafogo; Ruan foi o cestinha, com 20 pontos. Ficha: [[2026-10-20 - Flamengo x Botafogo - pós-jogo NBB]]. URL: https://fla10.news/noticias/flamengo-vence-o-botafogo-no-classico-e-conquista-primeira-vitoria-no-nbb-202627. Mantido separado do serviço “onde assistir”.
 - **Eficiência ofensiva do Flamengo no Brasileirão:** transferida para 21/10/2026; não consta mais como tarefa de hoje.
 - **Campinho tático — Bahia 0 x 3 Flamengo:** cancelado pelo editor em 20/10/2026; retirar da lista de pendências e não produzir.
+
+
+## Publicação confirmada — 20 de outubro de 2026
+
+### Flamengo vence o Botafogo no clássico e conquista primeira vitória no NBB 2026/27
+- **Estado:** publicada em 20/10/2026, conforme confirmação explícita do editor.
+- **URL pública:** https://fla10.news/noticias/flamengo-vence-o-botafogo-no-classico-e-conquista-primeira-vitoria-no-nbb-202627
+- **Ficha editorial:** [[2026-10-20 - Flamengo x Botafogo - pós-jogo NBB]].
+- **Resultado:** Flamengo 81 x 71 Botafogo, pela segunda rodada do NBB 2026/27.
+- **Destaques:** Ruan (20 pontos), Negrete (17) e Yago (10); Vini Chagas marcou 17 pelo Botafogo.
+- **Ângulo:** primeira vitória rubro-negra no NBB após a derrota na estreia; notícia factual, sem sobreposição com o serviço “onde assistir”.
+- **Próximo compromisso informado pelo clube:** estreia na Liga Sul-Americana contra o Defensor Sporting, em 23/10, às 20h10, no Maracanãzinho.
