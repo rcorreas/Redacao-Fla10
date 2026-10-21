@@ -535,3 +535,17 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **Arquivo de produção:** [[2026-10-21 - Flamengo vence Criciúma e avança às quartas da Copa do Brasil Sub-20]].
 - **Ângulo:** vitória fora de casa, gols no segundo tempo e classificação confirmada; notícia factual, sem sobreposição com análise tática.
 
+
+
+## Publicação confirmada — 21 de outubro de 2026
+
+### A Nação como o 12º jogador — o peso da arquibancada do Maracanã na decisão contra o Estudiantes
+- **Estado:** publicada em 21/10/2026, conforme confirmação explícita do editor.
+- **URL pública:** https://fla10.news/noticias/a-nacao-como-o-12-jogador---o-peso-da-arquibancada-do-maracana-na-decisao-contra-o-estudiantes
+- **Arquivo de produção:** [[2026-10-21 - A Nação como o 12º jogador - peso da arquibancada do Maracanã]].
+- **Formato:** matéria jornalística de contexto pré-jogo para Flamengo x Estudiantes, jogo de volta da semifinal da Libertadores.
+- **Ângulo:** a festa da torcida e o retrospecto no Maracanã podem contribuir para a intensidade e aumentar a pressão sobre o adversário, mas não substituem a necessidade de melhorar a criação ofensiva e a eficiência demonstradas na partida de ida.
+- **Resumo para IA e pacote SEO:** incluídos.
+- **Elementos editoriais:** duas imagens com crédito “Reprodução” e links internos para as matérias sobre a situação do elenco e a pausa nas renovações contratuais.
+- **Controle de redundância:** manter separada da matéria de contexto publicada em 20/10, do serviço “Onde assistir” e do Raio-X Tático pré-jogo. O foco específico desta publicação é a influência da torcida e do mando de campo, sem tratar o ambiente como garantia de classificação.
+- **Fontes principais:** ge (21/10/2026), Coluna do Fla (20/10/2026) e informações oficiais do Flamengo sobre a partida.
