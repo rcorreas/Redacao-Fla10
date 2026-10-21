@@ -450,7 +450,7 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 
 ## Programação editorial — 21 de outubro de 2026
 
-- **Eficiência ofensiva do Flamengo no Brasileirão:** transferida de 20/10 para 21/10; apurar estatísticas atuais, escolher referência comparável e construir ângulo próprio, sem repetir a análise de Bahia 0 x 3 Flamengo.
+- **Eficiência ofensiva do Flamengo no Brasileirão:** transferida para quinta-feira, 22/10/2026; apurar estatísticas atuais, escolher referência comparável e construir ângulo próprio, sem repetir a análise de Bahia 0 x 3 Flamengo.
 - **Onde assistir — Flamengo x Estudiantes:** prevista para 21/10; conferir novamente horário, transmissão, arbitragem, local e demais dados de serviço antes da publicação.
 - **Raio-X Tático — Flamengo x Estudiantes:** prevista para 21/10; manter foco nas estruturas, funções, ajustes e alternativas táticas, sem repetir a matéria de contexto publicada em 20/10.
 - **Pré-jogo — Flamengo x Fluminense (futebol feminino):** transferida para quinta-feira, 22/10/2026; confirmar competição, data, horário, transmissão, local, regulamento e informações de elenco antes de produzir.
@@ -463,7 +463,7 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **Formato:** notícia de desempenho individual com contexto da reta decisiva.
 - **Síntese:** Paquetá chegou a 13 gols em 2026, superando suas marcas anteriores pelo Flamengo (12, em 2018) e pelo Lyon (11, em 2021/2022). O texto relaciona o recorde ao momento do clube no Brasileirão e na Libertadores.
 - **SEO:** palavra-chave principal “Lucas Paquetá”; pacote SEO e Resumo para IA registrados na ficha.
-- **Eficiência ofensiva do Flamengo no Brasileirão:** transferida para 21/10/2026; pendente de produção/publicação. Apurar estatísticas atuais e fonte comparável, sem repetir a análise da vitória sobre o Bahia.
+- **Eficiência ofensiva do Flamengo no Brasileirão:** transferida para quinta-feira, 22/10/2026; pendente de produção/publicação. Apurar estatísticas atuais e fonte comparável, sem repetir a análise da vitória sobre o Bahia.
 - **Pausa nas renovações contratuais:** publicada em 20/10/2026; ficha editorial: [[2026-10-20 - Flamengo pausa negociações por renovações]].
 
 
@@ -559,4 +559,4 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **Ângulo:** como o Flamengo pode melhorar a progressão da bola, conectar meio-campo e ataque, explorar os espaços entre as linhas do Estudiantes e proteger-se das transições, considerando o sistema de Alexander “Cacique” Medina.
 - **Contexto:** o jogo de ida terminou 0 a 0 em La Plata; o Flamengo não acertou finalizações no alvo. Jorginho retorna após suspensão. Qualquer escalação projetada deve permanecer identificada como provável, não oficial.
 - **Controle de redundância:** matéria tática prospectiva, distinta da análise pós-jogo da ida e da matéria de contexto sobre a torcida e o Maracanã. Em eventual cobertura pós-jogo, avaliar apenas os ajustes realmente observados e não presumir que as soluções projetadas foram aplicadas.
-- **Próxima pauta da programação:** eficiência ofensiva do Flamengo no Brasileirão; manter o recorte estatístico separado da análise tática da semifinal.
+- **Próxima pauta da programação:** eficiência ofensiva do Flamengo no Brasileirão, transferida para quinta-feira, 22/10; manter o recorte estatístico separado da análise tática da semifinal.
