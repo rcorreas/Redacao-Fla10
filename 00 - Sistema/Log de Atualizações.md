@@ -274,3 +274,13 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 ## 2026-10-20 — Alteração de data: pré-jogo do futebol feminino
 - O editor transferiu o pré-jogo de Flamengo x Fluminense (futebol feminino) de quarta-feira, 21/10, para quinta-feira, 22/10/2026.
 - O Painel de Pautas foi atualizado no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
+
+
+## 2026-10-20 — Publicação confirmada: pós-jogo Flamengo x Botafogo pelo NBB
+- O editor confirmou a publicação de “Flamengo vence o Botafogo no clássico e conquista primeira vitória no NBB 2026/27”.
+- URL pública: https://fla10.news/noticias/flamengo-vence-o-botafogo-no-classico-e-conquista-primeira-vitoria-no-nbb-202627
+- Criada a ficha editorial `06 - Pautas/2026-10-20 - Flamengo x Botafogo - pós-jogo NBB.md`, com resultado, destaques, resumo para IA, pacote SEO, fontes e controle de redundância.
+- Atualizado o Painel de Pautas: o pós-jogo deixa de constar como tarefa a produzir e passa a constar como publicado, distinto do serviço “onde assistir” publicado anteriormente.
+- Resultado registrado: Flamengo 81 x 71 Botafogo. Ruan foi o cestinha com 20 pontos; Negrete marcou 17 e Yago, dez. Pelo Botafogo, Vini Chagas anotou 17.
+- Fontes de checagem registradas na ficha: relato oficial do Flamengo, cobertura do ge e FogãoNET.
+- Alterações documentais realizadas no GitHub, branch `main`. Esta operação não altera o conteúdo publicado no site nem confirma sincronização do vault local do Obsidian.
