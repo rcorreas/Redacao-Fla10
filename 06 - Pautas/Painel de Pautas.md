@@ -451,7 +451,7 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 ## Programação editorial — 21 de outubro de 2026
 
 - **Eficiência ofensiva do Flamengo no Brasileirão:** transferida para quinta-feira, 22/10/2026; apurar estatísticas atuais, escolher referência comparável e construir ângulo próprio, sem repetir a análise de Bahia 0 x 3 Flamengo.
-- **Onde assistir — Flamengo x Estudiantes:** prevista para 21/10; conferir novamente horário, transmissão, arbitragem, local e demais dados de serviço antes da publicação.
+- **Onde assistir — Flamengo x Estudiantes:** **publicada em 21/10/2026**. URL: https://fla10.news/noticias/flamengo-x-estudiantes-onde-assistir-ao-vivo-horario-provaveis-escalacoes-e-arbitragem---tudo-sobre-o-jogao-que-ira-definir-o-segundo-finalista-da-libertadores-da-america.
 - **Raio-X Tático — Flamengo x Estudiantes:** prevista para 21/10; manter foco nas estruturas, funções, ajustes e alternativas táticas, sem repetir a matéria de contexto publicada em 20/10.
 - **Pré-jogo — Flamengo x Fluminense (futebol feminino):** transferida para quinta-feira, 22/10/2026; confirmar competição, data, horário, transmissão, local, regulamento e informações de elenco antes de produzir.
 
@@ -560,3 +560,17 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **Contexto:** o jogo de ida terminou 0 a 0 em La Plata; o Flamengo não acertou finalizações no alvo. Jorginho retorna após suspensão. Qualquer escalação projetada deve permanecer identificada como provável, não oficial.
 - **Controle de redundância:** matéria tática prospectiva, distinta da análise pós-jogo da ida e da matéria de contexto sobre a torcida e o Maracanã. Em eventual cobertura pós-jogo, avaliar apenas os ajustes realmente observados e não presumir que as soluções projetadas foram aplicadas.
 - **Próxima pauta da programação:** eficiência ofensiva do Flamengo no Brasileirão, transferida para quinta-feira, 22/10; manter o recorte estatístico separado da análise tática da semifinal.
+
+
+## Publicação confirmada — Onde assistir Flamengo x Estudiantes (21 de outubro de 2026)
+
+### Flamengo x Estudiantes: onde assistir ao vivo, horário, prováveis escalações e arbitragem — tudo sobre o jogão que irá definir o segundo finalista da Libertadores da América
+- **Estado:** publicada em 21/10/2026, conforme confirmação explícita do editor.
+- **URL pública:** https://fla10.news/noticias/flamengo-x-estudiantes-onde-assistir-ao-vivo-horario-provaveis-escalacoes-e-arbitragem---tudo-sobre-o-jogao-que-ira-definir-o-segundo-finalista-da-libertadores-da-america
+- **Formato:** serviço completo de pré-jogo — onde assistir, prováveis escalações, arbitragem, momento das equipes, contexto da decisão, ficha do jogo, Resumo para IA e pacote SEO.
+- **Partida:** Flamengo x Estudiantes, jogo de volta da semifinal da Copa Libertadores 2026; quinta-feira, 22/10, às 21h30, no Maracanã.
+- **Placar da ida:** Estudiantes 0 x 0 Flamengo.
+- **Transmissão registrada:** ESPN e Disney+.
+- **Arbitragem registrada:** Gustavo Tejera (URU), com Nicolás Taran e Carlos Barreiro como assistentes; José Burgos como quarto árbitro; Antonio García no VAR, com Santiago Fernández e Leodán González como AVAR.
+- **Controle editorial:** escalações apresentadas como prováveis, não oficiais. A liberação de Marcos Rojo para atuar não deve ser confundida com confirmação de titularidade.
+- **Controle de redundância:** manter a matéria de serviço separada do contexto sobre a torcida no Maracanã e do Raio-X Tático pré-jogo.
