@@ -508,3 +508,14 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **Destaques:** Ruan (20 pontos), Negrete (17) e Yago (10); Vini Chagas marcou 17 pelo Botafogo.
 - **Ângulo:** primeira vitória rubro-negra no NBB após a derrota na estreia; notícia factual, sem sobreposição com o serviço “onde assistir”.
 - **Próximo compromisso informado pelo clube:** estreia na Liga Sul-Americana contra o Defensor Sporting, em 23/10, às 20h10, no Maracanãzinho.
+
+
+## Publicação registrada — 21 de outubro de 2026
+
+### Saúl é dúvida, Ayrton Lucas pode voltar e Danilo está fora da decisão do Flamengo contra o Estudiantes
+- **Estado:** publicada em 21/10/2026, conforme confirmação do editor.
+- **Formato:** notícia de atualização do elenco antes da semifinal da Libertadores.
+- **URL pública:** https://fla10.news/noticias/saul-e-duvida-ayrton-lucas-pode-voltar-e-danilo-esta-fora-da-decisao-do-flamengo-contra-o-estudiantes
+- **Arquivo de produção:** [[2026-10-21 - Saúl é dúvida, Ayrton Lucas pode voltar e Danilo está fora da decisão do Flamengo contra o Estudiantes]].
+- **Ângulo:** Saúl como dúvida sujeito a reavaliação, Ayrton Lucas como possível retorno aos relacionados e Danilo descartado após cirurgia na mandíbula.
+- **Nota editorial:** a matéria foi publicada com base nas informações disponíveis antes do treino de quarta-feira; qualquer atualização posterior deve ser registrada como correção ou atualização, sem presumir que a avaliação final já havia ocorrido.
