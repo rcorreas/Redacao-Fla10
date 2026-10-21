@@ -521,16 +521,17 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **Nota editorial:** a matéria foi publicada com base nas informações disponíveis antes do treino de quarta-feira; qualquer atualização posterior deve ser registrada como correção ou atualização, sem presumir que a avaliação final já havia ocorrido.
 
 
-## Pauta incluída — 21 de outubro de 2026
+## Publicação registrada — 21 de outubro de 2026
 
 ### Flamengo vence o Criciúma fora de casa e avança às quartas da Copa do Brasil Sub-20
-- **Estado:** matéria produzida para revisão; publicação ainda não confirmada.
+- **Estado:** publicada em 21/10/2026, conforme confirmação do editor.
 - **Data do jogo:** 20/10/2026.
 - **Formato:** notícia pós-jogo.
 - **Resultado:** Criciúma 0 x 2 Flamengo; agregado 1 x 6.
 - **Competição:** oitavas de final da Copa do Brasil Sub-20.
 - **Gols:** Sayago, aos 7 minutos do segundo tempo, e João Vitor Couto, aos 40.
 - **Próximo adversário:** vencedor de Operário-PR x Náutico.
-- **Fontes de apuração:** Flamengo, Federação Catarinense de Futebol e Federação de Futebol do Estado do Rio de Janeiro.
-- **Ângulo:** vitória fora de casa, gols no segundo tempo e classificação confirmada; não confundir com análise tática.
+- **URL pública:** https://fla10.news/noticias/flamengo-vence-o-criciuma-fora-de-casa-e-avanca-as-quartas-da-copa-do-brasil-sub-20
 - **Arquivo de produção:** [[2026-10-21 - Flamengo vence Criciúma e avança às quartas da Copa do Brasil Sub-20]].
+- **Ângulo:** vitória fora de casa, gols no segundo tempo e classificação confirmada; notícia factual, sem sobreposição com análise tática.
+
