@@ -2,7 +2,8 @@
 
 **Rubro-Negro supera pressão inicial, marca duas vezes no segundo tempo e fecha as oitavas com 6 a 1 no placar agregado**
 
-**Status:** matéria produzida para revisão; publicação ainda não confirmada.  
+**Status:** publicada em 21/10/2026.
+**URL pública:** https://fla10.news/noticias/flamengo-vence-o-criciuma-fora-de-casa-e-avanca-as-quartas-da-copa-do-brasil-sub-20  
 **Data do jogo:** 20/10/2026  
 **Formato:** notícia pós-jogo
 
