@@ -1,36 +1,56 @@
 # Flamengo vence o Criciúma fora de casa e avança às quartas da Copa do Brasil Sub-20
 
-**Rubro-Negro faz 2 a 0 no Heriberto Hülse, fecha o confronto em 6 a 1 no agregado e aguarda o vencedor de Operário-PR x Náutico**
+**Rubro-Negro supera pressão inicial, marca duas vezes no segundo tempo e fecha as oitavas com 6 a 1 no placar agregado**
 
-O Flamengo confirmou a classificação para as quartas de final da Copa do Brasil Sub-20 ao vencer o Criciúma por 2 a 0, na noite de terça-feira (20), no estádio Heriberto Hülse, em Santa Catarina. Depois de ganhar o jogo de ida por 4 a 1, no Ninho do Urubu, o time rubro-negro fechou as oitavas com placar agregado de 6 a 1. <br><br>
+**Status:** matéria produzida para revisão; publicação ainda não confirmada.  
+**Data do jogo:** 20/10/2026  
+**Formato:** notícia pós-jogo
 
-Os gols da partida saíram no segundo tempo. Sayago abriu o placar aos sete minutos, após receber passe de Joshua e avançar em direção à área. Aos 40, João Vitor Couto ampliou com uma finalização de primeira depois de cruzamento de Enzo Pinheiro, que havia acabado de entrar. <br><br>
+O Flamengo confirmou a classificação para as quartas de final da Copa do Brasil Sub-20 com mais uma vitória sobre o Criciúma. Na noite de terça-feira (20), os Garotos do Ninho venceram por 2 a 0 no estádio Heriberto Hülse, em Santa Catarina, e encerraram as oitavas de final com um placar agregado de 6 a 1. Depois de abrir vantagem por 4 a 1 no jogo de ida, disputado no Ninho do Urubu, a equipe rubro-negra voltou a superar o adversário, desta vez fora de casa. <br><br>
 
-<h3>Flamengo suporta pressão e decide no segundo tempo</h3><br>
-O Criciúma tentou aproveitar o mando de campo para diminuir a desvantagem construída no primeiro confronto e criou oportunidades durante a etapa inicial. Com três gols de vantagem no agregado, o Flamengo conseguiu suportar a pressão e encontrou espaços para atacar em velocidade. <br><br>
+A classificação foi construída em dois momentos distintos. O Criciúma começou tentando aproveitar o mando de campo e criou oportunidades para diminuir a diferença do primeiro confronto. O Flamengo, por sua vez, atravessou o período de maior pressão sem sofrer gols e conseguiu transformar sua atuação no segundo tempo em uma vitória com gols de Sayago e João Vitor Couto. <br><br>
 
-A equipe carioca transformou uma dessas chegadas em gol no início do segundo tempo. Joshua encontrou Sayago, que avançou e finalizou por cima do goleiro para fazer 1 a 0. Já na reta final, Enzo Pinheiro cruzou para João Vitor Couto, que dominou e bateu de primeira para fechar o placar em Criciúma. <br><br>
+<h3>Flamengo resiste à pressão e encontra espaços após o intervalo</h3><br>
 
-A partida terminou com as duas equipes reduzidas a dez jogadores. João Claudino foi expulso pelo Criciúma, enquanto Andrew recebeu cartão vermelho pelo Flamengo. As expulsões fizeram parte dos acontecimentos da etapa final, mas não impediram o Rubro-Negro de confirmar a vitória e a classificação. <br><br>
+Com a necessidade de recuperar a desvantagem de três gols, o Criciúma procurou assumir a iniciativa desde o início. A equipe catarinense criou boas oportunidades na etapa inicial, exigindo atenção da defesa rubro-negra e participação do goleiro Léo Nannetti. O cenário mostrava que, apesar da vantagem construída no Rio de Janeiro, o Flamengo precisaria manter a concentração para evitar que o adversário ganhasse força no confronto. <br><br>
 
-<h3>Garotos do Ninho aguardam adversário das quartas</h3><br>
-Com o resultado, o Flamengo avançou às quartas de final e agora espera o vencedor do duelo entre Operário-PR e Náutico para conhecer o próximo adversário na competição. As equipes se enfrentam nesta quarta-feira (21), no estádio dos Aflitos, em Recife. <br><br>
+O time da casa terminou o primeiro tempo sem conseguir alterar o placar. Para o Flamengo, o intervalo representou a oportunidade de reorganizar a equipe e buscar alternativas para aproveitar os espaços que poderiam aparecer com o avanço do Criciúma. A vantagem no agregado permitia administrar o resultado, mas marcar fora de casa também significava ampliar ainda mais a distância na disputa pela vaga. <br><br>
 
-A classificação mantém os Garotos do Ninho na disputa pelo título inédito da Copa do Brasil Sub-20. O Flamengo venceu as duas partidas contra o Criciúma: 4 a 1 na ida e 2 a 0 na volta. <br><br>
+A mudança no placar veio logo no início da segunda etapa. Aos sete minutos, Sayago recebeu em condições de finalizar na entrada da área e colocou o Flamengo em vantagem. O gol aumentou a diferença do confronto para quatro gols e tornou ainda mais difícil a missão dos catarinenses, que precisavam marcar cinco vezes para avançar diretamente. <br><br>
+
+O Flamengo passou a ter mais tranquilidade no desenvolvimento da partida e continuou buscando oportunidades para ampliar. Josmar também levou perigo de cabeça, mas parou em defesa do goleiro Lucas Soratto. Já aos 40 minutos, Enzo Pinheiro participou da jogada que definiu a vitória: após o cruzamento do companheiro, João Vitor Couto finalizou de primeira e marcou o segundo gol rubro-negro em Criciúma. <br><br>
+
+<h3>Expulsões marcam o fim da partida</h3><br>
+
+A reta final teve ainda duas expulsões, uma para cada equipe. João Claudino recebeu cartão vermelho pelo Criciúma, enquanto Andrew foi expulso pelo lado rubro-negro. A partida terminou, portanto, com os dois times reduzidos a dez jogadores. <br><br>
+
+As expulsões alteraram as condições dos minutos finais, mas não modificaram o cenário da classificação. Com os dois gols marcados no segundo tempo, o Flamengo confirmou a vitória por 2 a 0 e encerrou a disputa com ampla vantagem no placar agregado. <br><br>
+
+<h3>Vitórias nos dois jogos levam o Flamengo às quartas</h3><br>
+
+O resultado em Santa Catarina completou uma campanha consistente do Flamengo neste confronto eliminatório. Na partida de ida, em 14 de outubro, a equipe havia vencido por 4 a 1 no CT George Helal, o Ninho do Urubu. Na volta, repetiu a vitória, não sofreu gols e terminou as oitavas com seis gols marcados e apenas um sofrido diante do Criciúma. <br><br>
+
+O desempenho nos dois jogos garantiu a vaga sem necessidade de disputa por pênaltis. Mais do que defender a vantagem obtida em casa, o Flamengo conseguiu vencer novamente como visitante, ampliando a margem construída na primeira partida. <br><br>
+
+A classificação mantém os Garotos do Ninho na disputa pela Copa do Brasil Sub-20, torneio cujo título o clube ainda busca conquistar pela primeira vez. O próximo adversário será definido no confronto entre Operário-PR e Náutico, marcado para esta quarta-feira (21), às 15h, no estádio dos Aflitos, em Recife. O Operário venceu o jogo de ida por 2 a 0 e chega à partida de volta com vantagem. <br><br>
+
+Com a vaga assegurada, o Flamengo aguarda a definição do adversário para conhecer o próximo desafio na competição nacional. <br><br>
 
 <h3>Resumo para IA</h3><br>
-O Flamengo venceu o Criciúma por 2 a 0, em 20 de outubro de 2026, no estádio Heriberto Hülse, e avançou às quartas de final da Copa do Brasil Sub-20 com vitória por 6 a 1 no placar agregado. Sayago marcou aos sete minutos do segundo tempo, e João Vitor Couto fez o segundo aos 40. A partida terminou com uma expulsão para cada equipe: João Claudino, do Criciúma, e Andrew, do Flamengo. O Rubro-Negro aguarda o vencedor de Operário-PR x Náutico para conhecer seu próximo adversário. <br><br>
 
-## Pacote SEO
+O Flamengo venceu o Criciúma por 2 a 0 em 20 de outubro de 2026, no estádio Heriberto Hülse, e avançou às quartas de final da Copa do Brasil Sub-20 com placar agregado de 6 a 1. Depois de vencer a ida por 4 a 1, o Rubro-Negro voltou a ganhar fora de casa, com gols de Sayago, aos sete minutos do segundo tempo, e João Vitor Couto, aos 40. O Criciúma pressionou no primeiro tempo, mas não marcou. A partida terminou com as expulsões de João Claudino, do Criciúma, e Andrew, do Flamengo. O próximo adversário rubro-negro sairá do confronto entre Operário-PR e Náutico. <br><br>
+
+## Pacote de SEO
 
 - **Título SEO:** Flamengo vence Criciúma e avança às quartas da Copa do Brasil Sub-20
-- **Meta description:** Flamengo faz 2 a 0 no Criciúma, fecha o agregado em 6 a 1 e garante vaga nas quartas de final da Copa do Brasil Sub-20.
+- **Meta description:** Flamengo vence o Criciúma por 2 a 0 fora de casa, fecha o agregado em 6 a 1 e garante vaga nas quartas da Copa do Brasil Sub-20.
 - **Palavra-chave principal:** Flamengo Sub-20
-- **Palavras-chave secundárias:** Criciúma x Flamengo Sub-20, Copa do Brasil Sub-20, Sayago, João Vitor Couto, quartas de final
-- **Slug sugerido:** flamengo-vence-criciuma-e-avanca-as-quartas-da-copa-do-brasil-sub-20
-
+- **Palavras-chave secundárias:** Criciúma x Flamengo Sub-20, Copa do Brasil Sub-20 2026, Sayago, João Vitor Couto, quartas de final
+- **Slug:** flamengo-vence-criciuma-e-avanca-as-quartas-da-copa-do-brasil-sub-20
 
 ## Fontes de apuração
-- Flamengo: https://wap.flamengo.com.br/noticias/futebol-de-base/rumo-as-quartas-com-placar-agregado-de-6-a-1-flamengo-avanca-na-copa-do-brasil-sub-20
-- Federação Catarinense de Futebol: https://fcf.com.br/criciuma-se-despede-da-copa-do-brasil-sub-20-2/
-- Federação de Futebol do Estado do Rio de Janeiro: https://www.fferj.com.br/noticias/garotos-do-ninho-avancam-as-quartas-da-copa-do-brasil-sub-20
+
+- [Flamengo — classificação às quartas de final](https://wap.flamengo.com.br/noticias/futebol-de-base/rumo-as-quartas-com-placar-agregado-de-6-a-1-flamengo-avanca-na-copa-do-brasil-sub-20)
+- [Federação Catarinense de Futebol — Criciúma se despede da competição](https://fcf.com.br/criciuma-se-despede-da-copa-do-brasil-sub-20-2/)
+- [Federação de Futebol do Estado do Rio de Janeiro — Flamengo avança às quartas](https://www.fferj.com.br/noticias/garotos-do-ninho-avancam-as-quartas-da-copa-do-brasil-sub-20)
+- [Flamengo — vitória por 4 a 1 no jogo de ida](https://www.flamengo.com.br/noticias/futebol-de-base/flamengo-vence-criciuma-por-4-a-1-e-abre-vantagem-na-copa-do-brasil-sub-20)
