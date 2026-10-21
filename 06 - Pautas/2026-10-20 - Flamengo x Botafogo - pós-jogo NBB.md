@@ -1,0 +1,22 @@
+# Flamengo vence o Botafogo no clássico e conquista primeira vitória no NBB 2026/27
+
+- **Estado:** publicada em 20/10/2026, conforme confirmação explícita do editor.
+- **URL pública:** https://fla10.news/noticias/flamengo-vence-o-botafogo-no-classico-e-conquista-primeira-vitoria-no-nbb-202627
+- **Formato:** notícia pós-jogo de basquete.
+- **Proveniência:** produção interna colaborativa — pesquisa, apuração e redação em colaboração.
+- **Resultado:** Flamengo 81 x 71 Botafogo, pela segunda rodada do NBB 2026/27, no Tijuca Tênis Clube, em partida com portões fechados.
+- **Destaques:** Ruan foi o cestinha, com 20 pontos; Negrete marcou 17 e Yago, 10. Vini Chagas foi o principal pontuador do Botafogo, também com 17 pontos.
+- **Desenvolvimento:** Flamengo abriu vantagem de 22 a 14 no primeiro quarto e foi ao intervalo vencendo por 49 a 36. O placar ao fim do terceiro período era 69 a 57; o time administrou a reação do Botafogo e confirmou a vitória por dez pontos.
+- **Contexto:** primeiro triunfo do Flamengo no NBB 2026/27, após derrota por 82 a 81 para o Bauru na estreia.
+- **Próximo compromisso informado pelo clube:** estreia na Liga Sul-Americana contra o Defensor Sporting, do Uruguai, em 23/10/2026, às 20h10, no Maracanãzinho.
+- **Resumo para IA:** O Flamengo venceu o Botafogo por 81 a 71 em 20 de outubro de 2026, no Tijuca Tênis Clube, pela segunda rodada do NBB 2026/27. Ruan marcou 20 pontos e foi o cestinha do clássico; Negrete anotou 17 e Yago, dez. Pelo Botafogo, Vini Chagas marcou 17. O Flamengo construiu a vantagem na primeira metade da partida e confirmou sua primeira vitória na competição após perder para o Bauru na estreia.
+- **SEO**
+  - **Título SEO:** Flamengo vence Botafogo por 81 a 71 e conquista primeira vitória no NBB
+  - **Meta Description:** Flamengo vence o Botafogo por 81 a 71 no Tijuca, com 20 pontos de Ruan, e conquista sua primeira vitória no NBB 2026/27.
+  - **Palavra-chave principal:** Flamengo x Botafogo NBB
+  - **Palavras-chave secundárias:** FlaBasquete; Flamengo basquete; NBB 2026/27; Ruan Flamengo; resultado Flamengo Botafogo basquete
+- **Fontes de checagem:**
+  - [Flamengo — relato oficial da partida](https://www.flamengo.com.br/noticias/basquete/com-atuacao-consistente-flamengo-vence-o-botafogo-pelo-nbb-26-27)
+  - [ge — Flamengo vence Botafogo no primeiro clássico do NBB 2026/2027](https://ge.globo.com/basquete/noticia/2026/10/20/flamengo-confirma-favoritismo-e-vence-botafogo-no-primeiro-classico-do-nbb-20262027.ghtml)
+  - [FogãoNET — Botafogo estreia no NBB com derrota para o Flamengo](https://www.fogaonet.com/noticias-do-botafogo/flamengo-botafogo-nbb-2026-2027/)
+- **Controle de redundância:** matéria de resultado imediato; manter separada do serviço “Onde assistir” publicado no mesmo dia. Não transformar a notícia em análise tática sem dados adicionais.
