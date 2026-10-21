@@ -549,3 +549,14 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **Elementos editoriais:** duas imagens com crédito “Reprodução” e links internos para as matérias sobre a situação do elenco e a pausa nas renovações contratuais.
 - **Controle de redundância:** manter separada da matéria de contexto publicada em 20/10, do serviço “Onde assistir” e do Raio-X Tático pré-jogo. O foco específico desta publicação é a influência da torcida e do mando de campo, sem tratar o ambiente como garantia de classificação.
 - **Fontes principais:** ge (21/10/2026), Coluna do Fla (20/10/2026) e informações oficiais do Flamengo sobre a partida.
+
+## Publicação confirmada — Raio-X Tático pré-jogo Flamengo x Estudiantes (21 de outubro de 2026)
+
+### Raio-X Tático: Flamengo precisa desmontar o sistema de Medina e corrigir a própria desconexão ofensiva
+- **Estado:** publicada em 21/10/2026, conforme confirmação explícita do editor.
+- **URL pública:** https://fla10.news/raio-x/raio-x-tatico-flamengo-precisa-desmontar-o-sistema-de-medina-e-corrigir-a-propria-desconexao-ofensiva
+- **Formato:** Raio-X Tático pré-jogo — volta da semifinal da Libertadores, no Maracanã.
+- **Ângulo:** como o Flamengo pode melhorar a progressão da bola, conectar meio-campo e ataque, explorar os espaços entre as linhas do Estudiantes e proteger-se das transições, considerando o sistema de Alexander “Cacique” Medina.
+- **Contexto:** o jogo de ida terminou 0 a 0 em La Plata; o Flamengo não acertou finalizações no alvo. Jorginho retorna após suspensão. Qualquer escalação projetada deve permanecer identificada como provável, não oficial.
+- **Controle de redundância:** matéria tática prospectiva, distinta da análise pós-jogo da ida e da matéria de contexto sobre a torcida e o Maracanã. Em eventual cobertura pós-jogo, avaliar apenas os ajustes realmente observados e não presumir que as soluções projetadas foram aplicadas.
+- **Próxima pauta da programação:** eficiência ofensiva do Flamengo no Brasileirão; manter o recorte estatístico separado da análise tática da semifinal.
