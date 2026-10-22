@@ -608,3 +608,15 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **Rascunho do artigo:** [[2026-10-22 - Análise pré-jogo Flamengo x Estudiantes - artigo]].
 - **Controle de redundância:** não repetir o serviço publicado em 21/10, a matéria sobre torcida/Maracanã publicada em 20/10, o Raio-X Tático pré-jogo publicado em 21/10 nem a matéria anterior sobre ajustes de Jardim.
 - **Regra de execução:** debater a pauta e receber autorização explícita antes de iniciar a redação.
+
+
+## Publicação confirmada — análise tática do Estudiantes (22 de outubro de 2026)
+
+### Estudiantes expõe fragilidades com linha de cinco antes de enfrentar o Flamengo
+- **Estado:** publicada em 22/10/2026, conforme confirmação explícita do editor.
+- **URL pública:** https://fla10.news/noticias/estudiantes-expoe-fragilidades-com-linha-de-cinco-antes-de-enfrentar-o-flamengo
+- **Ficha editorial:** [[2026-10-22 - Estudiantes fragilidades linha de cinco]].
+- **Formato:** análise tática de adversário / preparação para a semifinal da Libertadores.
+- **Ângulo:** dificuldades coletivas observadas na linha de cinco do Estudiantes contra o San Lorenzo, sobretudo na cobertura dos corredores laterais e na transição defensiva; comparação das alternativas de linha de quatro e linha de cinco com Marcos Rojo.
+- **Limites da apuração:** os relatos argentinos sustentam observações sobre aquela partida, mas não provam uma fragilidade permanente. Não houve codificação quadro a quadro de múltiplos jogos nem estatística comparativa robusta sobre cruzamentos.
+- **Controle de redundância:** distinta do serviço “Onde assistir”, da análise pré-jogo geral e do Raio-X Tático pré-jogo. Atualizações futuras exigem novos dados ou observações táticas verificáveis.
