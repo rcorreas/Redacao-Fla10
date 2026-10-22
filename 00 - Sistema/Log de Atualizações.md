@@ -321,3 +321,13 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - A análise se baseia em relatos da imprensa argentina sobre Estudiantes 1 x 2 San Lorenzo e nas alternativas de sistema discutidas para a semifinal. O registro deixa explícito que as observações de uma partida não demonstram falha permanente e que não houve análise quadro a quadro de vários jogos.
 - Proveniência: produção interna colaborativa.
 - Alterações documentais realizadas no GitHub, branch `main`. Esta operação registra a publicação no vault; não altera o conteúdo do site nem confirma sincronização do vault local do Obsidian.
+
+
+## 2026-10-22 — Publicação confirmada: análise pré-jogo Flamengo x Estudiantes
+- O editor confirmou a publicação de “Flamengo x Estudiantes: para chegar à final, o Rubro-Negro precisa transformar domínio em perigo”.
+- URL pública: https://fla10.news/noticias/pre-jogo---flamengo-x-estudiantes-para-chegar-a-final-o-rubro-negro-precisa-transformar-dominio-em-perigo
+- Criada a ficha editorial `06 - Pautas/2026-10-22 - Flamengo x Estudiantes - transformar domínio em perigo.md`, com estado publicado, ângulo, resumo para IA, pacote SEO e controle de redundância.
+- Atualizado o Painel de Pautas: o rascunho deixa de constar como pendente e passa a constar como publicado.
+- A análise enfatiza a necessidade de converter posse e mando de campo em chances reais e inclui um subtítulo sobre a marca histórica possível em caso de classificação.
+- A afirmação sobre a quinta final em oito anos e a sexta final da história foi registrada com ressalva para conferir a fonte original e o critério comparativo antes de reutilização.
+- Alterações documentais realizadas no GitHub, branch `main`. Esta operação não altera o conteúdo do site nem confirma sincronização do vault local do Obsidian.
