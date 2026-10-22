@@ -574,3 +574,13 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **Arbitragem registrada:** Gustavo Tejera (URU), com Nicolás Taran e Carlos Barreiro como assistentes; José Burgos como quarto árbitro; Antonio García no VAR, com Santiago Fernández e Leodán González como AVAR.
 - **Controle editorial:** escalações apresentadas como prováveis, não oficiais. A liberação de Marcos Rojo para atuar não deve ser confundida com confirmação de titularidade.
 - **Controle de redundância:** manter a matéria de serviço separada do contexto sobre a torcida no Maracanã e do Raio-X Tático pré-jogo.
+
+## Programação editorial — 23 de outubro de 2026
+
+### Onde assistir — estreia do FlaBasquete na Liga Sul-Americana
+- **Estado:** pauta transferida de 22/10 para 23/10/2026; pendente de apuração, produção e publicação.
+- **Formato:** matéria de serviço — onde assistir.
+- **Objetivo:** informar horário, adversário, local e transmissão confirmados para a estreia do Flamengo na Liga Sul-Americana de Basquete.
+- **Apuração obrigatória:** confirmar na organização da competição e nos canais oficiais do Flamengo o adversário, horário local, ginásio, formato da fase de grupos e transmissão. Não publicar plataforma de transmissão sem confirmação.
+- **Contexto preliminar:** partida prevista para sexta-feira, 23/10, no Maracanãzinho; horário e adversário precisam ser reconfirmados antes da redação.
+- **Pacote editorial:** título e subtítulo, marcadores de fim de parágrafo e subtítulo interno, Resumo para IA e pacote SEO.
