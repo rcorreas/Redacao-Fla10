@@ -453,7 +453,7 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **Eficiência ofensiva do Flamengo no Brasileirão:** transferida para quinta-feira, 22/10/2026; apurar estatísticas atuais, escolher referência comparável e construir ângulo próprio, sem repetir a análise de Bahia 0 x 3 Flamengo.
 - **Onde assistir — Flamengo x Estudiantes:** **publicada em 21/10/2026**. URL: https://fla10.news/noticias/flamengo-x-estudiantes-onde-assistir-ao-vivo-horario-provaveis-escalacoes-e-arbitragem---tudo-sobre-o-jogao-que-ira-definir-o-segundo-finalista-da-libertadores-da-america.
 - **Raio-X Tático — Flamengo x Estudiantes:** prevista para 21/10; manter foco nas estruturas, funções, ajustes e alternativas táticas, sem repetir a matéria de contexto publicada em 20/10.
-- **Pré-jogo — Flamengo x Fluminense (futebol feminino):** transferida para quinta-feira, 22/10/2026; confirmar competição, data, horário, transmissão, local, regulamento e informações de elenco antes de produzir.
+- **Onde assistir — Fluminense x Flamengo (futebol feminino):** **publicada em 22/10/2026**. URL: https://fla10.news/noticias/fluminense-x-flamengo-feminino-onde-assistir-ao-vivo-horario-e-local-do-jogo-pela-copa-do-brasil. Ficha editorial: [[2026-10-22 - Fluminense x Flamengo - onde assistir Copa do Brasil Feminina]].
 
 ## Pautas ainda pendentes — programação de 20 de outubro
 ### Paquetá bate recorde pessoal no Flamengo e ganha peso na reta decisiva da temporada
@@ -584,3 +584,13 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **Apuração obrigatória:** confirmar na organização da competição e nos canais oficiais do Flamengo o adversário, horário local, ginásio, formato da fase de grupos e transmissão. Não publicar plataforma de transmissão sem confirmação.
 - **Contexto preliminar:** partida prevista para sexta-feira, 23/10, no Maracanãzinho; horário e adversário precisam ser reconfirmados antes da redação.
 - **Pacote editorial:** título e subtítulo, marcadores de fim de parágrafo e subtítulo interno, Resumo para IA e pacote SEO.
+
+
+## Publicação confirmada — 22 de outubro de 2026
+
+### Fluminense x Flamengo feminino: onde assistir ao vivo, horário e local do jogo pela Copa do Brasil
+- **Estado:** publicada em 22/10/2026, conforme confirmação explícita do editor.
+- **URL pública:** https://fla10.news/noticias/fluminense-x-flamengo-feminino-onde-assistir-ao-vivo-horario-e-local-do-jogo-pela-copa-do-brasil
+- **Ficha editorial:** [[2026-10-22 - Fluminense x Flamengo - onde assistir Copa do Brasil Feminina]].
+- **Formato:** serviço de jogo — Onde assistir.
+- **Controle editorial:** registro referente à partida de 22/10; manter separado da matéria do jogo de ida publicada em 15/10/2026.
