@@ -599,11 +599,12 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 ## Pauta criada — análise pré-jogo Flamengo x Estudiantes (22 de outubro de 2026)
 
 ### Flamengo x Estudiantes: o que pode decidir a vaga na final da Libertadores?
-- **Estado:** pauta criada em 22/10/2026; aguarda debate editorial e autorização explícita para produção.
+- **Estado:** rascunho de análise produzido em 22/10/2026; aguarda revisão editorial e confirmação de publicação.
 - **Formato:** análise jornalística de pré-jogo, distinta do serviço “Onde assistir” e do Raio-X Tático.
 - **Partida:** volta da semifinal da Libertadores, 22/10/2026, às 21h30, no Maracanã; ida terminou 0 a 0.
 - **Pergunta central:** o Flamengo conseguirá transformar o mando de campo em chances reais sem repetir a desconexão ofensiva e a falta de finalizações no alvo observadas em La Plata?
 - **Ângulo:** lições da ida, produção ofensiva, disponibilidade do elenco, momento das equipes e condições para a classificação. A tese deve ser testada com fatos e não tratada como conclusão antecipada.
-- **Ficha editorial:** [[2026-10-22 - Análise pré-jogo Flamengo x Estudiantes]].
+- **Ficha da pauta:** [[2026-10-22 - Análise pré-jogo Flamengo x Estudiantes]].
+- **Rascunho do artigo:** [[2026-10-22 - Análise pré-jogo Flamengo x Estudiantes - artigo]].
 - **Controle de redundância:** não repetir o serviço publicado em 21/10, a matéria sobre torcida/Maracanã publicada em 20/10, o Raio-X Tático pré-jogo publicado em 21/10 nem a matéria anterior sobre ajustes de Jardim.
 - **Regra de execução:** debater a pauta e receber autorização explícita antes de iniciar a redação.
