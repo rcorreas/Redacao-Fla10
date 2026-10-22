@@ -284,3 +284,11 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Resultado registrado: Flamengo 81 x 71 Botafogo. Ruan foi o cestinha com 20 pontos; Negrete marcou 17 e Yago, dez. Pelo Botafogo, Vini Chagas anotou 17.
 - Fontes de checagem registradas na ficha: relato oficial do Flamengo, cobertura do ge e FogãoNET.
 - Alterações documentais realizadas no GitHub, branch `main`. Esta operação não altera o conteúdo publicado no site nem confirma sincronização do vault local do Obsidian.
+
+
+## 2026-10-22 — Publicação confirmada: Fluminense x Flamengo feminino
+- O editor confirmou a publicação da matéria de serviço “Fluminense x Flamengo feminino: onde assistir ao vivo, horário e local do jogo pela Copa do Brasil”.
+- URL pública: https://fla10.news/noticias/fluminense-x-flamengo-feminino-onde-assistir-ao-vivo-horario-e-local-do-jogo-pela-copa-do-brasil
+- Criada a ficha editorial `06 - Pautas/2026-10-22 - Fluminense x Flamengo - onde assistir Copa do Brasil Feminina.md`.
+- Atualizado o Painel de Pautas: a tarefa de pré-jogo feminino deixa de constar como pendente e passa a constar como publicada.
+- Alterações documentais realizadas no GitHub, branch `main`. Esta operação não altera o conteúdo publicado no site nem confirma sincronização do vault local do Obsidian.
