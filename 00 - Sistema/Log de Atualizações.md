@@ -311,3 +311,13 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Atualizado o Painel de Pautas: estado alterado para **rascunho produzido; aguarda revisão editorial e confirmação de publicação**.
 - O texto não inclui resultado da partida de volta nem apresenta escalações prováveis como oficiais. Reconfirmar notícias médicas e escalações antes de publicar.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
+
+
+## 2026-10-22 — Publicação confirmada: Estudiantes expõe fragilidades com linha de cinco
+- O editor confirmou a publicação de “Estudiantes expõe fragilidades com linha de cinco antes de enfrentar o Flamengo”.
+- URL pública: https://fla10.news/noticias/estudiantes-expoe-fragilidades-com-linha-de-cinco-antes-de-enfrentar-o-flamengo
+- Criada a ficha editorial `06 - Pautas/2026-10-22 - Estudiantes fragilidades linha de cinco.md`, com status publicado, ângulo, SEO, fontes e limites da apuração.
+- Atualizado o Painel de Pautas para registrar a publicação e reduzir risco de redundância.
+- A análise se baseia em relatos da imprensa argentina sobre Estudiantes 1 x 2 San Lorenzo e nas alternativas de sistema discutidas para a semifinal. O registro deixa explícito que as observações de uma partida não demonstram falha permanente e que não houve análise quadro a quadro de vários jogos.
+- Proveniência: produção interna colaborativa.
+- Alterações documentais realizadas no GitHub, branch `main`. Esta operação registra a publicação no vault; não altera o conteúdo do site nem confirma sincronização do vault local do Obsidian.
