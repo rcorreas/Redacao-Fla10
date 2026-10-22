@@ -292,3 +292,13 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Criada a ficha editorial `06 - Pautas/2026-10-22 - Fluminense x Flamengo - onde assistir Copa do Brasil Feminina.md`.
 - Atualizado o Painel de Pautas: a tarefa de pré-jogo feminino deixa de constar como pendente e passa a constar como publicada.
 - Alterações documentais realizadas no GitHub, branch `main`. Esta operação não altera o conteúdo publicado no site nem confirma sincronização do vault local do Obsidian.
+
+
+## 2026-10-22 — Criada pauta de análise pré-jogo Flamengo x Estudiantes
+- Criada a ficha editorial `06 - Pautas/2026-10-22 - Análise pré-jogo Flamengo x Estudiantes.md`.
+- Registrada no Painel de Pautas a análise prospectiva da volta da semifinal da Libertadores, com o empate por 0 a 0 na ida como contexto.
+- Pergunta central: o Flamengo conseguirá transformar o mando de campo em chances reais sem repetir a desconexão ofensiva observada em La Plata?
+- O escopo distingue a análise do serviço “Onde assistir”, da matéria sobre torcida/Maracanã e do Raio-X Tático pré-jogo já publicados.
+- **Estado:** pauta criada; aguarda debate editorial e autorização explícita antes da redação.
+- Referências iniciais e limites de apuração foram registrados na ficha. O texto final deverá confirmar escalações e informações de última hora, separar fatos de hipóteses e incluir Resumo para IA e pacote SEO.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
