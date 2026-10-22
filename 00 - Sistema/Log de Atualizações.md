@@ -302,3 +302,12 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - **Estado:** pauta criada; aguarda debate editorial e autorização explícita antes da redação.
 - Referências iniciais e limites de apuração foram registrados na ficha. O texto final deverá confirmar escalações e informações de última hora, separar fatos de hipóteses e incluir Resumo para IA e pacote SEO.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
+
+
+## 2026-10-22 — Rascunho de análise pré-jogo Flamengo x Estudiantes criado
+- Produzido o rascunho `06 - Pautas/2026-10-22 - Análise pré-jogo Flamengo x Estudiantes - artigo.md`, com título, subtítulo, Resumo para IA, marcadores `<br><br>`, subtítulos internos e pacote SEO.
+- A análise concentra-se na necessidade de converter posse em ameaça ofensiva, no retorno de Jorginho, nas ausências do Flamengo, nas opções defensivas recuperadas pelo Estudiantes e nos cenários da decisão.
+- Fontes recentes registradas na ficha: ge (22/10, contexto e escalações), ge (16/10, estatísticas da ida), ge (21/10, situação do elenco) e CNN Brasil (21/10, liberação de Marcos Rojo).
+- Atualizado o Painel de Pautas: estado alterado para **rascunho produzido; aguarda revisão editorial e confirmação de publicação**.
+- O texto não inclui resultado da partida de volta nem apresenta escalações prováveis como oficiais. Reconfirmar notícias médicas e escalações antes de publicar.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
