@@ -585,6 +585,14 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **Controle de redundância:** manter o foco em indicadores estatísticos de desempenho no Brasileirão, distinto do Raio-X Tático da Libertadores.
 - **Pacote editorial:** título e subtítulo, marcadores de fim de parágrafo, Resumo para IA e pacote SEO.
 
+### Análise — falhas do esquema tático de Leonardo Jardim na Libertadores
+- **Estado:** pauta incluída em 23/10/2026; ainda não debatida nem autorizada para produção.
+- **Formato previsto:** análise tática aprofundada sobre a campanha do Flamengo na Libertadores.
+- **Diretriz de fluxo:** discutir a pauta com o editor no momento da criação, definindo pergunta central, tese, evidências e recorte antes de iniciar a redação.
+- **Limite nesta etapa:** não antecipar conclusões nem fixar argumentos específicos antes do debate editorial.
+- **Controle de redundância:** diferenciar a futura análise da matéria pós-jogo já publicada sobre a eliminação e das peças táticas anteriores; estabelecer o diferencial durante o debate.
+- **Pacote editorial, após aprovação:** título e subtítulo, marcadores de fim de parágrafo, Resumo para IA e pacote SEO.
+
 ### Onde assistir — estreia do FlaBasquete na Liga Sul-Americana
 - **Estado:** pauta transferida de 22/10 para 23/10/2026; pendente de apuração, produção e publicação.
 - **Formato:** matéria de serviço — onde assistir.
