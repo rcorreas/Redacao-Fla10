@@ -380,3 +380,11 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - A ficha documenta a análise sobre cautela defensiva, rigidez posicional, menor liberdade de Lino e Carrascal, redução das subidas dos laterais, desconexão entre volância e armação, escolha de Paquetá e gestão de jogo.
 - URL publicada: https://fla10.news/noticias/analise-leonardo-jardim-tentou-proteger-demais-o-flamengo-dos-riscos-comprometeu-sua-forca-ofensiva-e-foi-eliminado-na-libertadores-mesmo-invicto
 - Commits da atualização: ficha `460ae7d`; painel `d354ed7`.
+
+
+## 2026-10-23 — Cancelamento de pautas reservadas e registros antigos
+- A pedido do editor, a reserva sobre o Flamengo de Leonardo Jardim e o empate com o Santos foi cancelada.
+- Registros antigos de programação de 14–16/10 sem confirmação de vigência foram marcados como cancelados por obsolescência, incluindo serviços e coberturas planejadas de vôlei/Libertadores que já perderam a janela de publicação.
+- O lembrete de correção sobre Marcos Rojo foi encerrado como pendência atual, preservado apenas como histórico após a realização da semifinal.
+- Publicações confirmadas e suas fichas históricas foram preservadas; não foram apagados registros de matérias já publicadas.
+- Permanecem ativas somente as pautas atuais do painel, incluindo eficiência ofensiva no Brasileirão, Flamengo x Atlético-MG e comparação defensiva Flamengo–Palmeiras.
