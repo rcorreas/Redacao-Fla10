@@ -594,12 +594,15 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **Pacote editorial, após aprovação:** título e subtítulo, marcadores de fim de parágrafo, Resumo para IA e pacote SEO.
 
 ### Onde assistir — estreia do FlaBasquete na Liga Sul-Americana
-- **Estado:** pauta transferida de 22/10 para 23/10/2026; pendente de apuração, produção e publicação.
+- **Estado:** publicada em 23/10/2026, conforme confirmação explícita do editor.
+- **Título:** *Flamengo x Paisas: onde assistir ao vivo, horário e informações da estreia na Liga Sul-Americana de Basquete*.
+- **URL pública:** https://fla10.news/noticias/flamengo-x-paisas-onde-assistir-ao-vivo-horario-e-informacoes-da-estreia-na-liga-sul-americana-de-basquete
 - **Formato:** matéria de serviço — onde assistir.
-- **Objetivo:** informar horário, adversário, local e transmissão confirmados para a estreia do Flamengo na Liga Sul-Americana de Basquete.
-- **Apuração obrigatória:** confirmar na organização da competição e nos canais oficiais do Flamengo o adversário, horário local, ginásio, formato da fase de grupos e transmissão. Não publicar plataforma de transmissão sem confirmação.
-- **Contexto preliminar:** partida prevista para sexta-feira, 23/10, no Maracanãzinho; horário e adversário precisam ser reconfirmados antes da redação.
-- **Pacote editorial:** título e subtítulo, marcadores de fim de parágrafo e subtítulo interno, Resumo para IA e pacote SEO.
+- **Partida:** Flamengo x Paisas Basketball Club, pela Liga Sul-Americana de Basquete 2026, em 23/10/2026, às 20h10, no Maracanãzinho, Rio de Janeiro.
+- **Transmissão registrada:** BasqueteTV no Brasil; canal oficial da FIBA no YouTube para outros territórios, conforme disponibilidade regional.
+- **Ficha editorial:** [[2026-10-23 - Flamengo x Paisas - onde assistir Liga Sul-Americana]].
+- **Conteúdo:** ficha do jogo, transmissão, contexto do Grupo D, calendário dos três jogos rubro-negros, Resumo para IA e pacote SEO.
+- **Controle editorial:** publicação confirmada pelo editor. A matéria mantém a distinção entre a transmissão brasileira e a disponibilidade internacional.
 
 
 ## Publicação confirmada — 22 de outubro de 2026
