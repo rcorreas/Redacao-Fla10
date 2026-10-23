@@ -723,3 +723,14 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 
 ### Regra de fluxo para as duas pautas
 As duas pautas foram adicionadas ao painel a pedido do editor. A inclusão não equivale à autorização para redigir: discutir cada uma individualmente, definir pergunta central, tese, evidências necessárias e diferencial em relação às matérias já publicadas antes de iniciar a produção.
+
+
+## Pauta incluída — pós-jogo do FlaBasquete (23 de outubro de 2026)
+
+### Flamengo x Paisas Basketball Club — pós-jogo da Liga Sul-Americana
+- **Estado:** incluída na programação de hoje; produzir após o encerramento da partida e confirmar todos os dados do jogo.
+- **Partida:** Flamengo x Paisas Basketball Club, da Colômbia, em 23/10/2026, às 20h10, no Maracanãzinho, pela fase de grupos da Liga Sul-Americana de Basquete 2026.
+- **Formato:** notícia pós-jogo — resultado, parciais por quarto, principais pontuadores e momentos decisivos, além do impacto do resultado na situação do Flamengo no Grupo D.
+- **Apuração obrigatória:** confirmar placar final, parciais, estatísticas individuais e classificação em fontes oficiais da competição/FIBA ou do Flamengo. Não antecipar resultado, destaques ou implicações antes da partida.
+- **Controle editorial:** manter a matéria factual e distinta do serviço “Onde assistir” já publicado sobre a estreia na competição.
+- **Pacote editorial:** título e subtítulo, marcadores de fim de parágrafo, Resumo para IA e pacote SEO.
