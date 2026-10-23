@@ -618,3 +618,17 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **Ângulo:** dificuldades coletivas observadas na linha de cinco do Estudiantes contra o San Lorenzo, sobretudo na cobertura dos corredores laterais e na transição defensiva; comparação das alternativas de linha de quatro e linha de cinco com Marcos Rojo.
 - **Limites da apuração:** os relatos argentinos sustentam observações sobre aquela partida, mas não provam uma fragilidade permanente. Não houve codificação quadro a quadro de múltiplos jogos nem estatística comparativa robusta sobre cruzamentos.
 - **Controle de redundância:** distinta do serviço “Onde assistir”, da análise pré-jogo geral e do Raio-X Tático pré-jogo. Atualizações futuras exigem novos dados ou observações táticas verificáveis.
+
+
+## Publicação confirmada — Flamengo x Estudiantes (22 de outubro de 2026)
+
+### Flamengo é eliminado pelo Estudiantes após atuação covarde e fracasso tático de Leonardo Jardim
+- **Estado:** publicada em 22/10/2026, conforme confirmação do editor.
+- **Formato:** pós-jogo opinativo / análise crítica da gestão de jogo.
+- **URL pública:** https://fla10.news/noticias/flamengo-e-eliminado-pelo-estudiantes-apos-atuacao-covarde-e-fracasso-tatico-de-leonardo-jardim
+- **Arquivo de produção:** [[2026-10-22 - Flamengo x Estudiantes - pós-jogo e fracasso tático de Leonardo Jardim]].
+- **Resultado:** Flamengo 0 x 0 Estudiantes; o Estudiantes venceu por 3 a 2 nos pênaltis e avançou à final.
+- **Ângulo:** crítica à postura conservadora de Leonardo Jardim, à incapacidade de transformar a vantagem numérica após a expulsão de Baltasar Rodríguez em pressão ofensiva efetiva e à repetição das dificuldades de criação observadas na ida.
+- **Controle de redundância:** não substituir a notícia imediata nem o Raio-X Tático; o foco desta matéria é a avaliação opinativa da estratégia e da responsabilidade técnica.
+- **Proveniência:** produção interna colaborativa.
+- O rascunho foi publicado com Resumo para IA, marcadores de fim de parágrafo, subtítulos internos e pacote SEO.
