@@ -372,3 +372,11 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - A crônica critica a postura de Leonardo Jardim nos dois jogos da semifinal — na Argentina e no Maracanã —, a falta de iniciativa ofensiva e a incapacidade de aproveitar a superioridade numérica na volta. A avaliação é registrada como opinião autoral.
 - Contexto factual registrado: os dois jogos terminaram 0 a 0 no tempo regulamentar; o Estudiantes venceu por 3 a 2 nos pênaltis.
 - Alterações documentais realizadas no GitHub, branch `main`. Esta operação registra a publicação no vault; não altera o conteúdo do site nem confirma sincronização do vault local do Obsidian.
+
+
+## 2026-10-23 — Publicação confirmada: análise aprofundada sobre Leonardo Jardim e a eliminação na Libertadores
+- Criada a ficha editorial `06 - Pautas/2026-10-23 - Análise Leonardo Jardim protegeu demais o Flamengo na Libertadores.md`, com URL, tese, eixos analíticos, resumo para IA, SEO e limites factuais.
+- Atualizado o `06 - Pautas/Painel de Pautas.md`: a pauta deixou de constar como prevista e passou a registrar a publicação confirmada.
+- A ficha documenta a análise sobre cautela defensiva, rigidez posicional, menor liberdade de Lino e Carrascal, redução das subidas dos laterais, desconexão entre volância e armação, escolha de Paquetá e gestão de jogo.
+- URL publicada: https://fla10.news/noticias/analise-leonardo-jardim-tentou-proteger-demais-o-flamengo-dos-riscos-comprometeu-sua-forca-ofensiva-e-foi-eliminado-na-libertadores-mesmo-invicto
+- Commits da atualização: ficha `460ae7d`; painel `d354ed7`.
