@@ -352,3 +352,13 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - **Proveniência:** FONTE EXTERNA. A crônica foi fornecida pelo editor; não deve ser registrada como produção integral da IA.
 - Ângulo editorial: resenha de torcida e expectativa para Flamengo x Estudiantes, jogo de volta da semifinal da Libertadores.
 - Alterações documentais realizadas no GitHub, branch `main`. Esta operação não altera o conteúdo publicado no site nem confirma sincronização do vault local do Obsidian.
+
+
+## 2026-10-23 — Publicação externa: Flamengo: a Libertadores não se perdeu sozinha
+- O editor confirmou a publicação de texto de manifestação da torcida na seção **A Voz do Torcedor**.
+- URL pública: https://fla10.news/voz-torcedor/flamengo-a-libertadores-nao-se-perdeu-sozinha-teve-gente-demais-falhando-no-caminho
+- Criada a ficha editorial `06 - Pautas/2026-10-23 - A Voz do Torcedor - Libertadores não se perdeu sozinha.md` com estado publicado, seção, resumo, tese, proveniência e controle de redundância.
+- Atualizado o Painel de Pautas com a publicação e o link para a ficha.
+- **Proveniência:** FONTE EXTERNA — conteúdo fornecido pelo editor; não registrar como produção integral da IA.
+- Ângulo editorial: cobrança coletiva sobre comissão técnica, jogadores e diretoria após a eliminação do Flamengo na Libertadores.
+- Alterações documentais realizadas no GitHub, branch `main`. Esta operação não altera o conteúdo publicado no site nem confirma sincronização do vault local do Obsidian.
