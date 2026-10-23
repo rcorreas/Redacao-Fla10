@@ -577,6 +577,14 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 
 ## Programação editorial — 23 de outubro de 2026
 
+### Eficiência ofensiva do Flamengo no Brasileirão
+- **Estado:** pauta ativa para 23/10/2026; pendente de apuração, produção e publicação.
+- **Formato:** análise estatística / notícia analítica.
+- **Apuração obrigatória:** levantar estatísticas atuais do Flamengo no Brasileirão e selecionar uma referência comparável, com período, competição e critérios equivalentes.
+- **Ângulo:** avaliar a eficiência ofensiva com dados verificáveis, evitando repetir a análise da vitória por 3 a 0 sobre o Bahia.
+- **Controle de redundância:** manter o foco em indicadores estatísticos de desempenho no Brasileirão, distinto do Raio-X Tático da Libertadores.
+- **Pacote editorial:** título e subtítulo, marcadores de fim de parágrafo, Resumo para IA e pacote SEO.
+
 ### Onde assistir — estreia do FlaBasquete na Liga Sul-Americana
 - **Estado:** pauta transferida de 22/10 para 23/10/2026; pendente de apuração, produção e publicação.
 - **Formato:** matéria de serviço — onde assistir.
