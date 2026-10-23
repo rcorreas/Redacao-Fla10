@@ -632,3 +632,17 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **Controle de redundância:** não substituir a notícia imediata nem o Raio-X Tático; o foco desta matéria é a avaliação opinativa da estratégia e da responsabilidade técnica.
 - **Proveniência:** produção interna colaborativa.
 - O rascunho foi publicado com Resumo para IA, marcadores de fim de parágrafo, subtítulos internos e pacote SEO.
+
+
+## Publicação confirmada — A Voz do Torcedor / Boteco Fla10 (22 de outubro de 2026)
+
+### Segura o copo, Nação! Hoje é dia de decidir quem vai pra final
+- **Estado:** publicada em 22/10/2026, conforme confirmação do editor.
+- **URL pública:** https://fla10.news/voz-torcedor/segura-o-copo-nacao-hoje-e-dia-de-decidir-quem-vai-pra-final
+- **Seção:** A Voz do Torcedor.
+- **Formato:** crônica de torcida / Boteco Fla10.
+- **Autor:** Cadu.
+- **Proveniência:** **FONTE EXTERNA** — crônica fornecida pelo editor.
+- **Ficha editorial:** [[2026-10-22 - Boteco Fla10 - segura o copo, Nação, hoje é dia de decidir quem vai pra final]].
+- **Ângulo:** expectativa e convocação da Nação para a decisão Flamengo x Estudiantes pela vaga na final da Libertadores.
+- **Controle de redundância:** peça de opinião de torcedor, distinta do serviço “Onde assistir”, da análise pré-jogo e da cobertura jornalística do resultado.
