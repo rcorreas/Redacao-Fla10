@@ -659,3 +659,17 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **Ficha editorial:** [[2026-10-23 - A Voz do Torcedor - Libertadores não se perdeu sozinha]].
 - **Ângulo:** cobrança coletiva após a eliminação na Libertadores, com responsabilização da comissão técnica, dos jogadores e da diretoria.
 - **Controle de redundância:** distingue-se da análise jornalística sobre o fracasso tático de Leonardo Jardim por priorizar a voz da torcida e a cobrança institucional.
+
+
+## Publicação confirmada — Depois do Apito (23 de outubro de 2026)
+
+### O Flamengo não caiu apenas nos pênaltis. Caiu antes, nas escolhas e na falta de coragem
+- **Estado:** publicada em 23/10/2026, conforme confirmação explícita do editor.
+- **URL pública:** https://fla10.news/colunas/o-flamengo-nao-caiu-apenas-nos-penaltis-caiu-antes-nas-escolhas-e-na-falta-de-coragem
+- **Seção:** Colunas — Depois do Apito.
+- **Autor:** Miguel Sampaio.
+- **Formato:** crônica pós-jogo / opinião.
+- **Ficha editorial:** [[2026-10-23 - Depois do Apito - Flamengo caiu antes dos pênaltis]].
+- **Ângulo:** crítica à postura conservadora de Leonardo Jardim nos dois jogos da semifinal, à falta de iniciativa na Argentina e à incapacidade de transformar a vantagem numérica em pressão decisiva diante de um Maracanã lotado; também aborda a responsabilidade dos jogadores na disputa de pênaltis.
+- **Controle de redundância:** crônica autoral, distinta da análise crítica pós-jogo e da manifestação externa publicada em A Voz do Torcedor.
+- **Proveniência:** produção interna colaborativa.
