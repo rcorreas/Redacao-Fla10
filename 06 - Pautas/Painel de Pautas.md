@@ -43,7 +43,7 @@ O responsável editorial informou que o dia terá três frentes esportivas — L
    - **Nota de revisão:** conferir a atualização sobre Marcos Rojo; o ge informou em 15/10 que a CONMEBOL rejeitou sua inscrição e que o Estudiantes recorreria.
 
 6. **Pós-jogo — Libertadores**
-   - **Estado:** planejada; produzir após o encerramento da partida.
+   - **Estado:** cancelada em 23/10/2026 por obsolescência da programação original; não produzir.
    - **Formato:** notícia pós-jogo.
    - **Checagens:** placar, lances decisivos, gols, substituições e declarações somente quando confirmados.
 
@@ -85,13 +85,13 @@ O responsável editorial informou que o dia terá três frentes esportivas — L
 - **Checagens:** jogadores suspensos, regulamento/lista oficial e alternativas prováveis.
 
 ### A torcida do Estudiantes prepara uma noite de pressão: o que espera o Flamengo em La Plata?
-- **Estado:** confirmar com o responsável editorial.
+- **Estado:** cancelada em 23/10/2026; registro antigo sem confirmação de vigência.
 - **Janela:** 2026-10-14.
 - **Foco:** ambiente de jogo e pressão local em La Plata.
 - **Checagens:** relatos atuais confiáveis; não tratar expectativa como fato específico sem fonte.
 
 ### De la Cruz completa 100 jogos: como avaliar o custo-benefício do uruguaio no Flamengo?
-- **Estado:** confirmar com o responsável editorial.
+- **Estado:** cancelada em 23/10/2026; registro antigo sem confirmação de vigência.
 - **Janela:** 2026-10-14.
 - **Foco:** avaliar contribuição esportiva, disponibilidade e contexto contratual quando confirmado.
 - **Checagens:** confirmar o marco de jogos e o recorte correto; não inventar valores ou estatísticas.
