@@ -689,3 +689,31 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **Ângulo:** crítica à postura conservadora de Leonardo Jardim nos dois jogos da semifinal, à falta de iniciativa na Argentina e à incapacidade de transformar a vantagem numérica em pressão decisiva diante de um Maracanã lotado; também aborda a responsabilidade dos jogadores na disputa de pênaltis.
 - **Controle de redundância:** crônica autoral, distinta da análise crítica pós-jogo e da manifestação externa publicada em A Voz do Torcedor.
 - **Proveniência:** produção interna colaborativa.
+
+## Pautas incluídas — 23 de outubro de 2026
+
+### Flamengo x Atlético-MG: a resposta que o líder precisa dar depois da queda na Libertadores
+- **Estado:** incluída no painel em 23/10/2026; pendente de debate editorial, apuração e autorização para produção.
+- **Janela prevista:** antes de Flamengo x Atlético-MG, marcado para segunda-feira, 26/10/2026, às 20h, no Maracanã.
+- **Formato:** análise de contexto / pré-jogo.
+- **Pergunta editorial:** como o Flamengo deve responder à eliminação na Libertadores e o que a partida pode revelar sobre a capacidade de manter o foco na disputa do Brasileirão?
+- **Ângulo de apuração:** recuperação física e emocional, possíveis mudanças na equipe, cenário da tabela e importância dos três pontos na disputa pelo título. Não presumir que a eliminação necessariamente afetará o desempenho nem atribuir estados emocionais sem evidências.
+- **Checagens:** confirmar situação do elenco, declarações, treino e provável escalação; atualizar classificação e contexto competitivo perto da publicação.
+- **Controle de redundância:** não repetir a cobertura da eliminação nem a análise crítica já publicada sobre Leonardo Jardim. O foco é a resposta esportiva no Brasileirão.
+- **Referência inicial:** calendário oficial da CBF — https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/x/832201
+- **Pacote editorial, após aprovação:** título e subtítulo, marcadores de fim de parágrafo, Resumo para IA e pacote SEO.
+
+### A defesa pode decidir o Brasileirão? Flamengo e Palmeiras chegam à reta final com números próximos
+- **Estado:** incluída no painel em 23/10/2026; pendente de debate editorial, apuração e autorização para produção.
+- **Janela prevista:** reta final do Brasileirão 2026.
+- **Formato:** análise estatística comparativa.
+- **Pergunta editorial:** até que ponto a consistência defensiva pode decidir a disputa entre Flamengo e Palmeiras nas rodadas finais?
+- **Dados preliminares para conferência:** após 31 jogos, Flamengo tinha sofrido 25 gols e Palmeiras, 22; ambos somavam 14 partidas sem sofrer gols, segundo levantamento publicado em 22/10/2026.
+- **Ângulo de apuração:** comparar gols sofridos, média por partida, jogos sem sofrer gols e desempenho como mandante e visitante; avaliar o que esses indicadores mostram — e o que não permitem concluir — sobre a disputa pelo título.
+- **Checagens:** atualizar os números antes da produção; confirmar os mesmos critérios e número de partidas para ambos; procurar dados oficiais ou bases estatísticas transparentes e identificar a data de corte.
+- **Controle de redundância:** manter o foco na prevenção de gols e na comparação defensiva, sem sobrepor à pauta ativa sobre eficiência ofensiva do Flamengo no Brasileirão.
+- **Referência inicial:** levantamento estatístico publicado em 22/10/2026 — https://arquibancadafutebol.com.br/defesas-do-brasileirao-2026-palmeiras-lidera-ranking-e-cruzeiro-e-excecao-no-g-4/
+- **Pacote editorial, após aprovação:** título e subtítulo, marcadores de fim de parágrafo, Resumo para IA e pacote SEO.
+
+### Regra de fluxo para as duas pautas
+As duas pautas foram adicionadas ao painel a pedido do editor. A inclusão não equivale à autorização para redigir: discutir cada uma individualmente, definir pergunta central, tese, evidências necessárias e diferencial em relação às matérias já publicadas antes de iniciar a produção.
