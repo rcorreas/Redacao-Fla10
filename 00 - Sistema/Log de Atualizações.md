@@ -342,3 +342,13 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Tese editorial: crítica contundente à postura excessivamente conservadora e à incapacidade de o Flamengo transformar a superioridade numérica em ameaça ofensiva; a crítica é identificada como análise, não como fato objetivo.
 - Fonte contextual de checagem: UOL, cobertura de 22/10/2026 — https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/10/22/flamengo-x-estudiantes-libertadores.ghtm
 - Alterações documentais realizadas no GitHub, branch `main`. Esta operação não altera o conteúdo publicado no site nem confirma sincronização do vault local do Obsidian.
+
+
+## 2026-10-22 — Crônica externa publicada: Segura o copo, Nação! Hoje é dia de decidir quem vai pra final
+- O editor confirmou a publicação da crônica na seção **A Voz do Torcedor**, coluna **Boteco Fla10**, assinada por Cadu.
+- URL pública: https://fla10.news/voz-torcedor/segura-o-copo-nacao-hoje-e-dia-de-decidir-quem-vai-pra-final
+- Criada a ficha editorial `06 - Pautas/2026-10-22 - Boteco Fla10 - segura o copo, Nação, hoje é dia de decidir quem vai pra final.md` com estado publicado, seção, autoria, resumo editorial, classificação de proveniência e controle de redundância.
+- Atualizado o Painel de Pautas para registrar a publicação.
+- **Proveniência:** FONTE EXTERNA. A crônica foi fornecida pelo editor; não deve ser registrada como produção integral da IA.
+- Ângulo editorial: resenha de torcida e expectativa para Flamengo x Estudiantes, jogo de volta da semifinal da Libertadores.
+- Alterações documentais realizadas no GitHub, branch `main`. Esta operação não altera o conteúdo publicado no site nem confirma sincronização do vault local do Obsidian.
