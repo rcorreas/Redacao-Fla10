@@ -388,3 +388,9 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - O lembrete de correção sobre Marcos Rojo foi encerrado como pendência atual, preservado apenas como histórico após a realização da semifinal.
 - Publicações confirmadas e suas fichas históricas foram preservadas; não foram apagados registros de matérias já publicadas.
 - Permanecem ativas somente as pautas atuais do painel, incluindo eficiência ofensiva no Brasileirão, Flamengo x Atlético-MG e comparação defensiva Flamengo–Palmeiras.
+
+
+## 2026-10-23 — Inclusão do pós-jogo do FlaBasquete
+- A pedido do editor, foi incluída na programação de hoje a cobertura pós-jogo de Flamengo x Paisas Basketball Club, pela fase de grupos da Liga Sul-Americana de Basquete.
+- A pauta deve ser produzida após o encerramento, com placar, parciais, destaques e situação no grupo confirmados; não antecipar fatos da partida.
+- Mantida separada da matéria de serviço “Onde assistir” publicada anteriormente.
