@@ -362,3 +362,13 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - **Proveniência:** FONTE EXTERNA — conteúdo fornecido pelo editor; não registrar como produção integral da IA.
 - Ângulo editorial: cobrança coletiva sobre comissão técnica, jogadores e diretoria após a eliminação do Flamengo na Libertadores.
 - Alterações documentais realizadas no GitHub, branch `main`. Esta operação não altera o conteúdo publicado no site nem confirma sincronização do vault local do Obsidian.
+
+
+## 2026-10-23 — Publicação confirmada: crônica Depois do Apito
+- O editor confirmou a publicação de “O Flamengo não caiu apenas nos pênaltis. Caiu antes, nas escolhas e na falta de coragem”, assinada por Miguel Sampaio na coluna **Depois do Apito**.
+- URL pública: https://fla10.news/colunas/o-flamengo-nao-caiu-apenas-nos-penaltis-caiu-antes-nas-escolhas-e-na-falta-de-coragem
+- Criada a ficha editorial `06 - Pautas/2026-10-23 - Depois do Apito - Flamengo caiu antes dos pênaltis.md`, com estado publicado, resumo editorial, tese, contexto factual, proveniência e controle de redundância.
+- Atualizado o Painel de Pautas para registrar a publicação.
+- A crônica critica a postura de Leonardo Jardim nos dois jogos da semifinal — na Argentina e no Maracanã —, a falta de iniciativa ofensiva e a incapacidade de aproveitar a superioridade numérica na volta. A avaliação é registrada como opinião autoral.
+- Contexto factual registrado: os dois jogos terminaram 0 a 0 no tempo regulamentar; o Estudiantes venceu por 3 a 2 nos pênaltis.
+- Alterações documentais realizadas no GitHub, branch `main`. Esta operação registra a publicação no vault; não altera o conteúdo do site nem confirma sincronização do vault local do Obsidian.
