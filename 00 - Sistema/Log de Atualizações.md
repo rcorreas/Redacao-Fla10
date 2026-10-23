@@ -331,3 +331,14 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - A análise enfatiza a necessidade de converter posse e mando de campo em chances reais e inclui um subtítulo sobre a marca histórica possível em caso de classificação.
 - A afirmação sobre a quinta final em oito anos e a sexta final da história foi registrada com ressalva para conferir a fonte original e o critério comparativo antes de reutilização.
 - Alterações documentais realizadas no GitHub, branch `main`. Esta operação não altera o conteúdo do site nem confirma sincronização do vault local do Obsidian.
+
+
+## 2026-10-22 — Publicação confirmada: Flamengo eliminado pelo Estudiantes
+- O editor confirmou a publicação de “Flamengo é eliminado pelo Estudiantes após atuação covarde e fracasso tático de Leonardo Jardim”.
+- URL pública: https://fla10.news/noticias/flamengo-e-eliminado-pelo-estudiantes-apos-atuacao-covarde-e-fracasso-tatico-de-leonardo-jardim
+- Criada a ficha editorial `06 - Pautas/2026-10-22 - Flamengo x Estudiantes - pós-jogo e fracasso tático de Leonardo Jardim.md`, com estado publicado, síntese, Resumo para IA, pacote SEO, proveniência e controle de redundância.
+- Atualizado o Painel de Pautas para registrar a publicação e distinguir esta análise opinativa da notícia imediata e do Raio-X Tático.
+- Resultado registrado: 0 a 0 no tempo regulamentar; Estudiantes venceu por 3 a 2 nos pênaltis. A expulsão de Baltasar Rodríguez ocorreu aos quatro minutos do segundo tempo; Muslera defendeu as cobranças de Jorginho, Lucas Paquetá e Bruno Henrique.
+- Tese editorial: crítica contundente à postura excessivamente conservadora e à incapacidade de o Flamengo transformar a superioridade numérica em ameaça ofensiva; a crítica é identificada como análise, não como fato objetivo.
+- Fonte contextual de checagem: UOL, cobertura de 22/10/2026 — https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/10/22/flamengo-x-estudiantes-libertadores.ghtm
+- Alterações documentais realizadas no GitHub, branch `main`. Esta operação não altera o conteúdo publicado no site nem confirma sincronização do vault local do Obsidian.
