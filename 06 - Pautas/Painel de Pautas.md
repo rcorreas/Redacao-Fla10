@@ -14,7 +14,7 @@ O responsável editorial informou que o dia terá três frentes esportivas — L
    - **URL pública:** https://fla10.news/noticias/flamengo-x-fluminense-onde-assistir-a-final-do-campeonato-carioca-de-basquete-hoje
 
 2. **Onde assistir — vôlei**
-   - **Estado:** planejada; pendente de produção/publicação.
+   - **Estado:** cancelada em 23/10/2026 por obsolescência da programação original; não produzir.
    - **Formato:** serviço de jogo.
    - **Checagens:** evento, competição, data e horário locais, transmissão, local e demais informações confirmadas.
 
@@ -29,7 +29,7 @@ O responsável editorial informou que o dia terá três frentes esportivas — L
    - **Checagens:** placar final, parciais quando disponíveis, destaques confirmados e contexto relevante.
 
 4. **Pós-jogo — vôlei**
-   - **Estado:** planejada; produzir após o encerramento do jogo.
+   - **Estado:** cancelada em 23/10/2026 por obsolescência da programação original; não produzir.
    - **Formato:** notícia pós-jogo.
    - **Checagens:** resultado, parciais dos sets, destaques confirmados e contexto relevante.
 
@@ -48,17 +48,17 @@ O responsável editorial informou que o dia terá três frentes esportivas — L
    - **Checagens:** placar, lances decisivos, gols, substituições e declarações somente quando confirmados.
 
 7. **Análise — Libertadores**
-   - **Estado:** planejada; desenvolver com base no que a partida efetivamente mostrar.
+   - **Estado:** cancelada em 23/10/2026 por obsolescência da programação original; não produzir.
    - **Formato:** análise interpretativa separada da notícia pós-jogo.
    - **Checagens:** sustentar avaliações em evidências observáveis; não antecipar conclusões antes do jogo nem duplicar a notícia.
 
 8. **Raio-X Tático — Libertadores**
-   - **Estado:** planejada; desenvolver após análise da partida.
+   - **Estado:** cancelada em 23/10/2026 por obsolescência da programação original; não produzir.
    - **Formato:** análise tática aprofundada.
    - **Checagens:** estruturas com e sem bola, construção, pressão, transições, ajustes, substituições e funções individuais; separar observação de interpretação.
 
 9. **Depois do Apito — Libertadores**
-   - **Estado:** planejada; produzir após a partida.
+   - **Estado:** cancelada em 23/10/2026 por obsolescência da programação original; não produzir.
    - **Formato:** crônica pós-jogo assinada pela persona editorial Miguel Sampaio.
    - **Checagens:** voz autoral e memória afetiva sem melodrama; não inventar cenas, falas ou acontecimentos.
 
@@ -79,7 +79,7 @@ O responsável editorial informou que o dia terá três frentes esportivas — L
 ## Pautas mencionadas para 14 de outubro de 2026
 
 ### Estudiantes também tem problemas na defesa: como as suspensões podem mudar a semifinal contra o Flamengo?
-- **Estado:** confirmar com o responsável editorial.
+- **Estado:** cancelada em 23/10/2026; registro antigo sem confirmação de vigência.
 - **Janela:** 2026-10-14.
 - **Foco:** impacto das suspensões do Estudiantes na defesa para a semifinal.
 - **Checagens:** jogadores suspensos, regulamento/lista oficial e alternativas prováveis.
@@ -96,10 +96,10 @@ O responsável editorial informou que o dia terá três frentes esportivas — L
 - **Foco:** avaliar contribuição esportiva, disponibilidade e contexto contratual quando confirmado.
 - **Checagens:** confirmar o marco de jogos e o recorte correto; não inventar valores ou estatísticas.
 
-## Pauta reservada mencionada para 15 de outubro de 2026
+## Pauta cancelada — 23 de outubro de 2026
 
 ### Flamengo de Leonardo Jardim precisa aprender a matar jogos? O empate com o Santos reacende o debate
-- **Estado:** reservada; confirmar se segue vigente.
+- **Estado:** cancelada a reserva em 23/10/2026 por decisão do editor; não produzir.
 - **Janela:** 2026-10-15.
 - **Foco:** comparar partidas recentes documentadas para avaliar gestão de vantagem e fechamento de jogos.
 - **Limite:** não repetir a reportagem sobre Santos 2 x 2 Flamengo nem o Raio-X Tático; a pergunta e a evidência precisam ser próprias.
@@ -144,7 +144,7 @@ Ao receber confirmação de publicação, registrar data e, se fornecida, URL. A
 
 
 ### Correção pós-publicação — Estudiantes x Flamengo (15/10/2026)
-- **Pendente de revisão no site:** substituir o trecho que apresenta Marcos Rojo como provável titular. A inscrição do zagueiro foi rejeitada pela CONMEBOL, e o Estudiantes tentava reverter a decisão.
+- **Estado do registro:** encerrado em 23/10/2026 por obsolescência após a realização da semifinal; não tratar como pendência atual de edição no site. O texto abaixo fica preservado apenas como histórico da correção planejada.
 - **Trecho substituto registrado:** “A defesa do Estudiantes enfrenta mais um problema às vésperas da semifinal. A inscrição de Marcos Rojo foi rejeitada pela CONMEBOL, e o clube argentino tentava reverter a decisão para contar com o zagueiro diante do Flamengo. Revelado pelo próprio Estudiantes e campeão da Libertadores de 2009, o defensor era uma opção para reforçar o setor, mas sua participação dependia da resolução do impasse.”
 - Conferir também a provável escalação para garantir que Rojo não apareça como titular confirmado.
 
@@ -578,7 +578,7 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 ## Programação editorial — 23 de outubro de 2026
 
 ### Eficiência ofensiva do Flamengo no Brasileirão
-- **Estado:** pauta ativa para 23/10/2026; pendente de apuração, produção e publicação.
+- **Estado:** pauta ativa em 23/10/2026; pendente de apuração, produção e publicação.
 - **Formato:** análise estatística / notícia analítica.
 - **Apuração obrigatória:** levantar estatísticas atuais do Flamengo no Brasileirão e selecionar uma referência comparável, com período, competição e critérios equivalentes.
 - **Ângulo:** avaliar a eficiência ofensiva com dados verificáveis, evitando repetir a análise da vitória por 3 a 0 sobre o Bahia.
