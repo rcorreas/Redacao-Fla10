@@ -646,3 +646,16 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **Ficha editorial:** [[2026-10-22 - Boteco Fla10 - segura o copo, Nação, hoje é dia de decidir quem vai pra final]].
 - **Ângulo:** expectativa e convocação da Nação para a decisão Flamengo x Estudiantes pela vaga na final da Libertadores.
 - **Controle de redundância:** peça de opinião de torcedor, distinta do serviço “Onde assistir”, da análise pré-jogo e da cobertura jornalística do resultado.
+
+
+## Publicação confirmada — A Voz do Torcedor (23 de outubro de 2026)
+
+### Flamengo: a Libertadores não se perdeu sozinha. Teve gente demais falhando no caminho!
+- **Estado:** publicada em 23/10/2026, conforme confirmação do editor.
+- **URL pública:** https://fla10.news/voz-torcedor/flamengo-a-libertadores-nao-se-perdeu-sozinha-teve-gente-demais-falhando-no-caminho
+- **Seção:** A Voz do Torcedor.
+- **Formato:** manifestação crítica de torcedor.
+- **Proveniência:** **FONTE EXTERNA** — texto fornecido pelo editor.
+- **Ficha editorial:** [[2026-10-23 - A Voz do Torcedor - Libertadores não se perdeu sozinha]].
+- **Ângulo:** cobrança coletiva após a eliminação na Libertadores, com responsabilização da comissão técnica, dos jogadores e da diretoria.
+- **Controle de redundância:** distingue-se da análise jornalística sobre o fracasso tático de Leonardo Jardim por priorizar a voz da torcida e a cobrança institucional.
