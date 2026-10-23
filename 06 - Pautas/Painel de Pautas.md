@@ -585,13 +585,16 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **Controle de redundância:** manter o foco em indicadores estatísticos de desempenho no Brasileirão, distinto do Raio-X Tático da Libertadores.
 - **Pacote editorial:** título e subtítulo, marcadores de fim de parágrafo, Resumo para IA e pacote SEO.
 
-### Análise — falhas do esquema tático de Leonardo Jardim na Libertadores
-- **Estado:** pauta incluída em 23/10/2026; ainda não debatida nem autorizada para produção.
-- **Formato previsto:** análise tática aprofundada sobre a campanha do Flamengo na Libertadores.
-- **Diretriz de fluxo:** discutir a pauta com o editor no momento da criação, definindo pergunta central, tese, evidências e recorte antes de iniciar a redação.
-- **Limite nesta etapa:** não antecipar conclusões nem fixar argumentos específicos antes do debate editorial.
-- **Controle de redundância:** diferenciar a futura análise da matéria pós-jogo já publicada sobre a eliminação e das peças táticas anteriores; estabelecer o diferencial durante o debate.
-- **Pacote editorial, após aprovação:** título e subtítulo, marcadores de fim de parágrafo, Resumo para IA e pacote SEO.
+### Análise — Leonardo Jardim protegeu demais o Flamengo e comprometeu sua força ofensiva
+- **Estado:** publicada em 23/10/2026, conforme confirmação explícita do editor.
+- **Título publicado:** *Análise: Leonardo Jardim tentou proteger demais o Flamengo dos riscos, comprometeu sua força ofensiva e foi eliminado na Libertadores mesmo invicto*.
+- **URL pública:** https://fla10.news/noticias/analise-leonardo-jardim-tentou-proteger-demais-o-flamengo-dos-riscos-comprometeu-sua-forca-ofensiva-e-foi-eliminado-na-libertadores-mesmo-invicto
+- **Ficha editorial:** [[2026-10-23 - Análise Leonardo Jardim protegeu demais o Flamengo na Libertadores]].
+- **Formato:** análise jornalística aprofundada / análise de treinador e gestão de jogo.
+- **Tese:** o Flamengo não foi eliminado apenas nos pênaltis; não conseguiu combinar proteção defensiva e agressividade ofensiva, criar chances consistentes ou adaptar o plano quando o Estudiantes neutralizou seus caminhos.
+- **Eixos desenvolvidos:** cautela em La Plata; alertas contra o Independiente del Valle; resposta à expulsão no Maracanã; substituições e leitura de jogo; Paquetá na armação; alternativas de criação; rigidez posicional e redução das subidas dos laterais; desconexão entre volância e armação diante da linha de cinco; desgaste físico como fator contributivo, não explicação total.
+- **Controle de redundância:** distinta da notícia imediata, da análise pós-jogo opinativa e de Depois do Apito. O foco é a análise aprofundada dos mecanismos táticos, das funções dos jogadores e da gestão de jogo.
+- **Proveniência:** produção interna colaborativa — debate editorial, apuração, redação e revisão com o editor.
 
 ### Onde assistir — estreia do FlaBasquete na Liga Sul-Americana
 - **Estado:** publicada em 23/10/2026, conforme confirmação explícita do editor.
