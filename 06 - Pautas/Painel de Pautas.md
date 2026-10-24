@@ -803,3 +803,14 @@ As duas pautas foram adicionadas ao painel a pedido do editor. A inclusão não 
 - **Ficha editorial:** [[2026-10-25 - Galeria de Arte Rubro-Negra - Maracanã em noite de decisão]].
 
 **Regra de execução:** as duas inclusões são reservas de pauta, não autorização automática para redigir a matéria ou gerar a arte. Debater cada proposta e confirmar o recorte antes da produção.
+
+
+### Reportagens Fla10 — Da base ao profissional: o caminho dos Garotos do Ninho
+- **Estado:** pauta reservada para domingo, 25/10/2026; pendente de debate, apuração e produção.
+- **Título provisório:** *Da base ao profissional: como o Flamengo transforma os Garotos do Ninho em jogadores do time principal*.
+- **Pergunta central:** quais etapas, oportunidades e obstáculos determinam se atletas formados no Flamengo conseguem se firmar no profissional?
+- **Ângulo:** investigar a transição entre categorias de base e elenco principal com dados de estreias, minutos, titularidades, permanência, empréstimos e negociações, dentro de uma janela temporal consistente.
+- **Checagens:** montar uma base verificável, confirmar dados em fontes confiáveis, registrar limitações e testar a hipótese em vez de pressupor que títulos ou vendas medem sozinhos o sucesso da formação.
+- **Controle de redundância:** não repetir notícias individuais de estreia/venda nem o balanço financeiro geral do clube; o foco é o caminho de formação até o profissional.
+- **Ficha editorial:** [[2026-10-25 - Reportagens Fla10 - base ao profissional]].
+
