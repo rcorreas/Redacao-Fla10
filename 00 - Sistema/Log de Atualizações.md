@@ -447,3 +447,11 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Atualizado o Painel de Pautas com o estado reservado, os ângulos propostos e as checagens necessárias.
 - A inclusão não equivale a autorização automática para redação ou geração da imagem; o recorte e a direção visual devem ser debatidos antes da produção.
 - Alterações documentais feitas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
+
+
+## 2026-10-24 — Inclusão de pauta para Reportagens Fla10
+- A pedido do editor, incluída na programação de domingo, 25/10/2026, uma reportagem sobre a transição dos atletas da base do Flamengo para o elenco profissional.
+- Criada a ficha editorial `06 - Pautas/2026-10-25 - Reportagens Fla10 - base ao profissional.md`.
+- Atualizado o Painel de Pautas com a pergunta central, os eixos de apuração, as checagens e o controle de redundância.
+- A pauta permanece reservada: o recorte temporal e a hipótese de trabalho precisam ser debatidos e aprovados antes da produção.
+- Alterações documentais feitas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
