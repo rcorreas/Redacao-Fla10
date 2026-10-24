@@ -431,3 +431,11 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Dados principais registrados: jogo em 24/10/2026, às 20h10, no Maracanãzinho; transmissão pela BasqueteTV e referência ao canal oficial da FIBA no YouTube, com ressalva regional.
 - Fontes de checagem: FIBA, Liga Nacional de Basquete e cobertura anterior do Fla10 sobre Flamengo x Paisas.
 - Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
+
+
+## 2026-10-24 — Publicação confirmada: futuro de Leonardo Jardim e José Boto
+- O editor confirmou a publicação de “Flamengo adia decisão sobre Jardim e Boto, mas eliminação na Libertadores aumenta pressão”.
+- URL pública: https://fla10.news/noticias/flamengo-adia-decisao-sobre-jardim-e-boto-mas-eliminacao-na-libertadores-aumenta-pressao
+- Criada a ficha editorial `06 - Pautas/2026-10-24 - Futuro de Jardim e Boto após eliminação na Libertadores.md`, com estado de publicação, resumo, ângulo, SEO, fontes e cautelas factuais.
+- Atualizado o Painel de Pautas para registrar a publicação e a distinção em relação à análise esportiva sobre a eliminação.
+- Alterações feitas no GitHub. A sincronização com o vault local do Obsidian não foi verificada.
