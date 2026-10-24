@@ -734,3 +734,18 @@ As duas pautas foram adicionadas ao painel a pedido do editor. A inclusão não 
 - **Apuração obrigatória:** confirmar placar final, parciais, estatísticas individuais e classificação em fontes oficiais da competição/FIBA ou do Flamengo. Não antecipar resultado, destaques ou implicações antes da partida.
 - **Controle editorial:** manter a matéria factual e distinta do serviço “Onde assistir” já publicado sobre a estreia na competição.
 - **Pacote editorial:** título e subtítulo, marcadores de fim de parágrafo, Resumo para IA e pacote SEO.
+
+
+## Publicação confirmada — Rebeca Andrade tricampeã mundial no salto (24 de outubro de 2026)
+
+### Rebeca Andrade conquista tricampeonato mundial no salto e entra para a história da ginástica
+- **Estado:** publicada em 24/10/2026, conforme confirmação do editor.
+- **URL pública:** https://fla10.news/noticias/rebeca-andrade-conquista-tricampeonato-mundial-no-salto-e-entra-para-a-historia-da-ginastica
+- **Seção:** Notícias.
+- **Formato:** notícia esportiva — ginástica artística.
+- **Ficha editorial:** [[2026-10-24 - Rebeca Andrade tricampeã mundial no salto]].
+- **Resumo factual:** Rebeca Andrade conquistou o ouro no salto no Mundial de Roterdã com média de 14,466 pontos. Claire Pease ficou com a prata (14,233) e Skye Blakely com o bronze (14,166). O tricampeonato repete os títulos de 2021 e 2023 e eleva a dez o total de medalhas da brasileira em Mundiais.
+- **Ângulo:** significado histórico do tricampeonato, desempenho técnico na final, trajetória mundial e impacto para a ginástica brasileira.
+- **Pacote editorial:** matéria completa com subtítulo, marcadores de fim de parágrafo e dos subtítulos internos, Resumo para IA e pacote SEO.
+- **Controle de redundância:** cobertura de uma conquista individual na ginástica artística; distinta das pautas de futebol e das matérias sobre modalidades do Flamengo.
+- **Fontes de checagem:** ge — https://ge.globo.com/ginastica-artistica/noticia/2026/10/24/rebeca-andrade-e-tricampea-do-salto-e-conquista-10a-medalha-em-mundiais-de-ginastica.ghtml ; Exame — https://exame.com/esporte/rebeca-andrade-conquista-tricampeonato-mundial-no-salto-e-faz-historia-na-ginastica/
