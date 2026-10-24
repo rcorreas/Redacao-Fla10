@@ -414,3 +414,10 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Resultado registrado: Flamengo 84 x 53 Paisas; parciais de 31–22, 22–11, 20–11 e 11–9. Yago marcou 13 pontos, Ruan 12; o Flamengo dominou os rebotes por 59 a 35.
 - Fontes de checagem registradas: publicação do Fla10, site oficial do Flamengo e ge.
 - Alterações documentais realizadas no GitHub, branch `main`. Esta operação não altera o conteúdo do site nem confirma sincronização do vault local do Obsidian.
+
+
+## 2026-10-24 — Transferência de três pautas para 25 de outubro
+- A pedido do editor, transferidas para domingo, 25/10/2026, as pautas **Eficiência ofensiva do Flamengo no Brasileirão**, **Flamengo x Atlético-MG: a resposta que o líder precisa dar depois da queda na Libertadores** e **A defesa pode decidir o Brasileirão? Flamengo e Palmeiras chegam à reta final com números próximos**.
+- O Painel de Pautas foi atualizado com as novas datas e as próximas ações de cada pauta.
+- A mudança de data não representa autorização automática para redação; permanecem válidas as etapas de debate editorial, apuração e autorização já registradas.
+- Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
