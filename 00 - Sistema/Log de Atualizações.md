@@ -421,3 +421,13 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - O Painel de Pautas foi atualizado com as novas datas e as próximas ações de cada pauta.
 - A mudança de data não representa autorização automática para redação; permanecem válidas as etapas de debate editorial, apuração e autorização já registradas.
 - Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
+
+
+## 2026-10-24 — Publicação confirmada: Flamengo x Oberá — onde assistir
+- O editor confirmou a publicação da matéria de serviço “Flamengo x Oberá: onde assistir ao vivo, horário e informações do jogo pela Liga Sul-Americana de Basquete”.
+- URL pública: https://fla10.news/noticias/flamengo-x-obera-onde-assistir-ao-vivo-horario-e-informacoes-do-jogo-pela-liga-sul-americana-de-basquete
+- Criada a ficha editorial `06 - Pautas/2026-10-24 - Flamengo x Oberá onde assistir Liga Sul-Americana.md`, com estado publicado, informações da partida, contexto, SEO, fontes e controle de redundância.
+- Atualizado o Painel de Pautas para registrar a publicação e vincular a ficha.
+- Dados principais registrados: jogo em 24/10/2026, às 20h10, no Maracanãzinho; transmissão pela BasqueteTV e referência ao canal oficial da FIBA no YouTube, com ressalva regional.
+- Fontes de checagem: FIBA, Liga Nacional de Basquete e cobertura anterior do Fla10 sobre Flamengo x Paisas.
+- Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
