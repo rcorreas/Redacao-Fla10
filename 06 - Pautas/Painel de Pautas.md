@@ -575,10 +575,19 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **Controle editorial:** escalações apresentadas como prováveis, não oficiais. A liberação de Marcos Rojo para atuar não deve ser confundida com confirmação de titularidade.
 - **Controle de redundância:** manter a matéria de serviço separada do contexto sobre a torcida no Maracanã e do Raio-X Tático pré-jogo.
 
+## Ajuste de programação — 24 de outubro de 2026
+
+O editor transferiu para **domingo, 25/10/2026**, as três pautas abaixo, antes previstas como pendentes:
+1. **Eficiência ofensiva do Flamengo no Brasileirão** — atualizar estatísticas e escolher uma referência comparável.
+2. **Flamengo x Atlético-MG: a resposta que o líder precisa dar depois da queda na Libertadores** — debater o ângulo e apurar o cenário antes do jogo de segunda-feira, 26/10.
+3. **A defesa pode decidir o Brasileirão? Flamengo e Palmeiras chegam à reta final com números próximos** — atualizar e validar os dados comparativos antes de autorizar a produção.
+
+A transferência de data não equivale a autorização automática para redigir; aplicar o fluxo de debate e aprovação já registrado para cada pauta.
+
 ## Programação editorial — 23 de outubro de 2026
 
 ### Eficiência ofensiva do Flamengo no Brasileirão
-- **Estado:** pauta ativa em 23/10/2026; pendente de apuração, produção e publicação.
+- **Estado:** transferida para domingo, 25/10/2026; pendente de apuração, produção e publicação.
 - **Formato:** análise estatística / notícia analítica.
 - **Apuração obrigatória:** levantar estatísticas atuais do Flamengo no Brasileirão e selecionar uma referência comparável, com período, competição e critérios equivalentes.
 - **Ângulo:** avaliar a eficiência ofensiva com dados verificáveis, evitando repetir a análise da vitória por 3 a 0 sobre o Bahia.
@@ -699,8 +708,8 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 ## Pautas incluídas — 23 de outubro de 2026
 
 ### Flamengo x Atlético-MG: a resposta que o líder precisa dar depois da queda na Libertadores
-- **Estado:** incluída no painel em 23/10/2026; pendente de debate editorial, apuração e autorização para produção.
-- **Janela prevista:** antes de Flamengo x Atlético-MG, marcado para segunda-feira, 26/10/2026, às 20h, no Maracanã.
+- **Estado:** transferida para domingo, 25/10/2026; pendente de debate editorial, apuração e autorização para produção.
+- **Janela prevista:** pauta de preparação para Flamengo x Atlético-MG, marcado para segunda-feira, 26/10/2026, às 20h, no Maracanã.
 - **Formato:** análise de contexto / pré-jogo.
 - **Pergunta editorial:** como o Flamengo deve responder à eliminação na Libertadores e o que a partida pode revelar sobre a capacidade de manter o foco na disputa do Brasileirão?
 - **Ângulo de apuração:** recuperação física e emocional, possíveis mudanças na equipe, cenário da tabela e importância dos três pontos na disputa pelo título. Não presumir que a eliminação necessariamente afetará o desempenho nem atribuir estados emocionais sem evidências.
@@ -710,7 +719,7 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **Pacote editorial, após aprovação:** título e subtítulo, marcadores de fim de parágrafo, Resumo para IA e pacote SEO.
 
 ### A defesa pode decidir o Brasileirão? Flamengo e Palmeiras chegam à reta final com números próximos
-- **Estado:** incluída no painel em 23/10/2026; pendente de debate editorial, apuração e autorização para produção.
+- **Estado:** transferida para domingo, 25/10/2026; pendente de debate editorial, apuração e autorização para produção.
 - **Janela prevista:** reta final do Brasileirão 2026.
 - **Formato:** análise estatística comparativa.
 - **Pergunta editorial:** até que ponto a consistência defensiva pode decidir a disputa entre Flamengo e Palmeiras nas rodadas finais?
