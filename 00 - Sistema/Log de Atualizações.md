@@ -404,3 +404,13 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Resultado registrado: Rebeca venceu a final do salto no Mundial de Roterdã com média de 14,466 pontos; Claire Pease ficou com a prata (14,233) e Skye Blakely com o bronze (14,166). A conquista foi o terceiro título mundial da brasileira no aparelho e sua décima medalha em Mundiais.
 - Fontes de checagem registradas: ge — https://ge.globo.com/ginastica-artistica/noticia/2026/10/24/rebeca-andrade-e-tricampea-do-salto-e-conquista-10a-medalha-em-mundiais-de-ginastica.ghtml ; Exame — https://exame.com/esporte/rebeca-andrade-conquista-tricampeonato-mundial-no-salto-e-faz-historia-na-ginastica/
 - Alterações documentais realizadas no GitHub, branch `main`. Esta operação não altera o conteúdo do site nem confirma sincronização do vault local do Obsidian.
+
+
+## 2026-10-24 — Publicação confirmada: pós-jogo Flamengo x Paisas pela Liga Sul-Americana
+- O editor confirmou a publicação de “Flamengo atropela o Paisas por 84 a 53 e estreia com autoridade na Liga Sul-Americana de Basquete”.
+- URL pública: https://fla10.news/noticias/flamengo-atropela-o-paisas-por-84-a-53-e-estreia-com-autoridade-na-liga-sul-americana-de-basquete
+- Criada a ficha editorial `06 - Pautas/2026-10-24 - Flamengo atropela Paisas - pós-jogo basquete.md`, com estado publicado, resultado, parciais, destaques, Resumo para IA, pacote SEO, fontes e controle de redundância.
+- Atualizado o Painel de Pautas para encerrar a pendência do pós-jogo e registrar a publicação.
+- Resultado registrado: Flamengo 84 x 53 Paisas; parciais de 31–22, 22–11, 20–11 e 11–9. Yago marcou 13 pontos, Ruan 12; o Flamengo dominou os rebotes por 59 a 35.
+- Fontes de checagem registradas: publicação do Fla10, site oficial do Flamengo e ge.
+- Alterações documentais realizadas no GitHub, branch `main`. Esta operação não altera o conteúdo do site nem confirma sincronização do vault local do Obsidian.
