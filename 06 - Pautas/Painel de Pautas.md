@@ -773,3 +773,14 @@ As duas pautas foram adicionadas ao painel a pedido do editor. A inclusão não 
 - **Dados registrados:** partida em 24/10/2026, às 20h10, no Maracanãzinho; transmissão indicada pela BasqueteTV, com referência ao canal oficial da FIBA no YouTube e ressalva de disponibilidade regional.
 - **Contexto:** Flamengo estreou com vitória por 84 a 53 sobre o Paisas; Oberá perdeu por 74 a 69 para o Defensor Sporting. Os dois melhores do grupo avançam às quartas de final.
 - **Controle de redundância:** serviço pré-jogo distinto do pós-jogo da estreia contra o Paisas e de qualquer matéria pós-jogo do confronto com o Oberá.
+
+
+## Pauta concluída — 24 de outubro de 2026
+
+### Flamengo adia decisão sobre Jardim e Boto, mas eliminação na Libertadores aumenta pressão
+- **Estado:** **publicada em 24/10/2026**, conforme confirmação do editor.
+- **Formato:** reportagem de contexto sobre o futuro do técnico Leonardo Jardim e do diretor de futebol José Boto após a eliminação na Libertadores.
+- **URL pública:** https://fla10.news/noticias/flamengo-adia-decisao-sobre-jardim-e-boto-mas-eliminacao-na-libertadores-aumenta-pressao
+- **Arquivo de produção:** [[2026-10-24 - Futuro de Jardim e Boto após eliminação na Libertadores]].
+- **Ângulo:** a diretoria não prevê mudança imediata, segundo apuração do UOL, e pretende avaliar os trabalhos ao fim da temporada; diferenciar os contratos e os pontos de avaliação de Jardim e Boto.
+- **Controle editorial:** relatos de bastidores devem permanecer atribuídos; não transformar avaliação futura em decisão oficial de demissão ou permanência.
