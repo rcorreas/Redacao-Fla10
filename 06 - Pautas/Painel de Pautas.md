@@ -761,3 +761,15 @@ As duas pautas foram adicionadas ao painel a pedido do editor. A inclusão não 
 - **Pacote editorial:** matéria completa com subtítulo, marcadores de fim de parágrafo e dos subtítulos internos, Resumo para IA e pacote SEO.
 - **Controle de redundância:** cobertura de uma conquista individual na ginástica artística; distinta das pautas de futebol e das matérias sobre modalidades do Flamengo.
 - **Fontes de checagem:** ge — https://ge.globo.com/ginastica-artistica/noticia/2026/10/24/rebeca-andrade-e-tricampea-do-salto-e-conquista-10a-medalha-em-mundiais-de-ginastica.ghtml ; Exame — https://exame.com/esporte/rebeca-andrade-conquista-tricampeonato-mundial-no-salto-e-faz-historia-na-ginastica/
+
+
+## Publicação confirmada — Flamengo x Oberá: onde assistir pela Liga Sul-Americana (24 de outubro de 2026)
+
+### Flamengo x Oberá: onde assistir ao vivo, horário e informações do jogo pela Liga Sul-Americana de Basquete
+- **Estado:** publicada em 24/10/2026, conforme confirmação do editor.
+- **URL pública:** https://fla10.news/noticias/flamengo-x-obera-onde-assistir-ao-vivo-horario-e-informacoes-do-jogo-pela-liga-sul-americana-de-basquete
+- **Formato:** serviço pré-jogo (“Onde assistir”).
+- **Ficha editorial:** [[2026-10-24 - Flamengo x Oberá onde assistir Liga Sul-Americana]].
+- **Dados registrados:** partida em 24/10/2026, às 20h10, no Maracanãzinho; transmissão indicada pela BasqueteTV, com referência ao canal oficial da FIBA no YouTube e ressalva de disponibilidade regional.
+- **Contexto:** Flamengo estreou com vitória por 84 a 53 sobre o Paisas; Oberá perdeu por 74 a 69 para o Defensor Sporting. Os dois melhores do grupo avançam às quartas de final.
+- **Controle de redundância:** serviço pré-jogo distinto do pós-jogo da estreia contra o Paisas e de qualquer matéria pós-jogo do confronto com o Oberá.
