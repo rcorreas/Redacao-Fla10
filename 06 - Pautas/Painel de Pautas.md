@@ -725,15 +725,18 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 As duas pautas foram adicionadas ao painel a pedido do editor. A inclusão não equivale à autorização para redigir: discutir cada uma individualmente, definir pergunta central, tese, evidências necessárias e diferencial em relação às matérias já publicadas antes de iniciar a produção.
 
 
-## Pauta incluída — pós-jogo do FlaBasquete (23 de outubro de 2026)
+## Publicação confirmada — pós-jogo do FlaBasquete (24 de outubro de 2026)
 
-### Flamengo x Paisas Basketball Club — pós-jogo da Liga Sul-Americana
-- **Estado:** incluída na programação de hoje; produzir após o encerramento da partida e confirmar todos os dados do jogo.
-- **Partida:** Flamengo x Paisas Basketball Club, da Colômbia, em 23/10/2026, às 20h10, no Maracanãzinho, pela fase de grupos da Liga Sul-Americana de Basquete 2026.
-- **Formato:** notícia pós-jogo — resultado, parciais por quarto, principais pontuadores e momentos decisivos, além do impacto do resultado na situação do Flamengo no Grupo D.
-- **Apuração obrigatória:** confirmar placar final, parciais, estatísticas individuais e classificação em fontes oficiais da competição/FIBA ou do Flamengo. Não antecipar resultado, destaques ou implicações antes da partida.
-- **Controle editorial:** manter a matéria factual e distinta do serviço “Onde assistir” já publicado sobre a estreia na competição.
-- **Pacote editorial:** título e subtítulo, marcadores de fim de parágrafo, Resumo para IA e pacote SEO.
+### Flamengo atropela o Paisas por 84 a 53 e estreia com autoridade na Liga Sul-Americana de Basquete
+- **Estado:** publicada em 24/10/2026, conforme confirmação explícita do editor.
+- **URL pública:** https://fla10.news/noticias/flamengo-atropela-o-paisas-por-84-a-53-e-estreia-com-autoridade-na-liga-sul-americana-de-basquete
+- **Partida:** Flamengo 84 x 53 Paisas Basketball Club, em 23/10/2026, no Maracanãzinho, pela primeira rodada do Grupo D da Liga Sul-Americana de Basquete 2026.
+- **Formato:** notícia pós-jogo.
+- **Resumo factual:** Flamengo venceu os quatro períodos e construiu vantagem de 31 pontos. Yago foi o cestinha rubro-negro, com 13 pontos; Ruan marcou 12. O time também dominou os rebotes por 59 a 35 e distribuiu 20 assistências.
+- **Parciais registradas na matéria:** 31–22, 22–11, 20–11 e 11–9.
+- **Próximo compromisso informado na publicação:** Oberá, em 24/10, às 20h10, no Maracanãzinho.
+- **Ficha editorial:** [[2026-10-24 - Flamengo atropela Paisas - pós-jogo basquete]].
+- **Controle editorial:** distinta da matéria de serviço “Onde assistir” publicada em 23/10; a pauta de pós-jogo está encerrada.
 
 
 ## Publicação confirmada — Rebeca Andrade tricampeã mundial no salto (24 de outubro de 2026)
