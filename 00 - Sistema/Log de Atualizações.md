@@ -394,3 +394,13 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - A pedido do editor, foi incluída na programação de hoje a cobertura pós-jogo de Flamengo x Paisas Basketball Club, pela fase de grupos da Liga Sul-Americana de Basquete.
 - A pauta deve ser produzida após o encerramento, com placar, parciais, destaques e situação no grupo confirmados; não antecipar fatos da partida.
 - Mantida separada da matéria de serviço “Onde assistir” publicada anteriormente.
+
+
+## 2026-10-24 — Publicação confirmada: Rebeca Andrade conquista tricampeonato mundial no salto
+- O editor confirmou a publicação da matéria “Rebeca Andrade conquista tricampeonato mundial no salto e entra para a história da ginástica”.
+- URL pública: https://fla10.news/noticias/rebeca-andrade-conquista-tricampeonato-mundial-no-salto-e-entra-para-a-historia-da-ginastica
+- Criada a ficha editorial `06 - Pautas/2026-10-24 - Rebeca Andrade tricampeã mundial no salto.md`, com status publicada, resumo factual, ângulo, Resumo para IA, pacote SEO, fontes de checagem e controle de redundância.
+- Atualizado o Painel de Pautas para registrar a publicação e vincular a ficha editorial.
+- Resultado registrado: Rebeca venceu a final do salto no Mundial de Roterdã com média de 14,466 pontos; Claire Pease ficou com a prata (14,233) e Skye Blakely com o bronze (14,166). A conquista foi o terceiro título mundial da brasileira no aparelho e sua décima medalha em Mundiais.
+- Fontes de checagem registradas: ge — https://ge.globo.com/ginastica-artistica/noticia/2026/10/24/rebeca-andrade-e-tricampea-do-salto-e-conquista-10a-medalha-em-mundiais-de-ginastica.ghtml ; Exame — https://exame.com/esporte/rebeca-andrade-conquista-tricampeonato-mundial-no-salto-e-faz-historia-na-ginastica/
+- Alterações documentais realizadas no GitHub, branch `main`. Esta operação não altera o conteúdo do site nem confirma sincronização do vault local do Obsidian.
