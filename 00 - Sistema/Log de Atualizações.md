@@ -439,3 +439,11 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Criada a ficha editorial `06 - Pautas/2026-10-24 - Futuro de Jardim e Boto após eliminação na Libertadores.md`, com estado de publicação, resumo, ângulo, SEO, fontes e cautelas factuais.
 - Atualizado o Painel de Pautas para registrar a publicação e a distinção em relação à análise esportiva sobre a eliminação.
 - Alterações feitas no GitHub. A sincronização com o vault local do Obsidian não foi verificada.
+
+
+## 2026-10-24 — Inclusão de pautas para domingo, 25 de outubro
+- A pedido do editor, incluídas duas reservas na programação de 25/10/2026: uma matéria para **Flamengo na História**, sobre a geração de 1981 e a conquista mundial, e uma imagem para a **Galeria de Arte Rubro-Negra**, com o conceito “O Maracanã em noite de decisão”.
+- Criadas as fichas editoriais correspondentes em `06 - Pautas/`.
+- Atualizado o Painel de Pautas com o estado reservado, os ângulos propostos e as checagens necessárias.
+- A inclusão não equivale a autorização automática para redação ou geração da imagem; o recorte e a direção visual devem ser debatidos antes da produção.
+- Alterações documentais feitas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
