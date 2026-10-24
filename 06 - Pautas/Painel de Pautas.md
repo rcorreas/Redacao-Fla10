@@ -784,3 +784,22 @@ As duas pautas foram adicionadas ao painel a pedido do editor. A inclusão não 
 - **Arquivo de produção:** [[2026-10-24 - Futuro de Jardim e Boto após eliminação na Libertadores]].
 - **Ângulo:** a diretoria não prevê mudança imediata, segundo apuração do UOL, e pretende avaliar os trabalhos ao fim da temporada; diferenciar os contratos e os pontos de avaliação de Jardim e Boto.
 - **Controle editorial:** relatos de bastidores devem permanecer atribuídos; não transformar avaliação futura em decisão oficial de demissão ou permanência.
+
+
+## Programação editorial — domingo, 25 de outubro de 2026
+
+### Flamengo na História — A geração de 1981 e a conquista do mundo
+- **Estado:** pauta reservada para 25/10/2026; pendente de debate, apuração e produção.
+- **Título provisório:** *Flamengo de Zico em 1981: como o time transformou talento em conquista mundial*.
+- **Ângulo:** reconstruir o contexto da equipe, o caminho até a decisão intercontinental e os fatores técnicos e históricos da vitória sobre o Liverpool, evitando nostalgia sem apuração.
+- **Checagens:** confirmar datas, escalação, gols e percurso em fontes históricas confiáveis; consultar o acervo Fla10 e buscar um diferencial caso já exista matéria semelhante.
+- **Ficha editorial:** [[2026-10-25 - Flamengo na História - geração de 1981 e conquista mundial]].
+
+### Galeria de Arte Rubro-Negra — O Maracanã em noite de decisão
+- **Estado:** pauta reservada para 25/10/2026; conceito sujeito a debate antes da produção da imagem.
+- **Proposta visual:** ilustração editorial original do Maracanã à noite, com arquibancadas em vermelho e preto, bandeiras e luzes dramáticas, em linguagem de gravura contemporânea.
+- **Objetivo:** retratar a força coletiva da torcida e a memória visual do estádio, sem reproduzir fotografia específica nem usar jogadores identificáveis.
+- **Checagens:** consultar o acervo da galeria para evitar repetição; confirmar proporção e exigências do CMS; registrar a proveniência corretamente.
+- **Ficha editorial:** [[2026-10-25 - Galeria de Arte Rubro-Negra - Maracanã em noite de decisão]].
+
+**Regra de execução:** as duas inclusões são reservas de pauta, não autorização automática para redigir a matéria ou gerar a arte. Debater cada proposta e confirmar o recorte antes da produção.
