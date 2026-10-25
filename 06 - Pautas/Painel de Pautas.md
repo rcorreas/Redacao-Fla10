@@ -587,7 +587,7 @@ A transferência de data não equivale a autorização automática para redigir;
 ## Programação editorial — 23 de outubro de 2026
 
 ### Eficiência ofensiva do Flamengo no Brasileirão
-- **Estado:** transferida para domingo, 25/10/2026; pendente de apuração, produção e publicação.
+- **Estado:** transferida para segunda-feira, 26/10/2026; pendente de apuração, produção e publicação.
 - **Formato:** análise estatística / notícia analítica.
 - **Apuração obrigatória:** levantar estatísticas atuais do Flamengo no Brasileirão e selecionar uma referência comparável, com período, competição e critérios equivalentes.
 - **Ângulo:** avaliar a eficiência ofensiva com dados verificáveis, evitando repetir a análise da vitória por 3 a 0 sobre o Bahia.
@@ -708,7 +708,7 @@ A transferência de data não equivale a autorização automática para redigir;
 ## Pautas incluídas — 23 de outubro de 2026
 
 ### Flamengo x Atlético-MG: a resposta que o líder precisa dar depois da queda na Libertadores
-- **Estado:** transferida para domingo, 25/10/2026; pendente de debate editorial, apuração e autorização para produção.
+- **Estado:** transferida para segunda-feira, 26/10/2026; pendente de debate editorial, apuração e autorização para produção.
 - **Janela prevista:** pauta de preparação para Flamengo x Atlético-MG, marcado para segunda-feira, 26/10/2026, às 20h, no Maracanã.
 - **Formato:** análise de contexto / pré-jogo.
 - **Pergunta editorial:** como o Flamengo deve responder à eliminação na Libertadores e o que a partida pode revelar sobre a capacidade de manter o foco na disputa do Brasileirão?
@@ -719,7 +719,7 @@ A transferência de data não equivale a autorização automática para redigir;
 - **Pacote editorial, após aprovação:** título e subtítulo, marcadores de fim de parágrafo, Resumo para IA e pacote SEO.
 
 ### A defesa pode decidir o Brasileirão? Flamengo e Palmeiras chegam à reta final com números próximos
-- **Estado:** transferida para domingo, 25/10/2026; pendente de debate editorial, apuração e autorização para produção.
+- **Estado:** transferida para segunda-feira, 26/10/2026; pendente de debate editorial, apuração e autorização para produção.
 - **Janela prevista:** reta final do Brasileirão 2026.
 - **Formato:** análise estatística comparativa.
 - **Pergunta editorial:** até que ponto a consistência defensiva pode decidir a disputa entre Flamengo e Palmeiras nas rodadas finais?
@@ -789,14 +789,14 @@ As duas pautas foram adicionadas ao painel a pedido do editor. A inclusão não 
 ## Programação editorial — domingo, 25 de outubro de 2026
 
 ### Flamengo na História — A geração de 1981 e a conquista do mundo
-- **Estado:** pauta reservada para 25/10/2026; pendente de debate, apuração e produção.
+- **Estado:** publicada, conforme confirmação do editor em 25/10/2026; retirada das pendências. URL pública ainda não informada nesta conversa.
 - **Título provisório:** *Flamengo de Zico em 1981: como o time transformou talento em conquista mundial*.
 - **Ângulo:** reconstruir o contexto da equipe, o caminho até a decisão intercontinental e os fatores técnicos e históricos da vitória sobre o Liverpool, evitando nostalgia sem apuração.
 - **Checagens:** confirmar datas, escalação, gols e percurso em fontes históricas confiáveis; consultar o acervo Fla10 e buscar um diferencial caso já exista matéria semelhante.
 - **Ficha editorial:** [[2026-10-25 - Flamengo na História - geração de 1981 e conquista mundial]].
 
 ### Galeria de Arte Rubro-Negra — O Maracanã em noite de decisão
-- **Estado:** pauta reservada para 25/10/2026; conceito sujeito a debate antes da produção da imagem.
+- **Estado:** transferida para segunda-feira, 26/10/2026; conceito sujeito a debate antes da produção da imagem.
 - **Proposta visual:** ilustração editorial original do Maracanã à noite, com arquibancadas em vermelho e preto, bandeiras e luzes dramáticas, em linguagem de gravura contemporânea.
 - **Objetivo:** retratar a força coletiva da torcida e a memória visual do estádio, sem reproduzir fotografia específica nem usar jogadores identificáveis.
 - **Checagens:** consultar o acervo da galeria para evitar repetição; confirmar proporção e exigências do CMS; registrar a proveniência corretamente.
@@ -826,3 +826,21 @@ As duas pautas foram adicionadas ao painel a pedido do editor. A inclusão não 
 - **Resumo:** Flamengo conquistou a segunda vitória em dois jogos e encaminhou a classificação. Parciais: 27–15, 16–21, 28–18 e 22–19. Yago Santos e Luis Montero fizeram 17 pontos cada; Didi Louzada foi desqualificado no segundo quarto.
 - **Controle de redundância:** pós-jogo distinto do serviço pré-jogo de Flamengo x Oberá e da matéria sobre a estreia contra o Paisas.
 - **Fontes de checagem:** Flamengo, Liga Nacional de Basquete e ge.
+
+
+## Reorganização da pauta — domingo, 25/10/2026
+
+### Pautas de hoje — ordem de execução
+1. **Flamengo x Atlético-MG: a resposta que o líder precisa dar depois da queda na Libertadores** — debater o ângulo e apurar o cenário antes do jogo; produção depende de aprovação.
+2. **Reportagens Fla10 — Da base ao profissional: o caminho dos Garotos do Ninho** — debater recorte temporal, hipótese e plano de apuração antes da produção.
+3. **Onde assistir — CAM x Flamengo** — pauta de serviço incluída por solicitação do editor; é o último item do dia. Confirmar a identificação oficial do confronto, data, competição, horário, local, transmissão, arbitragem e escalações prováveis antes de redigir.
+
+### Pautas transferidas para segunda-feira, 26/10/2026
+1. **Eficiência ofensiva do Flamengo no Brasileirão** — atualizar estatísticas e escolher uma referência comparável.
+2. **A defesa pode decidir o Brasileirão? Flamengo e Palmeiras chegam à reta final com números próximos** — atualizar e validar os dados comparativos com critérios equivalentes.
+3. **Galeria de Arte Rubro-Negra — O Maracanã em noite de decisão** — retomar o conceito visual, consultar o acervo e confirmar as exigências do CMS antes de gerar a imagem.
+
+### Retirada da pauta ativa
+- **Flamengo na História — A geração de 1981 e a conquista do mundo:** o editor informou que a matéria já foi publicada. Retirada das pendências; a URL não foi fornecida nesta atualização.
+
+**Regra de execução:** a reorganização altera a data e a ordem das pautas, mas não autoriza automaticamente a redação das matérias nem a geração da imagem. Preservar as etapas de debate e aprovação já definidas.
