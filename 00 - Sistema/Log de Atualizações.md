@@ -473,3 +473,11 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Incluída como último item de hoje a matéria de serviço **Onde assistir — CAM x Flamengo**, com apuração da identificação oficial do confronto, competição, horário, local e transmissão ainda pendente.
 - O editor informou que **Flamengo na História — A geração de 1981 e a conquista do mundo** já foi publicada. Retirada da pauta ativa; a URL pública não foi fornecida nesta atualização.
 - Atualizados o Painel de Pautas e a ficha de Flamengo na História; criada ficha para CAM x Flamengo. A reorganização não autoriza automaticamente a produção. Alterações no GitHub, branch `main`; a sincronização do vault local do Obsidian não foi verificada.
+
+
+## 2026-10-25 — Pauta estruturada: Flamengo x Atlético-MG após a eliminação na Libertadores
+- A pedido do editor, estruturada a pauta **Flamengo x Atlético-MG: a resposta que o líder precisa dar depois da queda na Libertadores**, prevista para 26/10, pela 32ª rodada do Brasileirão.
+- Criada a ficha `06 - Pautas/2026-10-25 - Flamengo x Atlético-MG - resposta após Libertadores.md`, com pergunta editorial, hipótese de trabalho, ângulo, plano de apuração, cautelas e fontes iniciais.
+- O recorte evita repetir a análise crítica da eliminação: o foco é a resposta esportiva observável e o contexto da disputa do Brasileirão, sem presumir estados emocionais nem antecipar conclusões.
+- Atualizado o Painel de Pautas para vincular a ficha. A pauta permanece pendente de debate editorial e autorização para redação.
+- Alterações feitas no GitHub, branch `main`; a sincronização do vault local do Obsidian não foi verificada.
