@@ -1,0 +1,119 @@
+---
+data: 2026-10-25
+secao: Reportagens Fla10
+formato: reportagem explicativa / investigação documental
+estado: pauta incluída; pesquisa inicial aprofundada concluída; pendente de apuração complementar e autorização para redação
+proveniencia: produção interna a desenvolver
+---
+
+# Caso Marcos Rojo: o que está em jogo na denúncia do Flamengo contra o Estudiantes
+
+## Pergunta editorial
+A autorização provisória do Tribunal Arbitral do Esporte para Marcos Rojo atuar na semifinal afastou a possibilidade de sanção esportiva ao Estudiantes ou deixou a situação sujeita à decisão posterior da CONMEBOL?
+
+## Hipótese de trabalho
+O caso não se resume à pergunta se Rojo entrou em campo com uma autorização judicial esportiva. A controvérsia envolve a inscrição excepcional de um atleta contratado após o fechamento da janela argentina, a recusa inicial da CONMEBOL, a medida provisória do TAS/CAS e a interpretação do artigo 24 do Código Disciplinar da entidade. O Flamengo afirma que a decisão provisória não afastou eventuais consequências esportivas e que o protesto foi protocolado dentro do prazo. A conclusão depende da decisão oficial dos órgãos competentes; não tratar o pedido do Flamengo como prova de irregularidade já reconhecida.
+
+## Situação em 25/10/2026
+- O Flamengo apresentou protesto formal à CONMEBOL depois da partida de volta da semifinal e pediu que o caso seja decidido antes da final da Libertadores.
+- O clube pede a aplicação da regra de escalação indevida, cuja sanção prevista pode ser a determinação do resultado de 3 a 0 a favor do adversário.
+- A CONMEBOL ainda não havia divulgado, nas fontes consultadas, uma decisão final sobre o protesto até a atualização desta ficha.
+- A presidente do Palmeiras, Leila Pereira, criticou publicamente a iniciativa do Flamengo em 24/10, qualificando-a como “ridícula” e defendendo que os resultados sejam obtidos em campo. Abel Ferreira também comentou que o Palmeiras chegou à final dentro de campo.
+- O Flamengo publicou nota oficial em 24/10 para explicar a cronologia e defender que está usando o procedimento previsto no regulamento. A nota do clube é uma versão institucional interessada, não uma decisão independente sobre o mérito.
+- Não foi localizada, nas fontes consultadas para esta primeira pesquisa, uma decisão final da CONMEBOL nem a íntegra pública da ordem provisória do CAS. Procurar atualizações oficiais antes de publicar.
+
+## Cronologia documental
+
+### 9 de outubro — pedido de inscrição
+Segundo a nota oficial do Flamengo, o Estudiantes pediu à CONMEBOL que Marcos Rojo fosse incluído na lista da Libertadores como substituto de um jogador lesionado. A janela de transferências argentina havia fechado em 2 de setembro, e Rojo ainda disputara partidas oficiais pelo Racing até 27 de setembro.
+
+### 14 e 15 de outubro — recusa da CONMEBOL
+O Flamengo afirma que a CONMEBOL consultou a FIFA e rejeitou o pedido em 14 de outubro, mantendo a decisão em 15 de outubro. A justificativa noticiada foi que a situação médica de Gabriel Neves, cuja vaga seria usada, não atendia aos critérios para uma substituição excepcional e que as regras de inscrição também se aplicavam a transferências domésticas. O Estudiantes contestou a decisão e anunciou recurso.
+
+### 16 de outubro — Flamengo entra no procedimento
+Conforme a nota do Flamengo, o Estudiantes recorreu ao Tribunal Arbitral do Esporte (CAS, também referido em português como TAS) e incluiu o Flamengo como parte por ser seu adversário na semifinal. O clube brasileiro afirma que passou a integrar o procedimento nessa data.
+
+### 21 de outubro — autorização provisória
+O CAS concedeu uma medida provisória permitindo que Rojo fosse incluído na lista e ficasse disponível para a partida de volta. A nota do Flamengo afirma que o tribunal não concedeu ao Estudiantes a garantia de afastar eventuais consequências esportivas ou disciplinares de uma decisão posterior. A íntegra da ordem provisória não foi localizada nesta apuração inicial; a formulação deve permanecer atribuída ao Flamengo até que o documento primário seja obtido.
+
+### 22 de outubro — jogo de volta
+Rojo foi titular pelo Estudiantes no Maracanã e foi substituído por Tomás Palacios aos 30 minutos do segundo tempo, segundo a cobertura do ge. O jogo terminou 0 a 0 no tempo regulamentar; o Estudiantes venceu por 3 a 2 nos pênaltis e avançou à final.
+
+### 23 de outubro — protesto do Flamengo
+O Flamengo apresentou protesto formal à CONMEBOL, questionando a elegibilidade do jogador e solicitando a aplicação da sanção por escalação indevida. A reportagem do ge e a coluna de Rodrigo Mattos, no UOL, informaram que o clube fundamenta o pedido na interpretação de que a autorização do CAS não eliminou os riscos de uma decisão disciplinar posterior.
+
+### 24 de outubro — nota oficial do Flamengo e repercussão
+O Flamengo publicou nota para esclarecer que não iniciou o pedido original de inscrição, que foi incluído no procedimento após o recurso do Estudiantes e que protestou no prazo previsto. O clube declarou que pretende assegurar a aplicação uniforme das regras.
+No mesmo período, Leila Pereira, presidente do Palmeiras, criticou a iniciativa e afirmou que o resultado deve ser conquistado em campo. Essa declaração é uma reação pública de uma dirigente de outro clube, não evidência jurídica sobre a regularidade da inscrição.
+
+## O que diz a regra disciplinar
+
+O Código Disciplinar da CONMEBOL de 2026, artigo 24.1(a), prevê que, se um atleta participar efetivamente de uma partida oficial sem ser elegível, o clube pode sofrer a determinação do resultado em 3 a 0 para o adversário no futebol de onze. O texto também prevê multa mínima de US$ 5 mil e permite eventual sanção ao jogador. Se o placar obtido em campo for mais favorável ao time declarado vencedor, a norma prevê manter esse resultado.
+
+O artigo 24.1(b) estabelece que a escalação indevida só será considerada se o adversário apresentar reclamação oficial em até 24 horas após o fim da partida, prazo improrrogável, observadas as formalidades do artigo 59.2 e o envio ao endereço indicado no Código. O Flamengo afirma que cumpriu o prazo; essa afirmação deve ser confirmada pelo protocolo ou reconhecida pela entidade.
+
+**Cuidado jurídico:** o texto regulamentar descreve a consequência para a hipótese de escalação indevida, mas não resolve automaticamente a controvérsia. É preciso determinar se Rojo era inelegível apesar da medida provisória do CAS, qual alcance jurídico teve essa medida e como os órgãos disciplinares interpretarão a relação entre a ordem provisória e as regras da competição.
+
+Fonte primária do Código: https://cdn.conmebol.com/wp-content/uploads/2026/01/Codigo-disciplinario-de-la-CONMEBOL-2026.pdf
+
+## As duas questões jurídicas centrais
+
+1. **Alcance da medida provisória do CAS:** autorizou a participação de Rojo naquele jogo, mas também afastou a competência ou a possibilidade de a CONMEBOL aplicar consequências posteriores? A nota do Flamengo diz que o tribunal não concedeu a proteção contra consequências disciplinares pedida pelo Estudiantes. É necessário obter a ordem para analisar a redação exata, seus destinatários, alcance e condições.
+2. **Elegibilidade conforme o regulamento da Libertadores:** a inclusão provisória na lista, autorizada pelo CAS, tornou o jogador elegível para os efeitos do artigo 24 ou a decisão deixou a validade definitiva da inscrição em aberto? Essa é a questão de mérito; não se deve responder com certeza sem a decisão e os regulamentos aplicáveis.
+
+Outros pontos a verificar: jurisdição e procedimento usados no CAS; se houve pedido urgente ou medida cautelar; qual norma de inscrição foi invocada para a substituição de Gabriel Neves; se a lesão e o prazo de recuperação atendiam aos critérios; se o protesto cumpriu todas as formalidades; qual órgão da CONMEBOL decidirá e quais recursos caberiam depois.
+
+## O precedente de Carlos Sánchez e o Santos, em 2018
+
+Na Libertadores de 2018, o Santos foi punido depois de escalar Carlos Sánchez contra o Independiente, apesar de o jogo de ida ter terminado 0 a 0. A CONMEBOL determinou o resultado de 3 a 0 para o clube argentino, e o caso é citado na cobertura jornalística como precedente para a sanção por escalação indevida.
+
+O precedente é útil para explicar a consequência prevista no regulamento, mas não prova que o caso Rojo terá o mesmo desfecho. A diferença central desta controvérsia é a existência de uma medida provisória do CAS anterior ao jogo de volta. A comparação deve descrever semelhanças e diferenças, sem antecipar o julgamento.
+
+## Posições públicas identificadas
+
+- **Flamengo:** afirma que a inscrição foi rejeitada duas vezes pela CONMEBOL, que o CAS permitiu provisoriamente a participação sem afastar eventuais consequências posteriores e que o protesto foi protocolado no prazo. Pede que a entidade aplique o regulamento e decida antes da final.
+- **Estudiantes:** contestou a recusa inicial da inscrição e recorreu ao CAS. Antes do recurso, o clube sustentou publicamente que o pedido de substituição cumpria as regras e que a CONMEBOL deveria aplicar critérios consistentes. A resposta formal específica ao protesto pós-jogo precisa ser procurada e confirmada.
+- **CONMEBOL:** segundo a cronologia relatada pelo Flamengo e pela imprensa, recusou inicialmente a inscrição. Até o corte desta pesquisa, não foi localizada uma decisão final pública sobre o protesto pós-jogo. Não atribuir à entidade uma posição definitiva que não tenha sido publicada.
+- **CAS/TAS:** concedeu medida provisória para permitir a participação. A ordem integral não foi localizada nesta apuração; não atribuir ao tribunal conclusões além das descritas em documentos acessíveis e devidamente citados.
+- **Leila Pereira / Palmeiras:** Leila criticou a iniciativa e defendeu a obtenção de resultados dentro de campo. É repercussão institucional e esportiva, não análise especializada nem decisão sobre o mérito jurídico.
+- **Abel Ferreira:** também comentou a polêmica, ressaltando a classificação do Palmeiras conquistada em campo. Confirmar a íntegra e o contexto da declaração antes de usar citações extensas.
+
+## Impactos possíveis — sem antecipar resultado
+- **Se o protesto for acolhido:** a CONMEBOL poderá aplicar a consequência prevista no Código, potencialmente alterando o resultado esportivo da semifinal. O efeito exato sobre a vaga na final dependerá da decisão formal e de eventuais recursos.
+- **Se o protesto for rejeitado:** a classificação do Estudiantes permanece conforme o resultado esportivo, sem prejuízo de outras fundamentações que constem da decisão.
+- **Se houver decisão após a final ou recurso:** poderá surgir controvérsia adicional sobre calendário, segurança jurídica, estabilidade da competição e efeitos sobre os clubes envolvidos. Não afirmar que a final será adiada ou que a vaga será automaticamente transferida sem comunicado oficial.
+- **Impacto institucional:** o caso põe em debate a aplicação uniforme das regras de inscrição e o papel de medidas provisórias em competições organizadas por entidades esportivas. Separar o mérito jurídico da crítica pública ao uso de tribunais após uma eliminação.
+
+## Plano de apuração complementar antes de redigir
+1. Encontrar a íntegra da ordem provisória do CAS de 21/10 e identificar precisamente o que foi deferido, negado e condicionado.
+2. Confirmar com documentos oficiais a data e o horário do protocolo do Flamengo, o recebimento pela CONMEBOL e o cumprimento do artigo 24.1(b) e do artigo 59.2.
+3. Consultar o regulamento da Libertadores 2026, o Código Disciplinar integral e a norma específica de inscrição/substituição excepcional por lesão; identificar os dispositivos exatos usados pela CONMEBOL.
+4. Procurar decisão, comunicado ou resposta formal da CONMEBOL e do Estudiantes sobre o protesto pós-jogo.
+5. Confirmar se o caso está formalmente sob análise da Comissão Disciplinar, qual prazo existe para decisão e se foi publicado despacho processual.
+6. Buscar o caso Santos–Carlos Sánchez de 2018 em fonte primária da CONMEBOL, distinguindo o fundamento disciplinar daquele precedente.
+7. Confirmar as declarações integrais de Leila Pereira e Abel Ferreira e buscar eventual manifestação de dirigentes do Flamengo e do Estudiantes.
+8. Atualizar a pesquisa imediatamente antes da publicação; o estado processual pode mudar em horas.
+
+## Cuidados editoriais
+- Não usar “escalação irregular” como fato consumado no título sem atribuir a alegação ou haver decisão definitiva. Preferir “denúncia”, “protesto”, “possível irregularidade” ou “caso Rojo”.
+- Não afirmar que o Flamengo “ganhou no tribunal”, que o Estudiantes “perdeu a vaga” ou que a final mudou de participantes sem decisão oficial.
+- Distinguir medida provisória de decisão final de mérito.
+- CAS/TAS é o Tribunal Arbitral do Esporte; evitar chamá-lo simplesmente de “tribunal da FIFA”, formulação imprecisa.
+- A nota do Flamengo deve ser identificada como posição do clube; as informações de imprensa devem ser atribuídas aos veículos.
+- Separar o fato jurídico da disputa política entre dirigentes e da opinião de torcedores.
+- Evitar transformar a regra do 3 a 0 em resultado automático: depende da constatação de inelegibilidade e dos requisitos procedimentais.
+- Registrar o corte temporal da matéria: situação conhecida até a data e hora da última checagem.
+
+## Fontes consultadas nesta primeira rodada
+
+1. **Flamengo — nota oficial de 24/10/2026, versão em inglês, com cronologia institucional:** https://www.flamengo.com.br/en/noticias/notas-oficiais/flamengo-clarifies-rojo-registration-stance
+2. **Código Disciplinar da CONMEBOL 2026 — artigo 24, determinação do resultado por escalação indevida:** https://cdn.conmebol.com/wp-content/uploads/2026/01/Codigo-disciplinario-de-la-CONMEBOL-2026.pdf
+3. **ge — 23/10/2026, Flamengo recorre da escalação de Rojo e tenta mudar classificação:** https://ge.globo.com/google/amp/futebol/times/flamengo/noticia/2026/10/23/flamengo-recorre-da-escalacao-de-rojo-do-estudiantes-e-tenta-mudar-classificacao-na-libertadores-entenda.ghtml
+4. **UOL, Rodrigo Mattos — 23/10/2026, Flamengo pede à CONMEBOL análise sobre a regularidade:** https://www.uol.com.br/esporte/futebol/colunas/rodrigo-mattos/2026/10/23/flamengo-pede-a-conmebol-analise-se-jogador-do-estudiantes-estava-regular.htm
+5. **ge — 15/10/2026, recusa inicial de inscrição de Marcos Rojo:** https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/15/contratacao-de-emergencia-do-estudiantes-na-semifinal-pode-ficar-fora-contra-o-flamengo-entenda.ghtml
+6. **ge — 21/10/2026, CAS autoriza provisoriamente a participação de Rojo:** https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/21/tas-libera-inscricao-e-estudiantes-tera-reforco-de-marcos-rojo-para-jogo-contra-o-flamengo.ghtml
+7. **Terra — 24/10/2026, atualizado em 25/10, crítica de Leila Pereira:** https://www.terra.com.br/esportes/futebol/leila-critica-flamengo-por-polemica-com-a-final-da-libertadores-calcem-a-sandalia-da-humildade,8175a5bd28993c87217f7bddf1a2d76buhitwuam.html
+8. **ESPN Brasil — repercussão da nota do Flamengo:** https://www.espn.com.br/futebol/flamengo/artigo/_/id/17426527/flamengo-emite-nota-apos-polemica-do-caso-rojo-na-libertadores-garantir-que-a-regra-valha-para-todos
+
+## Entrega prevista
+Reportagem explicativa com título e subtítulo, cronologia, leitura do regulamento, explicação do papel do CAS e da CONMEBOL, posições das partes, precedente histórico, cenários possíveis, marcadores de fim de parágrafo, Resumo para IA e pacote SEO. Redação somente depois da apuração complementar e autorização editorial.
