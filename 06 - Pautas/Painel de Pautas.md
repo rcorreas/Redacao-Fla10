@@ -833,7 +833,7 @@ As duas pautas foram adicionadas ao painel a pedido do editor. A inclusão não 
 ### Pautas de hoje — ordem de execução
 1. **Flamengo x Atlético-MG: a resposta que o líder precisa dar depois da queda na Libertadores** — **publicada em 25/10/2026**. [Matéria publicada](https://fla10.news/noticias/flamengo-x-atletico-mg-a-resposta-que-o-lider-precisa-dar-depois-da-queda-na-libertadores). Ficha: [[2026-10-25 - Flamengo x Atlético-MG - resposta após Libertadores]].
 2. **Reportagens Fla10 — Da base ao profissional: o caminho dos Garotos do Ninho** — debater recorte temporal, hipótese e plano de apuração antes da produção.
-3. **Reportagem Fla10 — Caso Marcos Rojo: o que está em jogo na denúncia do Flamengo contra o Estudiantes** — pesquisa inicial aprofundada registrada; apurar documentos primários e atualização processual antes de redigir. [[2026-10-25 - Reportagem Fla10 - caso Marcos Rojo e denúncia do Flamengo]].
+3. **Reportagem Fla10 — Caso Marcos Rojo: o que está em jogo na denúncia do Flamengo contra o Estudiantes** — apuração documental ampliada em 25/10: localizados os comunicados oficiais do Estudiantes de 15/10 e 21/10. Pendentes a íntegra da ordem do TAS, o protocolo do protesto e a identificação dos precedentes alegados pelo clube argentino; nenhuma decisão final pública da CONMEBOL foi localizada. [[2026-10-25 - Reportagem Fla10 - caso Marcos Rojo e denúncia do Flamengo]].
 4. **Onde assistir — CAM x Flamengo** — pauta de serviço incluída por solicitação do editor; permanece como último item do dia. Confirmar a identificação oficial do confronto, data, competição, horário, local, transmissão, arbitragem e escalações prováveis antes de redigir.
 
 ### Pautas transferidas para segunda-feira, 26/10/2026
