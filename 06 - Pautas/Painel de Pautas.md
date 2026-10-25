@@ -831,7 +831,7 @@ As duas pautas foram adicionadas ao painel a pedido do editor. A inclusão não 
 ## Reorganização da pauta — domingo, 25/10/2026
 
 ### Pautas de hoje — ordem de execução
-1. **Flamengo x Atlético-MG: a resposta que o líder precisa dar depois da queda na Libertadores** — pauta estruturada; pendente de debate e autorização para redação. [[2026-10-25 - Flamengo x Atlético-MG - resposta após Libertadores]].
+1. **Flamengo x Atlético-MG: a resposta que o líder precisa dar depois da queda na Libertadores** — **publicada em 25/10/2026**. [Matéria publicada](https://fla10.news/noticias/flamengo-x-atletico-mg-a-resposta-que-o-lider-precisa-dar-depois-da-queda-na-libertadores). Ficha: [[2026-10-25 - Flamengo x Atlético-MG - resposta após Libertadores]].
 2. **Reportagens Fla10 — Da base ao profissional: o caminho dos Garotos do Ninho** — debater recorte temporal, hipótese e plano de apuração antes da produção.
 3. **Onde assistir — CAM x Flamengo** — pauta de serviço incluída por solicitação do editor; é o último item do dia. Confirmar a identificação oficial do confronto, data, competição, horário, local, transmissão, arbitragem e escalações prováveis antes de redigir.
 
@@ -844,3 +844,13 @@ As duas pautas foram adicionadas ao painel a pedido do editor. A inclusão não 
 - **Flamengo na História — A geração de 1981 e a conquista do mundo:** o editor informou que a matéria já foi publicada. Retirada das pendências; a URL não foi fornecida nesta atualização.
 
 **Regra de execução:** a reorganização altera a data e a ordem das pautas, mas não autoriza automaticamente a redação das matérias nem a geração da imagem. Preservar as etapas de debate e aprovação já definidas.
+
+
+## Publicação confirmada — Flamengo x Atlético-MG após a eliminação na Libertadores (25 de outubro de 2026)
+
+### Flamengo x Atlético-MG: a resposta que o líder precisa dar depois da queda na Libertadores
+- **Estado:** publicada em 25/10/2026, conforme confirmação do editor.
+- **URL pública:** https://fla10.news/noticias/flamengo-x-atletico-mg-a-resposta-que-o-lider-precisa-dar-depois-da-queda-na-libertadores
+- **Formato:** análise de contexto / pré-jogo.
+- **Ângulo:** resposta esportiva que o Flamengo precisa apresentar após a eliminação na Libertadores, com atenção à organização, intensidade, criação ofensiva e importância dos pontos na disputa do Brasileirão.
+- **Controle de redundância:** matéria distinta da análise aprofundada sobre as escolhas de Leonardo Jardim na semifinal e da notícia sobre o futuro da comissão técnica.
