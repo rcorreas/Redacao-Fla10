@@ -170,3 +170,59 @@ A afirmação do Estudiantes de que a CONMEBOL já aceitou pedidos em condiçõe
 6. Confirmar em fonte primária o fundamento e a tramitação do precedente Santos–Carlos Sánchez de 2018.
 
 **Status editorial:** a pauta permanece como Reportagem Fla10 de investigação documental. A apuração ganhou dois comunicados primários do Estudiantes, mas ainda não há base suficiente para concluir o mérito jurídico nem para redigir uma conclusão categórica.
+
+## Segunda rodada de apuração — regulamento da Libertadores e precedente Santos (25/10/2026)
+
+### Manual de Clubes da Libertadores 2026: regra primária localizada
+
+Foi localizado o **Manual de Clubes da CONMEBOL Libertadores 2026**, fonte primária da competição:
+https://cdn.conmebol.com/wp-content/uploads/2025/12/CL-2026-Manual-de-Clubes-POR-Fev26.pdf
+
+O item **3.7.4 — Elegibilidade de Jogadores e Corpo Técnico** informa que os jogadores incluídos na Lista de Boa-Fé devem estar regularmente inscritos pelo clube participante em sua Associação-Membro na data de apresentação da lista ou no momento de inclusões/substituições previstas no Manual. O item **3.7.4.1 — Inscrição dos Jogadores** vincula a inscrição às regras vigentes na associação nacional e, em transferências internacionais, às normas da FIFA. Também atribui aos clubes a responsabilidade por assegurar as condições de elegibilidade e diz que a associação nacional verifica e valida a inscrição.
+
+O mesmo item prevê que a Unidade Disciplinar da CONMEBOL pode permitir, em casos excepcionais, inscrição provisória de jogador que ainda não esteja registrado em sua associação nacional, mas ressalva que isso **não habilita o atleta a jogar até que cumpra o registro nacional regular**.
+
+**Limite da conclusão:** este texto torna essencial examinar exatamente o que a AFA havia autorizado no caso Rojo, o que a CONMEBOL recusou e como a medida cautelar do TAS interagiu com esses requisitos. Não permite, isoladamente, concluir que a participação foi irregular, pois o TAS emitiu uma ordem provisória específica cuja íntegra ainda não foi localizada.
+
+### Substituições na semifinal: regra operacional
+
+O item **3.7.5.10 — Substituição de Jogadores – Semifinais** permite substituir até três jogadores da lista de 50, conforme as condições do item 3.7.5, mediante formulário próprio encaminhado pela Associação-Membro e atualização da lista no sistema COMET. O item deve ser lido em conjunto com os critérios de elegibilidade e com as regras da AFA/FIFA; a possibilidade geral de substituir jogadores não prova que a situação específica de Rojo atendia aos requisitos.
+
+### Precedente Santos–Carlos Sánchez (2018): documento primário localizado
+
+Foi localizado o comunicado do Tribunal de Disciplina da CONMEBOL sobre o caso:
+https://veja.abril.com.br/wp-content/uploads/2018/08/conmebol_comunicado-tribunal-1.pdf
+
+A decisão oficial registra que o Independiente apresentou reclamação no prazo; o Santos apresentou defesa e teve direito a ser ouvido; o tribunal concluiu que o Santos não cumpriu o dever de comunicar diretamente a Unidade Disciplinar conforme o artigo 9 do regulamento da Libertadores de 2018; e o clube foi considerado responsável por escalar Carlos Sánchez enquanto ainda cumpria uma suspensão de um jogo. O resultado foi alterado para 3 a 0 a favor do Independiente.
+
+**Distinção jurídica indispensável:** o caso Sánchez envolvia uma suspensão pendente e o cumprimento de um procedimento de comunicação. O caso Rojo envolve uma inscrição inicialmente recusada e uma medida cautelar do TAS antes da partida. O precedente confirma que a CONMEBOL já aplicou a sanção de 3 a 0 por escalação indevida, mas não demonstra que o mesmo raciocínio necessariamente se aplique a Rojo.
+
+### Confidencialidade do TAS e acesso à decisão
+
+A página oficial de perguntas frequentes do TAS informa que os procedimentos em curso são confidenciais e que o tribunal pode emitir comunicados em casos de grande repercussão após a decisão. Isso ajuda a explicar por que a ordem cautelar integral pode não estar publicamente disponível. Não significa, porém, que seja impossível obtê-la: Flamengo e Estudiantes são partes do procedimento e podem divulgar o documento ou trechos, respeitadas as regras aplicáveis.
+
+Fonte oficial: https://www.tas-cas.org/es/general-information/frequently-asked-questions
+
+### Prazo da defesa do Estudiantes — informação jornalística, não despacho consultado
+
+Reportagens publicadas em 23–25/10 informam que o Estudiantes foi notificado e teria até segunda-feira, **26/10/2026**, para apresentar sua defesa, após o que o caso seria encaminhado à Comissão Disciplinar da CONMEBOL. Não foi localizado despacho processual oficial que confirme diretamente esse prazo. Tratar a data como informação atribuída à imprensa até confirmação por fonte primária.
+
+Referências:
+- https://www.bol.uol.com.br/noticias/2026/10/23/flamengo-pede-a-conmebol-para-ser-declarado-vencedor-contra-o-estudiantes.amp.htm
+- https://www.cooperativa.cl/noticias/deportes/futbol/copa-libertadores/flamengo-denuncio-a-estudiantes-ante-conmebol-por-inclusion-de-marcos/2026-10-23/213936.html
+
+### Ajuste na hipótese de trabalho
+
+A investigação passa a ter quatro perguntas documentais prioritárias:
+1. O que a AFA autorizou exatamente e em que data, incluindo o fundamento da inscrição de Rojo após o encerramento da janela regular?
+2. Qual norma específica da CONMEBOL foi usada para recusar a inclusão e qual o alcance exato da ordem provisória do TAS?
+3. O TAS autorizou a participação de Rojo sem afastar eventuais consequências posteriores, como afirma o Flamengo? A redação exata deve ser confirmada com a ordem ou com declarações documentadas das partes.
+4. O protesto cumpriu as regras de prazo e forma e qual é o argumento de mérito apresentado pelo Estudiantes em sua defesa?
+
+### Fontes primárias adicionais
+
+1. **Manual de Clubes da CONMEBOL Libertadores 2026**, itens 3.7.4, 3.7.4.1 e 3.7.5.10: https://cdn.conmebol.com/wp-content/uploads/2025/12/CL-2026-Manual-de-Clubes-POR-Fev26.pdf
+2. **Tribunal de Disciplina da CONMEBOL — decisão do caso Santos–Carlos Sánchez/Independiente (2018):** https://veja.abril.com.br/wp-content/uploads/2018/08/conmebol_comunicado-tribunal-1.pdf
+3. **TAS — perguntas frequentes sobre medidas cautelares e confidencialidade:** https://www.tas-cas.org/es/general-information/frequently-asked-questions
+
+**Status:** a apuração avançou com o Manual de Clubes de 2026 e o documento disciplinar primário de 2018. O mérito continua inconclusivo sem a íntegra da ordem do TAS, os documentos de inscrição da AFA/CONMEBOL e a defesa do Estudiantes.
