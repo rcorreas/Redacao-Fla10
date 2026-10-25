@@ -525,3 +525,17 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
   - FAQ oficial do TAS: https://www.tas-cas.org/es/general-information/frequently-asked-questions
   - Reportagem sobre o prazo de defesa: https://www.bol.uol.com.br/noticias/2026/10/23/flamengo-pede-a-conmebol-para-ser-declarado-vencedor-contra-o-estudiantes.amp.htm
 - Alterações feitas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
+
+
+## 2026-10-25 — Terceira rodada de apuração do caso Marcos Rojo
+- Pesquisadas as três frentes solicitadas: documentos oficiais, defesa do Estudiantes e precedentes.
+- Confirmadas como fontes primárias públicas as notas do Flamengo e do Estudiantes, o Código Disciplinar 2026, o Manual de Clubes 2026 e a decisão do caso Santos–Carlos Sánchez (2018).
+- Não foi localizada a íntegra da cautelar do TAS/CAS, a defesa formal do Estudiantes, o protocolo integral do protesto, os registros completos da AFA ou despacho oficial confirmando o prazo processual.
+- Imprensa informa prazo de defesa até 26/10 às 18h e julgamento de mérito do TAS em 12/11; ambas as datas permanecem atribuídas a fontes jornalísticas até confirmação oficial.
+- Mapeados precedentes adicionais: Bruno Zuculini/River Plate (orientação errada atribuída à CONMEBOL), Ramón Ábila/Boca Juniors (reclamação fora do prazo, segundo cobertura) e Carlos Lampe/Boca Juniors (pista de registro fora da janela, sem prova documental de equivalência).
+- Atualizada a ficha da reportagem e o Painel de Pautas. O mérito jurídico segue inconclusivo e a apuração deve ser retomada em 26/10.
+- Fontes novas:
+  - TyC Sports sobre estratégia defensiva e tramitação: https://www.tycsports.com/copa-libertadores/flamengo-estudiantes-marcos-rojo-palmeiras-reclamo-tas-mala-inclusion-id768339.html
+  - Sporting News sobre data reportada do julgamento do TAS: https://www.sportingnews.com/br/futebol/noticias/flamengo-caso-rojo-chance-final-libertadores/b3435435e86a218ef31be1e0
+  - Olé sobre o possível antecedente de Carlos Lampe: https://buscador.ole.com.ar/estudiantes/marcos-rojo-estrategia-estudiantes-revancha-flamengo_0_yE69MTNnWA.html
+  - ge sobre Sánchez, Zuculini e Ábila: https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/24/flamengo-aposta-em-precedente-da-conmebol-com-o-santos-para-tentar-mudar-classificacao-na-libertadores.ghtml
