@@ -1,7 +1,7 @@
 ---
 data: 2026-10-25
 secao: Flamengo na História
-estado: pauta reservada
+estado: publicada
 proveniencia: produção interna a desenvolver
 ---
 
