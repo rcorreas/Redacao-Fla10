@@ -539,3 +539,13 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
   - Sporting News sobre data reportada do julgamento do TAS: https://www.sportingnews.com/br/futebol/noticias/flamengo-caso-rojo-chance-final-libertadores/b3435435e86a218ef31be1e0
   - Olé sobre o possível antecedente de Carlos Lampe: https://buscador.ole.com.ar/estudiantes/marcos-rojo-estrategia-estudiantes-revancha-flamengo_0_yE69MTNnWA.html
   - ge sobre Sánchez, Zuculini e Ábila: https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/24/flamengo-aposta-em-precedente-da-conmebol-com-o-santos-para-tentar-mudar-classificacao-na-libertadores.ghtml
+
+
+## 2026-10-25 — Publicação confirmada: Reportagem Fla10 sobre o caso Marcos Rojo
+- O editor confirmou a publicação de **“Caso Marcos Rojo: a liminar do TAS, as regras da Conmebol e a disputa que pode mudar o destino do Flamengo na Libertadores”**.
+- **URL pública:** https://fla10.news/reportagens/caso-marcos-rojo-a-liminar-do-tas-as-regras-da-conmebol-e-a-disputa-que-pode-mudar-o-destino-do-flamengo-na-libertadores
+- Atualizada a ficha editorial e de apuração `06 - Pautas/2026-10-25 - Reportagem Fla10 - caso Marcos Rojo e denúncia do Flamengo.md` para registrar o status publicado, o título final, o ângulo, o pacote SEO, as fontes principais e as ressalvas documentais.
+- Atualizado o Painel de Pautas para marcar a reportagem como publicada na programação de 25/10/2026 e registrar a URL pública.
+- A reportagem explica a cronologia do pedido de inscrição, as negativas iniciais da CONMEBOL, a medida provisória do TAS, a reclamação do Flamengo, o artigo 24 do Código Disciplinar e o precedente Santos–Carlos Sánchez.
+- **Cautela editorial registrada:** a alegação de que o TAS não afastou consequências esportivas posteriores permanece atribuída ao Flamengo, pois a íntegra da ordem provisória não foi localizada nas fontes públicas consultadas. A publicação não apresenta a irregularidade como decisão definitiva.
+- Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
