@@ -117,3 +117,56 @@ O precedente é útil para explicar a consequência prevista no regulamento, mas
 
 ## Entrega prevista
 Reportagem explicativa com título e subtítulo, cronologia, leitura do regulamento, explicação do papel do CAS e da CONMEBOL, posições das partes, precedente histórico, cenários possíveis, marcadores de fim de parágrafo, Resumo para IA e pacote SEO. Redação somente depois da apuração complementar e autorização editorial.
+
+
+## Atualização da apuração documental — 25/10/2026
+
+### Documento primário localizado: posição oficial do Estudiantes
+
+Foi localizada a nota oficial do Estudiantes de La Plata de 15/10/2026:
+https://estudiantesdelaplata.com/comunicado-oficial-marcos-rojo/
+
+O clube confirma que a CONMEBOL recusou a inscrição de Marcos Rojo e sustenta que o pedido havia sido feito conforme as normas vigentes. O Estudiantes afirma que, em casos recentes, a entidade teria aceitado solicitações em condições idênticas e defende a aplicação do mesmo critério. O comunicado anuncia recurso ao TAS. **A nota não identifica os casos anteriores**, portanto a alegação de tratamento desigual permanece sem comprovação comparativa nesta etapa.
+
+Também foi localizada a nota oficial do Estudiantes de 21/10/2026:
+https://estudiantesdelaplata.com/comunicado-oficial-13/
+
+O comunicado afirma que o TAS concedeu a medida cautelar solicitada e determinou a inclusão de Rojo na Lista de Boa-Fé da Libertadores 2026, tornando-o disponível para o jogo de volta. Esse documento confirma o resultado prático da medida, mas não revela seus fundamentos completos nem resolve, por si só, a questão das consequências disciplinares posteriores.
+
+### Confronto entre as posições oficiais
+
+- **Estudiantes, 15/10:** diz que a inscrição cumpria as regras e invoca precedentes que considera equivalentes; recorre ao TAS após a negativa da CONMEBOL.
+- **Estudiantes, 21/10:** informa que a medida cautelar determinou a inclusão de Rojo na lista da competição.
+- **Flamengo, 24/10:** afirma que a autorização foi provisória e que o TAS não concedeu ao Estudiantes a garantia de afastamento de eventuais consequências esportivas ou disciplinares. O clube diz ter protestado dentro do prazo e pede decisão antes da final.
+- **CONMEBOL:** não foi localizada, até esta atualização, decisão final pública sobre o protesto pós-jogo nem resposta oficial específica ao mérito da reclamação.
+- **TAS/CAS:** a íntegra da ordem provisória de 21/10 continua sendo a principal lacuna documental. Os comunicados dos clubes descrevem o resultado, mas não substituem a decisão integral.
+
+### Estado processual e cautela temporal
+
+A busca atualizada em 25/10/2026 encontrou cobertura recente da controvérsia e da nota do Flamengo, mas não localizou publicação oficial de uma decisão final da CONMEBOL. A classificação do Estudiantes permanece válida no quadro público consultado. Isso não permite concluir que o protesto será aceito ou rejeitado. Atualizar novamente antes de publicar, especialmente diante da proximidade da final.
+
+### Novo eixo de investigação: precedentes alegados pelo Estudiantes
+
+A afirmação do Estudiantes de que a CONMEBOL já aceitou pedidos em condições idênticas é uma pista relevante que precisa ser investigada com precisão:
+1. Identificar os casos concretos citados pelo clube, por meio de fontes oficiais, entrevistas ou contato com a assessoria.
+2. Comparar a data de contratação, a situação da janela doméstica, o motivo e a gravidade da lesão do jogador substituído, a fase da competição e a regra aplicada.
+3. Verificar se houve autorização direta da CONMEBOL ou decisão judicial/provisória de outro órgão.
+4. Evitar chamar os casos de “idênticos” até demonstrar a comparabilidade documental.
+
+### Fontes primárias acrescentadas
+
+1. **Estudiantes — comunicado de 15/10/2026 sobre a recusa da inscrição e o recurso ao TAS:** https://estudiantesdelaplata.com/comunicado-oficial-marcos-rojo/
+2. **Estudiantes — comunicado de 21/10/2026 sobre a medida cautelar e inclusão na Lista de Boa-Fé:** https://estudiantesdelaplata.com/comunicado-oficial-13/
+3. **Flamengo — nota oficial de 24/10/2026:** https://www.flamengo.com.br/en/noticias/notas-oficiais/flamengo-clarifies-rojo-registration-stance
+4. **Código Disciplinar da CONMEBOL 2026:** https://cdn.conmebol.com/wp-content/uploads/2026/01/Codigo-disciplinario-de-la-CONMEBOL-2026.pdf
+
+### Próximas diligências prioritárias
+
+1. Obter a íntegra da ordem provisória do TAS de 21/10, incluindo fundamentação, condições e pedidos deferidos/negados.
+2. Obter o protocolo integral do protesto do Flamengo e comprovar horário de envio/recebimento e cumprimento das formalidades do artigo 24.1(b) e do artigo 59.2.
+3. Identificar os precedentes que o Estudiantes afirma serem equivalentes e confrontá-los com a regra de substituição por lesão.
+4. Localizar a norma específica da Libertadores 2026 sobre inscrição, Lista de Boa-Fé e substituição extraordinária.
+5. Procurar atualização oficial da CONMEBOL e resposta formal do Estudiantes ao protesto pós-jogo.
+6. Confirmar em fonte primária o fundamento e a tramitação do precedente Santos–Carlos Sánchez de 2018.
+
+**Status editorial:** a pauta permanece como Reportagem Fla10 de investigação documental. A apuração ganhou dois comunicados primários do Estudiantes, mas ainda não há base suficiente para concluir o mérito jurídico nem para redigir uma conclusão categórica.
