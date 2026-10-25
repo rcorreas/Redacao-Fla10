@@ -510,3 +510,18 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Atualizadas a ficha de pesquisa e a programação no Painel de Pautas. A matéria permanece em apuração: não há base documental suficiente para antecipar conclusão sobre a elegibilidade ou o resultado do protesto.
 - Fontes primárias adicionadas: https://estudiantesdelaplata.com/comunicado-oficial-marcos-rojo/ ; https://estudiantesdelaplata.com/comunicado-oficial-13/ ; https://www.flamengo.com.br/en/noticias/notas-oficiais/flamengo-clarifies-rojo-registration-stance
 - Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
+
+
+## 2026-10-25 — Segunda rodada de apuração: Manual da Libertadores e precedente Santos–Carlos Sánchez
+
+- Ampliada a ficha da Reportagem Fla10 sobre o caso Marcos Rojo com o **Manual de Clubes da CONMEBOL Libertadores 2026**, especialmente os itens 3.7.4, 3.7.4.1 e 3.7.5.10, relativos à elegibilidade, registro nacional e substituição de jogadores nas semifinais.
+- Localizado o documento primário da decisão disciplinar da CONMEBOL no caso Santos–Carlos Sánchez/Independiente (2018). O fundamento registrado envolvia suspensão pendente e falha de comunicação do Santos; o precedente confirma a sanção de 3 a 0 naquele caso, mas não é automaticamente equivalente à controvérsia de Rojo, que envolve inscrição e medida cautelar do TAS.
+- Consultada a FAQ oficial do TAS sobre medidas cautelares e confidencialidade de processos em curso. A íntegra da ordem cautelar de 21/10 continua não localizada.
+- A pesquisa jornalística mais recente informa prazo para o Estudiantes apresentar defesa até 26/10 e posterior encaminhamento à Comissão Disciplinar, mas o despacho oficial não foi localizado; a data permanece atribuída à imprensa.
+- Atualizados a ficha da reportagem e o Painel de Pautas. A hipótese jurídica permanece aberta: faltam a íntegra da ordem do TAS, documentos de inscrição da AFA/CONMEBOL, o protocolo do protesto e a defesa do Estudiantes.
+- Fontes adicionadas:
+  - Manual de Clubes Libertadores 2026: https://cdn.conmebol.com/wp-content/uploads/2025/12/CL-2026-Manual-de-Clubes-POR-Fev26.pdf
+  - Decisão disciplinar Santos–Carlos Sánchez: https://veja.abril.com.br/wp-content/uploads/2018/08/conmebol_comunicado-tribunal-1.pdf
+  - FAQ oficial do TAS: https://www.tas-cas.org/es/general-information/frequently-asked-questions
+  - Reportagem sobre o prazo de defesa: https://www.bol.uol.com.br/noticias/2026/10/23/flamengo-pede-a-conmebol-para-ser-declarado-vencedor-contra-o-estudiantes.amp.htm
+- Alterações feitas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
