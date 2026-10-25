@@ -490,3 +490,12 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Atualizado o Painel de Pautas para encerrar a pendência e registrar a publicação.
 - O texto aborda a resposta esportiva esperada do Flamengo após a eliminação na Libertadores e mantém distinção em relação à análise aprofundada das decisões de Leonardo Jardim.
 - Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
+
+
+## 2026-10-25 — Inclusão e pesquisa inicial aprofundada: caso Marcos Rojo
+- A pedido do editor, incluída na programação de domingo, 25/10/2026, a pauta **“Caso Marcos Rojo: o que está em jogo na denúncia do Flamengo contra o Estudiantes”**.
+- Criada a ficha `06 - Pautas/2026-10-25 - Reportagem Fla10 - caso Marcos Rojo e denúncia do Flamengo.md`, com cronologia documental, artigo 24 do Código Disciplinar da CONMEBOL 2026, escopo da medida provisória do CAS, posições públicas, precedente Santos/Carlos Sánchez, cenários e plano de apuração complementar.
+- A pesquisa inicial identificou a nota oficial do Flamengo de 24/10, o texto do Código Disciplinar, reportagens do ge e do UOL e a repercussão pública de 24–25/10. A ficha deixa explícito que, nas fontes consultadas até o corte, não havia decisão final publicada sobre o protesto.
+- A pauta foi inserida na lista de hoje antes da matéria de serviço CAM x Flamengo, que permanece como último item da programação.
+- A redação fica pendente de apuração complementar de documentos primários, especialmente a íntegra da ordem provisória do CAS, confirmação formal do protocolo e eventual decisão/manifestação da CONMEBOL e do Estudiantes.
+- Alterações documentais feitas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
