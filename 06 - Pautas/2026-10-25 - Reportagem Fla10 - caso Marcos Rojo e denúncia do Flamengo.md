@@ -226,3 +226,81 @@ A investigação passa a ter quatro perguntas documentais prioritárias:
 3. **TAS — perguntas frequentes sobre medidas cautelares e confidencialidade:** https://www.tas-cas.org/es/general-information/frequently-asked-questions
 
 **Status:** a apuração avançou com o Manual de Clubes de 2026 e o documento disciplinar primário de 2018. O mérito continua inconclusivo sem a íntegra da ordem do TAS, os documentos de inscrição da AFA/CONMEBOL e a defesa do Estudiantes.
+
+
+## Terceira rodada de apuração — acesso a documentos, defesa do Estudiantes e precedentes (25/10/2026)
+
+### 1. Documentos oficiais: o que foi e o que não foi possível obter
+
+**Localizados em fonte primária:**
+- **Flamengo, nota oficial de 24/10:** https://www.flamengo.com.br/en/noticias/notas-oficiais/flamengo-clarifies-rojo-registration-stance
+- **Estudiantes, comunicado de 15/10:** https://estudiantesdelaplata.com/comunicado-oficial-marcos-rojo/
+- **Estudiantes, comunicado de 21/10:** https://estudiantesdelaplata.com/comunicado-oficial-13/
+- **Código Disciplinar CONMEBOL 2026:** https://cdn.conmebol.com/wp-content/uploads/2026/01/Codigo-disciplinario-de-la-CONMEBOL-2026.pdf
+- **Manual de Clubes Libertadores 2026:** https://cdn.conmebol.com/wp-content/uploads/2025/12/CL-2026-Manual-de-Clubes-POR-Fev26.pdf
+- **Decisão disciplinar primária Santos–Carlos Sánchez (2018):** https://veja.abril.com.br/wp-content/uploads/2018/08/conmebol_comunicado-tribunal-1.pdf
+
+**Não localizados em acesso público nesta rodada:**
+- íntegra da medida cautelar do TAS/CAS de 21/10, com fundamentos e dispositivo completo;
+- pedido inicial do Estudiantes ao TAS e eventuais manifestações processuais do Flamengo;
+- protocolo integral do protesto do Flamengo e comprovante oficial de recebimento pela CONMEBOL;
+- documentos de registro da AFA e as comunicações integrais entre AFA, FIFA e CONMEBOL;
+- defesa formal do Estudiantes contra o protesto e eventual despacho da Comissão Disciplinar.
+
+A FAQ oficial do TAS explica que os procedimentos em curso são confidenciais: https://www.tas-cas.org/es/general-information/frequently-asked-questions. Isso explica a ausência de publicação, mas não prova que as partes não possam divulgar documentos ou excertos.
+
+### 2. Defesa do Estudiantes: estado conhecido e argumentos prováveis, separados dos fatos
+
+Até o corte de 25/10, não foi localizada a defesa formal protocolada pelo Estudiantes contra o protesto pós-jogo. Reportagens indicam prazo até **segunda-feira, 26/10, às 18h (horário de Brasília)**, mas o despacho oficial que estabeleceria esse prazo não foi encontrado. A informação deve ser atribuída à imprensa, não apresentada como documento processual consultado.
+
+A cobertura argentina do TyC Sports, publicada em 24/10, relata que a defesa do Estudiantes pretende se apoiar sobretudo na medida cautelar do TAS, sustentando que a autorização provisória permitiu a participação de Rojo na partida. A mesma reportagem diz que a decisão cautelar não resolveu definitivamente o mérito da disputa regulamentar e que a CONMEBOL poderia aguardar o julgamento do TAS antes de decidir a denúncia:
+https://www.tycsports.com/copa-libertadores/flamengo-estudiantes-marcos-rojo-palmeiras-reclamo-tas-mala-inclusion-id768339.html
+
+**Classificação editorial:** isso é uma descrição jornalística da estratégia esperada, não a defesa formal nem uma posição oficial integral do Estudiantes. Não atribuir ao clube argumentos específicos que só estejam em relatos de fontes não identificadas sem deixar a atribuição explícita.
+
+### 3. Precedentes: quais foram identificados e como se comparam
+
+#### A. Carlos Sánchez / Santos–Independiente (2018) — precedente disciplinar primário
+O Tribunal de Disciplina da CONMEBOL considerou irregular a participação de Carlos Sánchez porque havia suspensão pendente e o Santos não cumpriu o procedimento de comunicação exigido. O resultado de 0–0 foi alterado para 3–0 a favor do Independiente. A decisão primária está no link acima.
+
+**Diferença decisiva:** suspensão pendente e falha de comunicação, em vez de inscrição recusada seguida de medida cautelar do TAS. Demonstra que a sanção de 3–0 foi aplicada num caso de inelegibilidade, mas não determina automaticamente o resultado do caso Rojo.
+
+#### B. Bruno Zuculini / River Plate (2018) — orientação errada da própria CONMEBOL
+A cobertura do ge relata que o River consultou a CONMEBOL sobre a situação de Zuculini e recebeu informação incorreta de que ele estava apto. O jogador disputou partidas antes de a pendência disciplinar vir à tona, e a entidade reconheceu o próprio erro. Esse episódio é relevante para discutir confiança em orientações oficiais e consistência institucional, mas não equivale a Rojo: o fator diferenciador foi a informação errada fornecida pela própria confederação.
+
+Fonte de síntese jornalística: https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/24/flamengo-aposta-em-precedente-da-conmebol-com-o-santos-para-tentar-mudar-classificacao-na-libertadores.ghtml
+
+#### C. Ramón Ábila / Boca Juniors (2018) — reclamação fora do prazo
+A mesma cobertura relata que a reclamação relativa a Ábila não prosperou porque foi apresentada depois do prazo de 24 horas. O episódio ajuda a contextualizar a importância do prazo processual, mas não responde se o protesto atual cumpriu todas as formalidades. É necessário localizar o expediente primário antes de descrever detalhes além dos relatados pela imprensa.
+
+#### D. Carlos Lampe / Boca Juniors (2018) — possível comparação de contratação fora da janela
+Reportagem do jornal Olé, citando informações de bastidores, aponta o goleiro Carlos Lampe, incorporado pelo Boca antes das semifinais da Libertadores de 2018, como possível antecedente de contratação fora do período habitual. A mesma reportagem menciona a alegação do Estudiantes de que existiriam muitos casos semelhantes, mas não fornece uma lista documental verificável dos “casos idênticos”.
+
+Fonte: https://buscador.ole.com.ar/estudiantes/marcos-rojo-estrategia-estudiantes-revancha-flamengo_0_yE69MTNnWA.html
+
+**Resultado da busca de precedentes:** não foi encontrada uma lista oficial ou documentação que demonstre quais casos específicos o Estudiantes apresentou ao TAS para sustentar que as condições eram idênticas. Carlos Lampe é uma pista para diligência, não prova de equivalência jurídica. Não afirmar que o Estudiantes demonstrou a existência de centenas de casos semelhantes.
+
+### 4. Julgamento definitivo no TAS: informação publicada, sem documento oficial localizado
+
+A imprensa esportiva publicou que o julgamento de mérito no TAS/CAS está previsto para **12/11/2026**, antes da final da Libertadores, marcada para 28/11. O Sporting News apresenta essa data e descreve o caso como ainda sem base pública suficiente para prever o resultado:
+https://www.sportingnews.com/br/futebol/noticias/flamengo-caso-rojo-chance-final-libertadores/b3435435e86a218ef31be1e0
+
+Outra reportagem, do TyC Sports, sugere que o Estudiantes não aceitou condições para acelerar o julgamento antes da final e que a estratégia de defesa se apoiará na cautelar. A informação precisa ser atribuída à reportagem, pois não foi encontrado calendário público do TAS confirmando oficialmente a data.
+
+### 5. Síntese jurídica provisória após as três frentes
+
+- **Ponto favorável à tese do Flamengo:** segundo a nota oficial rubro-negra, o TAS autorizou provisoriamente a inclusão de Rojo, mas recusou o pedido do Estudiantes para afastar eventuais consequências esportivas e disciplinares futuras. Se a ordem realmente contém esse limite, o Flamengo tem fundamento para pedir que a CONMEBOL examine o mérito da elegibilidade.
+- **Ponto favorável à defesa do Estudiantes:** existe uma ordem cautelar do TAS que determinou a inclusão de Rojo na Lista de Boa-Fé e permitiu sua participação. O alcance vinculante e os limites da ordem só podem ser avaliados com segurança lendo o dispositivo completo.
+- **Obstáculo central para ambos os lados:** não há acesso público localizado à ordem integral nem à documentação de registro e à defesa formal. Sem esses documentos, qualquer conclusão definitiva sobre inelegibilidade ou sanção seria prematura.
+- **Precedentes:** Sánchez é o precedente mais claro para a sanção de 3–0, mas é materialmente diferente. Zuculini e Ábila mostram que o contexto de orientação institucional e prazo de protesto pode importar. Lampe é uma pista de comparação de registro, ainda não validada por documentação primária.
+
+### 6. Diligências imediatas — próximas 24–48 horas
+
+1. Repetir a busca em 26/10 após o prazo noticiado para verificar se a defesa foi protocolada ou divulgada.
+2. Procurar despacho ou comunicado oficial da CONMEBOL que confirme prazo, órgão julgador, recebimento do protesto e calendário.
+3. Buscar manifestação oficial do Estudiantes posterior à nota de 21/10 e pedir identificação dos casos anteriores que o clube considera equivalentes.
+4. Procurar publicação ou confirmação direta da data de 12/11 no TAS/CAS; não depender apenas da imprensa.
+5. Obter, se divulgado por qualquer das partes, o dispositivo completo da cautelar de 21/10 e confrontá-lo com o artigo 24 do Código Disciplinar e os itens 3.7.4, 3.7.4.1 e 3.7.5.10 do Manual.
+6. Antes de redigir, atualizar o estado processual e registrar data/hora da última checagem.
+
+**Status editorial atualizado:** três frentes de pesquisa realizadas — documentos oficiais, estratégia de defesa noticiada e precedentes. A investigação encontrou fontes primárias para as regras e para o caso Sánchez, além de pistas adicionais (Zuculini, Ábila e Lampe), mas não obteve a ordem integral do TAS nem a defesa formal do Estudiantes. A reportagem pode ser estruturada, porém a conclusão jurídica precisa aguardar os documentos faltantes e a atualização de 26/10.
