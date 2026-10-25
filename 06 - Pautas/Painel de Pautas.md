@@ -814,3 +814,15 @@ As duas pautas foram adicionadas ao painel a pedido do editor. A inclusão não 
 - **Controle de redundância:** não repetir notícias individuais de estreia/venda nem o balanço financeiro geral do clube; o foco é o caminho de formação até o profissional.
 - **Ficha editorial:** [[2026-10-25 - Reportagens Fla10 - base ao profissional]].
 
+
+
+## Publicação confirmada — pós-jogo Flamengo x Oberá (25 de outubro de 2026)
+
+### Flamengo vence o Oberá por 93 a 73 e fica perto das quartas da Liga Sul-Americana
+- **Estado:** publicada em 25/10/2026, conforme confirmação do editor.
+- **URL pública:** https://fla10.news/noticias/flamengo-vence-o-obera-por-93-a-73-e-fica-perto-das-quartas-da-liga-sul-americana
+- **Partida:** Flamengo 93 x 73 Oberá, em 24/10/2026, no Maracanãzinho, pela segunda rodada do Grupo D da Liga Sul-Americana de Basquete.
+- **Ficha editorial:** [[2026-10-25 - Flamengo vence Oberá - pós-jogo basquete]].
+- **Resumo:** Flamengo conquistou a segunda vitória em dois jogos e encaminhou a classificação. Parciais: 27–15, 16–21, 28–18 e 22–19. Yago Santos e Luis Montero fizeram 17 pontos cada; Didi Louzada foi desqualificado no segundo quarto.
+- **Controle de redundância:** pós-jogo distinto do serviço pré-jogo de Flamengo x Oberá e da matéria sobre a estreia contra o Paisas.
+- **Fontes de checagem:** Flamengo, Liga Nacional de Basquete e ge.
