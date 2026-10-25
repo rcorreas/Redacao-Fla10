@@ -499,3 +499,14 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - A pauta foi inserida na lista de hoje antes da matéria de serviço CAM x Flamengo, que permanece como último item da programação.
 - A redação fica pendente de apuração complementar de documentos primários, especialmente a íntegra da ordem provisória do CAS, confirmação formal do protocolo e eventual decisão/manifestação da CONMEBOL e do Estudiantes.
 - Alterações documentais feitas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
+
+
+## 2026-10-25 — Apuração documental complementar: caso Marcos Rojo
+
+- Ampliada a pesquisa da pauta **Reportagem Fla10 — Caso Marcos Rojo: o que está em jogo na denúncia do Flamengo contra o Estudiantes**.
+- Localizados e incorporados à ficha os comunicados oficiais do Estudiantes de 15/10 (contestação da recusa inicial, alegação de precedentes comparáveis e anúncio de recurso) e 21/10 (confirmação de medida cautelar do TAS para incluir Rojo na Lista de Boa-Fé).
+- Confrontadas as posições públicas do Estudiantes e do Flamengo. A alegação do Estudiantes sobre casos anteriores ainda precisa ser testada com identificação e comparação dos precedentes.
+- Nova busca até 25/10 não localizou a íntegra da ordem provisória do TAS, o protocolo completo do protesto, nem decisão final pública da CONMEBOL sobre a reclamação pós-jogo.
+- Atualizadas a ficha de pesquisa e a programação no Painel de Pautas. A matéria permanece em apuração: não há base documental suficiente para antecipar conclusão sobre a elegibilidade ou o resultado do protesto.
+- Fontes primárias adicionadas: https://estudiantesdelaplata.com/comunicado-oficial-marcos-rojo/ ; https://estudiantesdelaplata.com/comunicado-oficial-13/ ; https://www.flamengo.com.br/en/noticias/notas-oficiais/flamengo-clarifies-rojo-registration-stance
+- Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
