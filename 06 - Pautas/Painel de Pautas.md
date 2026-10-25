@@ -833,7 +833,7 @@ As duas pautas foram adicionadas ao painel a pedido do editor. A inclusão não 
 ### Pautas de hoje — ordem de execução
 1. **Flamengo x Atlético-MG: a resposta que o líder precisa dar depois da queda na Libertadores** — **publicada em 25/10/2026**. [Matéria publicada](https://fla10.news/noticias/flamengo-x-atletico-mg-a-resposta-que-o-lider-precisa-dar-depois-da-queda-na-libertadores). Ficha: [[2026-10-25 - Flamengo x Atlético-MG - resposta após Libertadores]].
 2. **Reportagens Fla10 — Da base ao profissional: o caminho dos Garotos do Ninho** — debater recorte temporal, hipótese e plano de apuração antes da produção.
-3. **Reportagem Fla10 — Caso Marcos Rojo: o que está em jogo na denúncia do Flamengo contra o Estudiantes** — apuração documental ampliada em 25/10: além dos comunicados oficiais do Estudiantes, localizado o Manual de Clubes da Libertadores 2026 (itens 3.7.4, 3.7.4.1 e 3.7.5.10) e o documento primário da decisão Santos–Carlos Sánchez de 2018. O precedente tem diferença material: tratava de suspensão pendente e falha de comunicação; Rojo envolve inscrição e medida cautelar do TAS. Pendentes a íntegra da ordem do TAS, documentos AFA/CONMEBOL, protocolo do protesto e identificação dos precedentes alegados pelo Estudiantes; nenhuma decisão final pública da CONMEBOL foi localizada. [[2026-10-25 - Reportagem Fla10 - caso Marcos Rojo e denúncia do Flamengo]].
+3. **Reportagem Fla10 — Caso Marcos Rojo: a liminar do TAS, as regras da Conmebol e a disputa que pode mudar o destino do Flamengo na Libertadores** — **publicada em 25/10/2026**. [Matéria publicada](https://fla10.news/reportagens/caso-marcos-rojo-a-liminar-do-tas-as-regras-da-conmebol-e-a-disputa-que-pode-mudar-o-destino-do-flamengo-na-libertadores). Ficha: [[2026-10-25 - Reportagem Fla10 - caso Marcos Rojo e denúncia do Flamengo]].
 4. **Onde assistir — CAM x Flamengo** — pauta de serviço incluída por solicitação do editor; permanece como último item do dia. Confirmar a identificação oficial do confronto, data, competição, horário, local, transmissão, arbitragem e escalações prováveis antes de redigir.
 
 ### Pautas transferidas para segunda-feira, 26/10/2026
@@ -857,19 +857,20 @@ As duas pautas foram adicionadas ao painel a pedido do editor. A inclusão não 
 - **Controle de redundância:** matéria distinta da análise aprofundada sobre as escolhas de Leonardo Jardim na semifinal e da notícia sobre o futuro da comissão técnica.
 
 
-## Pauta incluída — reportagem explicativa sobre o caso Marcos Rojo (25 de outubro de 2026)
+## Publicação confirmada — reportagem Fla10 sobre o caso Marcos Rojo (25 de outubro de 2026)
 
-### Caso Marcos Rojo: o que está em jogo na denúncia do Flamengo contra o Estudiantes
-- **Estado:** incluída na programação de 25/10; apuração documental ampliada em 25/10; pendentes a íntegra da ordem do TAS, o protocolo do protesto e a identificação dos precedentes alegados pelo Estudiantes, além de eventual decisão da CONMEBOL.
-- **Ficha de pesquisa:** [[2026-10-25 - Reportagem Fla10 - caso Marcos Rojo e denúncia do Flamengo]].
-- **Pergunta central:** qual é o alcance da autorização provisória do CAS para Rojo atuar e se ela afastou ou deixou em aberto possíveis consequências disciplinares previstas no Código da CONMEBOL?
-- **Eixos apurados:** cronologia da inscrição e do recurso; artigo 24 do Código Disciplinar; medida provisória do CAS; protesto do Flamengo; posições públicas; precedente Santos/Carlos Sánchez de 2018; cenários possíveis e documentos ainda necessários.
-- **Cautela:** a alegação de escalação indevida não está confirmada por decisão final nas fontes consultadas até o corte da pesquisa. Não antecipar resultado jurídico.
-- **Fontes primárias adicionadas:** Manual de Clubes da Libertadores 2026 (https://cdn.conmebol.com/wp-content/uploads/2025/12/CL-2026-Manual-de-Clubes-POR-Fev26.pdf), decisão disciplinar Santos–Carlos Sánchez de 2018 (https://veja.abril.com.br/wp-content/uploads/2018/08/conmebol_comunicado-tribunal-1.pdf), comunicados do Estudiantes (15/10 e 21/10), nota do Flamengo e Código Disciplinar CONMEBOL 2026. A FAQ oficial do TAS explica a confidencialidade dos processos em curso: https://www.tas-cas.org/es/general-information/frequently-asked-questions. Cobertura complementar: ge e UOL.
-- **Estado processual no último levantamento (25/10):** não foi localizada decisão final pública da CONMEBOL sobre o protesto. Não antecipar resultado jurídico; atualizar novamente antes de publicar.
+### Caso Marcos Rojo: a liminar do TAS, as regras da Conmebol e a disputa que pode mudar o destino do Flamengo na Libertadores
+- **Estado:** publicada em 25/10/2026, conforme confirmação do editor.
+- **URL pública:** https://fla10.news/reportagens/caso-marcos-rojo-a-liminar-do-tas-as-regras-da-conmebol-e-a-disputa-que-pode-mudar-o-destino-do-flamengo-na-libertadores
+- **Ficha editorial e de apuração:** [[2026-10-25 - Reportagem Fla10 - caso Marcos Rojo e denúncia do Flamengo]].
+- **Ângulo publicado:** cronologia da inscrição e do recurso; alcance da medida provisória do TAS; posição oficial do Flamengo e do Estudiantes; artigo 24 do Código Disciplinar; precedente Santos/Carlos Sánchez; cenários e lacunas documentais.
+- **Cautela editorial:** o texto atribui ao Flamengo a afirmação de que o TAS não afastou possíveis consequências posteriores. A íntegra da ordem provisória não foi localizada publicamente; a matéria não trata a irregularidade como fato definitivamente reconhecido.
+- **Título SEO:** Caso Marcos Rojo: liminar do TAS pode mudar a semifinal da Libertadores?
+- **Meta description:** Flamengo contesta a escalação de Marcos Rojo pelo Estudiantes. Entenda a liminar do TAS, o regulamento da Conmebol e os cenários do protesto.
+- **Fontes principais:** comunicados oficiais do Flamengo e do Estudiantes; Código Disciplinar CONMEBOL 2026; Manual de Clubes da Libertadores 2026; decisão do caso Santos–Carlos Sánchez; cobertura complementar de ge, UOL, VEJA e TyC Sports.
 
 
-### Atualização — Reportagem Fla10: caso Marcos Rojo (25/10/2026)
+### Atualização de apuração — Reportagem Fla10: caso Marcos Rojo (25/10/2026)
 - **Nova rodada concluída:** pesquisa de acesso a documentos oficiais, defesa do Estudiantes e precedentes.
 - **Documentos primários encontrados:** nota oficial do Flamengo (24/10), comunicados oficiais do Estudiantes (15 e 21/10), Código Disciplinar CONMEBOL 2026, Manual de Clubes Libertadores 2026 e decisão primária do caso Santos–Carlos Sánchez (2018).
 - **Documentos ainda não públicos/localizados:** ordem integral da cautelar do TAS, defesa formal do Estudiantes, protocolo completo do Flamengo, documentos AFA/FIFA/CONMEBOL e despacho processual oficial.
