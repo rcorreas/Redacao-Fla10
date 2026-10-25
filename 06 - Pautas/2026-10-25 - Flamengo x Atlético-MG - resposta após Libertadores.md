@@ -3,8 +3,9 @@ data: 2026-10-25
 data_jogo: 2026-10-26
 secao: Notícias
 formato: análise de contexto / pré-jogo
-estado: pauta estruturada; pendente de debate editorial e autorização para redação
-proveniencia: produção interna a desenvolver
+estado: publicada em 2026-10-25, conforme confirmação do editor
+proveniencia: produção interna — pesquisa, apuração e redação colaborativas
+url_publica: https://fla10.news/noticias/flamengo-x-atletico-mg-a-resposta-que-o-lider-precisa-dar-depois-da-queda-na-libertadores
 ---
 
 # Flamengo x Atlético-MG: a resposta que o líder precisa dar depois da queda na Libertadores
@@ -50,4 +51,8 @@ Título e subtítulo; corpo com marcadores de fim de parágrafo; Resumo para IA;
 - Band — contexto de tabela e prováveis escalações publicado em 24/10/2026: https://www.band.com.br/esportes/futebol/brasileirao-serie-a/flamengo-x-atletico-mg-onde-assistir-horario-e-escalacoes-no-brasileirao
 - O Tempo — preparação e calendário do Atlético-MG, publicado em 24/10/2026: https://www.otempo.com.br/sports/atletico/2026/10/24/com-novidade-atletico-segue-preparacao-para-reta-final-decisiva-da-temporada-na-cidade-do-galo
 
-**Status de fluxo:** a pauta está estruturada para debate. Não redigir a matéria até o editor aprovar o recorte.
+**Estado de publicação:** publicada em 25/10/2026, conforme confirmação do editor.
+
+**URL pública:** ${url}
+
+**Controle editorial:** análise de contexto pré-jogo; foco na resposta esportiva do Flamengo após a eliminação na Libertadores, sem repetir a análise aprofundada já publicada sobre as decisões de Leonardo Jardim.
