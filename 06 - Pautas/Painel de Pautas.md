@@ -833,7 +833,8 @@ As duas pautas foram adicionadas ao painel a pedido do editor. A inclusão não 
 ### Pautas de hoje — ordem de execução
 1. **Flamengo x Atlético-MG: a resposta que o líder precisa dar depois da queda na Libertadores** — **publicada em 25/10/2026**. [Matéria publicada](https://fla10.news/noticias/flamengo-x-atletico-mg-a-resposta-que-o-lider-precisa-dar-depois-da-queda-na-libertadores). Ficha: [[2026-10-25 - Flamengo x Atlético-MG - resposta após Libertadores]].
 2. **Reportagens Fla10 — Da base ao profissional: o caminho dos Garotos do Ninho** — debater recorte temporal, hipótese e plano de apuração antes da produção.
-3. **Onde assistir — CAM x Flamengo** — pauta de serviço incluída por solicitação do editor; é o último item do dia. Confirmar a identificação oficial do confronto, data, competição, horário, local, transmissão, arbitragem e escalações prováveis antes de redigir.
+3. **Reportagem Fla10 — Caso Marcos Rojo: o que está em jogo na denúncia do Flamengo contra o Estudiantes** — pesquisa inicial aprofundada registrada; apurar documentos primários e atualização processual antes de redigir. [[2026-10-25 - Reportagem Fla10 - caso Marcos Rojo e denúncia do Flamengo]].
+4. **Onde assistir — CAM x Flamengo** — pauta de serviço incluída por solicitação do editor; permanece como último item do dia. Confirmar a identificação oficial do confronto, data, competição, horário, local, transmissão, arbitragem e escalações prováveis antes de redigir.
 
 ### Pautas transferidas para segunda-feira, 26/10/2026
 1. **Eficiência ofensiva do Flamengo no Brasileirão** — atualizar estatísticas e escolher uma referência comparável.
@@ -854,3 +855,14 @@ As duas pautas foram adicionadas ao painel a pedido do editor. A inclusão não 
 - **Formato:** análise de contexto / pré-jogo.
 - **Ângulo:** resposta esportiva que o Flamengo precisa apresentar após a eliminação na Libertadores, com atenção à organização, intensidade, criação ofensiva e importância dos pontos na disputa do Brasileirão.
 - **Controle de redundância:** matéria distinta da análise aprofundada sobre as escolhas de Leonardo Jardim na semifinal e da notícia sobre o futuro da comissão técnica.
+
+
+## Pauta incluída — reportagem explicativa sobre o caso Marcos Rojo (25 de outubro de 2026)
+
+### Caso Marcos Rojo: o que está em jogo na denúncia do Flamengo contra o Estudiantes
+- **Estado:** incluída na programação de 25/10; pesquisa inicial aprofundada concluída; pendente de apuração complementar e autorização para redação.
+- **Ficha de pesquisa:** [[2026-10-25 - Reportagem Fla10 - caso Marcos Rojo e denúncia do Flamengo]].
+- **Pergunta central:** qual é o alcance da autorização provisória do CAS para Rojo atuar e se ela afastou ou deixou em aberto possíveis consequências disciplinares previstas no Código da CONMEBOL?
+- **Eixos apurados:** cronologia da inscrição e do recurso; artigo 24 do Código Disciplinar; medida provisória do CAS; protesto do Flamengo; posições públicas; precedente Santos/Carlos Sánchez de 2018; cenários possíveis e documentos ainda necessários.
+- **Cautela:** a alegação de escalação indevida não está confirmada por decisão final nas fontes consultadas até o corte da pesquisa. Não antecipar resultado jurídico.
+- **Fontes iniciais:** nota oficial do Flamengo, Código Disciplinar CONMEBOL 2026, ge, UOL e repercussão pública de 24–25/10.
