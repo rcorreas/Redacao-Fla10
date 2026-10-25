@@ -465,3 +465,11 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Resultado registrado: 93 a 73; parciais de 27–15, 16–21, 28–18 e 22–19. Yago Santos e Luis Montero marcaram 17 pontos cada; Didi Louzada foi desqualificado no segundo quarto.
 - Fontes de checagem: site oficial do Flamengo, Liga Nacional de Basquete e ge.
 - Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
+
+
+## 2026-10-25 — Reorganização da pauta diária
+- A pedido do editor, transferidas para segunda-feira, 26/10/2026, as pautas **Eficiência ofensiva do Flamengo no Brasileirão**, **A defesa pode decidir o Brasileirão? Flamengo e Palmeiras chegam à reta final com números próximos** e **Galeria de Arte Rubro-Negra — O Maracanã em noite de decisão**.
+- Mantidas para domingo, 25/10, a pauta de contexto **Flamengo x Atlético-MG** e a reportagem **Da base ao profissional: o caminho dos Garotos do Ninho**.
+- Incluída como último item de hoje a matéria de serviço **Onde assistir — CAM x Flamengo**, com apuração da identificação oficial do confronto, competição, horário, local e transmissão ainda pendente.
+- O editor informou que **Flamengo na História — A geração de 1981 e a conquista do mundo** já foi publicada. Retirada da pauta ativa; a URL pública não foi fornecida nesta atualização.
+- Atualizados o Painel de Pautas e a ficha de Flamengo na História; criada ficha para CAM x Flamengo. A reorganização não autoriza automaticamente a produção. Alterações no GitHub, branch `main`; a sincronização do vault local do Obsidian não foi verificada.
