@@ -860,9 +860,10 @@ As duas pautas foram adicionadas ao painel a pedido do editor. A inclusão não 
 ## Pauta incluída — reportagem explicativa sobre o caso Marcos Rojo (25 de outubro de 2026)
 
 ### Caso Marcos Rojo: o que está em jogo na denúncia do Flamengo contra o Estudiantes
-- **Estado:** incluída na programação de 25/10; pesquisa inicial aprofundada concluída; pendente de apuração complementar e autorização para redação.
+- **Estado:** incluída na programação de 25/10; apuração documental ampliada em 25/10; pendentes a íntegra da ordem do TAS, o protocolo do protesto e a identificação dos precedentes alegados pelo Estudiantes, além de eventual decisão da CONMEBOL.
 - **Ficha de pesquisa:** [[2026-10-25 - Reportagem Fla10 - caso Marcos Rojo e denúncia do Flamengo]].
 - **Pergunta central:** qual é o alcance da autorização provisória do CAS para Rojo atuar e se ela afastou ou deixou em aberto possíveis consequências disciplinares previstas no Código da CONMEBOL?
 - **Eixos apurados:** cronologia da inscrição e do recurso; artigo 24 do Código Disciplinar; medida provisória do CAS; protesto do Flamengo; posições públicas; precedente Santos/Carlos Sánchez de 2018; cenários possíveis e documentos ainda necessários.
 - **Cautela:** a alegação de escalação indevida não está confirmada por decisão final nas fontes consultadas até o corte da pesquisa. Não antecipar resultado jurídico.
-- **Fontes iniciais:** nota oficial do Flamengo, Código Disciplinar CONMEBOL 2026, ge, UOL e repercussão pública de 24–25/10.
+- **Fontes primárias adicionadas:** comunicados oficiais do Estudiantes de 15/10 (https://estudiantesdelaplata.com/comunicado-oficial-marcos-rojo/) e 21/10 (https://estudiantesdelaplata.com/comunicado-oficial-13/), nota oficial do Flamengo (https://www.flamengo.com.br/en/noticias/notas-oficiais/flamengo-clarifies-rojo-registration-stance) e Código Disciplinar CONMEBOL 2026. Cobertura complementar: ge e UOL.
+- **Estado processual no último levantamento (25/10):** não foi localizada decisão final pública da CONMEBOL sobre o protesto. Não antecipar resultado jurídico; atualizar novamente antes de publicar.
