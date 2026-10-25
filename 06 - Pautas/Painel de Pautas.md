@@ -831,7 +831,7 @@ As duas pautas foram adicionadas ao painel a pedido do editor. A inclusão não 
 ## Reorganização da pauta — domingo, 25/10/2026
 
 ### Pautas de hoje — ordem de execução
-1. **Flamengo x Atlético-MG: a resposta que o líder precisa dar depois da queda na Libertadores** — debater o ângulo e apurar o cenário antes do jogo; produção depende de aprovação.
+1. **Flamengo x Atlético-MG: a resposta que o líder precisa dar depois da queda na Libertadores** — pauta estruturada; pendente de debate e autorização para redação. [[2026-10-25 - Flamengo x Atlético-MG - resposta após Libertadores]].
 2. **Reportagens Fla10 — Da base ao profissional: o caminho dos Garotos do Ninho** — debater recorte temporal, hipótese e plano de apuração antes da produção.
 3. **Onde assistir — CAM x Flamengo** — pauta de serviço incluída por solicitação do editor; é o último item do dia. Confirmar a identificação oficial do confronto, data, competição, horário, local, transmissão, arbitragem e escalações prováveis antes de redigir.
 
