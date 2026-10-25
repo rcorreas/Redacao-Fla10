@@ -2,7 +2,7 @@
 data: 2026-10-25
 secao: Reportagens Fla10
 formato: reportagem explicativa / investigação documental
-estado: pauta incluída; pesquisa inicial aprofundada concluída; pendente de apuração complementar e autorização para redação
+estado: publicada em 2026-10-25
 proveniencia: produção interna a desenvolver
 ---
 
@@ -304,3 +304,18 @@ Outra reportagem, do TyC Sports, sugere que o Estudiantes não aceitou condiçõ
 6. Antes de redigir, atualizar o estado processual e registrar data/hora da última checagem.
 
 **Status editorial atualizado:** três frentes de pesquisa realizadas — documentos oficiais, estratégia de defesa noticiada e precedentes. A investigação encontrou fontes primárias para as regras e para o caso Sánchez, além de pistas adicionais (Zuculini, Ábila e Lampe), mas não obteve a ordem integral do TAS nem a defesa formal do Estudiantes. A reportagem pode ser estruturada, porém a conclusão jurídica precisa aguardar os documentos faltantes e a atualização de 26/10.
+
+
+## Publicação confirmada — 25/10/2026
+
+- **Título publicado:** Caso Marcos Rojo: a liminar do TAS, as regras da Conmebol e a disputa que pode mudar o destino do Flamengo na Libertadores
+- **URL pública:** https://fla10.news/reportagens/caso-marcos-rojo-a-liminar-do-tas-as-regras-da-conmebol-e-a-disputa-que-pode-mudar-o-destino-do-flamengo-na-libertadores
+- **Seção:** Reportagens Fla10.
+- **Status editorial:** publicada em 25/10/2026, conforme confirmação do editor.
+- **Ângulo final:** explicação documental da controvérsia sobre a inscrição de Marcos Rojo, a autorização provisória do TAS, a reclamação do Flamengo, o artigo 24 do Código Disciplinar da CONMEBOL, o precedente Santos–Carlos Sánchez e os cenários possíveis.
+- **Cautela mantida no texto:** a posição sobre a recusa do TAS em afastar consequências posteriores foi atribuída ao Flamengo; a íntegra da ordem provisória não foi localizada nas fontes públicas consultadas. A matéria não apresenta a alegada irregularidade como decisão definitiva.
+- **Título SEO:** Caso Marcos Rojo: liminar do TAS pode mudar a semifinal da Libertadores?
+- **Meta description:** Flamengo contesta a escalação de Marcos Rojo pelo Estudiantes. Entenda a liminar do TAS, o regulamento da Conmebol e os cenários do protesto.
+- **Palavra-chave principal:** caso Marcos Rojo.
+- **Fontes principais registradas:** comunicados oficiais do Flamengo e do Estudiantes; Código Disciplinar da CONMEBOL 2026; Manual de Clubes da Libertadores 2026; decisão do caso Santos–Carlos Sánchez; cobertura complementar de ge, UOL, VEJA e TyC Sports.
+- **Próxima diligência de atualização:** acompanhar eventuais manifestações oficiais da CONMEBOL, do Estudiantes e do TAS/CAS, sem alterar retroativamente o status da publicação.
