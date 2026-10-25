@@ -455,3 +455,13 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Atualizado o Painel de Pautas com a pergunta central, os eixos de apuração, as checagens e o controle de redundância.
 - A pauta permanece reservada: o recorte temporal e a hipótese de trabalho precisam ser debatidos e aprovados antes da produção.
 - Alterações documentais feitas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
+
+
+## 2026-10-25 — Publicação confirmada: Flamengo vence o Oberá pela Liga Sul-Americana
+- O editor confirmou a publicação de “Flamengo vence o Oberá por 93 a 73 e fica perto das quartas da Liga Sul-Americana”.
+- URL pública: https://fla10.news/noticias/flamengo-vence-o-obera-por-93-a-73-e-fica-perto-das-quartas-da-liga-sul-americana
+- Criada a ficha editorial `06 - Pautas/2026-10-25 - Flamengo vence Oberá - pós-jogo basquete.md`, com resultado, parciais, destaques, Resumo para IA, SEO, fontes e controle de redundância.
+- Atualizado o Painel de Pautas para registrar a publicação e encerrar a pendência do pós-jogo de Flamengo x Oberá.
+- Resultado registrado: 93 a 73; parciais de 27–15, 16–21, 28–18 e 22–19. Yago Santos e Luis Montero marcaram 17 pontos cada; Didi Louzada foi desqualificado no segundo quarto.
+- Fontes de checagem: site oficial do Flamengo, Liga Nacional de Basquete e ge.
+- Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
