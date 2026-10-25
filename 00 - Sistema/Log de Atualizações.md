@@ -481,3 +481,12 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - O recorte evita repetir a análise crítica da eliminação: o foco é a resposta esportiva observável e o contexto da disputa do Brasileirão, sem presumir estados emocionais nem antecipar conclusões.
 - Atualizado o Painel de Pautas para vincular a ficha. A pauta permanece pendente de debate editorial e autorização para redação.
 - Alterações feitas no GitHub, branch `main`; a sincronização do vault local do Obsidian não foi verificada.
+
+
+## 2026-10-25 — Publicação confirmada: Flamengo x Atlético-MG após a eliminação na Libertadores
+- O editor confirmou a publicação de **“Flamengo x Atlético-MG: a resposta que o líder precisa dar depois da queda na Libertadores”**.
+- URL pública: https://fla10.news/noticias/flamengo-x-atletico-mg-a-resposta-que-o-lider-precisa-dar-depois-da-queda-na-libertadores
+- Atualizada a ficha editorial `06 - Pautas/2026-10-25 - Flamengo x Atlético-MG - resposta após Libertadores.md` com status publicado, URL e proveniência da produção.
+- Atualizado o Painel de Pautas para encerrar a pendência e registrar a publicação.
+- O texto aborda a resposta esportiva esperada do Flamengo após a eliminação na Libertadores e mantém distinção em relação à análise aprofundada das decisões de Leonardo Jardim.
+- Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
