@@ -867,3 +867,13 @@ As duas pautas foram adicionadas ao painel a pedido do editor. A inclusão não 
 - **Cautela:** a alegação de escalação indevida não está confirmada por decisão final nas fontes consultadas até o corte da pesquisa. Não antecipar resultado jurídico.
 - **Fontes primárias adicionadas:** Manual de Clubes da Libertadores 2026 (https://cdn.conmebol.com/wp-content/uploads/2025/12/CL-2026-Manual-de-Clubes-POR-Fev26.pdf), decisão disciplinar Santos–Carlos Sánchez de 2018 (https://veja.abril.com.br/wp-content/uploads/2018/08/conmebol_comunicado-tribunal-1.pdf), comunicados do Estudiantes (15/10 e 21/10), nota do Flamengo e Código Disciplinar CONMEBOL 2026. A FAQ oficial do TAS explica a confidencialidade dos processos em curso: https://www.tas-cas.org/es/general-information/frequently-asked-questions. Cobertura complementar: ge e UOL.
 - **Estado processual no último levantamento (25/10):** não foi localizada decisão final pública da CONMEBOL sobre o protesto. Não antecipar resultado jurídico; atualizar novamente antes de publicar.
+
+
+### Atualização — Reportagem Fla10: caso Marcos Rojo (25/10/2026)
+- **Nova rodada concluída:** pesquisa de acesso a documentos oficiais, defesa do Estudiantes e precedentes.
+- **Documentos primários encontrados:** nota oficial do Flamengo (24/10), comunicados oficiais do Estudiantes (15 e 21/10), Código Disciplinar CONMEBOL 2026, Manual de Clubes Libertadores 2026 e decisão primária do caso Santos–Carlos Sánchez (2018).
+- **Documentos ainda não públicos/localizados:** ordem integral da cautelar do TAS, defesa formal do Estudiantes, protocolo completo do Flamengo, documentos AFA/FIFA/CONMEBOL e despacho processual oficial.
+- **Defesa do Estudiantes:** imprensa argentina informa que deve se apoiar na cautelar do TAS; a defesa formal não foi localizada. Prazo até 26/10 às 18h é informação jornalística ainda sem despacho oficial consultado.
+- **Precedentes examinados:** Sánchez/Santos (suspensão pendente e falha de comunicação); Zuculini/River (orientação errada atribuída à CONMEBOL); Ábila/Boca (reclamação noticiada como fora do prazo); Carlos Lampe/Boca (pista de contratação fora da janela, ainda sem comprovação de equivalência jurídica).
+- **Data de julgamento do TAS:** 12/11/2026 é reportada por veículos, mas não foi confirmada em calendário oficial público consultado.
+- **Próximo passo:** rechecagem em 26/10 após o prazo da defesa, buscar publicação oficial e reavaliar antes da redação. Não tratar irregularidade ou sanção como fato consumado.
