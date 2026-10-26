@@ -887,3 +887,11 @@ As duas pautas foram adicionadas ao painel a pedido do editor. A inclusão não 
 - **Estado:** publicação confirmada pelo editor em 26/10/2026.
 - **URL pública:** ainda não informada; registrar quando recebida.
 - **Controle de redundância:** pós-jogo da terceira rodada, distinto das matérias sobre Flamengo x Paisas e Flamengo x Oberá.
+
+
+## Publicação confirmada — análise pré-jogo Flamengo x Atlético-MG (26/10/2026)
+- **Status:** Publicada.
+- **Título:** Flamengo x Atlético-MG: vencer é o primeiro passo para transformar a frustração em reação.
+- **URL:** https://fla10.news/noticias/pre-jogo---flamengo-x-atletico-mg-vencer-e-o-primeiro-passo-para-transformar-a-frustracao-em-reacao
+- **Enfoque:** resposta do Flamengo após a eliminação na Libertadores, disputa pela liderança do Brasileirão, escolhas de Leonardo Jardim e momento do Atlético-MG.
+- **Ficha editorial:** [2026-10-26 - Flamengo x Atlético-MG - análise pré-jogo](2026-10-26%20-%20Flamengo%20x%20Atl%C3%A9tico-MG%20-%20an%C3%A1lise%20pr%C3%A9-jogo.md)
