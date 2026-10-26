@@ -878,3 +878,12 @@ As duas pautas foram adicionadas ao painel a pedido do editor. A inclusão não 
 - **Precedentes examinados:** Sánchez/Santos (suspensão pendente e falha de comunicação); Zuculini/River (orientação errada atribuída à CONMEBOL); Ábila/Boca (reclamação noticiada como fora do prazo); Carlos Lampe/Boca (pista de contratação fora da janela, ainda sem comprovação de equivalência jurídica).
 - **Data de julgamento do TAS:** 12/11/2026 é reportada por veículos, mas não foi confirmada em calendário oficial público consultado.
 - **Próximo passo:** rechecagem em 26/10 após o prazo da defesa, buscar publicação oficial e reavaliar antes da redação. Não tratar irregularidade ou sanção como fato consumado.
+
+
+## Publicação confirmada — Flamengo vence o Defensor (25 de outubro de 2026)
+### Flamengo vence o Defensor no sufoco, fecha fase invicto e avança às quartas da Liga Sul-Americana
+- **Partida:** Flamengo 65 x 63 Defensor Sporting, em 25/10/2026, no Maracanãzinho, pela terceira rodada do Grupo D da Liga Sul-Americana de Basquete.
+- **Ficha editorial:** [[2026-10-26 - Flamengo vence Defensor - pós-jogo basquete]].
+- **Estado:** publicação confirmada pelo editor em 26/10/2026.
+- **URL pública:** ainda não informada; registrar quando recebida.
+- **Controle de redundância:** pós-jogo da terceira rodada, distinto das matérias sobre Flamengo x Paisas e Flamengo x Oberá.
