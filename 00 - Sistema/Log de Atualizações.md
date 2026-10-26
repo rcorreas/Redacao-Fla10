@@ -573,3 +573,8 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Registrada a publicação de “Flamengo x Atlético-MG: vencer é o primeiro passo para transformar a frustração em reação”.
 - URL pública: https://fla10.news/noticias/pre-jogo---flamengo-x-atletico-mg-vencer-e-o-primeiro-passo-para-transformar-a-frustracao-em-reacao
 - Criada ficha editorial em `06 - Pautas/2026-10-26 - Flamengo x Atlético-MG - análise pré-jogo.md` e atualizados os registros no Painel de Pautas.
+
+
+## 2026-10-26 — Detalhamento da cobertura pós-jogo Flamengo x Atlético-MG
+- Painel atualizado para registrar quatro entregas: pós-jogo, análise jornalística, Raio-X Tático e crônica Depois do Apito.
+- Ordem definida: notícia imediata primeiro; em seguida, análise, leitura tática e crônica, com enfoques separados.
