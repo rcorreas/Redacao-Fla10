@@ -895,3 +895,13 @@ As duas pautas foram adicionadas ao painel a pedido do editor. A inclusão não 
 - **URL:** https://fla10.news/noticias/pre-jogo---flamengo-x-atletico-mg-vencer-e-o-primeiro-passo-para-transformar-a-frustracao-em-reacao
 - **Enfoque:** resposta do Flamengo após a eliminação na Libertadores, disputa pela liderança do Brasileirão, escolhas de Leonardo Jardim e momento do Atlético-MG.
 - **Ficha editorial:** [2026-10-26 - Flamengo x Atlético-MG - análise pré-jogo](2026-10-26%20-%20Flamengo%20x%20Atl%C3%A9tico-MG%20-%20an%C3%A1lise%20pr%C3%A9-jogo.md)
+
+
+## Pacote pós-jogo — Flamengo x Atlético-MG (26/10/2026)
+Após a partida, a cobertura prevista compreende **quatro entregas separadas**:
+1. **Pós-jogo:** notícia imediata, placar, principais acontecimentos e impacto na tabela.
+2. **Análise jornalística:** avaliação aprofundada da atuação, decisões e desempenho coletivo, sem foco tático especializado.
+3. **Raio-X Tático:** sistemas, funções, ajustes, substituições e lances que expliquem o jogo.
+4. **Depois do Apito:** crônica na voz de Miguel Sampaio, com ironia medida e memória rubro-negra, sem subtítulos.
+
+**Ordem de produção:** pós-jogo primeiro; depois análise jornalística, Raio-X Tático e crônica. Aproveitar a apuração comum, mas manter ângulos distintos para evitar repetição.
