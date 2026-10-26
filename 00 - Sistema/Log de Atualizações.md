@@ -549,3 +549,13 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - A reportagem explica a cronologia do pedido de inscrição, as negativas iniciais da CONMEBOL, a medida provisória do TAS, a reclamação do Flamengo, o artigo 24 do Código Disciplinar e o precedente Santos–Carlos Sánchez.
 - **Cautela editorial registrada:** a alegação de que o TAS não afastou consequências esportivas posteriores permanece atribuída ao Flamengo, pois a íntegra da ordem provisória não foi localizada nas fontes públicas consultadas. A publicação não apresenta a irregularidade como decisão definitiva.
 - Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
+
+
+## 2026-10-26 — Publicação confirmada: Flamengo x Atlético-MG — onde assistir
+
+- O editor confirmou a publicação de **“Flamengo x Atlético-MG: onde assistir ao vivo, horário, prováveis escalações e arbitragem”**.
+- **URL pública:** https://fla10.news/noticias/flamengo-x-atletico-mg-onde-assistir-ao-vivo-horario-provaveis-escalacoes-e-arbitragem---tud-sobre-o-jogo-onde-o-rubro-negro-pode-retomar-a-lideranca
+- Criada a ficha editorial `06 - Pautas/2026-10-26 - Flamengo x Atlético-MG - onde assistir.md` com status, URL, dados do jogo, pacote SEO e registro da equipe completa de arbitragem.
+- Atualizado o Painel de Pautas para substituir a pendência de serviço por publicação confirmada.
+- A página oficial da CBF foi registrada como fonte de checagem para horário, transmissão e escala completa de arbitragem: https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/x/832201
+- Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
