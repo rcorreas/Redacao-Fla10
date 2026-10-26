@@ -567,3 +567,9 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Atualizado o Painel de Pautas com a publicação confirmada.
 - **URL pública:** não fornecida nesta atualização; não foi inventado um endereço.
 - Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
+
+
+## 2026-10-26 — Publicação da análise pré-jogo Flamengo x Atlético-MG
+- Registrada a publicação de “Flamengo x Atlético-MG: vencer é o primeiro passo para transformar a frustração em reação”.
+- URL pública: https://fla10.news/noticias/pre-jogo---flamengo-x-atletico-mg-vencer-e-o-primeiro-passo-para-transformar-a-frustracao-em-reacao
+- Criada ficha editorial em `06 - Pautas/2026-10-26 - Flamengo x Atlético-MG - análise pré-jogo.md` e atualizados os registros no Painel de Pautas.
