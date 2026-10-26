@@ -559,3 +559,11 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Atualizado o Painel de Pautas para substituir a pendência de serviço por publicação confirmada.
 - A página oficial da CBF foi registrada como fonte de checagem para horário, transmissão e escala completa de arbitragem: https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/x/832201
 - Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
+
+
+## 2026-10-26 — Registro de publicação do pós-jogo de basquete
+- Registrada como publicada a matéria “Flamengo vence o Defensor no sufoco, fecha fase invicto e avança às quartas da Liga Sul-Americana”, conforme confirmação explícita do editor.
+- Criada a ficha editorial `06 - Pautas/2026-10-26 - Flamengo vence Defensor - pós-jogo basquete.md` com resumo factual, título, subtítulo e pacote SEO.
+- Atualizado o Painel de Pautas com a publicação confirmada.
+- **URL pública:** não fornecida nesta atualização; não foi inventado um endereço.
+- Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
