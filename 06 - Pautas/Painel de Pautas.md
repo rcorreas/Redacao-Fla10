@@ -939,3 +939,14 @@ Após a partida, a cobertura prevista compreende **cinco entregas separadas**:
 - Criada a ficha editorial `06 - Pautas/2026-10-26 - Flamengo x Atlético-MG - análise jornalística.md`.
 - A análise aprofunda os cinco gols, as fragilidades defensivas, a dificuldade de controlar a partida após o empate, os momentos de tensão, o comportamento da torcida e o pênalti decisivo de Carrascal.
 - O pacote pós-jogo tem agora publicadas a notícia imediata, a análise jornalística e a resenha Boteco Fla10. Permanecem pendentes o Raio-X Tático e a crônica Depois do Apito.
+
+
+## Publicação confirmada — Depois do Apito: Flamengo x Atlético-MG (26 de outubro de 2026)
+
+### O Flamengo voltou à liderança, mas ainda precisa encontrar a sua paz com a torcida
+- **Estado:** publicada, conforme confirmação do editor.
+- **URL pública:** https://fla10.news/colunas/o-flamengo-voltou-a-lideranca-mas-ainda-precisa-encontrar-a-sua-paz-com-a-torcida
+- **Ficha editorial:** [[2026-10-26 - Depois do Apito - Flamengo Atlético-MG e liderança]].
+- **Autor:** Miguel Sampaio.
+- **Formato:** crônica autoral pós-jogo, com memória afetiva do Maracanã e reflexão sobre a tensão que permaneceu após a vitória por 3 a 2 e a recuperação da liderança.
+- **Pacote pós-jogo:** notícia imediata, análise jornalística, Boteco Fla10 e crônica publicados; Raio-X Tático permanece como entrega pendente.
