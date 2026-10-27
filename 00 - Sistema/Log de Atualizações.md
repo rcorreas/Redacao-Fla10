@@ -669,3 +669,13 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Criadas as fichas em `06 - Pautas/` e atualizado o Painel de Pautas no GitHub, branch `main`.
 - Os horários e informações de transmissão permanecem sujeitos a reconfirmação oficial; as pautas de pós-jogo não devem antecipar resultados ou estatísticas.
 - A sincronização do vault local do Obsidian não foi verificada.
+
+
+## 2026-10-27 — Agendamento de pautas de futebol feminino e Sub-20 (27/10 a 03/11)
+
+- A pedido do editor, criadas sete fichas editoriais em `06 - Pautas/`.
+- **Futebol feminino:** “onde assistir” Flamengo x Araruama (publicação prevista para 27/10, véspera do jogo de 28/10); pós-jogo Flamengo x Araruama em 28/10; “onde assistir” Flamengo x Real Heips em 30/10, véspera do jogo de 31/10; pós-jogo Flamengo x Real Heips em 31/10.
+- **Sub-20:** agendados somente os pós-jogos de Operário-PR x Flamengo (27/10), Flamengo x Sampaio Corrêa (31/10) e Flamengo x Operário-PR (03/11), todos para depois do encerramento das partidas e confirmação dos dados.
+- Atualizado o Painel de Pautas com a agenda, links internos e cautelas de apuração. Corrigida a data prevista da pauta “Onde assistir — Sesc RJ Flamengo x Batavo Mackenzie” para 30/10, véspera da partida.
+- Horários e locais de algumas partidas, além de transmissões, exigem reconfirmação em fontes oficiais antes da publicação. Agendamento não significa autorização para antecipar resultado, estatísticas ou classificação.
+- Alterações feitas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
