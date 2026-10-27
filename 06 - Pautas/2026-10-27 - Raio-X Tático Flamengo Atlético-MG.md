@@ -1,6 +1,8 @@
 # Raio-X Tático — Flamengo 3 x 2 Atlético-MG
 - **Data da pauta:** 27/10/2026.
-- **Estado:** pauta prioritária de hoje; redação a concluir antes de encerrar o expediente editorial.
+- **Estado:** **publicada em 27/10/2026**, conforme confirmação do editor.
+- **Título publicado:** *Raio-X Tático: Flamengo tem volume ofensivo, mas falhas de proteção quase custam a vitória sobre o Atlético-MG*
+- **URL pública:** https://fla10.news/raio-x/raio-x-tatico-flamengo-tem-volume-ofensivo-mas-falhas-de-protecao-quase-custam-a-vitoria-sobre-o-atletico-mg
 - **Partida:** Flamengo 3 x 2 Atlético-MG, no Maracanã, pelo Campeonato Brasileiro.
 - **Formato:** Raio-X Tático — análise de estruturas, funções, transições, ajustes e decisões da comissão técnica.
 - **Pergunta central:** como o Flamengo produziu volume ofensivo suficiente para vencer, mas permitiu que o Atlético-MG permanecesse vivo e recuperasse o empate em momentos da partida?
@@ -16,4 +18,4 @@
 - **Tese de trabalho:** o Flamengo combinou iniciativa e volume ofensivo com falhas de proteção e controle após sofrer gols; a vitória não elimina as questões estruturais que permitiram ao Atlético-MG criar perigo com poucas chegadas.
 - **Cautelas:** não inventar mapas de calor, métricas ou dados de posse; confirmar escalações, substituições e minutagem em fontes confiáveis; separar observação do jogo de interpretação; evitar repetir a notícia imediata, a análise jornalística e a crônica Depois do Apito.
 - **Controle de redundância:** a notícia imediata cobre o placar e a liderança; a análise jornalística trata do contexto e das dúvidas sobre Jardim; o Boteco é voz externa de torcedor; Depois do Apito é crônica. Esta peça deve se concentrar em estruturas, funções, transições e ajustes.
-- **Programação:** concluir em 27/10/2026. As demais pautas abertas ficam transferidas para quarta-feira, 28/10/2026.
+- **Publicação confirmada:** 27/10/2026. O artigo foi concluído e publicado; a programação transferida para 28/10 permanece inalterada.
