@@ -929,3 +929,13 @@ Após a partida, a cobertura prevista compreende **cinco entregas separadas**:
 - **Ângulo:** resenha bem-humorada sobre a vitória por 3 a 2 diante do Atlético-MG, com crítica às substituições de Leonardo Jardim e à perda de controle do jogo.
 - **Ficha editorial:** [[2026-10-26 - Boteco Fla10 - Flamengo x Atlético-MG]].
 - **Controle de redundância:** peça de voz do torcedor, distinta do pós-jogo factual, da análise jornalística, do Raio-X Tático e da coluna Depois do Apito.
+
+
+
+## 2026-10-26 — Publicação confirmada: análise jornalística Flamengo x Atlético-MG
+
+- O editor confirmou a publicação de **“Flamengo vence, retoma a liderança, mas o sufoco contra o Atlético-MG mantém as dúvidas sobre Jardim”**.
+- **URL pública:** https://fla10.news/noticias/analise---flamengo-vence-retoma-a-lideranca-mas-o-sufoco-contra-o-atletico-mg-mantem-as-duvidas-sobre-jardim
+- Criada a ficha editorial `06 - Pautas/2026-10-26 - Flamengo x Atlético-MG - análise jornalística.md`.
+- A análise aprofunda os cinco gols, as fragilidades defensivas, a dificuldade de controlar a partida após o empate, os momentos de tensão, o comportamento da torcida e o pênalti decisivo de Carrascal.
+- O pacote pós-jogo tem agora publicadas a notícia imediata, a análise jornalística e a resenha Boteco Fla10. Permanecem pendentes o Raio-X Tático e a crônica Depois do Apito.
