@@ -899,9 +899,19 @@ As duas pautas foram adicionadas ao painel a pedido do editor. A inclusão não 
 
 ## Pacote pós-jogo — Flamengo x Atlético-MG (26/10/2026)
 Após a partida, a cobertura prevista compreende **quatro entregas separadas**:
-1. **Pós-jogo:** notícia imediata, placar, principais acontecimentos e impacto na tabela.
+1. **Pós-jogo:** **publicado em 26/10/2026** — [Flamengo vence Atlético-MG por 3 a 2, retoma liderança e mantém pressão sobre o Palmeiras](https://fla10.news/noticias/flamengo-vence-atletico-mg-por-3-a-2-retoma-lideranca-e-mantem-pressao-sobre-o-palmeiras). Ficha: [[2026-10-26 - Flamengo x Atlético-MG - pós-jogo]].
 2. **Análise jornalística:** avaliação aprofundada da atuação, decisões e desempenho coletivo, sem foco tático especializado.
 3. **Raio-X Tático:** sistemas, funções, ajustes, substituições e lances que expliquem o jogo.
 4. **Depois do Apito:** crônica na voz de Miguel Sampaio, com ironia medida e memória rubro-negra, sem subtítulos.
 
 **Ordem de produção:** pós-jogo primeiro; depois análise jornalística, Raio-X Tático e crônica. Aproveitar a apuração comum, mas manter ângulos distintos para evitar repetição.
+
+
+## Publicação confirmada — pós-jogo Flamengo x Atlético-MG (26/10/2026)
+
+### Flamengo vence Atlético-MG por 3 a 2, retoma liderança e mantém pressão sobre o Palmeiras
+- **Estado:** publicada em 26/10/2026, conforme confirmação do editor.
+- **URL pública:** https://fla10.news/noticias/flamengo-vence-atletico-mg-por-3-a-2-retoma-lideranca-e-mantem-pressao-sobre-o-palmeiras
+- **Ficha editorial:** [[2026-10-26 - Flamengo x Atlético-MG - pós-jogo]].
+- **Formato:** notícia imediata, com foco no placar, na retomada da liderança e no impacto na disputa do Brasileirão.
+- **Próximas entregas ainda previstas:** análise jornalística, Raio-X Tático e crônica Depois do Apito. Manter enfoques distintos para evitar repetição.
