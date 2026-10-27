@@ -597,3 +597,13 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Atualizado o Painel de Pautas para registrar a publicação e distingui-la do pós-jogo factual, da análise jornalística, do Raio-X Tático e da crônica Depois do Apito.
 - A resenha celebra a vitória por 3 a 2 sobre o Atlético-MG e mantém o tom bem-humorado do Boteco Fla10 ao criticar as alterações de Leonardo Jardim e a perda de controle da partida.
 - Alterações feitas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
+
+
+## 2026-10-26 — Publicação confirmada: análise jornalística Flamengo x Atlético-MG
+- O editor confirmou a publicação de **“Flamengo vence, retoma a liderança, mas o sufoco contra o Atlético-MG mantém as dúvidas sobre Jardim”**.
+- **URL pública:** https://fla10.news/noticias/analise---flamengo-vence-retoma-a-lideranca-mas-o-sufoco-contra-o-atletico-mg-mantem-as-duvidas-sobre-jardim
+- Criada a ficha editorial `06 - Pautas/2026-10-26 - Flamengo x Atlético-MG - análise jornalística.md`.
+- Atualizado o Painel de Pautas para registrar a publicação e encerrar a pendência da análise jornalística.
+- A matéria aprofunda os cinco gols, as transições, as fragilidades defensivas, a dificuldade de administrar a vantagem, os momentos de tensão, a torcida e o pênalti decisivo.
+- No pacote pós-jogo, seguem pendentes o Raio-X Tático e a crônica Depois do Apito.
+- Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
