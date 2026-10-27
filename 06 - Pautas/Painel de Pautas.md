@@ -994,3 +994,13 @@ Após a partida, a cobertura prevista compreende **cinco entregas separadas**:
 - **Ângulo:** dados disponíveis colocam o Flamengo entre os ataques mais eficientes no recorte publicado em 2/10; a comparação de finalizações por jogo com o Palmeiras usa consulta de 27/10 e explicita diferenças nas amostras.
 - **Cautela factual:** não apresentar os recortes de Guribol e QueroStats como uma única amostra nem afirmar taxa de conversão atualizada para toda a 32ª rodada sem cruzar gols e finalizações equivalentes.
 - **Controle de redundância:** diferencia-se da análise jornalística e do Raio-X Tático de Flamengo 3 x 2 Atlético-MG por investigar indicadores de eficiência ofensiva ao longo do Brasileirão.
+
+
+## Confirmação editorial — pautas transferidas para quarta-feira, 28/10/2026
+
+Por solicitação do editor em 27/10, ficam confirmadas para amanhã, quarta-feira, 28/10/2026, as duas pautas que permanecem pendentes:
+
+1. **A defesa pode decidir o Brasileirão? Flamengo e Palmeiras chegam à reta final com números próximos** — análise comparativa; atualizar e validar os dados dos dois clubes com o mesmo recorte temporal e critérios equivalentes antes de redigir.
+2. **Reportagens Fla10 — Da base ao profissional: o caminho dos Garotos do Ninho** — debater recorte temporal, hipótese central e plano de apuração antes de autorizar a redação.
+
+**Pautas já encerradas em 27/10:** análise sobre eficiência ofensiva publicada; Galeria de Arte Rubro-Negra publicada. Não mantê-las como pendências de amanhã. A transferência das duas pautas acima não cancela os trabalhos nem autoriza automaticamente a redação; preservar as etapas de debate, apuração e aprovação registradas.
