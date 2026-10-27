@@ -617,3 +617,11 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - A crônica aborda o alívio da vitória por 3 a 2 sobre o Atlético-MG, a recuperação da liderança e a confiança ainda a reconstruir após a eliminação na Libertadores.
 - No pacote pós-jogo de Flamengo x Atlético-MG, permanece pendente o Raio-X Tático.
 - Alterações documentais feitas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
+
+
+## 2026-10-27 — Reorganização da programação editorial
+- Por decisão do editor, a única pauta a concluir hoje, terça-feira, 27/10, é o **Raio-X Tático — Flamengo 3 x 2 Atlético-MG**.
+- Criada a ficha editorial `06 - Pautas/2026-10-27 - Raio-X Tático Flamengo Atlético-MG.md`, com pergunta central, tese de trabalho, eixos táticos, cautelas e controle de redundância em relação às peças já publicadas.
+- Transferidas para quarta-feira, 28/10, sem cancelamento: **Eficiência ofensiva do Flamengo no Brasileirão**; **A defesa pode decidir o Brasileirão? Flamengo e Palmeiras chegam à reta final com números próximos**; **Galeria de Arte Rubro-Negra — O Maracanã em noite de decisão**; e **Reportagens Fla10 — Da base ao profissional: o caminho dos Garotos do Ninho**.
+- Atualizado o Painel de Pautas para registrar a programação e manter explícito que a transferência não autoriza automaticamente a produção.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
