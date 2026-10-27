@@ -625,3 +625,13 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Transferidas para quarta-feira, 28/10, sem cancelamento: **Eficiência ofensiva do Flamengo no Brasileirão**; **A defesa pode decidir o Brasileirão? Flamengo e Palmeiras chegam à reta final com números próximos**; **Galeria de Arte Rubro-Negra — O Maracanã em noite de decisão**; e **Reportagens Fla10 — Da base ao profissional: o caminho dos Garotos do Ninho**.
 - Atualizado o Painel de Pautas para registrar a programação e manter explícito que a transferência não autoriza automaticamente a produção.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
+
+
+## 2026-10-27 — Publicação confirmada: Raio-X Tático Flamengo x Atlético-MG
+- O editor confirmou a publicação de **“Raio-X Tático: Flamengo tem volume ofensivo, mas falhas de proteção quase custam a vitória sobre o Atlético-MG”**.
+- **URL pública:** https://fla10.news/raio-x/raio-x-tatico-flamengo-tem-volume-ofensivo-mas-falhas-de-protecao-quase-custam-a-vitoria-sobre-o-atletico-mg
+- Atualizada a ficha editorial `06 - Pautas/2026-10-27 - Raio-X Tático Flamengo Atlético-MG.md` com status publicado, título final e URL.
+- Atualizado o Painel de Pautas para registrar a publicação e encerrar a última entrega do pacote pós-jogo de Flamengo x Atlético-MG.
+- A matéria analisa a estrutura ofensiva, as movimentações entre linhas, a proteção dos corredores, as transições defensivas e a diferença entre volume de finalizações e controle do jogo.
+- As quatro pautas transferidas para 28/10 permanecem programadas, sem cancelamento.
+- Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
