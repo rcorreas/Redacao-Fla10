@@ -679,3 +679,12 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Atualizado o Painel de Pautas com a agenda, links internos e cautelas de apuração. Corrigida a data prevista da pauta “Onde assistir — Sesc RJ Flamengo x Batavo Mackenzie” para 30/10, véspera da partida.
 - Horários e locais de algumas partidas, além de transmissões, exigem reconfirmação em fontes oficiais antes da publicação. Agendamento não significa autorização para antecipar resultado, estatísticas ou classificação.
 - Alterações feitas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
+
+
+## 2026-10-27 — Publicação confirmada: Operário-PR x Flamengo — onde assistir
+- O editor confirmou a publicação de **“Operário-PR x Flamengo: onde assistir ao vivo, horário e informações da Copa do Brasil Sub-20”**.
+- **URL pública:** https://fla10.news/noticias/operario-pr-x-flamengo-onde-assistir-ao-vivo-horario-e-informacoes-da-copa-do-brasil-sub-20
+- Criada a ficha editorial `06 - Pautas/2026-10-27 - Operário-PR x Flamengo - onde assistir Copa do Brasil Sub-20.md` com estado publicado, URL, dados da partida, transmissão, resumo para IA e pacote SEO.
+- Atualizado o Painel de Pautas para registrar a publicação.
+- A pauta de pós-jogo de Operário-PR x Flamengo permanece separada e só deve ser produzida depois do encerramento e da confirmação do resultado.
+- Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
