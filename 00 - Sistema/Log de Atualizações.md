@@ -659,3 +659,13 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - A análise de eficiência ofensiva e a Galeria de Arte Rubro-Negra já foram publicadas em 27/10 e não devem permanecer como pendências de amanhã.
 - Mantidas as condições de execução: validar dados comparáveis na análise defensiva; debater recorte temporal, hipótese e plano de apuração da reportagem antes de autorizar a redação.
 - Atualizados o Painel de Pautas e este log no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
+
+
+## 2026-10-27 — Agendamento de pautas de basquete e vôlei feminino (29–31/10)
+- A pedido do editor, criadas quatro fichas editoriais para os jogos próximos.
+- **29/10:** Onde assistir — Flamengo x Caxias do Sul (basquete masculino), jogo previsto para 30/10.
+- **30/10:** Onde assistir — Sesc RJ Flamengo x Batavo Mackenzie (vôlei feminino), jogo previsto para 31/10; pós-jogo — Flamengo x Caxias do Sul (basquete masculino), após a partida.
+- **31/10:** Pós-jogo — Sesc RJ Flamengo x Batavo Mackenzie (vôlei feminino), após a partida.
+- Criadas as fichas em `06 - Pautas/` e atualizado o Painel de Pautas no GitHub, branch `main`.
+- Os horários e informações de transmissão permanecem sujeitos a reconfirmação oficial; as pautas de pós-jogo não devem antecipar resultados ou estatísticas.
+- A sincronização do vault local do Obsidian não foi verificada.
