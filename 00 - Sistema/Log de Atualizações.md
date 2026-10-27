@@ -643,3 +643,12 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Atualizado o Painel de Pautas para registrar a publicação.
 - O título exibido no CMS não foi confirmado nesta operação; não foi inferido a partir do identificador da URL.
 - Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
+
+
+## 2026-10-27 — Publicação confirmada: análise de eficiência ofensiva do Flamengo
+- O editor confirmou a publicação de **“Eficiência ofensiva: Flamengo transforma volume em gols, mas ainda pode produzir mais”**.
+- **URL pública:** https://fla10.news/noticias/eficiencia-ofensiva-flamengo-transforma-volume-em-gols-mas-ainda-pode-produzir-mais
+- Criada a ficha editorial `06 - Pautas/2026-10-27 - Eficiência ofensiva Flamengo no Brasileirão.md`, com status publicado, URL, proveniência interna colaborativa, ângulo, pacote SEO, resumo para IA e cautelas de apuração.
+- Atualizado o Painel de Pautas para registrar a publicação e distinguir seu foco estatístico da análise jornalística e do Raio-X Tático sobre Flamengo 3 x 2 Atlético-MG.
+- Cautela editorial preservada: os levantamentos do Guribol e do QueroStats têm datas e amostras diferentes; não foi registrada uma taxa de conversão atualizada como se os recortes fossem equivalentes.
+- Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; esta operação não altera o conteúdo publicado no site.
