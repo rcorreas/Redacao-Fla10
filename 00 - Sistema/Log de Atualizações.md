@@ -635,3 +635,11 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - A matéria analisa a estrutura ofensiva, as movimentações entre linhas, a proteção dos corredores, as transições defensivas e a diferença entre volume de finalizações e controle do jogo.
 - As quatro pautas transferidas para 28/10 permanecem programadas, sem cancelamento.
 - Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
+
+
+## 2026-10-27 — Publicação confirmada: Galeria de Arte Rubro-Negra
+- O editor confirmou a publicação da imagem/galeria em https://fla10.news/galeria/rpjk7kpyMxdRuhMzXuGG.
+- Criada a ficha editorial `06 - Pautas/2026-10-27 - Galeria de Arte Rubro-Negra - publicação confirmada.md` com status publicado e URL pública.
+- Atualizado o Painel de Pautas para registrar a publicação.
+- O título exibido no CMS não foi confirmado nesta operação; não foi inferido a partir do identificador da URL.
+- Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
