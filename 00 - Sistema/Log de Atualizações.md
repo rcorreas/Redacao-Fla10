@@ -652,3 +652,10 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Atualizado o Painel de Pautas para registrar a publicação e distinguir seu foco estatístico da análise jornalística e do Raio-X Tático sobre Flamengo 3 x 2 Atlético-MG.
 - Cautela editorial preservada: os levantamentos do Guribol e do QueroStats têm datas e amostras diferentes; não foi registrada uma taxa de conversão atualizada como se os recortes fossem equivalentes.
 - Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; esta operação não altera o conteúdo publicado no site.
+
+
+## 2026-10-27 — Confirmação das duas pautas restantes para 28/10
+- A pedido do editor, confirmadas para quarta-feira, 28/10/2026, as duas pautas ainda pendentes: **“A defesa pode decidir o Brasileirão? Flamengo e Palmeiras chegam à reta final com números próximos”** e **“Reportagens Fla10 — Da base ao profissional: o caminho dos Garotos do Ninho”**.
+- A análise de eficiência ofensiva e a Galeria de Arte Rubro-Negra já foram publicadas em 27/10 e não devem permanecer como pendências de amanhã.
+- Mantidas as condições de execução: validar dados comparáveis na análise defensiva; debater recorte temporal, hipótese e plano de apuração da reportagem antes de autorizar a redação.
+- Atualizados o Painel de Pautas e este log no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
