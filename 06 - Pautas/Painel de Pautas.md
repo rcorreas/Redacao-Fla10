@@ -961,3 +961,15 @@ Após a partida, a cobertura prevista compreende **cinco entregas separadas**:
   3. **Galeria de Arte Rubro-Negra — O Maracanã em noite de decisão** — retomar o conceito visual, consultar o acervo para evitar duplicação e confirmar as especificações do CMS antes de produzir a imagem.
   4. **Reportagens Fla10 — Da base ao profissional: o caminho dos Garotos do Ninho** — debater recorte temporal, hipótese central e plano de apuração antes de autorizar a redação.
 - **Regra de execução:** a mudança de data não equivale a cancelamento nem autoriza automaticamente a produção das pautas transferidas. Preservar as etapas de debate, apuração e aprovação já definidas.
+
+
+## Publicação confirmada — Raio-X Tático Flamengo x Atlético-MG (27/10/2026)
+
+### Raio-X Tático: Flamengo tem volume ofensivo, mas falhas de proteção quase custam a vitória sobre o Atlético-MG
+- **Estado:** publicada em 27/10/2026, conforme confirmação do editor.
+- **URL pública:** https://fla10.news/raio-x/raio-x-tatico-flamengo-tem-volume-ofensivo-mas-falhas-de-protecao-quase-custam-a-vitoria-sobre-o-atletico-mg
+- **Ficha editorial:** [[2026-10-27 - Raio-X Tático Flamengo Atlético-MG]].
+- **Formato:** análise tática de estruturas, funções, transições, coberturas e equilíbrio entre volume ofensivo e controle do jogo.
+- **Enfoque:** estrutura do Flamengo, progressão de Jorginho, criação de Arrascaeta, diagonais de Samuel Lino, profundidade de Plata, proteção do corredor direito e espaços explorados pelo Atlético-MG.
+- **Pacote pós-jogo:** notícia imediata, Boteco Fla10, análise jornalística, crônica Depois do Apito e Raio-X Tático publicados.
+- **Próxima programação:** as pautas transferidas para quarta-feira, 28/10/2026, continuam abertas e não foram canceladas.
