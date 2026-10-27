@@ -578,3 +578,13 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 ## 2026-10-26 — Detalhamento da cobertura pós-jogo Flamengo x Atlético-MG
 - Painel atualizado para registrar quatro entregas: pós-jogo, análise jornalística, Raio-X Tático e crônica Depois do Apito.
 - Ordem definida: notícia imediata primeiro; em seguida, análise, leitura tática e crônica, com enfoques separados.
+
+
+## 2026-10-26 — Publicação confirmada: pós-jogo Flamengo x Atlético-MG
+
+- O editor confirmou a publicação de **“Flamengo vence Atlético-MG por 3 a 2, retoma liderança e mantém pressão sobre o Palmeiras”**.
+- **URL pública:** https://fla10.news/noticias/flamengo-vence-atletico-mg-por-3-a-2-retoma-lideranca-e-mantem-pressao-sobre-o-palmeiras
+- Criada a ficha editorial `06 - Pautas/2026-10-26 - Flamengo x Atlético-MG - pós-jogo.md`.
+- Atualizado o Painel de Pautas para marcar a primeira entrega do pacote pós-jogo como publicada e registrar a URL.
+- Permanecem previstas, como entregas distintas, a análise jornalística, o Raio-X Tático e a crônica Depois do Apito.
+- Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
