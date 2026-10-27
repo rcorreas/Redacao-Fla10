@@ -898,11 +898,12 @@ As duas pautas foram adicionadas ao painel a pedido do editor. A inclusão não 
 
 
 ## Pacote pós-jogo — Flamengo x Atlético-MG (26/10/2026)
-Após a partida, a cobertura prevista compreende **quatro entregas separadas**:
+Após a partida, a cobertura prevista compreende **cinco entregas separadas**:
 1. **Pós-jogo:** **publicado em 26/10/2026** — [Flamengo vence Atlético-MG por 3 a 2, retoma liderança e mantém pressão sobre o Palmeiras](https://fla10.news/noticias/flamengo-vence-atletico-mg-por-3-a-2-retoma-lideranca-e-mantem-pressao-sobre-o-palmeiras). Ficha: [[2026-10-26 - Flamengo x Atlético-MG - pós-jogo]].
 2. **Análise jornalística:** avaliação aprofundada da atuação, decisões e desempenho coletivo, sem foco tático especializado.
 3. **Raio-X Tático:** sistemas, funções, ajustes, substituições e lances que expliquem o jogo.
 4. **Depois do Apito:** crônica na voz de Miguel Sampaio, com ironia medida e memória rubro-negra, sem subtítulos.
+5. **A Voz do Torcedor — Boteco Fla10:** **publicada em 26/10/2026** — [O Mengão ganhou, mas o Jardim quase fez a gente infartar no balcão!](https://fla10.news/voz-torcedor/o-mengao-ganhou-mas-o-jardim-quase-fez-a-gente-infartar-no-balcao). Conteúdo classificado como **fonte externa**, na voz de Cadu Marques.
 
 **Ordem de produção:** pós-jogo primeiro; depois análise jornalística, Raio-X Tático e crônica. Aproveitar a apuração comum, mas manter ângulos distintos para evitar repetição.
 
@@ -915,3 +916,16 @@ Após a partida, a cobertura prevista compreende **quatro entregas separadas**:
 - **Ficha editorial:** [[2026-10-26 - Flamengo x Atlético-MG - pós-jogo]].
 - **Formato:** notícia imediata, com foco no placar, na retomada da liderança e no impacto na disputa do Brasileirão.
 - **Próximas entregas ainda previstas:** análise jornalística, Raio-X Tático e crônica Depois do Apito. Manter enfoques distintos para evitar repetição.
+
+
+## Publicação confirmada — Boteco Fla10 / A Voz do Torcedor (26 de outubro de 2026)
+
+### O Mengão ganhou, mas o Jardim quase fez a gente infartar no balcão!
+- **Estado:** publicada em 26/10/2026, conforme confirmação do editor.
+- **URL pública:** https://fla10.news/voz-torcedor/o-mengao-ganhou-mas-o-jardim-quase-fez-a-gente-infartar-no-balcao
+- **Seção:** A Voz do Torcedor — Boteco Fla10.
+- **Autor/persona:** Cadu Marques.
+- **Proveniência:** **fonte externa**.
+- **Ângulo:** resenha bem-humorada sobre a vitória por 3 a 2 diante do Atlético-MG, com crítica às substituições de Leonardo Jardim e à perda de controle do jogo.
+- **Ficha editorial:** [[2026-10-26 - Boteco Fla10 - Flamengo x Atlético-MG]].
+- **Controle de redundância:** peça de voz do torcedor, distinta do pós-jogo factual, da análise jornalística, do Raio-X Tático e da coluna Depois do Apito.
