@@ -1023,7 +1023,7 @@ Por solicitação do editor em 27/10, ficam confirmadas para amanhã, quarta-fei
 - **Apuração obrigatória:** confirmar súmula/placar e estatísticas em fonte oficial; não antecipar resultado, protagonistas ou conclusões.
 - **Arquivo de produção:** [[2026-10-30 - Flamengo x Caxias do Sul - pós-jogo basquete]].
 
-### Sábado, 31/10 — Onde assistir: Sesc RJ Flamengo x Batavo Mackenzie (vôlei feminino)
+### Sexta-feira, 30/10 — Onde assistir: Sesc RJ Flamengo x Batavo Mackenzie (vôlei feminino)
 - **Estado:** agendada; produção ainda não iniciada.
 - **Publicação prevista:** 31/10/2026, dia da partida.
 - **Jogo:** Sesc RJ Flamengo x Batavo Mackenzie, pela Superliga Feminina, previsto para 31/10 às 18h30, no Ginásio do Tijuca Tênis Clube.
@@ -1065,3 +1065,36 @@ Agenda confirmada pelo editor em 27/10/2026 para os próximos jogos:
    - **Apuração:** resultado, parciais dos sets, destaques, estatísticas e contexto da competição, todos confirmados.
 
 **Regra de execução:** estas quatro pautas ficam agendadas nas datas acima. Os horários e dados de transmissão são provisórios até reconfirmação oficial. Não redigir pós-jogo antes de a partida terminar nem presumir resultado, estatísticas ou declarações. A agenda não altera as demais pautas previstas para 28/10.
+
+
+## Programação editorial — futebol feminino e Sub-20 (27/10 a 03/11/2026)
+
+### Terça-feira, 27/10
+- **Pós-jogo — Operário-PR x Flamengo (Copa do Brasil Sub-20).**
+- **Estado:** pautada; produzir após o encerramento e confirmação do resultado.
+- **Ficha:** [[2026-10-27 - Flamengo x Operário-PR - pós-jogo Sub-20]].
+- **Apuração:** placar, gols, lances decisivos e situação para a partida de volta, todos confirmados.
+
+### Quarta-feira, 28/10
+- **Onde assistir — Flamengo x Araruama (futebol feminino).** Publicação prevista para 27/10, véspera do jogo.
+- **Pós-jogo — Flamengo x Araruama (futebol feminino).** Produção após o fim da partida.
+- **Fichas:** [[2026-10-28 - Flamengo x Araruama - onde assistir futebol feminino]]; [[2026-10-28 - Flamengo x Araruama - pós-jogo futebol feminino]].
+- **Apuração:** reconfirmar horário, local e transmissão; no pós-jogo, confirmar placar e acontecimentos.
+
+### Sexta-feira, 30/10
+- **Onde assistir — Flamengo x Real Heips (futebol feminino).** Publicação prevista para 30/10, véspera do jogo de 31/10.
+- **Fichas:** [[2026-10-30 - Flamengo x Real Heips - onde assistir futebol feminino]].
+- **Cautela:** horário, local e transmissão precisam ser confirmados em fonte oficial antes da publicação.
+
+### Sábado, 31/10
+- **Pós-jogo — Flamengo x Real Heips (futebol feminino).** Produzir após o encerramento da partida.
+- **Pós-jogo — Flamengo x Sampaio Corrêa (Carioca Sub-20).** Produzir após o encerramento da partida de volta das quartas.
+- **Fichas:** [[2026-10-31 - Flamengo x Real Heips - pós-jogo futebol feminino]]; [[2026-10-31 - Flamengo x Sampaio Corrêa - pós-jogo Sub-20]].
+- **Apuração:** confirmar calendário e horário oficiais, placares, agregado/classificação e demais dados.
+
+### Terça-feira, 03/11
+- **Pós-jogo — Flamengo x Operário-PR (Copa do Brasil Sub-20).** Produzir após o encerramento da partida de volta das quartas.
+- **Ficha:** [[2026-11-03 - Flamengo x Operário-PR - pós-jogo Sub-20]].
+- **Apuração:** reconfirmar horário e local; confirmar resultado, agregado e eventual classificação.
+
+**Critérios de agendamento:** para o futebol feminino, “onde assistir” fica na véspera e o pós-jogo no dia da partida. Para o Sub-20, foram agendados somente os pós-jogos, nas datas das partidas. Nenhuma pauta de pós-jogo autoriza redação antecipada de resultado ou classificação. Horários, locais e transmissões devem ser reconfirmados em fontes oficiais. A sincronização do vault local do Obsidian não foi verificada.
