@@ -1039,3 +1039,29 @@ Por solicitação do editor em 27/10, ficam confirmadas para amanhã, quarta-fei
 - **Arquivo de produção:** [[2026-10-31 - Sesc RJ Flamengo x Batavo Mackenzie - pós-jogo vôlei]].
 
 **Regra de execução:** as datas e os horários dos jogos são a programação disponível nesta atualização e devem ser reconfirmados em fontes oficiais antes da publicação. Agendar não equivale a autorizar redação antecipada do pós-jogo.
+
+
+## Programação editorial — basquete e vôlei feminino (29 a 31 de outubro de 2026)
+
+Agenda confirmada pelo editor em 27/10/2026 para os próximos jogos:
+
+1. **Quinta-feira, 29/10 — Onde assistir: Flamengo x Caxias do Sul (basquete masculino)**
+   - **Estado:** pautada; ainda não produzida.
+   - **Jogo:** sexta-feira, 30/10, previsto para 20h, no Maracanãzinho.
+   - **Ficha:** [[2026-10-29 - Flamengo x Caxias do Sul - onde assistir basquete]].
+   - **Apuração:** reconfirmar horário, competição, local e transmissão em fontes oficiais antes da redação.
+2. **Sexta-feira, 30/10 — Onde assistir: Sesc RJ Flamengo x Batavo Mackenzie (vôlei feminino)**
+   - **Estado:** pautada; ainda não produzida.
+   - **Jogo:** sábado, 31/10, previsto para 18h30, no Ginásio do Tijuca Tênis Clube.
+   - **Ficha:** [[2026-10-30 - Sesc RJ Flamengo x Batavo Mackenzie - onde assistir volei feminino]].
+   - **Apuração:** reconfirmar horário, competição, local e transmissão em fontes oficiais antes da redação.
+3. **Sexta-feira, 30/10 — Pós-jogo: Flamengo x Caxias do Sul (basquete masculino)**
+   - **Estado:** pautada; produzir após o encerramento da partida.
+   - **Ficha:** [[2026-10-30 - Flamengo x Caxias do Sul - pos-jogo basquete]].
+   - **Apuração:** placar, parciais, estatísticas, destaques e contexto de classificação, todos confirmados.
+4. **Sábado, 31/10 — Pós-jogo: Sesc RJ Flamengo x Batavo Mackenzie (vôlei feminino)**
+   - **Estado:** pautada; produzir após o encerramento da partida.
+   - **Ficha:** [[2026-10-31 - Sesc RJ Flamengo x Batavo Mackenzie - pos-jogo volei feminino]].
+   - **Apuração:** resultado, parciais dos sets, destaques, estatísticas e contexto da competição, todos confirmados.
+
+**Regra de execução:** estas quatro pautas ficam agendadas nas datas acima. Os horários e dados de transmissão são provisórios até reconfirmação oficial. Não redigir pós-jogo antes de a partida terminar nem presumir resultado, estatísticas ou declarações. A agenda não altera as demais pautas previstas para 28/10.
