@@ -950,3 +950,14 @@ Após a partida, a cobertura prevista compreende **cinco entregas separadas**:
 - **Autor:** Miguel Sampaio.
 - **Formato:** crônica autoral pós-jogo, com memória afetiva do Maracanã e reflexão sobre a tensão que permaneceu após a vitória por 3 a 2 e a recuperação da liderança.
 - **Pacote pós-jogo:** notícia imediata, análise jornalística, Boteco Fla10 e crônica publicados; Raio-X Tático permanece como entrega pendente.
+
+
+## Reorganização da programação — 27 e 28 de outubro de 2026
+
+- **Hoje, terça-feira, 27/10:** a única pauta a executar é o **Raio-X Tático — Flamengo 3 x 2 Atlético-MG**. Ficha: [[2026-10-27 - Raio-X Tático Flamengo Atlético-MG]]. Concluir a leitura tática da partida e manter separados os enfoques das peças já publicadas.
+- **Transferidas para amanhã, quarta-feira, 28/10/2026, sem cancelamento:**
+  1. **Eficiência ofensiva do Flamengo no Brasileirão** — atualizar estatísticas, definir referência comparável e analisar a conversão da produção ofensiva em gols.
+  2. **A defesa pode decidir o Brasileirão? Flamengo e Palmeiras chegam à reta final com números próximos** — atualizar e validar os números dos dois clubes com o mesmo recorte temporal e critérios equivalentes.
+  3. **Galeria de Arte Rubro-Negra — O Maracanã em noite de decisão** — retomar o conceito visual, consultar o acervo para evitar duplicação e confirmar as especificações do CMS antes de produzir a imagem.
+  4. **Reportagens Fla10 — Da base ao profissional: o caminho dos Garotos do Ninho** — debater recorte temporal, hipótese central e plano de apuração antes de autorizar a redação.
+- **Regra de execução:** a mudança de data não equivale a cancelamento nem autoriza automaticamente a produção das pautas transferidas. Preservar as etapas de debate, apuração e aprovação já definidas.
