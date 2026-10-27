@@ -982,3 +982,15 @@ Após a partida, a cobertura prevista compreende **cinco entregas separadas**:
 - **Ficha editorial:** [[2026-10-27 - Galeria de Arte Rubro-Negra - publicação confirmada]].
 - **Título exibido no CMS:** ainda não confirmado nesta atualização; não inferir título a partir do endereço.
 - Registro adicionado sem alterar as pautas programadas para 28/10/2026.
+
+
+## Publicação confirmada — Eficiência ofensiva do Flamengo (27/10/2026)
+
+### Eficiência ofensiva: Flamengo transforma volume em gols, mas ainda pode produzir mais
+- **Estado:** publicada em 27/10/2026, conforme confirmação do editor.
+- **URL pública:** https://fla10.news/noticias/eficiencia-ofensiva-flamengo-transforma-volume-em-gols-mas-ainda-pode-produzir-mais
+- **Ficha editorial:** [[2026-10-27 - Eficiência ofensiva Flamengo no Brasileirão]].
+- **Formato:** análise jornalística sobre eficiência, volume e conversão ofensiva no Brasileirão.
+- **Ângulo:** dados disponíveis colocam o Flamengo entre os ataques mais eficientes no recorte publicado em 2/10; a comparação de finalizações por jogo com o Palmeiras usa consulta de 27/10 e explicita diferenças nas amostras.
+- **Cautela factual:** não apresentar os recortes de Guribol e QueroStats como uma única amostra nem afirmar taxa de conversão atualizada para toda a 32ª rodada sem cruzar gols e finalizações equivalentes.
+- **Controle de redundância:** diferencia-se da análise jornalística e do Raio-X Tático de Flamengo 3 x 2 Atlético-MG por investigar indicadores de eficiência ofensiva ao longo do Brasileirão.
