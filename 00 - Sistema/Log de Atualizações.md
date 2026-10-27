@@ -607,3 +607,13 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - A matéria aprofunda os cinco gols, as transições, as fragilidades defensivas, a dificuldade de administrar a vantagem, os momentos de tensão, a torcida e o pênalti decisivo.
 - No pacote pós-jogo, seguem pendentes o Raio-X Tático e a crônica Depois do Apito.
 - Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
+
+
+## 2026-10-26 — Publicação confirmada: crônica Depois do Apito — Flamengo x Atlético-MG
+- O editor confirmou a publicação de **“O Flamengo voltou à liderança, mas ainda precisa encontrar a sua paz com a torcida”**, assinada por Miguel Sampaio na coluna **Depois do Apito**.
+- **URL pública:** https://fla10.news/colunas/o-flamengo-voltou-a-lideranca-mas-ainda-precisa-encontrar-a-sua-paz-com-a-torcida
+- Criada a ficha editorial `06 - Pautas/2026-10-26 - Depois do Apito - Flamengo Atlético-MG e liderança.md`, com status, URL, contexto, enfoque e pacote SEO.
+- Atualizado o Painel de Pautas para registrar a publicação e encerrar a pendência da crônica.
+- A crônica aborda o alívio da vitória por 3 a 2 sobre o Atlético-MG, a recuperação da liderança e a confiança ainda a reconstruir após a eliminação na Libertadores.
+- No pacote pós-jogo de Flamengo x Atlético-MG, permanece pendente o Raio-X Tático.
+- Alterações documentais feitas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
