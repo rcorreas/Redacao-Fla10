@@ -1004,3 +1004,38 @@ Por solicitação do editor em 27/10, ficam confirmadas para amanhã, quarta-fei
 2. **Reportagens Fla10 — Da base ao profissional: o caminho dos Garotos do Ninho** — debater recorte temporal, hipótese central e plano de apuração antes de autorizar a redação.
 
 **Pautas já encerradas em 27/10:** análise sobre eficiência ofensiva publicada; Galeria de Arte Rubro-Negra publicada. Não mantê-las como pendências de amanhã. A transferência das duas pautas acima não cancela os trabalhos nem autoriza automaticamente a redação; preservar as etapas de debate, apuração e aprovação registradas.
+
+
+## Programação editorial — basquete e vôlei feminino (29 a 31 de outubro de 2026)
+
+### Quinta-feira, 29/10 — Onde assistir: Flamengo x Caxias do Sul (basquete masculino)
+- **Estado:** agendada; produção ainda não iniciada.
+- **Publicação prevista:** 29/10/2026, véspera da partida.
+- **Jogo:** Flamengo x Caxias do Sul Basquete, pelo NBB 2026/27, previsto para 30/10 às 20h, no Maracanãzinho.
+- **Formato:** serviço de jogo — data, horário, local, transmissão, contexto das equipes e ficha técnica; escalações e arbitragem apenas se confirmadas.
+- **Apuração obrigatória:** reconfirmar tabela oficial, horário, ginásio e emissoras/plataformas de transmissão perto da publicação.
+- **Arquivo de produção:** [[2026-10-29 - Flamengo x Caxias do Sul - onde assistir basquete]].
+
+### Sexta-feira, 30/10 — Pós-jogo: Flamengo x Caxias do Sul (basquete masculino)
+- **Estado:** agendada; redigir somente após o fim da partida e confirmação do resultado.
+- **Publicação prevista:** 30/10/2026.
+- **Formato:** notícia imediata; placar, parciais, destaques confirmados e impacto na campanha do NBB.
+- **Apuração obrigatória:** confirmar súmula/placar e estatísticas em fonte oficial; não antecipar resultado, protagonistas ou conclusões.
+- **Arquivo de produção:** [[2026-10-30 - Flamengo x Caxias do Sul - pós-jogo basquete]].
+
+### Sábado, 31/10 — Onde assistir: Sesc RJ Flamengo x Batavo Mackenzie (vôlei feminino)
+- **Estado:** agendada; produção ainda não iniciada.
+- **Publicação prevista:** 31/10/2026, dia da partida.
+- **Jogo:** Sesc RJ Flamengo x Batavo Mackenzie, pela Superliga Feminina, previsto para 31/10 às 18h30, no Ginásio do Tijuca Tênis Clube.
+- **Formato:** serviço de jogo — data, horário, local, transmissão, contexto das equipes e ficha técnica; escalações e arbitragem apenas se confirmadas.
+- **Apuração obrigatória:** reconfirmar tabela oficial, horário, ginásio e transmissão antes de publicar.
+- **Arquivo de produção:** [[2026-10-31 - Sesc RJ Flamengo x Batavo Mackenzie - onde assistir vôlei]].
+
+### Sábado, 31/10 — Pós-jogo: Sesc RJ Flamengo x Batavo Mackenzie (vôlei feminino)
+- **Estado:** agendada; redigir somente após o fim da partida e confirmação do resultado.
+- **Publicação prevista:** 31/10/2026.
+- **Formato:** notícia imediata; resultado, parciais dos sets, destaques confirmados e impacto na campanha da Superliga.
+- **Apuração obrigatória:** confirmar placar e parciais em fonte oficial; não antecipar resultado, destaques ou conclusões.
+- **Arquivo de produção:** [[2026-10-31 - Sesc RJ Flamengo x Batavo Mackenzie - pós-jogo vôlei]].
+
+**Regra de execução:** as datas e os horários dos jogos são a programação disponível nesta atualização e devem ser reconfirmados em fontes oficiais antes da publicação. Agendar não equivale a autorizar redação antecipada do pós-jogo.
