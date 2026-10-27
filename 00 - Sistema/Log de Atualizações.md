@@ -588,3 +588,12 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Atualizado o Painel de Pautas para marcar a primeira entrega do pacote pós-jogo como publicada e registrar a URL.
 - Permanecem previstas, como entregas distintas, a análise jornalística, o Raio-X Tático e a crônica Depois do Apito.
 - Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
+
+
+## 2026-10-26 — Publicação confirmada: Boteco Fla10 — Flamengo x Atlético-MG
+- O editor confirmou a publicação de **“O Mengão ganhou, mas o Jardim quase fez a gente infartar no balcão!”**, na seção **A Voz do Torcedor**.
+- **URL pública:** https://fla10.news/voz-torcedor/o-mengao-ganhou-mas-o-jardim-quase-fez-a-gente-infartar-no-balcao
+- Criada a ficha editorial `06 - Pautas/2026-10-26 - Boteco Fla10 - Flamengo x Atlético-MG.md`, registrando status publicado, Cadu Marques, proveniência **fonte externa**, ângulo e controle de redundância.
+- Atualizado o Painel de Pautas para registrar a publicação e distingui-la do pós-jogo factual, da análise jornalística, do Raio-X Tático e da crônica Depois do Apito.
+- A resenha celebra a vitória por 3 a 2 sobre o Atlético-MG e mantém o tom bem-humorado do Boteco Fla10 ao criticar as alterações de Leonardo Jardim e a perda de controle da partida.
+- Alterações feitas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
