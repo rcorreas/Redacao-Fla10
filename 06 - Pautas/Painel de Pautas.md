@@ -973,3 +973,12 @@ Após a partida, a cobertura prevista compreende **cinco entregas separadas**:
 - **Enfoque:** estrutura do Flamengo, progressão de Jorginho, criação de Arrascaeta, diagonais de Samuel Lino, profundidade de Plata, proteção do corredor direito e espaços explorados pelo Atlético-MG.
 - **Pacote pós-jogo:** notícia imediata, Boteco Fla10, análise jornalística, crônica Depois do Apito e Raio-X Tático publicados.
 - **Próxima programação:** as pautas transferidas para quarta-feira, 28/10/2026, continuam abertas e não foram canceladas.
+
+
+## Publicação confirmada — Galeria de Arte Rubro-Negra (27/10/2026)
+
+- **Estado:** publicada, conforme confirmação do editor.
+- **URL pública:** https://fla10.news/galeria/rpjk7kpyMxdRuhMzXuGG
+- **Ficha editorial:** [[2026-10-27 - Galeria de Arte Rubro-Negra - publicação confirmada]].
+- **Título exibido no CMS:** ainda não confirmado nesta atualização; não inferir título a partir do endereço.
+- Registro adicionado sem alterar as pautas programadas para 28/10/2026.
