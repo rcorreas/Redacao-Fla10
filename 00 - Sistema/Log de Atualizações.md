@@ -709,3 +709,9 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Acrescentadas à programação de hoje duas pautas omitidas: **Agustín Rossi — 200 jogos pelo Flamengo** e **marca de 1.500 pontos do Flamengo na era dos pontos corridos**.
 - A marca dos 1.500 pontos fica condicionada à confirmação do número e do critério estatístico antes de ser apresentada como fato.
 - Painel atualizado em resposta à correção do editor.
+
+
+## 2026-10-28 — Apuração da marca de 1.500 pontos
+- Pesquisa concluída: Flamengo chegou a 1.502 pontos acumulados na Série A desde 2003, após vencer o Atlético-MG por 3 a 2 na 32ª rodada.
+- Registrada a ressalva metodológica: o levantamento considera pontos conquistados em campo e não desconta os quatro pontos da punição de 2013.
+- Criada a ficha [[2026-10-28 - Flamengo ultrapassa 1500 pontos nos pontos corridos]] com fontes, ranking, cautelas e pacote SEO.
