@@ -1138,6 +1138,12 @@ A pedido do editor, esta seção atualiza a programação corrente e prevalece s
 2. **Pós-jogo — Flamengo x Araruama (futebol feminino).**
    - **Estado:** permanece na pauta de hoje; produzir somente após o fim da partida e confirmação do resultado e dos acontecimentos.
    - **Ficha editorial:** [[2026-10-28 - Flamengo x Araruama - pós-jogo futebol feminino]].
+3. **Agustín Rossi — 200 jogos pelo Flamengo.**
+   - **Estado:** pauta complementar para hoje; confirmar a contagem oficial de partidas e o contexto da marca antes de redigir.
+   - **Ângulo:** trajetória do goleiro desde a chegada ao clube, participação esportiva e significado do marco, com números e fatos devidamente verificados.
+4. **Flamengo alcança a marca de 1.500 pontos na era dos pontos corridos.**
+   - **Estado:** pauta para hoje, condicionada à validação do marco.
+   - **Apuração obrigatória:** confirmar se o Flamengo efetivamente ultrapassou/atingiu 1.500 pontos, definir o recorte da era dos pontos corridos e conferir a soma em base estatística consistente antes de afirmar a marca no título ou no texto.
 
 ### Pautas transferidas para quinta-feira, 29/10
 1. **Flamengo x Palmeiras: comparação defensiva** — manter o título de trabalho *A defesa pode decidir o Brasileirão? Flamengo e Palmeiras chegam à reta final com números próximos*. Comparar os dois times usando recorte temporal e critérios equivalentes, com fontes e datas explícitas.
