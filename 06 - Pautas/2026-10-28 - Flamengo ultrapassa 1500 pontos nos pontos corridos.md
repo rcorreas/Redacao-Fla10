@@ -1,7 +1,8 @@
 # Flamengo ultrapassa 1.500 pontos nos pontos corridos — pesquisa e apuração
 
 - **Data da apuração:** 28/10/2026.
-- **Estado:** marco confirmado por publicações de 27/10; pauta pronta para redação após revisão editorial.
+- **Estado:** **publicada em 28/10/2026**, conforme confirmação do editor.
+- **URL pública:** https://fla10.news/noticias/flamengo-ultrapassa-1500-pontos-e-alcanca-marca-inedita-no-brasileirao
 - **Evento que produziu a marca:** vitória do Flamengo por 3 a 2 sobre o Atlético-MG, em 26/10/2026, pela 32ª rodada do Brasileirão.
 - **Número divulgado:** 1.502 pontos acumulados na Série A desde 2003, em 926 partidas.
 - **Recorde:** primeiro clube a superar 1.500 pontos no ranking histórico da era dos pontos corridos.
@@ -38,3 +39,11 @@
 - **Palavra-chave principal:** Flamengo 1.500 pontos
 - **Palavras-chave secundárias:** ranking histórico Brasileirão; pontos corridos; Flamengo x Atlético-MG; São Paulo; Campeonato Brasileiro
 - **Resumo para IA:** O Flamengo chegou a 1.502 pontos acumulados na Série A desde 2003 após vencer o Atlético-MG por 3 a 2, em 26 de outubro de 2026. O clube tornou-se o primeiro a superar 1.500 pontos no ranking histórico dos pontos corridos e aparece à frente do São Paulo (1.477) e do Palmeiras (1.395), segundo levantamento publicado em 27 de outubro. O ranking considera os pontos conquistados em campo, inclusive os quatro que o Flamengo perdeu administrativamente em 2013.
+
+
+## Publicação confirmada — 28/10/2026
+
+- **Título publicado:** Flamengo ultrapassa 1.500 pontos e alcança marca inédita no Brasileirão.
+- **URL pública:** https://fla10.news/noticias/flamengo-ultrapassa-1500-pontos-e-alcanca-marca-inedita-no-brasileirao
+- **Estado:** publicada, conforme confirmação do editor.
+- **Nota:** texto publicado inclui link interno de “Leia Também”; preservar o registro da versão final e a ressalva metodológica sobre os pontos de 2013.
