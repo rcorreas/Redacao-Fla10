@@ -1,7 +1,8 @@
 # Apuração — Agustín Rossi chega a 200 jogos pelo Flamengo
 
 - **Data da apuração:** 28/10/2026.
-- **Estado:** pesquisa concluída; pauta pronta para redação.
+- **Estado:** publicada em 28/10/2026, conforme confirmação do editor.
+- **URL pública:** https://fla10.news/noticias/rossi-chega-a-200-jogos-pelo-flamengo-e-entra-no-top-10-historico-de-goleiros
 - **Marco confirmado:** Rossi completou 200 partidas oficiais pelo Flamengo em 26/10/2026, na vitória por 3 a 2 sobre o Atlético-MG, no Maracanã, pela 32ª rodada do Brasileirão.
 - **Fonte primária:** [Flamengo — homenagem a Rossi pelos 200 jogos](https://www.flamengo.com.br/noticias/futebol/flamengo-homenageia-rossi-pelos-200-jogos-com-o-manto), publicado em 27/10/2026.
 - **Corroboração:** O Dia (27/10/2026), SBT/Jogada10 (26 e 27/10/2026).
@@ -60,3 +61,10 @@ Agustín Rossi completou 200 partidas pelo Flamengo em 26 de outubro de 2026, na
 - Uma matéria anterior ao encerramento do jogo número 200 publicou 116 vitórias e 145 gols sofridos; não misturar esse balanço anterior com os dados atualizados.
 - O ranking de goleiros é o ranking divulgado pelo clube. Não apresentar como levantamento independente sem atribuição.
 - A apuração se baseia em publicações disponíveis até 28/10/2026; não foi realizada entrevista própria com o jogador ou comissão técnica.
+
+
+## Publicação confirmada — 28/10/2026
+
+- **Título publicado:** Rossi chega a 200 jogos pelo Flamengo e entra no top 10 histórico de goleiros.
+- **URL pública:** https://fla10.news/noticias/rossi-chega-a-200-jogos-pelo-flamengo-e-entra-no-top-10-historico-de-goleiros
+- **Nota:** conteúdo publicado; ficha preservada como registro de apuração e histórico editorial.
