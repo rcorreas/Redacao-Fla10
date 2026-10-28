@@ -750,3 +750,12 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - O texto integral, Resumo para IA e pacote SEO foram entregues nesta conversa; a matéria não está publicada.
 - Fontes consultadas: ge (26/12/2025, 28/09/2026 e 05/10/2026) e comunicação oficial do Flamengo (20/07/2026 e 14/10/2026).
 - A sincronização do vault local do Obsidian não foi verificada.
+
+
+## 2026-10-28 — Reportagem Fla10 publicada: Garotos do Ninho
+- O editor confirmou a publicação da matéria **Da base ao profissional: o caminho dos Garotos do Ninho expõe um gargalo no Flamengo**.
+- URL definitiva: https://fla10.news/reportagens/da-base-ao-profissional-o-caminho-dos-garotos-do-ninho-expoe-um-gargalo-no-flamengo
+- Atualizada a ficha de pauta para status publicado e publicacao_confirmada=true.
+- Atualizado o Painel de Pautas com a URL definitiva e a retirada da pauta das pendências de produção.
+- A versão publicada pelo editor contém imagens e links internos adicionais em relação ao rascunho arquivado.
+- A sincronização do vault local do Obsidian não foi verificada.
