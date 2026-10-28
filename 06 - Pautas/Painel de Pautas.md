@@ -1142,7 +1142,8 @@ A pedido do editor, esta seção atualiza a programação corrente e prevalece s
    - **Estado:** pauta complementar para hoje; confirmar a contagem oficial de partidas e o contexto da marca antes de redigir.
    - **Ângulo:** trajetória do goleiro desde a chegada ao clube, participação esportiva e significado do marco, com números e fatos devidamente verificados.
 4. **Flamengo alcança a marca de 1.500 pontos na era dos pontos corridos.**
-   - **Estado:** apuração concluída; marco confirmado por publicações de 27/10/2026. Pronta para redação.
+   - **Estado:** **publicada em 28/10/2026**, conforme confirmação do editor.
+   - **URL pública:** https://fla10.news/noticias/flamengo-ultrapassa-1500-pontos-e-alcanca-marca-inedita-no-brasileirao
    - **Apuração:** 1.502 pontos em 926 jogos após a vitória por 3 a 2 sobre o Atlético-MG, pela 32ª rodada; São Paulo tem 1.477 e Palmeiras 1.395 no ranking divulgado.
    - **Ressalva:** ranking soma pontos conquistados em campo desde 2003; os quatro pontos retirados do Flamengo pelo STJD em 2013 não são descontados nesse levantamento.
    - **Ficha de pesquisa:** [[2026-10-28 - Flamengo ultrapassa 1500 pontos nos pontos corridos]].
@@ -1155,3 +1156,12 @@ A pedido do editor, esta seção atualiza a programação corrente e prevalece s
 
 **Regra de execução:** a transferência para 29/10 altera a programação, não cancela as pautas. A reportagem “Da base ao profissional” continua dependendo de debate editorial e autorização antes da redação. A pauta sobre Jardim e Boto exige apuração atualizada e atribuição rigorosa das informações. O serviço Vasco x Flamengo e a análise pré-jogo são entregas distintas, sem repetição de conteúdo.
 
+
+
+## Publicação confirmada — Flamengo ultrapassa 1.500 pontos (28/10/2026)
+
+- **Estado:** publicada, conforme confirmação do editor.
+- **URL pública:** https://fla10.news/noticias/flamengo-ultrapassa-1500-pontos-e-alcanca-marca-inedita-no-brasileirao
+- **Ficha editorial:** [[2026-10-28 - Flamengo ultrapassa 1500 pontos nos pontos corridos]].
+- **Síntese:** Flamengo chegou a 1.502 pontos no ranking acumulado da Série A desde 2003 após vencer o Atlético-MG por 3 a 2; São Paulo aparece com 1.477 e Palmeiras com 1.395.
+- **Nota metodológica:** o ranking soma pontos conquistados em campo e não desconta os quatro pontos retirados do Flamengo pelo STJD em 2013.
