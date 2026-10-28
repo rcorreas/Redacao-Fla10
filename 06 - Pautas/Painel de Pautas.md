@@ -1124,3 +1124,26 @@ Agenda confirmada pelo editor em 27/10/2026 para os próximos jogos:
 - **Estado:** publicada.
 - **URL pública:** https://fla10.news/noticias/flamengo-x-araruama-onde-assistir-ao-vivo-horario-e-informacoes-do-carioca-feminino
 - A pauta de pós-jogo de Flamengo x Araruama permanece separada para 28/10, após a partida e confirmação do resultado.
+
+## Reorganização editorial — quarta-feira, 28/10/2026
+
+A pedido do editor, esta seção atualiza a programação corrente e prevalece sobre agendas anteriores que ainda indiquem as pautas transferidas como tarefas de hoje.
+
+### Pautas de hoje — 28/10
+1. **Onde assistir — Vasco x Flamengo (Brasileirão).**
+   - **Estado:** pautada para produção/publicação hoje, na véspera do jogo de quinta-feira, 29/10.
+   - **Partida:** 20h, Estádio Nilton Santos; transmissão indicada: Amazon Prime Video.
+   - **Ficha editorial:** [[2026-10-28 - Vasco x Flamengo - onde assistir Brasileirão]].
+   - **Apuração:** reconfirmar horário, estádio e transmissão em fonte oficial; escalações e arbitragem apenas após confirmação.
+2. **Pós-jogo — Flamengo x Araruama (futebol feminino).**
+   - **Estado:** permanece na pauta de hoje; produzir somente após o fim da partida e confirmação do resultado e dos acontecimentos.
+   - **Ficha editorial:** [[2026-10-28 - Flamengo x Araruama - pós-jogo futebol feminino]].
+
+### Pautas transferidas para quinta-feira, 29/10
+1. **Flamengo x Palmeiras: comparação defensiva** — manter o título de trabalho *A defesa pode decidir o Brasileirão? Flamengo e Palmeiras chegam à reta final com números próximos*. Comparar os dois times usando recorte temporal e critérios equivalentes, com fontes e datas explícitas.
+2. **Reportagens Fla10 — Da base ao profissional: caminho dos Garotos do Ninho.** Debater recorte temporal, hipótese central, evidências e plano de apuração antes de iniciar a redação.
+3. **Pré-jogo — Vasco x Flamengo.** Análise de contexto e cenário esportivo do clássico, com foco na disputa pela liderança e nos fatores que podem influenciar a partida; separar esta abordagem da matéria de serviço “onde assistir”.
+4. **Futuro de Leonardo Jardim e José Boto.** Apuração de bastidores sobre a continuidade dos dois no Flamengo; distinguir informação confirmada, relatos atribuídos e especulação. Não apresentar como decisão oficial qualquer informação ainda não confirmada pelo clube.
+
+**Regra de execução:** a transferência para 29/10 altera a programação, não cancela as pautas. A reportagem “Da base ao profissional” continua dependendo de debate editorial e autorização antes da redação. A pauta sobre Jardim e Boto exige apuração atualizada e atribuição rigorosa das informações. O serviço Vasco x Flamengo e a análise pré-jogo são entregas distintas, sem repetição de conteúdo.
+
