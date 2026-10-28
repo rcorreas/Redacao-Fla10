@@ -759,3 +759,12 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Atualizado o Painel de Pautas com a URL definitiva e a retirada da pauta das pendências de produção.
 - A versão publicada pelo editor contém imagens e links internos adicionais em relação ao rascunho arquivado.
 - A sincronização do vault local do Obsidian não foi verificada.
+
+
+## 2026-10-28 — Pauta e matéria: caso Marcos Rojo
+- A pedido do editor, incluída na programação de 28/10 a notícia sobre a rejeição do protesto do Flamengo contra a suposta escalação irregular de Marcos Rojo pelo Estudiantes.
+- Criada a ficha editorial `06 - Pautas/2026-10-28 - Caso Marcos Rojo - Conmebol rejeita protesto do Flamengo.md`, com apuração, fontes, Resumo para IA, pacote SEO e limites jurídicos.
+- Redigido o rascunho **“Conmebol rejeita protesto do Flamengo no caso Marcos Rojo e mantém Estudiantes na final”**. A matéria ainda não está publicada.
+- Base factual: decisão oficial da Comissão Disciplinar da Conmebol de 28/10; o protesto e as medidas cautelares foram rejeitados, enquanto a possibilidade de recurso interno e o procedimento no TAS/CAS devem ser descritos separadamente.
+- Atualizado o Painel de Pautas para incluir a nova entrega em 28/10.
+- Alterações feitas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
