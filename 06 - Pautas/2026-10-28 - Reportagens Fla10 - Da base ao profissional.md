@@ -1,9 +1,9 @@
 ---
 data: 2026-10-28
 formato: reportagem especial
-status: rascunho para revisão editorial
+status: publicado
 proveniencia: producao interna colaborativa
-publicacao_confirmada: false
+publicacao_confirmada: true
 ---
 
 # Reportagens Fla10 — Da base ao profissional: o caminho dos Garotos do Ninho
@@ -33,6 +33,11 @@ Os dados públicos consultados apontam para uma dificuldade de transição: o Fl
 3. ge, 05/10/2026: https://ge.globo.com/google/amp/futebol/times/flamengo/noticia/2026/10/05/flamengo-nao-bate-meta-de-vendas-em-2026-e-reacende-debate-sobre-producao-e-utilizacao-da-base.ghtml
 4. Flamengo, 20/07/2026: https://www.flamengo.com.br/noticias/futebol/garotos-do-ninho--wallace-yan-e-dyogo-alves-trilham-seu-caminho-no-elenco-profissional-
 5. Flamengo, 14/10/2026: https://www.flamengo.com.br/noticias/futebol-de-base/cria-do-ninho-davi-fraga-firma-primeiro-contrato-profissional-com-o-flamengo
+
+## Publicação
+- **URL definitiva:** https://fla10.news/reportagens/da-base-ao-profissional-o-caminho-dos-garotos-do-ninho-expoe-um-gargalo-no-flamengo
+- **Data de publicação:** 28/10/2026
+- **Estado:** publicado no Fla10 News; a matéria online inclui imagens e links internos adicionais.
 
 ## Limites de apuração
 - Não atribuir a baixa utilização a um único responsável sem evidência adicional.
