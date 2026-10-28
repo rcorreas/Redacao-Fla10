@@ -688,3 +688,11 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Atualizado o Painel de Pautas para registrar a publicação.
 - A pauta de pós-jogo de Operário-PR x Flamengo permanece separada e só deve ser produzida depois do encerramento e da confirmação do resultado.
 - Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
+
+## 2026-10-27 — Publicação confirmada: Flamengo x Araruama — onde assistir ao Carioca Feminino
+- O editor confirmou a publicação de **“Flamengo x Araruama: onde assistir ao vivo, horário e informações do Carioca Feminino”**.
+- **URL pública:** https://fla10.news/noticias/flamengo-x-araruama-onde-assistir-ao-vivo-horario-e-informacoes-do-carioca-feminino
+- Atualizada a ficha editorial `06 - Pautas/2026-10-28 - Flamengo x Araruama - onde assistir futebol feminino.md` com status publicado, URL, dados da partida, transmissão pela Flamengo TV, uso da equipe Sub-20 e pacote SEO.
+- Atualizado o Painel de Pautas para marcar a pauta de serviço como publicada; o pós-jogo de 28/10 permanece pendente e separado.
+- Horário, local e arbitragem conferidos na página da FERJ; a informação sobre a equipe Sub-20 e a transmissão consta da comunicação oficial do Flamengo.
+- Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
