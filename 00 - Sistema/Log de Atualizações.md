@@ -724,3 +724,11 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Atualizado o Painel de Pautas para registrar a publicação e retirar a pauta das pendências de redação.
 - Mantida a ressalva metodológica: o ranking histórico soma pontos conquistados em campo desde 2003 e não desconta os quatro pontos retirados do Flamengo pelo STJD em 2013.
 - Alterações realizadas no GitHub; a sincronização do vault local do Obsidian não foi verificada. O conteúdo do site não foi alterado por esta operação.
+
+
+## 2026-10-28 — Apuração de Agustín Rossi (200 jogos)
+- Pesquisa concluída para a pauta dos 200 jogos de Rossi pelo Flamengo.
+- Criada a ficha `06 - Pautas/2026-10-28 - Agustín Rossi chega a 200 jogos pelo Flamengo.md` com dados do clube, ranking histórico, títulos, recordes, citações, ângulo editorial e ressalvas de precisão.
+- Atualizado o Painel de Pautas com o estado de apuração concluída e link para a ficha.
+- Fonte primária: https://www.flamengo.com.br/noticias/futebol/flamengo-homenageia-rossi-pelos-200-jogos-com-o-manto
+- A pauta está pronta para redação; a matéria ainda não foi redigida nesta etapa.
