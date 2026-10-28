@@ -732,3 +732,12 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Atualizado o Painel de Pautas com o estado de apuração concluída e link para a ficha.
 - Fonte primária: https://www.flamengo.com.br/noticias/futebol/flamengo-homenageia-rossi-pelos-200-jogos-com-o-manto
 - A pauta está pronta para redação; a matéria ainda não foi redigida nesta etapa.
+
+
+## 2026-10-28 — Publicação confirmada: Rossi chega a 200 jogos pelo Flamengo
+- O editor confirmou a publicação de **“Rossi chega a 200 jogos pelo Flamengo e entra no top 10 histórico de goleiros”**.
+- **URL pública:** https://fla10.news/noticias/rossi-chega-a-200-jogos-pelo-flamengo-e-entra-no-top-10-historico-de-goleiros
+- Atualizada a ficha de apuração `06 - Pautas/2026-10-28 - Agustín Rossi chega a 200 jogos pelo Flamengo.md` com o estado publicado e a URL definitiva.
+- Atualizado o Painel de Pautas para registrar a publicação e retirar a pauta das pendências de redação.
+- Dados centrais registrados: 200 jogos, 117 vitórias, 51 empates, 32 derrotas, 147 gols sofridos, 95 partidas sem ser vazado, décimo lugar no ranking histórico e sete títulos durante sua passagem.
+- Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; esta operação não altera o conteúdo do portal.
