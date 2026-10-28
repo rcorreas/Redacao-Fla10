@@ -1178,3 +1178,14 @@ A pedido do editor, esta seção atualiza a programação corrente e prevalece s
 - **Ficha editorial e apuração:** [[2026-10-28 - Agustín Rossi chega a 200 jogos pelo Flamengo]].
 - **Síntese:** Rossi completou 200 partidas na vitória por 3 a 2 sobre o Atlético-MG; soma 117 vitórias, 51 empates, 32 derrotas, 147 gols sofridos e 95 jogos sem ser vazado. Ocupa a décima posição entre os goleiros com mais jogos pelo Flamengo e participou de sete títulos.
 - **Apuração:** fonte primária oficial do Flamengo, com corroboração de O Dia e SBT/Jogada10. Os números foram atualizados com o balanço oficial pós-jogo.
+
+
+## Atualização — Reportagem Fla10 sobre os Garotos do Ninho (28/10/2026)
+
+- Por solicitação do editor, a pauta foi transferida de 29/10 para a lista de hoje, 28/10.
+- **Estado:** pesquisa realizada e rascunho produzido para revisão editorial; não publicado.
+- **Ficha de produção:** [[2026-10-28 - Reportagens Fla10 - Da base ao profissional]].
+- **Ângulo:** investigar se a transição entre a base e o profissional é o principal gargalo, sem atribuir causalidade a um único responsável.
+- **Fontes principais:** ge (26/12/2025, 28/09/2026 e 05/10/2026) e Flamengo (20/07/2026 e 14/10/2026).
+- **Limites:** os dados públicos não permitem calcular uma taxa completa de conversão; os valores de transferências e participação em gols precisam manter os recortes temporais originais.
+- Esta atualização substitui a indicação anterior de que a pauta aguardava debate antes da redação. A autorização para pesquisa e rascunho foi dada pelo editor em 28/10/2026.
