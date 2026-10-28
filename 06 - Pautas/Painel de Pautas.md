@@ -1142,8 +1142,10 @@ A pedido do editor, esta seção atualiza a programação corrente e prevalece s
    - **Estado:** pauta complementar para hoje; confirmar a contagem oficial de partidas e o contexto da marca antes de redigir.
    - **Ângulo:** trajetória do goleiro desde a chegada ao clube, participação esportiva e significado do marco, com números e fatos devidamente verificados.
 4. **Flamengo alcança a marca de 1.500 pontos na era dos pontos corridos.**
-   - **Estado:** pauta para hoje, condicionada à validação do marco.
-   - **Apuração obrigatória:** confirmar se o Flamengo efetivamente ultrapassou/atingiu 1.500 pontos, definir o recorte da era dos pontos corridos e conferir a soma em base estatística consistente antes de afirmar a marca no título ou no texto.
+   - **Estado:** apuração concluída; marco confirmado por publicações de 27/10/2026. Pronta para redação.
+   - **Apuração:** 1.502 pontos em 926 jogos após a vitória por 3 a 2 sobre o Atlético-MG, pela 32ª rodada; São Paulo tem 1.477 e Palmeiras 1.395 no ranking divulgado.
+   - **Ressalva:** ranking soma pontos conquistados em campo desde 2003; os quatro pontos retirados do Flamengo pelo STJD em 2013 não são descontados nesse levantamento.
+   - **Ficha de pesquisa:** [[2026-10-28 - Flamengo ultrapassa 1500 pontos nos pontos corridos]].
 
 ### Pautas transferidas para quinta-feira, 29/10
 1. **Flamengo x Palmeiras: comparação defensiva** — manter o título de trabalho *A defesa pode decidir o Brasileirão? Flamengo e Palmeiras chegam à reta final com números próximos*. Comparar os dois times usando recorte temporal e critérios equivalentes, com fontes e datas explícitas.
