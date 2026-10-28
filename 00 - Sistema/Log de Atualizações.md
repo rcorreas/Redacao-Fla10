@@ -741,3 +741,12 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Atualizado o Painel de Pautas para registrar a publicação e retirar a pauta das pendências de redação.
 - Dados centrais registrados: 200 jogos, 117 vitórias, 51 empates, 32 derrotas, 147 gols sofridos, 95 partidas sem ser vazado, décimo lugar no ranking histórico e sete títulos durante sua passagem.
 - Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; esta operação não altera o conteúdo do portal.
+
+
+## 2026-10-28 — Apuração da Reportagem Fla10 sobre os Garotos do Ninho
+- A pedido do editor, a pauta foi movida de 29/10 para a lista de 28/10 e recebeu pesquisa e rascunho para revisão editorial.
+- Criada a ficha `06 - Pautas/2026-10-28 - Reportagens Fla10 - Da base ao profissional.md` com pergunta central, hipótese, dados, fontes e limites da apuração.
+- Atualizado o Painel de Pautas para refletir a mudança de data e o estado de rascunho.
+- O texto integral, Resumo para IA e pacote SEO foram entregues nesta conversa; a matéria não está publicada.
+- Fontes consultadas: ge (26/12/2025, 28/09/2026 e 05/10/2026) e comunicação oficial do Flamengo (20/07/2026 e 14/10/2026).
+- A sincronização do vault local do Obsidian não foi verificada.
