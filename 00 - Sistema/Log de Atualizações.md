@@ -715,3 +715,12 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Pesquisa concluída: Flamengo chegou a 1.502 pontos acumulados na Série A desde 2003, após vencer o Atlético-MG por 3 a 2 na 32ª rodada.
 - Registrada a ressalva metodológica: o levantamento considera pontos conquistados em campo e não desconta os quatro pontos da punição de 2013.
 - Criada a ficha [[2026-10-28 - Flamengo ultrapassa 1500 pontos nos pontos corridos]] com fontes, ranking, cautelas e pacote SEO.
+
+
+## 2026-10-28 — Publicação confirmada: Flamengo ultrapassa 1.500 pontos no Brasileirão
+- O editor confirmou a publicação de “Flamengo ultrapassa 1.500 pontos e alcança marca inédita no Brasileirão”.
+- URL pública: https://fla10.news/noticias/flamengo-ultrapassa-1500-pontos-e-alcanca-marca-inedita-no-brasileirao
+- Atualizada a ficha editorial `06 - Pautas/2026-10-28 - Flamengo ultrapassa 1500 pontos nos pontos corridos.md` com estado publicado e URL definitiva.
+- Atualizado o Painel de Pautas para registrar a publicação e retirar a pauta das pendências de redação.
+- Mantida a ressalva metodológica: o ranking histórico soma pontos conquistados em campo desde 2003 e não desconta os quatro pontos retirados do Flamengo pelo STJD em 2013.
+- Alterações realizadas no GitHub; a sincronização do vault local do Obsidian não foi verificada. O conteúdo do site não foi alterado por esta operação.
