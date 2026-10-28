@@ -1139,8 +1139,9 @@ A pedido do editor, esta seção atualiza a programação corrente e prevalece s
    - **Estado:** permanece na pauta de hoje; produzir somente após o fim da partida e confirmação do resultado e dos acontecimentos.
    - **Ficha editorial:** [[2026-10-28 - Flamengo x Araruama - pós-jogo futebol feminino]].
 3. **Agustín Rossi — 200 jogos pelo Flamengo.**
-   - **Estado:** apuração concluída em 28/10/2026; pronta para redação.
-   - **Ficha de pesquisa:** [[2026-10-28 - Agustín Rossi chega a 200 jogos pelo Flamengo]].
+   - **Estado:** **publicada em 28/10/2026**, conforme confirmação do editor.
+   - **URL pública:** https://fla10.news/noticias/rossi-chega-a-200-jogos-pelo-flamengo-e-entra-no-top-10-historico-de-goleiros
+   - **Ficha editorial:** [[2026-10-28 - Agustín Rossi chega a 200 jogos pelo Flamengo]].
    - **Fatos confirmados pelo clube:** marca alcançada em 26/10, contra o Atlético-MG; 117 vitórias, 51 empates, 32 derrotas; 147 gols sofridos; 95 jogos sem ser vazado; 10º goleiro com mais partidas pelo Flamengo.
    - **Ângulo:** trajetória desde a estreia em setembro de 2023, entrada no top 10 histórico, recorde de 1.134 minutos sem sofrer gols e sete títulos. Manter abordagem equilibrada, sem transformar a matéria em homenagem acrítica.
 4. **Flamengo alcança a marca de 1.500 pontos na era dos pontos corridos.**
@@ -1167,3 +1168,13 @@ A pedido do editor, esta seção atualiza a programação corrente e prevalece s
 - **Ficha editorial:** [[2026-10-28 - Flamengo ultrapassa 1500 pontos nos pontos corridos]].
 - **Síntese:** Flamengo chegou a 1.502 pontos no ranking acumulado da Série A desde 2003 após vencer o Atlético-MG por 3 a 2; São Paulo aparece com 1.477 e Palmeiras com 1.395.
 - **Nota metodológica:** o ranking soma pontos conquistados em campo e não desconta os quatro pontos retirados do Flamengo pelo STJD em 2013.
+
+
+## Publicação confirmada — Agustín Rossi chega a 200 jogos (28/10/2026)
+
+- **Estado:** publicada, conforme confirmação do editor.
+- **Título:** *Rossi chega a 200 jogos pelo Flamengo e entra no top 10 histórico de goleiros*.
+- **URL pública:** https://fla10.news/noticias/rossi-chega-a-200-jogos-pelo-flamengo-e-entra-no-top-10-historico-de-goleiros
+- **Ficha editorial e apuração:** [[2026-10-28 - Agustín Rossi chega a 200 jogos pelo Flamengo]].
+- **Síntese:** Rossi completou 200 partidas na vitória por 3 a 2 sobre o Atlético-MG; soma 117 vitórias, 51 empates, 32 derrotas, 147 gols sofridos e 95 jogos sem ser vazado. Ocupa a décima posição entre os goleiros com mais jogos pelo Flamengo e participou de sete títulos.
+- **Apuração:** fonte primária oficial do Flamengo, com corroboração de O Dia e SBT/Jogada10. Os números foram atualizados com o balanço oficial pós-jogo.
