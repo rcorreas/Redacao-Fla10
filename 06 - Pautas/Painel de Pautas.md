@@ -1130,6 +1130,10 @@ Agenda confirmada pelo editor em 27/10/2026 para os próximos jogos:
 A pedido do editor, esta seção atualiza a programação corrente e prevalece sobre agendas anteriores que ainda indiquem as pautas transferidas como tarefas de hoje.
 
 ### Pautas de hoje — 28/10
+1. **Caso Marcos Rojo — Conmebol rejeita protesto do Flamengo.**
+   - **Estado:** matéria redigida em 28/10; aguarda revisão/publicação.
+   - **Ângulo:** decisão da Comissão Disciplinar, manutenção do Estudiantes na final e próximos passos possíveis; separar o processo disciplinar na Conmebol do procedimento ainda pendente no TAS/CAS.
+   - **Ficha editorial:** [[2026-10-28 - Caso Marcos Rojo - Conmebol rejeita protesto do Flamengo]].
 1. **Onde assistir — Vasco x Flamengo (Brasileirão).**
    - **Estado:** pautada para produção/publicação hoje, na véspera do jogo de quinta-feira, 29/10.
    - **Partida:** 20h, Estádio Nilton Santos; transmissão indicada: Amazon Prime Video.
