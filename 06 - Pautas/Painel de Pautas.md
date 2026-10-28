@@ -1108,3 +1108,13 @@ Agenda confirmada pelo editor em 27/10/2026 para os próximos jogos:
 - **Ficha editorial:** [[2026-10-27 - Operário-PR x Flamengo - onde assistir Copa do Brasil Sub-20]].
 - **Dados principais:** jogo de ida das quartas de final, 27/10/2026 às 20h, Estádio Germano Krüger, Ponta Grossa (PR); transmissão SporTV.
 - **Nota de fluxo:** a pauta de pós-jogo do mesmo confronto permanece independente e deve ser produzida somente após o encerramento da partida e a confirmação do resultado.
+
+
+## Publicação confirmada — 27 de outubro de 2026
+
+### Flamengo Sub-20 empata com o Operário-PR e deixa vaga na semifinal em aberto
+- **Estado:** publicada em 27/10/2026, conforme confirmação do editor.
+- **URL pública:** https://fla10.news/noticias/flamengo-sub-20-empata-com-o-operario-pr-e-deixa-vaga-na-semifinal-em-aberto
+- **Ficha editorial:** [[2026-10-27 - Flamengo x Operário-PR - pós-jogo Sub-20]].
+- **Resultado:** Operário-PR 0 x 0 Flamengo, jogo de ida das quartas de final da Copa do Brasil Sub-20.
+- **Próximo jogo:** volta em 03/11/2026, às 16h30, no Luso-Brasileiro; confirmar informações oficiais perto da partida.
