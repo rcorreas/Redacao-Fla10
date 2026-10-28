@@ -1189,3 +1189,12 @@ A pedido do editor, esta seção atualiza a programação corrente e prevalece s
 - **Fontes principais:** ge (26/12/2025, 28/09/2026 e 05/10/2026) e Flamengo (20/07/2026 e 14/10/2026).
 - **Limites:** os dados públicos não permitem calcular uma taxa completa de conversão; os valores de transferências e participação em gols precisam manter os recortes temporais originais.
 - Esta atualização substitui a indicação anterior de que a pauta aguardava debate antes da redação. A autorização para pesquisa e rascunho foi dada pelo editor em 28/10/2026.
+
+
+## Publicação confirmada — Reportagens Fla10: Garotos do Ninho (28/10/2026)
+
+- **Título:** Da base ao profissional: o caminho dos Garotos do Ninho expõe um gargalo no Flamengo
+- **Status:** publicado em 28/10/2026
+- **URL:** https://fla10.news/reportagens/da-base-ao-profissional-o-caminho-dos-garotos-do-ninho-expoe-um-gargalo-no-flamengo
+- **Ficha de produção:** [[2026-10-28 - Reportagens Fla10 - Da base ao profissional]]
+- **Registro:** pauta concluída; remover da lista de pendências de produção. A publicação inclui imagens e links internos conforme versão publicada pelo editor.
