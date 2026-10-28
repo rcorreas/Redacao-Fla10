@@ -703,3 +703,9 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Incluída para hoje a pauta de serviço **Onde assistir — Vasco x Flamengo**, com ficha editorial criada em `06 - Pautas/2026-10-28 - Vasco x Flamengo - onde assistir Brasileirão.md`.
 - Dados iniciais do serviço: jogo na quinta-feira, 29/10, às 20h, no Estádio Nilton Santos, com transmissão indicada pelo Amazon Prime Video. Horário, estádio, transmissão e demais informações devem ser reconfirmados antes da publicação.
 - Atualizado o Painel de Pautas no GitHub, branch `main`, com a nova programação. A sincronização do vault local do Obsidian não foi verificada.
+
+
+## 2026-10-28 — Correção da pauta do dia
+- Acrescentadas à programação de hoje duas pautas omitidas: **Agustín Rossi — 200 jogos pelo Flamengo** e **marca de 1.500 pontos do Flamengo na era dos pontos corridos**.
+- A marca dos 1.500 pontos fica condicionada à confirmação do número e do critério estatístico antes de ser apresentada como fato.
+- Painel atualizado em resposta à correção do editor.
