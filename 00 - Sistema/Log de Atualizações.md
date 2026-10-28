@@ -696,3 +696,10 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Atualizado o Painel de Pautas para marcar a pauta de serviço como publicada; o pós-jogo de 28/10 permanece pendente e separado.
 - Horário, local e arbitragem conferidos na página da FERJ; a informação sobre a equipe Sub-20 e a transmissão consta da comunicação oficial do Flamengo.
 - Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
+
+## 2026-10-28 — Reorganização das pautas de hoje e amanhã
+- A pedido do editor, transferidas para quinta-feira, 29/10/2026, quatro pautas: **comparação defensiva Flamengo x Palmeiras**; **Reportagens Fla10 — Da base ao profissional: caminho dos Garotos do Ninho**; **Pré-jogo — Vasco x Flamengo**; e **Futuro de Leonardo Jardim e José Boto**.
+- Mantida para quarta-feira, 28/10, a pauta de **pós-jogo Flamengo x Araruama**, condicionada à confirmação do resultado e dos acontecimentos.
+- Incluída para hoje a pauta de serviço **Onde assistir — Vasco x Flamengo**, com ficha editorial criada em `06 - Pautas/2026-10-28 - Vasco x Flamengo - onde assistir Brasileirão.md`.
+- Dados iniciais do serviço: jogo na quinta-feira, 29/10, às 20h, no Estádio Nilton Santos, com transmissão indicada pelo Amazon Prime Video. Horário, estádio, transmissão e demais informações devem ser reconfirmados antes da publicação.
+- Atualizado o Painel de Pautas no GitHub, branch `main`, com a nova programação. A sincronização do vault local do Obsidian não foi verificada.
