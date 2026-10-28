@@ -1139,8 +1139,10 @@ A pedido do editor, esta seção atualiza a programação corrente e prevalece s
    - **Estado:** permanece na pauta de hoje; produzir somente após o fim da partida e confirmação do resultado e dos acontecimentos.
    - **Ficha editorial:** [[2026-10-28 - Flamengo x Araruama - pós-jogo futebol feminino]].
 3. **Agustín Rossi — 200 jogos pelo Flamengo.**
-   - **Estado:** pauta complementar para hoje; confirmar a contagem oficial de partidas e o contexto da marca antes de redigir.
-   - **Ângulo:** trajetória do goleiro desde a chegada ao clube, participação esportiva e significado do marco, com números e fatos devidamente verificados.
+   - **Estado:** apuração concluída em 28/10/2026; pronta para redação.
+   - **Ficha de pesquisa:** [[2026-10-28 - Agustín Rossi chega a 200 jogos pelo Flamengo]].
+   - **Fatos confirmados pelo clube:** marca alcançada em 26/10, contra o Atlético-MG; 117 vitórias, 51 empates, 32 derrotas; 147 gols sofridos; 95 jogos sem ser vazado; 10º goleiro com mais partidas pelo Flamengo.
+   - **Ângulo:** trajetória desde a estreia em setembro de 2023, entrada no top 10 histórico, recorde de 1.134 minutos sem sofrer gols e sete títulos. Manter abordagem equilibrada, sem transformar a matéria em homenagem acrítica.
 4. **Flamengo alcança a marca de 1.500 pontos na era dos pontos corridos.**
    - **Estado:** **publicada em 28/10/2026**, conforme confirmação do editor.
    - **URL pública:** https://fla10.news/noticias/flamengo-ultrapassa-1500-pontos-e-alcanca-marca-inedita-no-brasileirao
