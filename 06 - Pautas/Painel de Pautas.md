@@ -1118,3 +1118,9 @@ Agenda confirmada pelo editor em 27/10/2026 para os próximos jogos:
 - **Ficha editorial:** [[2026-10-27 - Flamengo x Operário-PR - pós-jogo Sub-20]].
 - **Resultado:** Operário-PR 0 x 0 Flamengo, jogo de ida das quartas de final da Copa do Brasil Sub-20.
 - **Próximo jogo:** volta em 03/11/2026, às 16h30, no Luso-Brasileiro; confirmar informações oficiais perto da partida.
+
+
+## Publicação confirmada — Flamengo x Araruama, onde assistir (27/10/2026)
+- **Estado:** publicada.
+- **URL pública:** https://fla10.news/noticias/flamengo-x-araruama-onde-assistir-ao-vivo-horario-e-informacoes-do-carioca-feminino
+- A pauta de pós-jogo de Flamengo x Araruama permanece separada para 28/10, após a partida e confirmação do resultado.
