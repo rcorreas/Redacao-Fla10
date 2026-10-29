@@ -1252,3 +1252,12 @@ A pedido do editor, esta seção atualiza a programação corrente e prevalece s
 - **URL pública:** https://fla10.news/voz-torcedor/hoje-tem-vasco-jardim-nao-inventa-e-deuses-do-futebol-olho-nele-
 - **Ficha editorial:** [[2026-10-29 - Voz do Torcedor - Hoje tem Vasco Jardim não inventa]].
 - **Registro:** publicação concluída; não manter como pauta pendente.
+
+
+## Apuração concluída — Pré-jogo Vasco x Flamengo (29/10/2026)
+- **Estado:** pesquisa e apuração concluídas; ficha pronta para orientar a redação, ainda sem publicação.
+- **Ficha editorial:** [[2026-10-29 - Pré-jogo Vasco x Flamengo - pesquisa e apuração]].
+- **Ângulo:** contraste entre a chance de o Flamengo abrir três pontos na liderança e a necessidade de o Vasco consolidar a reação e se afastar do Z-4.
+- **Fatos centrais:** Flamengo com 70 pontos após vencer o Atlético-MG por 3 a 2; Palmeiras com 69 após empatar com o Santos; Vasco com 38 pontos e na 13ª posição após vencer o Corinthians por 3 a 2.
+- **Pontos de atenção:** suspensão de Carrascal, dúvidas nas escalações, transições defensivas do Flamengo, impacto de Marino Hinestroza e possível desgaste do Vasco.
+- **Controle editorial:** manter separação da matéria de serviço já publicada; conferir escalações oficiais antes de redigir/publicar. A ficha contém fontes, limites e pacote editorial preliminar.
