@@ -1141,7 +1141,9 @@ A pedido do editor, esta seção atualiza a programação corrente e prevalece s
    - **Ficha editorial:** [[2026-10-28 - Vasco x Flamengo - onde assistir Brasileirão]].
    - **Apuração:** reconfirmar horário, estádio e transmissão em fonte oficial; escalações e arbitragem apenas após confirmação.
 2. **Pós-jogo — Flamengo x Araruama (futebol feminino).**
-   - **Estado:** permanece na pauta de hoje; produzir somente após o fim da partida e confirmação do resultado e dos acontecimentos.
+   - **Estado:** **publicada em 28/10/2026**, conforme confirmação do editor.
+   - **Resultado:** Flamengo 7 x 0 Araruama; gols de Leane, Campos (2), Ana Papel, Yasmim Cardozo, Thalita e Laura Cardoso.
+   - **URL pública:** https://fla10.news/noticias/flamengo-goleia-o-araruama-por-7-a-0-na-estreia-do-carioca-feminino
    - **Ficha editorial:** [[2026-10-28 - Flamengo x Araruama - pós-jogo futebol feminino]].
 3. **Agustín Rossi — 200 jogos pelo Flamengo.**
    - **Estado:** **publicada em 28/10/2026**, conforme confirmação do editor.
@@ -1212,3 +1214,13 @@ A pedido do editor, esta seção atualiza a programação corrente e prevalece s
 - **URL pública:** https://fla10.news/noticias/conmebol-rejeita-protesto-do-flamengo-no-caso-marcos-rojo-e-mantem-estudiantes-na-final
 - **Ficha editorial:** [[2026-10-28 - Caso Marcos Rojo - Conmebol rejeita protesto do Flamengo]].
 - **Síntese:** a Comissão Disciplinar da Conmebol rejeitou o protesto do Flamengo e o pedido de medidas cautelares; o Estudiantes segue confirmado na final. O registro mantém separadas a decisão disciplinar e a tramitação no TAS/CAS.
+
+
+## Publicação confirmada — Flamengo goleia o Araruama (28/10/2026)
+
+- **Título:** Flamengo goleia o Araruama por 7 a 0 na estreia do Carioca Feminino.
+- **Estado:** publicada em 28/10/2026, conforme confirmação do editor.
+- **URL pública:** https://fla10.news/noticias/flamengo-goleia-o-araruama-por-7-a-0-na-estreia-do-carioca-feminino
+- **Ficha editorial:** [[2026-10-28 - Flamengo x Araruama - pós-jogo futebol feminino]].
+- **Resultado e gols:** 7 a 0; Leane, Campos (2), Ana Papel, Yasmim Cardozo, Thalita e Laura Cardoso.
+- **Registro:** retirar a pauta da lista de pendências de produção.
