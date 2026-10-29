@@ -1136,10 +1136,12 @@ A pedido do editor, esta seção atualiza a programação corrente e prevalece s
    - **Ângulo:** decisão da Comissão Disciplinar, manutenção do Estudiantes na final e próximos passos possíveis; separar o processo disciplinar na Conmebol do procedimento no TAS/CAS.
    - **Ficha editorial:** [[2026-10-28 - Caso Marcos Rojo - Conmebol rejeita protesto do Flamengo]].
 1. **Onde assistir — Vasco x Flamengo (Brasileirão).**
-   - **Estado:** pautada para produção/publicação hoje, na véspera do jogo de quinta-feira, 29/10.
-   - **Partida:** 20h, Estádio Nilton Santos; transmissão indicada: Amazon Prime Video.
+   - **Estado:** **publicada em 28/10/2026**, conforme confirmação do editor.
+   - **Título publicado:** *Vasco x Flamengo: onde assistir ao vivo, horário, prováveis escalações e arbitragem — tudo sobre o jogo válido pela 33ª rodada do Brasileirão*.
+   - **URL pública:** https://fla10.news/noticias/vasco-x-flamengo-onde-assistir-ao-vivo-horario-provaveis-escalacoes-e-arbitragem---tudo-sobre-o-jogo-valido-pela-33-rodada-do-brasileirao
+   - **Partida:** quinta-feira, 29/10, às 20h, no Estádio Nilton Santos; transmissão pelo Amazon Prime Video.
    - **Ficha editorial:** [[2026-10-28 - Vasco x Flamengo - onde assistir Brasileirão]].
-   - **Apuração:** reconfirmar horário, estádio e transmissão em fonte oficial; escalações e arbitragem apenas após confirmação.
+   - **Registro:** serviço publicado com prováveis escalações, arbitragem, ficha técnica, Resumo para IA e pacote SEO. A pauta analítica pré-jogo permanece separada.
 2. **Pós-jogo — Flamengo x Araruama (futebol feminino).**
    - **Estado:** **publicada em 28/10/2026**, conforme confirmação do editor.
    - **Resultado:** Flamengo 7 x 0 Araruama; gols de Leane, Campos (2), Ana Papel, Yasmim Cardozo, Thalita e Laura Cardoso.
@@ -1224,3 +1226,12 @@ A pedido do editor, esta seção atualiza a programação corrente e prevalece s
 - **Ficha editorial:** [[2026-10-28 - Flamengo x Araruama - pós-jogo futebol feminino]].
 - **Resultado e gols:** 7 a 0; Leane, Campos (2), Ana Papel, Yasmim Cardozo, Thalita e Laura Cardoso.
 - **Registro:** retirar a pauta da lista de pendências de produção.
+
+
+## Publicação confirmada — Vasco x Flamengo: onde assistir (28/10/2026)
+
+- **Título:** Vasco x Flamengo: onde assistir ao vivo, horário, prováveis escalações e arbitragem — tudo sobre o jogo válido pela 33ª rodada do Brasileirão.
+- **Estado:** publicada em 28/10/2026, conforme confirmação do editor.
+- **URL pública:** https://fla10.news/noticias/vasco-x-flamengo-onde-assistir-ao-vivo-horario-provaveis-escalacoes-e-arbitragem---tudo-sobre-o-jogo-valido-pela-33-rodada-do-brasileirao
+- **Ficha editorial:** [[2026-10-28 - Vasco x Flamengo - onde assistir Brasileirão]].
+- **Registro:** serviço de jogo publicado; a pauta analítica pré-jogo Vasco x Flamengo segue como entrega separada.
