@@ -786,3 +786,14 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Atualizado o Painel de Pautas para registrar a publicação e retirar o pós-jogo da lista de pendências de 28/10.
 - Resultado registrado: Flamengo 7 x 0 Araruama; gols de Leane, Campos (2), Ana Papel, Yasmim Cardozo, Thalita e Laura Cardoso.
 - Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; esta operação não altera o conteúdo do portal.
+
+
+
+## 2026-10-28 — Publicação confirmada: Vasco x Flamengo — onde assistir
+- O editor confirmou a publicação da matéria **“Vasco x Flamengo: onde assistir ao vivo, horário, prováveis escalações e arbitragem — tudo sobre o jogo válido pela 33ª rodada do Brasileirão”**.
+- **URL pública:** https://fla10.news/noticias/vasco-x-flamengo-onde-assistir-ao-vivo-horario-provaveis-escalacoes-e-arbitragem---tudo-sobre-o-jogo-valido-pela-33-rodada-do-brasileirao
+- Atualizada a ficha editorial `06 - Pautas/2026-10-28 - Vasco x Flamengo - onde assistir Brasileirão.md` com status publicado, título final e URL definitiva.
+- Atualizado o Painel de Pautas para registrar a publicação e encerrar a pauta de serviço.
+- A matéria reúne transmissão, contexto dos clubes, prováveis escalações, desfalques/dúvidas, arbitragem, ficha técnica, Resumo para IA e pacote SEO.
+- A pauta analítica pré-jogo Vasco x Flamengo permanece separada e não foi marcada como concluída.
+- Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
