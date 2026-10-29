@@ -797,3 +797,9 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - A matéria reúne transmissão, contexto dos clubes, prováveis escalações, desfalques/dúvidas, arbitragem, ficha técnica, Resumo para IA e pacote SEO.
 - A pauta analítica pré-jogo Vasco x Flamengo permanece separada e não foi marcada como concluída.
 - Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
+
+
+## 2026-10-29 — Publicação confirmada: análise sobre a defesa no Brasileirão
+- O responsável editorial confirmou a publicação de “A defesa pode decidir o Brasileirão? Palmeiras ganha força com regularidade, enquanto Flamengo aposta no equilíbrio”.
+- URL pública registrada: https://fla10.news/noticias/a-defesa-pode-decidir-o-brasileirao-palmeiras-ganha-forca-com-regularidade-enquanto-flamengo-aposta-no-equilibrio.
+- Painel de Pautas atualizado para registrar a matéria como publicada.
