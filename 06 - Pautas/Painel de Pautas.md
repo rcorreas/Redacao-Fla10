@@ -1131,8 +1131,9 @@ A pedido do editor, esta seção atualiza a programação corrente e prevalece s
 
 ### Pautas de hoje — 28/10
 1. **Caso Marcos Rojo — Conmebol rejeita protesto do Flamengo.**
-   - **Estado:** matéria redigida em 28/10; aguarda revisão/publicação.
-   - **Ângulo:** decisão da Comissão Disciplinar, manutenção do Estudiantes na final e próximos passos possíveis; separar o processo disciplinar na Conmebol do procedimento ainda pendente no TAS/CAS.
+   - **Estado:** **publicada em 28/10/2026**, conforme confirmação do editor.
+   - **URL pública:** https://fla10.news/noticias/conmebol-rejeita-protesto-do-flamengo-no-caso-marcos-rojo-e-mantem-estudiantes-na-final
+   - **Ângulo:** decisão da Comissão Disciplinar, manutenção do Estudiantes na final e próximos passos possíveis; separar o processo disciplinar na Conmebol do procedimento no TAS/CAS.
    - **Ficha editorial:** [[2026-10-28 - Caso Marcos Rojo - Conmebol rejeita protesto do Flamengo]].
 1. **Onde assistir — Vasco x Flamengo (Brasileirão).**
    - **Estado:** pautada para produção/publicação hoje, na véspera do jogo de quinta-feira, 29/10.
@@ -1202,3 +1203,12 @@ A pedido do editor, esta seção atualiza a programação corrente e prevalece s
 - **URL:** https://fla10.news/reportagens/da-base-ao-profissional-o-caminho-dos-garotos-do-ninho-expoe-um-gargalo-no-flamengo
 - **Ficha de produção:** [[2026-10-28 - Reportagens Fla10 - Da base ao profissional]]
 - **Registro:** pauta concluída; remover da lista de pendências de produção. A publicação inclui imagens e links internos conforme versão publicada pelo editor.
+
+
+## Publicação confirmada — Caso Marcos Rojo (28/10/2026)
+
+- **Título:** Conmebol rejeita protesto do Flamengo no caso Marcos Rojo e mantém Estudiantes na final
+- **Status:** publicada em 28/10/2026, conforme confirmação do editor.
+- **URL pública:** https://fla10.news/noticias/conmebol-rejeita-protesto-do-flamengo-no-caso-marcos-rojo-e-mantem-estudiantes-na-final
+- **Ficha editorial:** [[2026-10-28 - Caso Marcos Rojo - Conmebol rejeita protesto do Flamengo]].
+- **Síntese:** a Comissão Disciplinar da Conmebol rejeitou o protesto do Flamengo e o pedido de medidas cautelares; o Estudiantes segue confirmado na final. O registro mantém separadas a decisão disciplinar e a tramitação no TAS/CAS.
