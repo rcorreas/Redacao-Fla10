@@ -1164,7 +1164,7 @@ A pedido do editor, esta seção atualiza a programação corrente e prevalece s
 1. **Flamengo x Palmeiras: comparação defensiva** — manter o título de trabalho *A defesa pode decidir o Brasileirão? Flamengo e Palmeiras chegam à reta final com números próximos*. Comparar os dois times usando recorte temporal e critérios equivalentes, com fontes e datas explícitas.
 2. **Reportagens Fla10 — Da base ao profissional: caminho dos Garotos do Ninho.** Debater recorte temporal, hipótese central, evidências e plano de apuração antes de iniciar a redação.
 3. **Pré-jogo — Vasco x Flamengo.** Análise de contexto e cenário esportivo do clássico, com foco na disputa pela liderança e nos fatores que podem influenciar a partida; separar esta abordagem da matéria de serviço “onde assistir”.
-4. **Futuro de Leonardo Jardim e José Boto.** Apuração de bastidores sobre a continuidade dos dois no Flamengo; distinguir informação confirmada, relatos atribuídos e especulação. Não apresentar como decisão oficial qualquer informação ainda não confirmada pelo clube.
+4. **Futuro de Leonardo Jardim e José Boto — transferida para sexta-feira, 30/10.** A pauta deixa de integrar a lista de hoje (29/10) e passa para a programação de amanhã. Apuração de bastidores sobre a continuidade dos dois no Flamengo; distinguir informação confirmada, relatos atribuídos e especulação. Não apresentar como decisão oficial qualquer informação ainda não confirmada pelo clube.
 
 **Regra de execução:** a transferência para 29/10 altera a programação, não cancela as pautas. A reportagem “Da base ao profissional” continua dependendo de debate editorial e autorização antes da redação. A pauta sobre Jardim e Boto exige apuração atualizada e atribuição rigorosa das informações. O serviço Vasco x Flamengo e a análise pré-jogo são entregas distintas, sem repetição de conteúdo.
 
@@ -1262,3 +1262,15 @@ A pedido do editor, esta seção atualiza a programação corrente e prevalece s
 - **Ficha de pesquisa e apuração:** [[2026-10-29 - Pré-jogo Vasco x Flamengo - pesquisa e apuração]].
 - **Ângulo:** o empate do Palmeiras com o Santos abriu ao Flamengo a oportunidade de passar de liderança compartilhada a vantagem de três pontos; a análise também aborda os desafios defensivos do Rubro-Negro, a suspensão de Carrascal e os objetivos do Vasco.
 - **Registro:** matéria analítica publicada, distinta do serviço “onde assistir”, já registrado no painel.
+
+
+## Reorganização editorial — sexta-feira, 30/10/2026
+
+### Pauta transferida de 29/10
+- **Futuro de Leonardo Jardim e José Boto.**
+- **Estado:** pendente de apuração; transferida por solicitação do editor de 29/10 para 30/10.
+- **Foco:** apurar os bastidores sobre a continuidade de Leonardo Jardim e José Boto no Flamengo.
+- **Critério editorial:** separar fatos confirmados, relatos atribuídos e especulações; não tratar como oficial qualquer decisão que o clube não tenha confirmado.
+- **Próximo passo:** atualizar a apuração com informações atuais antes de definir tese e redigir.
+
+**Registro de fluxo:** a transferência altera a data da pauta, sem cancelá-la. A programação esportiva já prevista para 30/10 permanece válida. A sincronização do vault local do Obsidian não foi verificada.
