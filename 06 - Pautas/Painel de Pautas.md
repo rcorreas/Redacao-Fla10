@@ -1235,3 +1235,9 @@ A pedido do editor, esta seção atualiza a programação corrente e prevalece s
 - **URL pública:** https://fla10.news/noticias/vasco-x-flamengo-onde-assistir-ao-vivo-horario-provaveis-escalacoes-e-arbitragem---tudo-sobre-o-jogo-valido-pela-33-rodada-do-brasileirao
 - **Ficha editorial:** [[2026-10-28 - Vasco x Flamengo - onde assistir Brasileirão]].
 - **Registro:** serviço de jogo publicado; a pauta analítica pré-jogo Vasco x Flamengo segue como entrega separada.
+
+## Publicação confirmada — 2026-10-29
+- **Matéria:** A defesa pode decidir o Brasileirão? Palmeiras ganha força com regularidade, enquanto Flamengo aposta no equilíbrio
+- **Status:** publicada
+- **URL:** https://fla10.news/noticias/a-defesa-pode-decidir-o-brasileirao-palmeiras-ganha-forca-com-regularidade-enquanto-flamengo-aposta-no-equilibrio
+- **Formato:** análise jornalística
