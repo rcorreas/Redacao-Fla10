@@ -1,9 +1,9 @@
 ---
 data: 2026-10-28
 formato: notícia de atualização jurídica
-status: rascunho produzido
+status: publicado
 proveniencia: producao interna colaborativa
-publicacao_confirmada: false
+publicacao_confirmada: true
 ---
 
 # Conmebol rejeita protesto do Flamengo no caso Marcos Rojo e mantém Estudiantes na final
@@ -39,8 +39,13 @@ A Comissão Disciplinar da Conmebol rejeitou em 28 de outubro de 2026 o protesto
 - **Palavra-chave principal:** caso Marcos Rojo
 - **Palavras-chave secundárias:** Flamengo, Conmebol, Estudiantes, inscrição de Marcos Rojo, Libertadores 2026, TAS, Palmeiras
 
+## Publicação confirmada
+- **URL pública:** https://fla10.news/noticias/conmebol-rejeita-protesto-do-flamengo-no-caso-marcos-rojo-e-mantem-estudiantes-na-final
+- **Data:** 28/10/2026
+- **Status:** publicada, conforme confirmação do editor.
+
 ## Limites de apuração
 - A resolução disciplinar foi divulgada sem fundamentação; não atribuir à Comissão argumentos que não constam do documento.
 - Diferenciar a decisão da Comissão Disciplinar da Conmebol do procedimento no TAS/CAS.
 - Não afirmar que uma eventual decisão do TAS/CAS mudará automaticamente o placar ou a classificação da semifinal.
-- A matéria é um rascunho produzido para revisão e não está publicada.
+- A versão publicada pode conter ajustes editoriais, imagens e links internos que não estão reproduzidos integralmente nesta ficha.
