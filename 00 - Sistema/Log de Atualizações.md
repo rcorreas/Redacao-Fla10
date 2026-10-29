@@ -822,3 +822,12 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - **Estado:** apuração concluída; redação/publicação ainda dependem de autorização do editor e conferência das escalações oficiais.
 - Fontes principais: CBF, Flamengo, ge e UOL; fonte secundária para o retrospecto entre os treinadores: Lance.
 - Alterações feitas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
+
+
+## 2026-10-29 — Publicação confirmada: pré-jogo Vasco x Flamengo
+- O editor confirmou a publicação de **“Vasco x Flamengo: tropeço do Palmeiras aumenta o peso dos três pontos na luta pelo título”**.
+- **URL pública:** https://fla10.news/noticias/vasco-x-flamengo-tropeco-do-palmeiras-aumenta-o-peso-dos-tres-pontos-na-luta-pelo-titulo
+- Criada a ficha editorial `06 - Pautas/2026-10-29 - Pré-jogo Vasco x Flamengo.md` com status publicado, título, URL, ângulo e pacote SEO.
+- Atualizado o Painel de Pautas para registrar a publicação e encerrar a entrega analítica.
+- A matéria enfatiza a oportunidade de o Flamengo abrir três pontos sobre o Palmeiras após o empate com o Santos e diferencia a análise pré-jogo do serviço “onde assistir”.
+- Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
