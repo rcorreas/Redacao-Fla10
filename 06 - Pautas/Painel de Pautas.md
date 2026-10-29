@@ -1241,3 +1241,14 @@ A pedido do editor, esta seção atualiza a programação corrente e prevalece s
 - **Status:** publicada
 - **URL:** https://fla10.news/noticias/a-defesa-pode-decidir-o-brasileirao-palmeiras-ganha-forca-com-regularidade-enquanto-flamengo-aposta-no-equilibrio
 - **Formato:** análise jornalística
+
+
+## Publicação confirmada — Voz do Torcedor: Boteco Fla10 (29/10/2026)
+
+- **Título:** Hoje tem Vasco! Jardim não inventa e deuses do futebol, olho nele!
+- **Estado:** publicada, conforme confirmação do editor.
+- **Formato:** Voz do Torcedor — Boteco Fla10 News.
+- **Proveniência:** fonte externa.
+- **URL pública:** https://fla10.news/voz-torcedor/hoje-tem-vasco-jardim-nao-inventa-e-deuses-do-futebol-olho-nele-
+- **Ficha editorial:** [[2026-10-29 - Voz do Torcedor - Hoje tem Vasco Jardim não inventa]].
+- **Registro:** publicação concluída; não manter como pauta pendente.
