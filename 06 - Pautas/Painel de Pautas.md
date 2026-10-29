@@ -1254,10 +1254,11 @@ A pedido do editor, esta seção atualiza a programação corrente e prevalece s
 - **Registro:** publicação concluída; não manter como pauta pendente.
 
 
-## Apuração concluída — Pré-jogo Vasco x Flamengo (29/10/2026)
-- **Estado:** pesquisa e apuração concluídas; ficha pronta para orientar a redação, ainda sem publicação.
-- **Ficha editorial:** [[2026-10-29 - Pré-jogo Vasco x Flamengo - pesquisa e apuração]].
-- **Ângulo:** contraste entre a chance de o Flamengo abrir três pontos na liderança e a necessidade de o Vasco consolidar a reação e se afastar do Z-4.
-- **Fatos centrais:** Flamengo com 70 pontos após vencer o Atlético-MG por 3 a 2; Palmeiras com 69 após empatar com o Santos; Vasco com 38 pontos e na 13ª posição após vencer o Corinthians por 3 a 2.
-- **Pontos de atenção:** suspensão de Carrascal, dúvidas nas escalações, transições defensivas do Flamengo, impacto de Marino Hinestroza e possível desgaste do Vasco.
-- **Controle editorial:** manter separação da matéria de serviço já publicada; conferir escalações oficiais antes de redigir/publicar. A ficha contém fontes, limites e pacote editorial preliminar.
+## Publicação confirmada — Pré-jogo Vasco x Flamengo (29/10/2026)
+- **Título:** Vasco x Flamengo: tropeço do Palmeiras aumenta o peso dos três pontos na luta pelo título.
+- **Estado:** publicada em 29/10/2026, conforme confirmação do editor.
+- **URL pública:** https://fla10.news/noticias/vasco-x-flamengo-tropeco-do-palmeiras-aumenta-o-peso-dos-tres-pontos-na-luta-pelo-titulo
+- **Ficha editorial:** [[2026-10-29 - Pré-jogo Vasco x Flamengo]].
+- **Ficha de pesquisa e apuração:** [[2026-10-29 - Pré-jogo Vasco x Flamengo - pesquisa e apuração]].
+- **Ângulo:** o empate do Palmeiras com o Santos abriu ao Flamengo a oportunidade de passar de liderança compartilhada a vantagem de três pontos; a análise também aborda os desafios defensivos do Rubro-Negro, a suspensão de Carrascal e os objetivos do Vasco.
+- **Registro:** matéria analítica publicada, distinta do serviço “onde assistir”, já registrado no painel.
