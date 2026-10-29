@@ -812,3 +812,13 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Atualizado o Painel de Pautas para registrar a publicação e encerrar a entrega.
 - Proveniência registrada como **fonte externa**, conforme a regra editorial para conteúdo de torcedor não produzido integralmente em colaboração.
 - Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
+
+
+## 2026-10-29 — Pesquisa e apuração: pré-jogo Vasco x Flamengo
+- Concluída a pesquisa para a pauta analítica pré-jogo Vasco x Flamengo, pela 33ª rodada do Brasileirão.
+- Criada a ficha `06 - Pautas/2026-10-29 - Pré-jogo Vasco x Flamengo - pesquisa e apuração.md`, com fontes, fatos confirmados, escalações prováveis, questões de análise, cautelas e pacote editorial preliminar.
+- Ângulo de trabalho: o Flamengo pode abrir três pontos sobre o Palmeiras; o Vasco busca consolidar a reação e aumentar a distância para a zona de rebaixamento.
+- Diferencial em relação à matéria de serviço já publicada: contexto competitivo, fatores que podem influenciar a partida e questões táticas a observar, sem duplicar ficha técnica, transmissão e escalações.
+- **Estado:** apuração concluída; redação/publicação ainda dependem de autorização do editor e conferência das escalações oficiais.
+- Fontes principais: CBF, Flamengo, ge e UOL; fonte secundária para o retrospecto entre os treinadores: Lance.
+- Alterações feitas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
