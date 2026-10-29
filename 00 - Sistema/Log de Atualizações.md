@@ -831,3 +831,11 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Atualizado o Painel de Pautas para registrar a publicação e encerrar a entrega analítica.
 - A matéria enfatiza a oportunidade de o Flamengo abrir três pontos sobre o Palmeiras após o empate com o Santos e diferencia a análise pré-jogo do serviço “onde assistir”.
 - Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-10-29 — Transferência de pauta: futuro de Leonardo Jardim e José Boto
+- Por solicitação do editor, a pauta **“Futuro de Leonardo Jardim e José Boto”** foi retirada da lista de pendências de hoje (29/10) e transferida para sexta-feira, 30/10/2026.
+- O foco permanece na apuração de bastidores sobre a continuidade dos dois no Flamengo.
+- Mantida a exigência de separar fatos confirmados, relatos atribuídos e especulações, sem apresentar como oficial qualquer decisão não confirmada pelo clube.
+- Atualizado o arquivo 06 - Pautas/Painel de Pautas.md no GitHub, branch main, com a nova data e o estado pendente de apuração.
+- A sincronização do vault local do Obsidian não foi verificada.
