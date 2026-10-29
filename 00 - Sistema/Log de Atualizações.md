@@ -777,3 +777,12 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Atualizado o Painel de Pautas com a URL definitiva e a retirada da pauta das pendências de produção.
 - A matéria registra a rejeição do protesto e das medidas cautelares pela Comissão Disciplinar da Conmebol e distingue essa decisão do procedimento no TAS/CAS.
 - Alterações feitas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
+
+
+## 2026-10-28 — Publicação confirmada: Flamengo goleia o Araruama
+- O editor confirmou a publicação de **“Flamengo goleia o Araruama por 7 a 0 na estreia do Carioca Feminino”**.
+- **URL pública:** https://fla10.news/noticias/flamengo-goleia-o-araruama-por-7-a-0-na-estreia-do-carioca-feminino
+- Atualizada a ficha editorial `06 - Pautas/2026-10-28 - Flamengo x Araruama - pós-jogo futebol feminino.md` com o status publicado, a URL definitiva, o resultado e os gols.
+- Atualizado o Painel de Pautas para registrar a publicação e retirar o pós-jogo da lista de pendências de 28/10.
+- Resultado registrado: Flamengo 7 x 0 Araruama; gols de Leane, Campos (2), Ana Papel, Yasmim Cardozo, Thalita e Laura Cardoso.
+- Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; esta operação não altera o conteúdo do portal.
