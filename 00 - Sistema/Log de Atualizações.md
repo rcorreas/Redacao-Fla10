@@ -803,3 +803,12 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - O responsável editorial confirmou a publicação de “A defesa pode decidir o Brasileirão? Palmeiras ganha força com regularidade, enquanto Flamengo aposta no equilíbrio”.
 - URL pública registrada: https://fla10.news/noticias/a-defesa-pode-decidir-o-brasileirao-palmeiras-ganha-forca-com-regularidade-enquanto-flamengo-aposta-no-equilibrio.
 - Painel de Pautas atualizado para registrar a matéria como publicada.
+
+
+## 2026-10-29 — Publicação confirmada: Voz do Torcedor — Boteco Fla10
+- O editor confirmou a publicação de **“Hoje tem Vasco! Jardim não inventa e deuses do futebol, olho nele!”**.
+- **URL pública:** https://fla10.news/voz-torcedor/hoje-tem-vasco-jardim-nao-inventa-e-deuses-do-futebol-olho-nele-
+- Criada a ficha editorial `06 - Pautas/2026-10-29 - Voz do Torcedor - Hoje tem Vasco Jardim não inventa.md` com status publicado, formato, proveniência e pacote SEO.
+- Atualizado o Painel de Pautas para registrar a publicação e encerrar a entrega.
+- Proveniência registrada como **fonte externa**, conforme a regra editorial para conteúdo de torcedor não produzido integralmente em colaboração.
+- Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
