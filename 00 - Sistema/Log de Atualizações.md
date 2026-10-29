@@ -768,3 +768,12 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Base factual: decisão oficial da Comissão Disciplinar da Conmebol de 28/10; o protesto e as medidas cautelares foram rejeitados, enquanto a possibilidade de recurso interno e o procedimento no TAS/CAS devem ser descritos separadamente.
 - Atualizado o Painel de Pautas para incluir a nova entrega em 28/10.
 - Alterações feitas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
+
+
+## 2026-10-28 — Publicação confirmada: caso Marcos Rojo
+- O editor confirmou a publicação de **“Conmebol rejeita protesto do Flamengo no caso Marcos Rojo e mantém Estudiantes na final”**.
+- **URL pública:** https://fla10.news/noticias/conmebol-rejeita-protesto-do-flamengo-no-caso-marcos-rojo-e-mantem-estudiantes-na-final
+- Atualizada a ficha editorial para status publicado e `publicacao_confirmada: true`.
+- Atualizado o Painel de Pautas com a URL definitiva e a retirada da pauta das pendências de produção.
+- A matéria registra a rejeição do protesto e das medidas cautelares pela Comissão Disciplinar da Conmebol e distingue essa decisão do procedimento no TAS/CAS.
+- Alterações feitas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
