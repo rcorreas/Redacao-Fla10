@@ -848,3 +848,12 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Atualizado o Painel de Pautas para registrar a publicação e encerrar a entrega de pós-jogo.
 - Resultado registrado: Vasco 1 x 4 Flamengo; dois gols de Pedro, dois de Samuel Lino e um de Alan Lescano para o Vasco.
 - Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-10-29 — Publicação confirmada: Voz do Torcedor — Sr. Bacalhau da Gama
+- O editor confirmou a publicação de **“O SR. BACALHAU DA GAMA VIROU PETISCO DO MENGÃO: QUATRO GARFADAS E NENHUMA ESPINHA!”**.
+- **URL pública:** https://fla10.news/voz-torcedor/o-sr-bacalhau-da-gama-virou-petisco-do-mengao-quatro-garfadas-e-nenhuma-espinha-
+- Criada a ficha editorial `06 - Pautas/2026-10-29 - Voz do Torcedor - Sr Bacalhau da Gama.md` com status publicado, proveniência e pacote SEO.
+- Atualizado o Painel de Pautas para registrar a publicação.
+- Proveniência registrada como **fonte externa**, conforme a regra editorial para conteúdo de torcedor não produzido integralmente em colaboração.
+- Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
