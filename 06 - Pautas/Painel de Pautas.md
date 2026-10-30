@@ -1321,3 +1321,16 @@ A pedido do editor, esta seção atualiza a programação corrente e prevalece s
 - **Proveniência:** produção interna — crônica desenvolvida em colaboração.
 - **Síntese:** reflexão sobre o alívio da goleada, o reencontro de Pedro com os gols, a afirmação de Samuel Lino e a diferença entre recuperar o fôlego e resolver as dúvidas deixadas pela eliminação na Libertadores.
 - **Registro:** crônica publicada e pauta encerrada; permanece distinta do pós-jogo, da análise jornalística e do Raio-X Tático. A sincronização do vault local do Obsidian não foi verificada.
+
+
+## Publicação confirmada — Raio-X Tático: Vasco 1 x 4 Flamengo (30/10/2026)
+
+### Raio-X Tático: Flamengo explora os lados, encontra Pedro e Samuel Lino e transforma superioridade em goleada sobre o Vasco
+- **Estado:** publicada em 30/10/2026, conforme confirmação do editor.
+- **URL pública:** https://fla10.news/raio-x/raio-x-tatico-flamengo-explora-os-lados-encontra-pedro-e-samuel-lino-e-transforma-superioridade-em-goleada-sobre-o-vasco
+- **Ficha editorial:** [[2026-10-30 - Raio-X Tático - Flamengo x Vasco]].
+- **Formato:** análise tática pós-jogo, com leitura das estruturas, funções, progressão, pressão, transições, ajustes e substituições.
+- **Síntese:** Flamengo iniciou em 4-3-3, explorou a articulação de Arrascaeta, a profundidade de Varela, a participação de Pedro e as infiltrações de Samuel Lino. A matéria também examina o gol de Lescano e os espaços concedidos pelo Flamengo quando o Vasco superava a pressão inicial, a entrada de Paquetá no intervalo e a condução de Léo Ortiz no lance do quarto gol.
+- **Proveniência:** produção interna — pesquisa, análise tática, redação e revisão em colaboração.
+- **Controle editorial:** peça independente do pós-jogo factual, da análise jornalística e da crônica Depois do Apito. Pauta encerrada.
+- Prompts editoriais dos campinhos táticos de Flamengo e Vasco foram preparados como material visual complementar; as setas representam interpretação tática, não rastreamento físico.
