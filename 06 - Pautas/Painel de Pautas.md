@@ -1346,3 +1346,15 @@ A pedido do editor, esta seção atualiza a programação corrente e prevalece s
 - **Transmissão:** Xsports e FlamengoTV.
 - **Registro editorial:** serviço publicado com seção “Onde assistir”, “Resumo para IA” e pacote SEO. Marcadores de fim de parágrafo `<br><br>` e marcadores após subtítulos internos `</h3><br>` aplicados na versão final.
 - **Estado da pauta:** encerrada; não manter como pendência de produção.
+
+
+## Publicação confirmada — Samuel Lino: ascensão e disputa pelo melhor jogador do Brasil (30/10/2026)
+
+- **Estado:** publicada em 30/10/2026, conforme confirmação do editor.
+- **Título:** *Samuel Lino muda de patamar no Flamengo e entra na disputa pelo posto de melhor jogador do Brasil*.
+- **URL pública:** https://fla10.news/noticias/samuel-lino-muda-de-patamar-no-flamengo-e-entra-na-disputa-pelo-posto-de-melhor-jogador-do-brasil
+- **Ficha editorial:** [[2026-10-30 - Samuel Lino - ascensão e melhor jogador do Brasil]].
+- **Formato:** reportagem de análise sobre evolução individual, mudança de função com Leonardo Jardim, produção estatística e comparação com outros protagonistas do Brasileirão.
+- **Síntese:** a matéria registra a evolução de Lino em relação a 2025, seus números em 2026, a contribuição na criação e na recomposição, atuações recentes e a discussão sobre o melhor jogador da temporada. A conclusão o coloca entre os candidatos, sem afirmar superioridade incontestável.
+- **Proveniência:** produção interna — pesquisa, apuração, análise e redação em colaboração.
+- **Registro:** pauta encerrada; não manter como pendência. A sincronização do vault local do Obsidian não foi verificada.
