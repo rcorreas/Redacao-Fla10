@@ -888,3 +888,14 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Proveniência registrada como **produção interna — crônica desenvolvida em colaboração**.
 - A crônica é uma peça interpretativa independente do pós-jogo factual, da análise jornalística e do Raio-X Tático sobre Vasco 1 x 4 Flamengo.
 - Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-10-30 — Publicação confirmada: Raio-X Tático — Vasco 1 x 4 Flamengo
+- O editor confirmou a publicação de **“Raio-X Tático: Flamengo explora os lados, encontra Pedro e Samuel Lino e transforma superioridade em goleada sobre o Vasco”**.
+- **URL pública:** https://fla10.news/raio-x/raio-x-tatico-flamengo-explora-os-lados-encontra-pedro-e-samuel-lino-e-transforma-superioridade-em-goleada-sobre-o-vasco
+- Criada a ficha editorial `06 - Pautas/2026-10-30 - Raio-X Tático - Flamengo x Vasco.md` com status publicado, síntese, estruturas táticas, substituições, proveniência e controle editorial.
+- Atualizado o Painel de Pautas para registrar a publicação e encerrar a entrega.
+- A matéria analisa o 4-3-3 inicial do Flamengo, a articulação de Arrascaeta, a profundidade de Varela, a participação de Pedro e Samuel Lino, a mudança com a entrada de Paquetá e os espaços defensivos explorados pelo Vasco.
+- Preparados prompts dos campinhos táticos das duas equipes como material visual complementar; as setas são interpretações editoriais, não dados de rastreamento.
+- A publicação é distinta do pós-jogo factual, da análise jornalística e da crônica Depois do Apito sobre Vasco 1 x 4 Flamengo.
+- Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
