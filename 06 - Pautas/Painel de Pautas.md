@@ -1284,3 +1284,12 @@ A pedido do editor, esta seção atualiza a programação corrente e prevalece s
 - **Resultado registrado:** Vasco 1 x 4 Flamengo; Pedro e Samuel Lino marcaram duas vezes cada, e Alan Lescano fez o gol vascaíno.
 - **Síntese:** notícia imediata do clássico, com impacto na liderança do Brasileirão; análise jornalística, Raio-X Tático e crônica Depois do Apito permanecem como entregas distintas, caso ainda confirmadas pelo editor.
 - **Registro:** pauta de pós-jogo encerrada; não manter como pendência de produção. A atualização arquiva a publicação no vault e não altera o conteúdo do portal.
+
+
+## Publicação confirmada — Voz do Torcedor: Sr. Bacalhau da Gama (29/10/2026)
+- O editor confirmou a publicação de **“O SR. BACALHAU DA GAMA VIROU PETISCO DO MENGÃO: QUATRO GARFADAS E NENHUMA ESPINHA!”**.
+- **URL pública:** https://fla10.news/voz-torcedor/o-sr-bacalhau-da-gama-virou-petisco-do-mengao-quatro-garfadas-e-nenhuma-espinha-
+- Criada a ficha editorial `06 - Pautas/2026-10-29 - Voz do Torcedor - Sr Bacalhau da Gama.md` com status publicado, proveniência, contexto e pacote SEO.
+- Seção: Voz do Torcedor — Boteco Fla10 News; autor/personagem: Cadu Marques.
+- Proveniência registrada como **fonte externa**, conforme a regra editorial para conteúdo de torcedor não produzido integralmente em colaboração.
+- Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada.
