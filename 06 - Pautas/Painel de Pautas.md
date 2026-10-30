@@ -1274,3 +1274,13 @@ A pedido do editor, esta seção atualiza a programação corrente e prevalece s
 - **Próximo passo:** atualizar a apuração com informações atuais antes de definir tese e redigir.
 
 **Registro de fluxo:** a transferência altera a data da pauta, sem cancelá-la. A programação esportiva já prevista para 30/10 permanece válida. A sincronização do vault local do Obsidian não foi verificada.
+
+
+## Publicação confirmada — Pós-jogo Vasco 1 x 4 Flamengo (29/10/2026)
+- **Estado:** publicada em 29/10/2026, conforme confirmação do editor.
+- **Título:** Flamengo goleia o Vasco por 4 a 1, amplia vantagem na liderança e dá passo importante rumo ao título brasileiro.
+- **URL pública:** https://fla10.news/noticias/flamengo-goleia-o-vasco-por-4-a-1-amplia-vantagem-na-lideranca-e-da-passo-importante-rumo-ao-titulo-brasileiro
+- **Ficha editorial:** [[2026-10-29 - Flamengo goleia o Vasco - pós-jogo]].
+- **Resultado registrado:** Vasco 1 x 4 Flamengo; Pedro e Samuel Lino marcaram duas vezes cada, e Alan Lescano fez o gol vascaíno.
+- **Síntese:** notícia imediata do clássico, com impacto na liderança do Brasileirão; análise jornalística, Raio-X Tático e crônica Depois do Apito permanecem como entregas distintas, caso ainda confirmadas pelo editor.
+- **Registro:** pauta de pós-jogo encerrada; não manter como pendência de produção. A atualização arquiva a publicação no vault e não altera o conteúdo do portal.
