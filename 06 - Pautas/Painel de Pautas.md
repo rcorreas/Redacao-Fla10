@@ -1301,3 +1301,12 @@ A pedido do editor, esta seção atualiza a programação corrente e prevalece s
 - **Formato:** análise jornalística pós-jogo; produção interna, com pesquisa, apuração, análise e redação em colaboração.
 - **Resumo:** a vitória por 4 a 1 sobre o Vasco levou o Flamengo a 73 pontos e abriu três de vantagem sobre o Palmeiras. Pedro e Samuel Lino marcaram dois gols cada. A análise destaca a eficiência ofensiva, o fim do jejum de Pedro e o protagonismo de Lino, mas também registra a perda de controle após o terceiro gol e as oportunidades concedidas ao Vasco.
 - **Estado:** publicada; pauta encerrada. A análise é distinta do pós-jogo factual, do Raio-X Tático e da crônica Depois do Apito.
+
+
+## Publicação confirmada — Vídeo: Vasco 1 x 4 Flamengo — os gols da partida (30/10/2026)
+- **Estado:** publicado em 30/10/2026, conforme confirmação do editor.
+- **Seção:** Vídeos.
+- **URL pública:** https://fla10.news/videos/vasco-1-x-4-flamengo---os-gols-da-partida
+- **Ficha editorial:** [[2026-10-30 - Vídeo - Vasco 1 x 4 Flamengo - gols]].
+- **Proveniência:** **fonte externa**, conforme a regra editorial para vídeos e conteúdos não produzidos integralmente em colaboração.
+- **Registro:** vídeo complementar à cobertura de Vasco 1 x 4 Flamengo; publicação encerrada e não manter como pauta pendente.
