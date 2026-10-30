@@ -878,3 +878,13 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Proveniência classificada como **fonte externa**, conforme a regra permanente para vídeos e conteúdos não produzidos integralmente em colaboração.
 - O registro audiovisual é complementar ao pós-jogo e à análise jornalística de Vasco 1 x 4 Flamengo, mantidos como peças distintas.
 - Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; esta operação não altera o conteúdo do portal.
+
+
+## 2026-10-30 — Publicação confirmada: Depois do Apito — Vasco 1 x 4 Flamengo
+- O editor confirmou a publicação da crônica **“Depois do Apito: Quatro gols não apagam a memória, mas devolvem ao Flamengo o direito de respirar”**, assinada pela persona editorial Miguel Sampaio.
+- **URL pública:** https://fla10.news/colunas/quatro-gols-nao-apagam-a-memoria-mas-devolvem-ao-flamengo-o-direito-de-respirar
+- Criada a ficha editorial `06 - Pautas/2026-10-30 - Depois do Apito - Flamengo goleia Vasco e respira.md` com status publicado, resumo, proveniência e pacote SEO.
+- Atualizado o Painel de Pautas para registrar a publicação e encerrar a crônica.
+- Proveniência registrada como **produção interna — crônica desenvolvida em colaboração**.
+- A crônica é uma peça interpretativa independente do pós-jogo factual, da análise jornalística e do Raio-X Tático sobre Vasco 1 x 4 Flamengo.
+- Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
