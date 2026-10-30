@@ -839,3 +839,12 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Mantida a exigência de separar fatos confirmados, relatos atribuídos e especulações, sem apresentar como oficial qualquer decisão não confirmada pelo clube.
 - Atualizado o arquivo 06 - Pautas/Painel de Pautas.md no GitHub, branch main, com a nova data e o estado pendente de apuração.
 - A sincronização do vault local do Obsidian não foi verificada.
+
+
+## 2026-10-29 — Publicação confirmada: pós-jogo Vasco 1 x 4 Flamengo
+- O editor confirmou a publicação de **“Flamengo goleia o Vasco por 4 a 1, amplia vantagem na liderança e dá passo importante rumo ao título brasileiro”**.
+- **URL pública:** https://fla10.news/noticias/flamengo-goleia-o-vasco-por-4-a-1-amplia-vantagem-na-lideranca-e-da-passo-importante-rumo-ao-titulo-brasileiro
+- Criada a ficha editorial `06 - Pautas/2026-10-29 - Flamengo goleia o Vasco - pós-jogo.md` com status publicado, URL, resultado, resumo para IA e pacote SEO.
+- Atualizado o Painel de Pautas para registrar a publicação e encerrar a entrega de pós-jogo.
+- Resultado registrado: Vasco 1 x 4 Flamengo; dois gols de Pedro, dois de Samuel Lino e um de Alan Lescano para o Vasco.
+- Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
