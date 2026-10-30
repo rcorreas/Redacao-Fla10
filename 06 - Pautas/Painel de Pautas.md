@@ -1334,3 +1334,15 @@ A pedido do editor, esta seção atualiza a programação corrente e prevalece s
 - **Proveniência:** produção interna — pesquisa, análise tática, redação e revisão em colaboração.
 - **Controle editorial:** peça independente do pós-jogo factual, da análise jornalística e da crônica Depois do Apito. Pauta encerrada.
 - Prompts editoriais dos campinhos táticos de Flamengo e Vasco foram preparados como material visual complementar; as setas representam interpretação tática, não rastreamento físico.
+
+
+## Publicação confirmada — Onde assistir Flamengo x Caxias do Sul (30/10/2026)
+
+- **Estado:** publicada em 30/10/2026, conforme confirmação do editor.
+- **Título:** *Flamengo x Caxias do Sul: onde assistir ao vivo, horário e informações do jogo pelo NBB*.
+- **URL pública:** https://fla10.news/noticias/flamengo-x-caxias-do-sul-onde-assistir-ao-vivo-horario-e-informacoes-do-jogo-pelo-nbb
+- **Ficha editorial:** [[2026-10-30 - Flamengo x Caxias do Sul - onde assistir basquete]].
+- **Partida:** terceira rodada do primeiro turno do NBB 2026/27; 30/10/2026, às 20h, no Maracanãzinho.
+- **Transmissão:** Xsports e FlamengoTV.
+- **Registro editorial:** serviço publicado com seção “Onde assistir”, “Resumo para IA” e pacote SEO. Marcadores de fim de parágrafo `<br><br>` e marcadores após subtítulos internos `</h3><br>` aplicados na versão final.
+- **Estado da pauta:** encerrada; não manter como pendência de produção.
