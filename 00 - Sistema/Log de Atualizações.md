@@ -868,3 +868,13 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Criada a ficha editorial `06 - Pautas/2026-10-29 - Análise jornalística - Vasco x Flamengo.md` com status publicado, URL, tese, resumo e proveniência.
 - Atualizado o Painel de Pautas para registrar a publicação e encerrar a análise jornalística.
 - Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-10-30 — Publicação confirmada: vídeo dos gols de Vasco 1 x 4 Flamengo
+- O editor confirmou a publicação do vídeo **“Vasco 1 x 4 Flamengo — os gols da partida”**, na seção Vídeos.
+- **URL pública:** https://fla10.news/videos/vasco-1-x-4-flamengo---os-gols-da-partida
+- Criada a ficha editorial `06 - Pautas/2026-10-30 - Vídeo - Vasco 1 x 4 Flamengo - gols.md`, com status publicado, URL, contexto da partida e proveniência.
+- Atualizado o Painel de Pautas para registrar a publicação e encerrar a entrega.
+- Proveniência classificada como **fonte externa**, conforme a regra permanente para vídeos e conteúdos não produzidos integralmente em colaboração.
+- O registro audiovisual é complementar ao pós-jogo e à análise jornalística de Vasco 1 x 4 Flamengo, mantidos como peças distintas.
+- Alterações realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; esta operação não altera o conteúdo do portal.
