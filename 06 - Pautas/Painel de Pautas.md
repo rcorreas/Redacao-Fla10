@@ -1310,3 +1310,14 @@ A pedido do editor, esta seção atualiza a programação corrente e prevalece s
 - **Ficha editorial:** [[2026-10-30 - Vídeo - Vasco 1 x 4 Flamengo - gols]].
 - **Proveniência:** **fonte externa**, conforme a regra editorial para vídeos e conteúdos não produzidos integralmente em colaboração.
 - **Registro:** vídeo complementar à cobertura de Vasco 1 x 4 Flamengo; publicação encerrada e não manter como pauta pendente.
+
+
+## Publicação confirmada — Depois do Apito: Vasco 1 x 4 Flamengo (30/10/2026)
+- **Estado:** publicada em 30/10/2026, conforme confirmação do editor.
+- **Título:** *Depois do Apito: Quatro gols não apagam a memória, mas devolvem ao Flamengo o direito de respirar*.
+- **URL pública:** https://fla10.news/colunas/quatro-gols-nao-apagam-a-memoria-mas-devolvem-ao-flamengo-o-direito-de-respirar
+- **Ficha editorial:** [[2026-10-30 - Depois do Apito - Flamengo goleia Vasco e respira]].
+- **Autoria:** Miguel Sampaio, persona editorial da coluna.
+- **Proveniência:** produção interna — crônica desenvolvida em colaboração.
+- **Síntese:** reflexão sobre o alívio da goleada, o reencontro de Pedro com os gols, a afirmação de Samuel Lino e a diferença entre recuperar o fôlego e resolver as dúvidas deixadas pela eliminação na Libertadores.
+- **Registro:** crônica publicada e pauta encerrada; permanece distinta do pós-jogo, da análise jornalística e do Raio-X Tático. A sincronização do vault local do Obsidian não foi verificada.
