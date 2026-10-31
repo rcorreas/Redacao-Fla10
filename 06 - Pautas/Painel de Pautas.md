@@ -1478,3 +1478,13 @@ As três frentes abaixo ficam reservadas na programação de amanhã. **Os conte
 - **Apuração após o jogo:** placar, parciais, estatísticas oficiais, destaques individuais e coletivos, situação na competição e próximo compromisso. Declarações somente com fonte verificável.
 
 **Controle de fluxo:** as duas pautas foram criadas no GitHub em 30/10/2026. Ambas permanecem com produção pendente; a ficha de serviço exige reconfirmação da transmissão antes da publicação.
+
+## Publicação confirmada — Pós-jogo Flamengo x Caxias do Sul (30/10/2026)
+
+- **Estado:** publicada em 30/10/2026, conforme confirmação do editor.
+- **Título:** *Flamengo domina o terceiro quarto, vence o Caxias do Sul e conquista segunda vitória seguida no NBB*.
+- **URL pública:** https://fla10.news/noticias/flamengo-domina-o-terceiro-quarto-vence-o-caxias-do-sul-e-conquista-segunda-vitoria-seguida-no-nbb
+- **Ficha editorial:** [[2026-10-30 - Flamengo x Caxias do Sul - pos-jogo NBB]].
+- **Resultado:** Flamengo 77 x 59 Caxias do Sul, no Maracanãzinho, pelo NBB CAIXA 2026/2027.
+- **Síntese:** o Flamengo decidiu a partida no terceiro quarto, vencido por 28 a 9. Yago liderou a pontuação rubro-negra, com 14 pontos e seis assistências. A equipe chegou à segunda vitória consecutiva na competição.
+- **Registro:** pauta encerrada e retirada das pendências.
