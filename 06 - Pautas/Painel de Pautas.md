@@ -1705,3 +1705,39 @@ A documentação financeira permite medir receitas geradas por diferentes ativid
 - **Estado:** **cancelada em 31/10/2026 por decisão do editor; não produzir nem publicar.**
 - **Registro:** a pauta havia sido incluída na programação e recebeu apuração inicial. O editor decidiu cancelar a produção.
 - **Preservação:** as informações e fontes reunidas permanecem no histórico desta seção apenas como referência de pesquisa; não representam autorização para retomar a pauta.
+
+
+#### Dossiê de pesquisa documental — aprofundamento em 31/10/2026
+
+**7. Poder de compra e barreiras à conversão**
+- Datafolha, recorte de renda publicado pelo ge em 30/11/2024: 59% dos entrevistados que se declararam flamenguistas informaram renda mensal de até dois salários mínimos vigentes à época (32% até um salário mínimo e 27% entre um e dois). Apenas 6% estavam nas faixas acima de cinco salários mínimos. O dado é antigo e não deve ser apresentado como retrato de renda em 2026; serve para demonstrar que a base é socialmente heterogênea e que alcance não equivale a capacidade de consumo uniforme.
+- Não extrapolar percentuais de renda de 2024 para os 22% de preferência nacional medidos pelo Datafolha em 2026: pesquisas e recortes distintos, sem microdados que autorizem cruzamento.
+- Fonte: https://ge.globo.com/pe/futebol/noticia/2024/11/30/datafolha-veja-preferencia-por-nivel-de-renda-das-15-maiores-torcidas-do-brasil.ghtml
+
+**8. Estádio: receita, preço e acesso**
+- No primeiro turno do Brasileirão 2026, levantamento do ge registra Flamengo com R$ 37.794.106 de renda bruta em oito jogos como mandante, média de R$ 4.724.263 por partida; 456.335 ingressos vendidos e ticket médio de R$ 82,82, o maior entre os 20 clubes da Série A naquele recorte.
+- A tabela do levantamento aponta média de 57.042 pagantes por jogo (456.335 ÷ 8). Há uma inconsistência interna no texto de abertura da mesma matéria, que menciona 53,7 mil. Usar o total e a tabela, e registrar a divergência; não repetir 53,7 mil sem esclarecer.
+- O dado sustenta duas leituras simultâneas: enorme capacidade de mobilização e monetização presencial; preço médio elevado que merece ser investigado como possível barreira de acesso para parte da torcida. Não concluir que o preço afastou determinado número de pessoas sem dados de demanda, ocupação e renda dos compradores.
+- Fonte: https://ge.globo.com/google/amp/gato-mestre/noticia/2026/07/24/flamengo-domina-rankings-de-publico-e-renda-no-primeiro-turno-do-brasileiro-2026-veja-balanco.ghtml
+
+**9. Mercado de produtos oficiais, pirataria e licenciamento**
+- Pesquisa encomendada pela ÁPICE e realizada pelo IEMI, com mais de 2 mil entrevistados em todo o país, estimou que 173 milhões de itens esportivos falsificados foram vendidos no Brasil em 2023, aproximadamente 30% das mais de 580 milhões de unidades comercializadas. A entidade reportou R$ 8,7 bilhões gastos pelos consumidores em itens não originais e estimativa de perdas de vendas de R$ 22 bilhões para o mercado esportivo.
+- O levantamento inclui categorias como óculos, tênis, camisetas de times e vestuário esportivo; não é uma estimativa exclusiva de camisas, futebol ou Flamengo. A ÁPICE representa empresas da indústria e comércio esportivo, portanto a origem institucional deve ser explicitada.
+- O site de licenciamento do Flamengo explica que royalties são percentuais definidos em contrato com licenciados e que parte da receita das vendas oficiais retorna ao clube. Isso ajuda a explicar o mecanismo, mas não revela volume de unidades, ticket médio, margem, número de compradores únicos ou distribuição regional.
+- Pergunta central para o clube: quais são vendas e royalties por categoria, região e canal; quantos produtos oficiais foram vendidos; qual a diferença entre consumidores únicos e transações; que ações são feitas para ampliar acesso e combater falsificação?
+- Fontes: https://www.apicebrasil.org.br/apice-lanca-estudo-sobre-o-consumo-de-artigos-esportivos-piratas-no-brasil ; https://www.lojasoficiaisdoflamengo.com.br/institucional/produtos-licenciados
+
+**10. Patrocínio: a régua de avaliação está mudando**
+- Reportagem do Propmark de 19/10/2026, com entrevistas a executivos de marketing esportivo, registra que marcas passaram a cobrar mensuração, dados, ativação, relacionamento e geração de negócios, em vez de considerar apenas exposição de logotipo. O texto cita 164 marcas nos uniformes dos clubes da Série A em 2025, alta de 24% ante 2024, e taxa de permanência de patrocinadores de 55%, segundo IBOPE Repucom.
+- Esse contexto reforça a importância de obter dados de conversão, brand lift, intenção de compra e vendas incrementais das parcerias do Flamengo. Métricas de exposição e alcance são indicadores intermediários, não prova de retorno comercial.
+- O próprio presidente Bap reconheceu, em entrevista reproduzida pelo ge em março de 2026, que a audiência é uma variável, mas que há trabalho e outras variáveis por trás da precificação dos patrocínios. Tratar como declaração institucional, não como auditoria do processo.
+- Fonte: https://propmark.com.br/mercado/exposicao-das-marcas-ja-nao-e-mais-suficiente-em-patrocinios-esportivos/ ; https://ge.globo.com/futebol/times/flamengo/noticia/2026/03/28/veja-quanto-vale-o-uniforme-do-flamengo-apos-acordo-com-novo-patrocinador.ghtml
+
+**11. Perguntas adicionais para apuração**
+- Flamengo: disponibilizar dados de bilheteria e preço médio por setor/jogo, ocupação, perfil geográfico e socioeconômico dos compradores (em forma agregada e anonimizada), política de meia-entrada/descontos e estudos de demanda; esclarecer a divergência de média de público na matéria do ge se houver dado oficial diferente.
+- Flamengo/licenciados: número de unidades oficiais vendidas, receita de royalties por categoria e região, número de consumidores únicos, ticket médio e evolução de canais físicos/digitais; dados sobre combate à pirataria.
+- Patrocinadores: separar exposição e alcance de indicadores de negócio; apresentar métricas de lembrança, consideração, conversão, vendas incrementais, custo de aquisição e retenção, com período e metodologia.
+- Especialistas: como medir retorno em patrocínio esportivo sem reduzir valor de marca a equivalência publicitária; como preços e renda regional afetam a conversão da torcida em consumo.
+
+**Síntese provisória após esta rodada**
+A dimensão da torcida do Flamengo se transforma em ativos comerciais observáveis: bilheteria, contratos de patrocínio, royalties, audiência com participação contratual nos direitos de TV e iniciativas de relacionamento. Mas os dados públicos ainda não permitem calcular um valor econômico total da torcida nem atribuir causalmente a ela toda a receita. As lacunas mais relevantes são conversão em consumidores únicos, distribuição regional do consumo, elasticidade a preços, resultados incrementais de patrocínios e volume efetivo de produtos oficiais. A matéria deve apresentar a escala econômica já comprovada e fazer da falta de transparência/mensuração um eixo de investigação — sem transformar ausência de dados em acusação de má gestão.
