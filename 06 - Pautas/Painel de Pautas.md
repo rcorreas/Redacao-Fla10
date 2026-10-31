@@ -1465,3 +1465,16 @@ As três frentes abaixo ficam reservadas na programação de amanhã. **Os conte
 - **Pós-jogo — Sesc RJ Flamengo x Batavo Mackenzie (Superliga Feminina):** produção após a partida.
 
 **Controle de fluxo:** as três pautas especiais estão incluídas na agenda, mas permanecem sem tema aprovado. A definição será feita individualmente, preservando a regra de debate editorial antes da produção de Reportagens Fla10.
+
+## Programação editorial — 31 de outubro e 1º de novembro de 2026
+
+### Sábado, 31/10/2026
+- **Onde assistir — Flamengo x Ceisc/União Corinthians (NBB):** pautada; produção pendente. [[2026-10-31 - Flamengo x Ceisc Uniao Corinthians - onde assistir NBB]].
+- **Partida:** domingo, 01/11/2026, às 11h, no Maracanãzinho, pelo NBB CAIXA 2026/2027.
+- **Apuração pendente:** reconfirmar transmissão, horário, local e contexto atualizado nos canais oficiais antes da publicação.
+
+### Domingo, 01/11/2026
+- **Pós-jogo — Flamengo x Ceisc/União Corinthians (NBB):** pautada; produção após a partida. [[2026-11-01 - Flamengo x Ceisc Uniao Corinthians - pos-jogo NBB]].
+- **Apuração após o jogo:** placar, parciais, estatísticas oficiais, destaques individuais e coletivos, situação na competição e próximo compromisso. Declarações somente com fonte verificável.
+
+**Controle de fluxo:** as duas pautas foram criadas no GitHub em 30/10/2026. Ambas permanecem com produção pendente; a ficha de serviço exige reconfirmação da transmissão antes da publicação.
