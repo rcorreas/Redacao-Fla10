@@ -1395,3 +1395,49 @@ A pedido do editor, esta seção atualiza a programação corrente e prevalece s
 - **Transmissão:** SporTV 2.
 - **Conteúdo:** serviço com contexto das equipes, ficha técnica, Resumo para IA e pacote SEO.
 - **Registro:** pauta encerrada e retirada das pendências. A sincronização do vault local do Obsidian não foi verificada.
+
+
+## Agenda — Sesc RJ Flamengo | primeiro turno da Superliga Feminina 2026/2027
+
+**Programação registrada a partir da agenda fornecida pelo editor em 30/10/2026.** Os serviços “onde assistir” foram programados para a véspera de cada jogo; os pós-jogos, para a data da partida. Horários, locais e emissoras permanecem sujeitos à reconfirmação oficial antes da publicação.
+
+### 06/11/2026 — Sancor Londrina x Sesc RJ Flamengo
+- **05/11/2026 — Onde assistir:** pautada; produção pendente. [[2026-11-05 - Sancor Londrina x Sesc RJ Flamengo - onde assistir Superliga Feminina]].
+- **06/11/2026 — Pós-jogo:** pautada; produção após a partida. [[2026-11-06 - Sancor Londrina x Sesc RJ Flamengo - pós-jogo Superliga Feminina]].
+- **Horário:** 18h30; **local:** Londrina; **transmissão informada:** GE TV.
+
+### 12/11/2026 — Sesc RJ Flamengo x Fluminense
+- **11/11/2026 — Onde assistir:** pautada; produção pendente. [[2026-11-11 - Sesc RJ Flamengo x Fluminense - onde assistir Superliga Feminina]].
+- **12/11/2026 — Pós-jogo:** pautada; produção após a partida. [[2026-11-12 - Sesc RJ Flamengo x Fluminense - pós-jogo Superliga Feminina]].
+- **Horário:** 21h; **local:** Maracanãzinho, Rio de Janeiro; **transmissão informada:** SporTV 2.
+
+### 17/11/2026 — Sesi Bauru x Sesc RJ Flamengo
+- **16/11/2026 — Onde assistir:** pautada; produção pendente. [[2026-11-16 - Sesi Bauru x Sesc RJ Flamengo - onde assistir Superliga Feminina]].
+- **17/11/2026 — Pós-jogo:** pautada; produção após a partida. [[2026-11-17 - Sesi Bauru x Sesc RJ Flamengo - pós-jogo Superliga Feminina]].
+- **Horário:** 21h; **local:** Bauru; **transmissão informada:** SporTV 2.
+
+### 23/11/2026 — Sesc RJ Flamengo x Osasco São Cristóvão Saúde
+- **22/11/2026 — Onde assistir:** pautada; produção pendente. [[2026-11-22 - Sesc RJ Flamengo x Osasco São Cristóvão Saúde - onde assistir Superliga Feminina]].
+- **23/11/2026 — Pós-jogo:** pautada; produção após a partida. [[2026-11-23 - Sesc RJ Flamengo x Osasco São Cristóvão Saúde - pós-jogo Superliga Feminina]].
+- **Horário:** 21h; **local:** Maracanãzinho, Rio de Janeiro; **transmissão informada:** SporTV 2.
+
+### 03/12/2026 — Sesc RJ Flamengo x Pinheiros
+- **02/12/2026 — Onde assistir:** pautada; produção pendente. [[2026-12-02 - Sesc RJ Flamengo x Pinheiros - onde assistir Superliga Feminina]].
+- **03/12/2026 — Pós-jogo:** pautada; produção após a partida. [[2026-12-03 - Sesc RJ Flamengo x Pinheiros - pós-jogo Superliga Feminina]].
+- **Horário:** 18h30; **local:** Ginásio do Tijuca, Rio de Janeiro; **transmissão informada:** SporTV 2.
+
+### 08/12/2026 — Gerdau Minas x Sesc RJ Flamengo
+- **07/12/2026 — Onde assistir:** pautada; produção pendente. [[2026-12-07 - Gerdau Minas x Sesc RJ Flamengo - onde assistir Superliga Feminina]].
+- **08/12/2026 — Pós-jogo:** pautada; produção após a partida. [[2026-12-08 - Gerdau Minas x Sesc RJ Flamengo - pós-jogo Superliga Feminina]].
+- **Horário:** 21h; **local:** Belo Horizonte; **transmissão informada:** SporTV 2.
+
+### 14/12/2026 — Sesc RJ Flamengo x Praia Clube
+- **13/12/2026 — Onde assistir:** pautada; produção pendente. [[2026-12-13 - Sesc RJ Flamengo x Praia Clube - onde assistir Superliga Feminina]].
+- **14/12/2026 — Pós-jogo:** pautada; produção após a partida. [[2026-12-14 - Sesc RJ Flamengo x Praia Clube - pós-jogo Superliga Feminina]].
+- **Horário:** 21h; **local:** Maracanãzinho, Rio de Janeiro; **transmissão informada:** SporTV 2.
+
+### 19/12/2026 — Abel Vôlei Brusque x Sesc RJ Flamengo
+- **18/12/2026 — Onde assistir:** pautada; produção pendente. [[2026-12-18 - Abel Vôlei Brusque x Sesc RJ Flamengo - onde assistir Superliga Feminina]].
+- **19/12/2026 — Pós-jogo:** pautada; produção após a partida. [[2026-12-19 - Abel Vôlei Brusque x Sesc RJ Flamengo - pós-jogo Superliga Feminina]].
+- **Horário:** 18h30; **local:** Brusque; **transmissão informada:** GE TV.
+
