@@ -1492,6 +1492,65 @@ A pedido do editor, esta seção atualiza a programação corrente e prevalece s
 - **Próximo passo:** debate da pergunta central, recorte temporal, hipótese e plano de evidências.
 - **Ficha:** [[2026-11-05 - Reportagem Fla10 - influencia da torcida fora dos estadios]].
 
+
+#### Dossiê de pesquisa documental — atualização em 31/10/2026
+
+**Hipótese de trabalho (ainda sujeita à aprovação editorial):** a torcida do Flamengo constitui um ativo de alcance nacional e valor comercial expressivo, mas a dimensão da base de torcedores não equivale automaticamente a consumidores, sócios, audiência monetizada ou receita. A reportagem deve investigar os mecanismos de conversão, seus limites e a diferença entre alcance, engajamento e geração efetiva de valor.
+
+**1. Dimensão e distribuição da torcida**
+- Datafolha, pesquisa divulgada em 01/08/2026: Flamengo com 22% da preferência nacional, contra 14% do Corinthians. Amostra de 2.004 pessoas com 16 anos ou mais, em 139 municípios das cinco regiões; entrevistas em 22 e 23/07/2026; margem de erro geral de 2 pontos percentuais.
+- No recorte regional da pesquisa de 2026, o Flamengo registra 29% no Nordeste e 34% no bloco Norte/Centro-Oeste. No Sudeste, Corinthians aparece com 20% e Flamengo com 16%, em empate técnico dentro da margem de erro. No Sul, liderança do Grêmio.
+- Pesquisa Quaest/CNN/Itatiaia de 2024: entre os torcedores do Flamengo, 32% estavam no Nordeste, 28% no Sudeste, 15% no Norte, 14% no Centro-Oeste e 11% no Sul; portanto, 72% fora do Sudeste. Amostra total de 6.373 pessoas, com 5.023 entrevistas aprofundadas em 278 cidades e 714 jovens de 7 a 15 anos; coleta de 27/04 a 01/05/2024; margem estimada de 1,4 ponto percentual.
+- **Cuidado metodológico:** os percentuais regionais de 2026 expressam a preferência pelo clube dentro de cada região; os números da Quaest 2024 expressam a distribuição regional dos próprios torcedores do Flamengo. Não combinar os dois recortes como se medissem a mesma coisa.
+
+**2. Alcance digital e participação**
+- IBOPE Repucom: em agosto de 2026, Flamengo superou 68 milhões de seguidores/inscrições somadas nas plataformas oficiais e 25 milhões no Instagram; ganhou 173 mil inscrições no mês. Em janeiro, o instituto registrara 66 milhões no conjunto dos perfis.
+- O ranking soma inscrições/seguidores em plataformas; não representa 68 milhões de indivíduos únicos, nem comprova que todos sejam brasileiros, ativos ou torcedores com vínculo comercial.
+- Em 2025, Flamengo somou 4,9 milhões de novas inscrições digitais, segundo o IBOPE Repucom; foi o segundo maior ganho anual, atrás do Santos.
+- Exemplo concreto de mobilização participativa: projeto Manto da Nação recebeu mais de 8 mil desenhos e mais de 100 mil votos únicos de torcedores em mais de 120 países, segundo o clube, em setembro de 2026. É evidência de participação em uma iniciativa específica, não medida geral de conversão comercial.
+
+**3. Conversão em consumo e relacionamento**
+- Ranking do ge publicado em 30/01/2026: Flamengo tinha 118 mil sócios-torcedores adimplentes, quarto lugar entre clubes das Séries A e B, atrás de Palmeiras (167.909), Atlético-MG (144.431) e Corinthians (118.545). O ge informa que os critérios de contabilização variam entre clubes e que procurou os 40 clubes. O número é fotografia daquela data, não contagem atualizada de outubro.
+- Reportagem do ge de 04/04/2026: programa Nação passou por reformulação em 2025; reajuste de 10% em 2026 provocou reclamações sobre benefícios e experiência. O clube disse investir em dados e CRM para conhecer melhor os sócios. O texto reporta histórico de cerca de 125 mil sócios em 2019–2020, queda para cerca de 60 mil em 2021 e retomada acima de 100 mil em 2023.
+- No lançamento do novo Nação, em abril de 2025, o Flamengo apresentou plano nacional Sem Fronteiras por R$ 19,81/mês e declarou estimar 45 milhões de torcedores; o diretor Roberto Trinas afirmou que apenas 2% frequentavam o Maracanã. Tratar 45 milhões e 2% como declarações do clube, não como estimativa independente verificada. Solicitar metodologia e definição de “frequentar”.
+- O programa Manto da Nação demonstra que o clube procura transformar a participação da torcida em produto e relacionamento. Ainda não há dado público localizado sobre quantos dos 100 mil votantes compraram a camisa.
+
+**4. Receita e valor econômico**
+- Demonstrações financeiras oficiais do 3º trimestre de 2026 (documento publicado em 30/10/2026): nos nove primeiros meses, receita operacional bruta consolidada de R$ 1,166 bilhão; receita recorrente bruta de R$ 1,17 bilhão no relatório gerencial; EBITDA recorrente de R$ 289,9 milhões.
+- Na comparação com os nove primeiros meses de 2025, o relatório registra crescimento de 42,9% em licenciamento, patrocínio e publicidade; nas operações de jogos, +27,6%, sendo bilheteria +20,6%, sócio-torcedor +28,4% e receitas do estádio +37,3%. Sem os R$ 155,8 milhões de participação no Mundial de Clubes de 2025, a receita recorrente cresceu 30,8%.
+- Nota 15 das demonstrações, valores consolidados em R$ mil, jan–set/2026 vs jan–set/2025: patrocínio e publicidade R$ 375,237 mi vs R$ 260,413 mi; licenciamento e royalties R$ 132,714 mi vs R$ 95,146 mi; bilheteria R$ 120,172 mi vs R$ 99,613 mi; estádio R$ 92,446 mi vs R$ 67,355 mi; sócio-torcedor R$ 79,660 mi vs R$ 62,048 mi; direitos de transmissão fixos R$ 191,020 mi vs R$ 150,802 mi; mídias digitais/on demand R$ 19,280 mi vs R$ 16,819 mi.
+- O relatório separa rubricas que dependem diretamente da presença/relacionamento com torcedores de receitas de mídia, premiações e performance. Não atribuir toda alta de patrocínio ou licenciamento exclusivamente ao tamanho da torcida: entram também títulos, exposição, desempenho, contratos e estratégia comercial.
+- Em 2025, segundo o balanço divulgado pelo clube e reportado pelo ge, receita bruta total foi R$ 2,089 bilhões; receita recorrente R$ 1,571 bilhão. A linha de patrocínio, licenciamento, bilheteria e sócio-torcedor é detalhada no relatório financeiro.
+- O uniforme do Flamengo tinha 11 marcas e valor anual reportado de R$ 467,6 milhões em março de 2026, segundo o ge. Esse valor contratual ilustra poder comercial, mas não deve ser tratado como receita já recebida no exercício nem atribuído exclusivamente à torcida.
+
+**5. Presença física, bilheteria e audiência**
+- Após 28 rodadas do Brasileirão 2026, o Flamengo informou 874.544 presentes em 14 jogos como mandante no Maracanã, média de 62.467 por jogo; liderava a média pelo quinto ano consecutivo. Fonte: clube, 02/10/2026.
+- No primeiro turno, levantamento do ge apontou média de 57.042 pagantes em oito jogos do Flamengo como mandante, 456.335 ingressos e 10,7% de todo o público pagante da Série A naquele recorte; renda bruta de R$ 37,79 milhões, média de R$ 4,72 milhões por jogo.
+- A audiência também influencia o dinheiro de TV: no contrato da Libra com a Globo até 2029, 30% da remuneração fixa são distribuídos por critério de audiência. Flamengo e Libra encerraram disputa sobre a regra em maio de 2026. Isso mostra que a audiência pode ter efeito financeiro direto, mas a fórmula final e o valor específico do Flamengo precisam ser confirmados antes de quantificar.
+- Não foi localizada uma série pública e metodologicamente comparável de audiência televisiva nacional dos jogos do Flamengo para 2025–2026. Evitar generalizações sobre “maior audiência do país” sem dados Kantar/Ibope comparáveis.
+
+**6. Lacunas para apuração própria antes da redação**
+- Solicitar ao Flamengo: metodologia da estimativa de 45 milhões; número atualizado de sócios adimplentes em outubro/2026; distribuição geográfica da base Nação; taxa de conversão de torcedores em sócios/consumidores; dados de CRM, retenção, inadimplência e cancelamento; número de compradores do Manto da Nação e vendas de produtos licenciados por região; alcance e audiência únicos dos canais digitais.
+- Solicitar à área comercial/marketing: como o clube precifica patrocínios e demonstra retorno às marcas; quais métricas de audiência, engajamento e conversão são entregues aos patrocinadores; participação do público de fora do Sudeste nas receitas.
+- Ouvir especialista independente em marketing esportivo, pesquisador de consumo/torcidas e torcedores de regiões fora do eixo Rio–São Paulo. Buscar relatos concretos de consumo, acesso a produtos oficiais, experiências e barreiras.
+- Solicitar à Libra/Globo, se viável: explicação pública da metodologia de audiência e da distribuição dos 30% vinculados ao critério, sem presumir que todo o valor se converte automaticamente em receita do Flamengo.
+- Investigar a discrepância entre a escala declarada da torcida e a base pagante: não chamar isso de “baixa conversão” antes de conhecer denominadores, critérios e universo potencial de cada produto.
+
+**Fontes documentais e jornalísticas consultadas**
+- Flamengo — Demonstrações Financeiras e Relatório de Transparência do 3º trimestre de 2026 (publicado em 30/10/2026): https://storage.googleapis.com/crf-strapi-media-prd/Relatorio_de_Transparencia_e_Demonstracoes_Financeiras_3_Tri_2026_d4fa815359/Relatorio_de_Transparencia_e_Demonstracoes_Financeiras_3_Tri_2026_d4fa815359.pdf
+- Flamengo — readequação orçamentária de 2026 (28/10/2026): https://wap.flamengo.com.br/noticias/institucional/conselho-de-administracao-aprova-readequacao-orcamentaria-do-flamengo-para-2026
+- Datafolha — pesquisa nacional divulgada em 01/08/2026: https://www.cnnbrasil.com.br/esportes/futebol/datafolha-flamengo-segue-com-a-maior-torcida-do-brasil/
+- Quaest/CNN/Itatiaia — distribuição regional da torcida (15/05/2024): https://www.cnnbrasil.com.br/esportes/futebol/flamengo/pesquisa-revela-que-72-dos-torcedores-do-flamengo-estao-fora-do-sudeste/
+- IBOPE Repucom — ranking digital de setembro de 2026: https://www.iboperepucom.com/br/rankings/ranking-digital-dos-clubes-brasileiros-set-2026/
+- ge — ranking de sócios adimplentes (30/01/2026): https://ge.globo.com/gato-mestre/noticia/2026/01/30/ranking-de-socios-atletico-mg-corinthians-e-vasco-sobem-palmeiras-e-o-lider.ghtml
+- ge — reajuste e críticas ao programa Nação (04/04/2026): https://ge.globo.com/futebol/times/flamengo/noticia/2026/04/04/flamengo-explica-aumento-no-valor-do-socio-e-diz-que-investe-para-conhecer-perfil-dos-torcedores.ghtml
+- Flamengo — lançamento do novo Nação (10/04/2025): https://www.flamengo.com.br/noticias/institucional/flamengo-apresenta-o-novo-nacao--um-programa-de-socio-torcedor-sem-fronteiras
+- Flamengo — Manto da Nação (01/09/2026): https://www.flamengo.com.br/noticias/institucional/torcida-escolhe-urubu-de-lima-como-manto-da-nacao-e-ganha-uma-surpresa
+- ge — Flamengo e Libra encerram disputa sobre audiência na TV (05/05/2026): https://ge.globo.com/google/amp/futebol/times/flamengo/noticia/2026/05/05/flamengo-e-libra-chegam-a-acordo-para-encerrar-disputa-por-valores-de-contrato-de-tv.ghtml
+- ge — público e renda no primeiro turno do Brasileirão 2026 (24/07/2026): https://ge.globo.com/google/amp/gato-mestre/noticia/2026/07/24/flamengo-domina-rankings-de-publico-e-renda-no-primeiro-turno-do-brasileiro-2026-veja-balanco.ghtml
+
+**Status da apuração:** pesquisa documental inicial robusta concluída; apuração direta com clube, patrocinadores, Libra/Globo e fontes independentes ainda pendente. Não tratar como reportagem pronta nem converter hipóteses em conclusões sem essas respostas.
+
 ### 10/11/2026 — O que o Flamengo ganha e perde ao depender tanto do Maracanã?
 - **Estado:** tema aprovado; debate editorial e produção pendentes.
 - **Pergunta central:** o Maracanã é vantagem esportiva e financeira ou também representa uma limitação estratégica?
