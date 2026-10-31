@@ -1358,3 +1358,15 @@ A pedido do editor, esta seção atualiza a programação corrente e prevalece s
 - **Síntese:** a matéria registra a evolução de Lino em relação a 2025, seus números em 2026, a contribuição na criação e na recomposição, atuações recentes e a discussão sobre o melhor jogador da temporada. A conclusão o coloca entre os candidatos, sem afirmar superioridade incontestável.
 - **Proveniência:** produção interna — pesquisa, apuração, análise e redação em colaboração.
 - **Registro:** pauta encerrada; não manter como pendência. A sincronização do vault local do Obsidian não foi verificada.
+
+## Publicação confirmada — Flamengo x Real Heips: onde assistir (30/10/2026)
+
+- **Estado:** publicada em 30/10/2026, conforme confirmação do editor.
+- **Título:** *Flamengo x Real Heips: onde assistir ao vivo, horário, prováveis escalações e arbitragem*.
+- **URL pública:** https://fla10.news/noticias/flamengo-x-real-heips-onde-assistir-ao-vivo-horario-provaveis-escalacoes-e-arbitragem
+- **Ficha editorial:** [[2026-10-30 - Flamengo x Real Heips - onde assistir futebol feminino]].
+- **Partida:** 31/10/2026, às 15h, no Estádio João Saldanha, em Maricá (RJ), pela segunda rodada da segunda fase do Campeonato Carioca Feminino.
+- **Transmissão:** FlamengoTV, no YouTube.
+- **Conteúdo:** serviço com prováveis escalações, arbitragem, contexto das equipes, ficha do jogo e Resumo para IA.
+- **Registro editorial:** pauta encerrada; não manter como pendência de produção.
+
