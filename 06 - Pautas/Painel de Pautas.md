@@ -1495,16 +1495,16 @@ As três frentes abaixo ficam reservadas na programação de amanhã. **Os conte
 ### Pós-jogo — Flamengo goleia o Barcelona na Messi Cup
 
 - **Estado:** pauta incluída em 31/10/2026; produção pendente.
-- **Partida:** Flamengo 6 x 1 Barcelona, pela disputa de posições do 5º ao 8º lugar da Copa Ouro da Messi Cup 2026, disputada em Fort Lauderdale, na Flórida.
+- **Partida:** Flamengo x Barcelona, pela disputa de posições do 5º ao 8º lugar da Copa Ouro da Messi Cup 2026, disputada em Fort Lauderdale, na Flórida. **Placar pendente de confirmação:** bases consultadas divergem entre 6 a 1 e 11 a 0.
 - **Data do jogo:** sexta-feira, 30/10/2026.
 - **Contexto:** após perder nas quartas de final para o River Plate (1 a 2), o Flamengo disputou a faixa de classificação do 5º ao 8º lugar. O Barcelona também chegou à disputa após ser derrotado pelo Atlético de Madrid (1 a 3).
 - **Destaque individual confirmado:** Matheus Silva abriu o placar aos oito minutos, com finalização no ângulo após jogada coletiva. O jovem celebrou imitando o gesto “Siuuu”, de Cristiano Ronaldo.
 - **Categoria:** torneio oficialmente Sub-16; a equipe rubro-negra foi formada majoritariamente por atletas nascidos em 2011, do grupo Sub-15, conforme apuração prévia da competição. Confirmar a composição da equipe e a ficha completa antes de publicar.
-- **Apuração pendente:** confirmar a lista completa de gols e autores, escalação, comissão técnica, estatísticas e o próximo adversário/posição final do Flamengo. Não atribuir os outros cinco gols sem fonte verificável.
+- **Apuração pendente:** resolver a divergência do placar (Stats Hub registra 6 a 1; 90 Sports registra 11 a 0); confirmar a lista completa de gols e autores, escalação, comissão técnica, estatísticas e o próximo adversário/posição final do Flamengo. Não publicar o placar nem atribuir gols até confirmação em fonte primária ou em duas fontes independentes confiáveis.
 - **Ângulo editorial:** goleada internacional sobre o Barcelona e resposta da base rubro-negra após a eliminação na disputa pelo título da Copa Ouro; contextualizar o formato de disputa por posições sem apresentar o resultado como final da competição.
 - **Fontes iniciais:** 
   - Messi Cup — página oficial do torneio: https://messicup.com/es/tournament
   - El Comercio — Matheus Silva marcou o primeiro gol e celebrou como Cristiano Ronaldo: https://elcomercio.pe/deporte-total/futbol-mundial/cristiano-ronaldo-matheus-silva-de-la-sub-16-de-flamengo-anoto-un-golazo-al-angulo-ante-el-barcelona-en-la-messi-cup-y-celebro-como-cr7-video-noticia/
   - Olé — programação e contexto da disputa de 5º a 8º: https://buscador.ole.com.ar/messi/river-boca-newells-messi-cup-semis-cuartos-partidos-resultados-fixture-llave_0_w43w8rlkub.html
   - Stats Hub Messi Cup 2026 — placar registrado de 6 a 1: https://stats.buildup.club/team/6ad8b1b967dd1757c2809e4d
-- **Controle editorial:** apuração inicial realizada em 31/10; placar e primeiro gol corroborados por fontes consultadas. A ficha completa de gols permanece pendente de confirmação.
+- **Controle editorial:** apuração inicial realizada em 31/10; Matheus Silva como autor do primeiro gol está confirmado por cobertura jornalística. O placar permanece sem confirmação devido à divergência entre bases estatísticas. A ficha completa de gols também está pendente.
