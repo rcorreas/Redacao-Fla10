@@ -1493,6 +1493,10 @@ A pedido do editor, esta seção atualiza a programação corrente e prevalece s
 - **Ficha:** [[2026-11-05 - Reportagem Fla10 - influencia da torcida fora dos estadios]].
 
 
+#### Diretriz editorial aprovada — 31/10/2026
+
+O editor aprovou integrar as dimensões econômica, cultural e social da força da Nação, mantendo o poder econômico como eixo principal e a dimensão cultural como explicação de sua origem. Pergunta central: como o Flamengo converte sua dimensão nacional, audiência e engajamento em poder comercial, receitas e influência no futebol brasileiro — e quais são os limites dessa transformação? A apuração deve incluir identidade, mobilização e influência nacional, sem perder o rigor na distinção entre alcance, engajamento, consumo e receita.
+
 #### Dossiê de pesquisa documental — atualização em 31/10/2026
 
 **Hipótese de trabalho (ainda sujeita à aprovação editorial):** a torcida do Flamengo constitui um ativo de alcance nacional e valor comercial expressivo, mas a dimensão da base de torcedores não equivale automaticamente a consumidores, sócios, audiência monetizada ou receita. A reportagem deve investigar os mecanismos de conversão, seus limites e a diferença entre alcance, engajamento e geração efetiva de valor.
