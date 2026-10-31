@@ -1497,6 +1497,46 @@ A pedido do editor, esta seção atualiza a programação corrente e prevalece s
 
 O editor aprovou integrar as dimensões econômica, cultural e social da força da Nação, mantendo o poder econômico como eixo principal e a dimensão cultural como explicação de sua origem. Pergunta central: como o Flamengo converte sua dimensão nacional, audiência e engajamento em poder comercial, receitas e influência no futebol brasileiro — e quais são os limites dessa transformação? A apuração deve incluir identidade, mobilização e influência nacional, sem perder o rigor na distinção entre alcance, engajamento, consumo e receita.
 
+
+#### Aprofundamento da apuração — dimensão cultural, comercial e distribuição de valor
+
+**Diretriz confirmada pelo editor:** integrar as dimensões econômica, cultural e social da força da Nação, com o poder econômico como eixo principal e a dimensão cultural como explicação de sua origem.
+
+**7. A torcida como fenômeno cultural e social**
+- A tese de doutorado de Marizabel Kowalski, *Por que Flamengo?* (2001), investiga a construção da popularidade nacional do clube para além de títulos e ídolos. O trabalho relaciona imprensa, literatura, música, poesia, carnaval, pertencimento, hábitos e identidade social à formação da tradição rubro-negra. Fonte acadêmica: Laboratório de Educação e Patrimônio Cultural da UFF, resumo e referência bibliográfica: https://laboep.uff.br/kowalski-m-por-que-flamengo/
+- A tese de doutorado de Rafael Willian Clemente, *Alô torcida do Flamengo, aquele abraço! — Memórias do “Maraca” entre torcedores rubro-negros: uma sociologia do espaço do torcer* (UFRRJ, 2024), examina a experiência de torcer, memória, espaço, identidade e as mudanças ligadas aos grandes eventos e à pandemia. Repositório institucional: https://rima.ufrrj.br/jspui/handle/20.500.14407/20214?locale=pt_BR
+- O artigo de Renato Soares Coutinho na revista Recorde/UFRJ estuda como a imprensa esportiva construiu simbolicamente o Fla-Flu e associou a rivalidade a ideias de identidade nacional. É referência de contexto histórico, não evidência direta de comportamento contemporâneo de consumo: https://www.revistas.ufrj.br/index.php/Recorde/article/view/3292
+- Uso editorial: contextualizar a força da marca como fenômeno de pertencimento e circulação cultural. Não reduzir a explicação a uma causalidade simples (rádio, mídia, títulos ou migração) sem evidências históricas específicas.
+
+**8. O programa Nação como teste da estratégia “sem fronteiras”**
+- No lançamento em abril de 2025, o Flamengo declarou estimar 45 milhões de torcedores e afirmou que apenas 2% frequentavam o Maracanã. A declaração foi feita pelo diretor Roberto Trinas; não é uma estimativa independente e a metodologia não foi publicada na matéria institucional.
+- O plano Nação Sem Fronteiras foi lançado por R$ 19,81 mensais e foi desenhado para oferecer prioridade em jogos fora do Rio, benefícios comerciais e uma oportunidade anual de ir ao Maracanã.
+- Em agosto de 2026, o clube reformulou o plano: manteve a mensalidade de R$ 19,81 e criou opção anual de R$ 237,72, com benefícios adicionais e condições específicas de acesso ao Maracanã. A cobertura do ge detalha as restrições por competição e setores: https://ge.globo.com/futebol/times/flamengo/noticia/2026/08/08/flamengo-reformula-plano-popular-do-programa-de-socio-torcedor-entenda-mudancas.ghtml
+- O plano é um estudo de caso relevante: produto concebido para torcedores distantes do estádio, com preço acessível e promessa de relacionamento nacional. Faltam dados de adesão, cancelamento, uso de benefícios, distribuição geográfica e receita líquida.
+
+**9. Patrocínio e capacidade de atração comercial**
+- Em março de 2026, o ge reportou 11 marcas no uniforme do Flamengo, com valor anual agregado de R$ 467,6 milhões. O número inclui contratos de patrocínio e fornecimento esportivo e representa valores contratuais divulgados, não necessariamente receita recebida integralmente no exercício: https://ge.globo.com/futebol/times/flamengo/noticia/2026/03/28/veja-quanto-vale-o-uniforme-do-flamengo-apos-acordo-com-novo-patrocinador.ghtml
+- O presidente Bap atribuiu parte da atratividade comercial à audiência e ao trabalho de seleção de parceiros; a própria reportagem ressalva que há outras variáveis. Tratar a fala como declaração do dirigente, não como comprovação independente do retorno de cada patrocinador.
+- Em maio de 2026, comunicado conjunto Flamengo–Grêmio informou que o acordo com a Libra ampliaria a participação de ambos na parcela de audiência entre 2026 e 2029, gerando receitas adicionais. Não há no comunicado valores individualizados; não afirmar montante específico sem documento contratual ou confirmação independente: https://www.flamengo.com.br/noticias/institucional/comunicado-em-conjunto-flamengo-e-gremio-06-05-26
+
+**10. Novas perguntas de apuração**
+- Qual a metodologia, a data de referência e a margem de incerteza da estimativa de 45 milhões de torcedores divulgada pelo Flamengo?
+- Quantos associados ativos o Nação tem hoje, discriminados por plano, estado e município? Quantos são do Sem Fronteiras?
+- Qual a taxa de conversão de usuários digitais em compradores, sócios e consumidores de produtos licenciados? Como o clube evita contar a mesma pessoa em diferentes plataformas?
+- Quais são as taxas de retenção, inadimplência e cancelamento por plano? Quantos benefícios são efetivamente usados?
+- Qual é a receita líquida atribuível a licenciamento e royalties, e qual a distribuição territorial de vendas? Como se separa produto oficial, produto licenciado e comércio informal?
+- Quais indicadores concretos os patrocinadores recebem: alcance único, frequência, lembrança de marca, consideração, conversão, vendas incrementais? Há estudos de brand lift ou retorno auditado?
+- Como se calcula a parcela de audiência do contrato da Libra/Globo após o acordo de maio de 2026? Quais foram os valores efetivamente recebidos e a metodologia de mensuração?
+- Como a identidade rubro-negra se manifesta em torcedores fora do Rio: embaixadas, consulados, caravanas, bares, encontros, consumo local e transmissão? Selecionar relatos de regiões diferentes, sem generalizar experiências individuais.
+
+**11. Protocolo de fontes e contraditório**
+- Fontes primárias prioritárias: demonstrações financeiras e notas explicativas do Flamengo; atas e documentos do Conselho Deliberativo; regulamento e dados do Nação; documentos públicos da Libra; dados do IBOPE Repucom; pesquisas de opinião com metodologia publicada; trabalhos acadêmicos.
+- Entrevistas necessárias: representante do Flamengo (Marketing/Comercial e Nação), dois patrocinadores com perfis distintos, pesquisador de marketing esportivo, pesquisador de sociologia/história do futebol e torcedores fora do eixo Rio–São Paulo.
+- Toda fala institucional sobre dimensão da torcida, retorno comercial ou conversão deve ser identificada como declaração do clube até haver validação independente.
+- Não inferir que 68 milhões de inscrições equivalem a indivíduos únicos; não dividir 118 mil sócios por 45 milhões para produzir taxa de conversão; não atribuir automaticamente crescimento de receita à torcida; não converter valor contratual de patrocínio em receita recebida sem checagem contábil.
+
+**Status:** pesquisa documental ampliada com fontes acadêmicas, estratégia do Nação e patrocínios. Apuração direta, entrevistas e respostas oficiais continuam pendentes. A reportagem ainda não está pronta para redação final.
+
 #### Dossiê de pesquisa documental — atualização em 31/10/2026
 
 **Hipótese de trabalho (ainda sujeita à aprovação editorial):** a torcida do Flamengo constitui um ativo de alcance nacional e valor comercial expressivo, mas a dimensão da base de torcedores não equivale automaticamente a consumidores, sócios, audiência monetizada ou receita. A reportagem deve investigar os mecanismos de conversão, seus limites e a diferença entre alcance, engajamento e geração efetiva de valor.
