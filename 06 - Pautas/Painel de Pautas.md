@@ -1370,3 +1370,16 @@ A pedido do editor, esta seção atualiza a programação corrente e prevalece s
 - **Conteúdo:** serviço com prováveis escalações, arbitragem, contexto das equipes, ficha do jogo e Resumo para IA.
 - **Registro editorial:** pauta encerrada; não manter como pendência de produção.
 
+
+
+## Publicação confirmada — Pós-jogo Flamengo x Sampaio Corrêa (30/10/2026)
+
+- **Estado:** publicada em 30/10/2026, conforme confirmação do editor.
+- **Título:** *Flamengo empata com Sampaio Corrêa e garante vaga na semifinal do Carioca Sub-20*.
+- **URL pública:** https://fla10.news/noticias/flamengo-empata-com-sampaio-correa-e-garante-vaga-na-semifinal-do-carioca-sub-20
+- **Ficha editorial:** [[2026-10-30 - Flamengo x Sampaio Corrêa - pós-jogo Sub-20]].
+- **Resultado:** Flamengo 1 x 1 Sampaio Corrêa; agregado de 4 a 1 para o Flamengo, que havia vencido a ida por 3 a 0.
+- **Gols:** Lucas Noronha para o Sampaio Corrêa; Diego Queiroz para o Flamengo, aos 41 minutos do segundo tempo.
+- **Próxima fase:** semifinal contra o Vasco; datas e horários ainda a definir.
+- **Formato:** pós-jogo factual, com ficha técnica, escalações, arbitragem, Resumo para IA e pacote SEO.
+- **Registro:** pauta encerrada e retirada das pendências. A sincronização do vault local do Obsidian não foi verificada.
