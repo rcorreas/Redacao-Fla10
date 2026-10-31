@@ -1441,3 +1441,27 @@ A pedido do editor, esta seção atualiza a programação corrente e prevalece s
 - **19/12/2026 — Pós-jogo:** pautada; produção após a partida. [[2026-12-19 - Abel Vôlei Brusque x Sesc RJ Flamengo - pós-jogo Superliga Feminina]].
 - **Horário:** 18h30; **local:** Brusque; **transmissão informada:** GE TV.
 
+
+
+## Programação editorial — sábado, 31/10/2026
+
+### Seções especiais — temas a definir
+As três frentes abaixo ficam reservadas na programação de amanhã. **Os conteúdos, recortes e títulos ainda serão decididos em debate editorial; não iniciar pesquisa direcionada ou redação antes dessa definição.**
+
+1. **Reportagens Fla10**
+   - **Estado:** pauta reservada; conteúdo a definir.
+   - **Próximo passo:** escolher tema, pergunta central, recorte temporal, hipótese de trabalho e evidências necessárias em debate editorial obrigatório.
+
+2. **FlaTirinhas**
+   - **Estado:** pauta reservada; conteúdo a definir.
+   - **Próximo passo:** decidir personagem ou situação, abordagem e formato da tirinha antes da criação.
+
+3. **Flamengo na História**
+   - **Estado:** pauta reservada; conteúdo a definir.
+   - **Próximo passo:** escolher episódio histórico, efeméride ou personagem e validar datas e fontes antes da produção.
+
+### Coberturas esportivas já previstas para 31/10
+- **Pós-jogo — Flamengo x Real Heips (futebol feminino):** produção após a partida.
+- **Pós-jogo — Sesc RJ Flamengo x Batavo Mackenzie (Superliga Feminina):** produção após a partida.
+
+**Controle de fluxo:** as três pautas especiais estão incluídas na agenda, mas permanecem sem tema aprovado. A definição será feita individualmente, preservando a regra de debate editorial antes da produção de Reportagens Fla10.
