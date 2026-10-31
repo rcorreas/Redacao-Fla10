@@ -1383,3 +1383,15 @@ A pedido do editor, esta seção atualiza a programação corrente e prevalece s
 - **Próxima fase:** semifinal contra o Vasco; datas e horários ainda a definir.
 - **Formato:** pós-jogo factual, com ficha técnica, escalações, arbitragem, Resumo para IA e pacote SEO.
 - **Registro:** pauta encerrada e retirada das pendências. A sincronização do vault local do Obsidian não foi verificada.
+
+
+## Publicação confirmada — Sesc RJ Flamengo x Batavo Mackenzie: onde assistir (30/10/2026)
+
+- **Estado:** publicada em 30/10/2026, conforme confirmação do editor.
+- **Título:** *Sesc RJ Flamengo x Batavo Mackenzie: onde assistir ao vivo, horário e informações da Superliga Feminina*.
+- **URL pública:** https://fla10.news/noticias/sesc-rj-flamengo-x-batavo-mackenzie-onde-assistir-ao-vivo-horario-e-informacoes-da-superliga-feminina
+- **Ficha editorial:** [[2026-10-30 - Sesc RJ Flamengo x Batavo Mackenzie - onde assistir volei feminino]].
+- **Partida:** terceira rodada da Superliga Feminina 2026/27; 31/10/2026, às 18h30, no Ginásio do Tijuca Tênis Clube, no Rio de Janeiro.
+- **Transmissão:** SporTV 2.
+- **Conteúdo:** serviço com contexto das equipes, ficha técnica, Resumo para IA e pacote SEO.
+- **Registro:** pauta encerrada e retirada das pendências. A sincronização do vault local do Obsidian não foi verificada.
