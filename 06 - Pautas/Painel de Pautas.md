@@ -1445,12 +1445,13 @@ A pedido do editor, esta seção atualiza a programação corrente e prevalece s
 
 ## Programação editorial — sábado, 31/10/2026
 
-### Seções especiais — temas a definir
-As três frentes abaixo ficam reservadas na programação de amanhã. **Os conteúdos, recortes e títulos ainda serão decididos em debate editorial; não iniciar pesquisa direcionada ou redação antes dessa definição.**
+### Seções especiais
 
 1. **Reportagens Fla10**
-   - **Estado:** pauta reservada; conteúdo a definir.
-   - **Próximo passo:** escolher tema, pergunta central, recorte temporal, hipótese de trabalho e evidências necessárias em debate editorial obrigatório.
+   - **Estado:** oito temas aprovados em 31/10/2026; cronograma de publicação definido a cada cinco dias, de 05/11 a 10/12/2026.
+   - **Pauta em desenvolvimento hoje:** proposta original 2 — *A força da torcida do Flamengo se traduz em influência fora dos estádios?*
+   - **Regra de produção:** debate editorial individual obrigatório antes de cada reportagem, com definição da pergunta central, recorte temporal, hipótese de trabalho, evidências e plano de apuração. Aprovação do tema não equivale a autorização para iniciar todas as reportagens.
+   - **Agenda completa:** consultar a seção “Cronologia de publicação — Reportagens Fla10 (novembro e dezembro de 2026)” neste painel.
 
 2. **FlaTirinhas**
    - **Estado:** pauta reservada; conteúdo a definir.
@@ -1479,6 +1480,61 @@ As três frentes abaixo ficam reservadas na programação de amanhã. **Os conte
 
 **Controle de fluxo:** as duas pautas foram criadas no GitHub em 30/10/2026. Ambas permanecem com produção pendente; a ficha de serviço exige reconfirmação da transmissão antes da publicação.
 
+
+## Cronologia de publicação — Reportagens Fla10 (novembro e dezembro de 2026)
+
+**Planejamento aprovado pelo editor em 31/10/2026.** Publicação prevista a cada cinco dias. A primeira pauta será desenvolvida em 31/10; a previsão de publicação é 05/11. As datas são metas editoriais e dependem de apuração suficiente, revisão e aprovação final. Os temas seguintes permanecem sujeitos a debate editorial individual antes do início da produção.
+
+### 05/11/2026 — A força da torcida do Flamengo se traduz em influência fora dos estádios?
+- **Estado:** tema aprovado; desenvolvimento editorial iniciado em 31/10/2026; publicação prevista para 05/11.
+- **Pergunta central:** qual é o peso real da torcida rubro-negra no mercado, na mídia, nas redes sociais e na indústria do futebol?
+- **Escopo inicial:** alcance, consumo, mobilização, audiência, influência comercial e capacidade de gerar receitas; evitar afirmações genéricas sobre tamanho da torcida sem metodologia.
+- **Próximo passo:** debate da pergunta central, recorte temporal, hipótese e plano de evidências.
+- **Ficha:** [[2026-11-05 - Reportagem Fla10 - influencia da torcida fora dos estadios]].
+
+### 10/11/2026 — O que o Flamengo ganha e perde ao depender tanto do Maracanã?
+- **Estado:** tema aprovado; debate editorial e produção pendentes.
+- **Pergunta central:** o Maracanã é vantagem esportiva e financeira ou também representa uma limitação estratégica?
+- **Escopo inicial:** custos de operação, receitas, divisão de receitas, calendário, manutenção e alternativa de estádio próprio.
+- **Ficha:** [[2026-11-10 - Reportagem Fla10 - dependencia do Maracana]].
+
+### 15/11/2026 — Flamengo além do futebol: os esportes olímpicos ainda têm espaço no projeto do clube?
+- **Estado:** tema aprovado; debate editorial e produção pendentes.
+- **Pergunta central:** qual é a importância estratégica dos esportes olímpicos e como o clube equilibra investimento, formação e resultados?
+- **Escopo inicial:** basquete, vôlei, ginástica, remo e outras modalidades; orçamento, estrutura, formação e conquistas, conforme disponibilidade documental.
+- **Ficha:** [[2026-11-15 - Reportagem Fla10 - esportes olimpicos]].
+
+### 20/11/2026 — A transformação do futebol feminino do Flamengo: entre a tradição e a falta de estrutura
+- **Estado:** tema aprovado; debate editorial e produção pendentes.
+- **Pergunta central:** por que o Flamengo ainda enfrenta dificuldades para consolidar a equipe feminina entre as principais forças do país?
+- **Escopo inicial:** estrutura, investimento, calendário, categorias de base, condições de treinamento e comparação criteriosa com outros projetos.
+- **Ficha:** [[2026-11-20 - Reportagem Fla10 - futebol feminino estrutura]].
+
+### 25/11/2026 — O preço de revelar talentos: quanto o Flamengo deixa de ganhar com a saída de jovens jogadores?
+- **Estado:** tema aprovado; debate editorial e produção pendentes.
+- **Pergunta central:** o modelo de formação e negociação maximiza o valor dos atletas para o clube?
+- **Escopo inicial:** negociações, mecanismos de solidariedade, percentuais econômicos, tempo de permanência e valorização dos jogadores.
+- **Ficha:** [[2026-11-25 - Reportagem Fla10 - valor dos talentos da base]].
+
+### 30/11/2026 — O torcedor virou cliente? Como o Flamengo transformou sua relação com a Nação em negócio
+- **Estado:** tema aprovado; debate editorial e produção pendentes.
+- **Pergunta central:** como o clube monetiza a relação com o torcedor e qual retorno entrega em produtos e serviços?
+- **Escopo inicial:** sócio-torcedor, licenciamento, produtos oficiais, experiências e plataformas digitais.
+- **Ficha:** [[2026-11-30 - Reportagem Fla10 - torcida como negocio]].
+
+### 05/12/2026 — O legado do incêndio no Ninho: o que mudou na formação de atletas desde 2019?
+- **Estado:** tema aprovado; debate editorial e produção pendentes. Pauta de alta sensibilidade; exige apuração documental rigorosa, respeito às famílias e distinção entre compromissos, medidas comprovadas e processos em andamento.
+- **Pergunta central:** quais mudanças estruturais, administrativas e de segurança foram efetivamente implementadas desde a tragédia?
+- **Escopo inicial:** cronologia, compromissos assumidos, medidas verificáveis, situação dos processos e posição das famílias; não presumir conclusões.
+- **Ficha:** [[2026-12-05 - Reportagem Fla10 - legado do incendio no Ninho]].
+
+### 10/12/2026 — Quem decide o futuro do Flamengo? Os bastidores do poder político no clube
+- **Estado:** tema aprovado; debate editorial e produção pendentes.
+- **Pergunta central:** como funcionam as estruturas de poder, as decisões administrativas e a influência dos grupos políticos na condução do clube?
+- **Escopo inicial:** estatuto, conselhos, eleições, responsabilidades administrativas e fluxo de decisão; evitar personalização sem evidências.
+- **Ficha:** [[2026-12-10 - Reportagem Fla10 - poder politico no Flamengo]].
+
+**Controle editorial permanente:** o intervalo de cinco dias é a cadência planejada de publicação, não uma autorização para sacrificar a apuração. Se uma reportagem não estiver pronta, reprogramar a sequência e preservar o intervalo, em vez de publicar conteúdo incompleto.
 ## Publicação confirmada — Pós-jogo Flamengo x Caxias do Sul (30/10/2026)
 
 - **Estado:** publicada em 30/10/2026, conforme confirmação do editor.
