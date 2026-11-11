@@ -2641,3 +2641,11 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Transmissões registradas na matéria:** SporTV, XSports, GE TV, NSports e Lance! (YouTube).
 - **Conteúdo complementar:** como chegam as equipes, prováveis escalações, arbitragem e data/local do jogo de volta (15/11/2026, às 16h, no Beira-Rio).
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Fla Tirinhas: Gramado sintético (11/11/2026)
+
+- **Estado:** publicada em 11/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título/URL pública:** *Gramado sintético* — https://fla10.news/tirinhas/gramado-sintetico
+- **Formato:** Fla Tirinhas.
+- **Registro editorial:** publicação confirmada pelo editor; peça encerrada e incluída no histórico de publicações.
