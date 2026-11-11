@@ -2629,3 +2629,15 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Ângulo:** disputa do Brasileirão entre Flamengo e Palmeiras; oito jogadores rubro-negros pendurados antes do jogo contra o Athletico; sondagens de Roma e clubes sauditas por Samuel Lino; final da Copa do Brasil Feminina contra o Internacional; retorno de Danilo aos trabalhos no gramado.
 - **Proveniência:** texto-base fornecido pelo editor; marcadores de fim de parágrafo e pacote de SEO preparados em colaboração.
 - **Registro editorial:** publicação confirmada pelo editor; peça encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Flamengo Maricá x Internacional: onde assistir à final da Copa do Brasil Feminina (11/11/2026)
+
+- **Estado:** publicada em 11/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título:** *Flamengo Maricá x Internacional: onde assistir à final da Copa do Brasil Feminina*.
+- **URL pública:** https://fla10.news/noticias/flamengo-marica-x-internacional-onde-assistir-a-final-da-copa-do-brasil-feminina
+- **Formato:** serviço de jogo — onde assistir, jogo de ida da final da Copa do Brasil Feminina 2026.
+- **Partida:** Flamengo Maricá x Internacional, em 11/11/2026, às 21h30 (de Brasília), no Estádio Luso-Brasileiro, Rio de Janeiro.
+- **Transmissões registradas na matéria:** SporTV, XSports, GE TV, NSports e Lance! (YouTube).
+- **Conteúdo complementar:** como chegam as equipes, prováveis escalações, arbitragem e data/local do jogo de volta (15/11/2026, às 16h, no Beira-Rio).
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
