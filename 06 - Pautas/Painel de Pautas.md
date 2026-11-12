@@ -2682,3 +2682,13 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Competição:** Campeonato Mundial Júnior de Judô, de 19 a 22/11/2026, em Tashkent, no Uzbequistão.
 - **Contexto editorial:** a matéria amplia a informação inicial divulgada pelo Flamengo, que destacou Clarisse Vallim e Vinícius Oliveira, ao incorporar Manuela Maia com base na convocação oficial da CBJ.
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Danilo treina com máscara facial e protetor bucal (12/11/2026)
+
+- **Estado:** publicada em 12/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título:** *Danilo treina com máscara facial e protetor bucal: entenda como funcionam*.
+- **URL pública:** https://fla10.news/noticias/danilo-treina-com-mascara-facial-e-protetor-bucal-entenda-como-funcionam
+- **Formato:** notícia explicativa — recuperação de atleta / tecnologia aplicada à odontologia esportiva.
+- **Ângulo:** funcionamento da máscara facial personalizada em TPU, desenvolvida a partir de escaneamento digital, e diferença entre a proteção externa e o protetor bucal utilizado por Danilo após as fraturas na mandíbula.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
