@@ -2649,3 +2649,15 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Título/URL pública:** *Gramado sintético* — https://fla10.news/tirinhas/gramado-sintetico
 - **Formato:** Fla Tirinhas.
 - **Registro editorial:** publicação confirmada pelo editor; peça encerrada e incluída no histórico de publicações.
+
+## Publicação confirmada — Flamengo Maricá 1 x 3 Internacional: final da Copa do Brasil Feminina (11/11/2026)
+
+- **Estado:** publicada em 11/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título:** *Flamengo Maricá perde de virada para o Inter e precisa vencer por três gols no Beira-Rio*.
+- **URL pública:** https://fla10.news/noticias/flamengo-marica-perde-de-virada-para-o-inter-e-precisa-vencer-por-tres-gols-no-beira-rio
+- **Formato:** notícia pós-jogo — jogo de ida da final da Copa do Brasil Feminina 2026.
+- **Partida:** Flamengo Maricá 1 x 3 Internacional, em 11/11/2026, no Estádio Luso-Brasileiro, Rio de Janeiro.
+- **Gols:** Letícia Oliveira marcou para o Flamengo; Valéria Cantuário, Débora e Sole Jaimes marcaram para o Internacional.
+- **Cenário da volta:** decisão no domingo, 15/11/2026, às 16h, no Beira-Rio. Flamengo precisa vencer por três gols para conquistar o título no tempo regulamentar ou por dois para levar a decisão aos pênaltis.
+- **Apuração:** resultado, sequência dos gols e cenário do confronto de volta conferidos em cobertura jornalística e ficha/notícias da partida.
+- **Registro editorial:** publicação confirmada pelo editor; pauta de pós-jogo encerrada e incluída no histórico de publicações.
