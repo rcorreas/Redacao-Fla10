@@ -2277,7 +2277,7 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Próxima etapa:** revisão editorial das evidências e redação final, seguindo as diretrizes de produção Fla10.
 
 ### Reportagem Fla10 — Oito jogadores do Flamengo estão pendurados antes de confronto decisivo com o Palmeiras
-- **Estado:** incluída na agenda de 07/11/2026 por solicitação do editor; apuração e produção pendentes.
+- **Estado:** **publicada**, conforme confirmação do editor em 12/11/2026. Pauta encerrada e retirada das pendências de produção.
 - **Formato:** notícia de contexto / serviço de cenário disciplinar para a reta final do Brasileirão.
 - **Ângulo:** oito jogadores do Flamengo têm dois cartões amarelos e podem desfalcar a equipe contra o Palmeiras caso recebam novo amarelo diante do Athletico-PR. O foco é o impacto potencial das suspensões no confronto direto que pode ser decisivo para o título.
 - **Lista divulgada:** Léo Pereira, Alex Sandro, Erick Pulgar, Arrascaeta, Pedro, Bruno Henrique, Luiz Araújo e Vitão. Cinco são apontados como titulares habituais; Bruno Henrique, Luiz Araújo e Vitão aparecem como opções de banco.
@@ -2540,7 +2540,7 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 
 
 ### Notícia — Cinco Garotos do Ninho na preparação da Seleção Brasileira Sub-17
-- **Estado:** incluída na agenda de 09/11/2026; apuração, produção e publicação pendentes.
+- **Estado:** **em revisão de relevância em 12/11/2026**. A pauta não foi publicada. Avaliar se a convocação e a preparação ainda justificam uma notícia própria, considerando o estágio atual da preparação para o Mundial; não produzir automaticamente com base no registro de 09/11.
 - **Formato:** notícia sobre a presença de atletas do Flamengo na preparação da Seleção Brasileira Sub-17 para o Mundial.
 - **Ângulo:** destacar a presença de cinco jogadores do clube no grupo de preparação, diferenciando os três atletas convocados para disputar a competição — Gabriel Werneck, Daniel Silva (Thuram) e João Vitor Couto — dos dois jogadores do Sub-16 chamados para completar os treinamentos na Granja Comary — Felipe Pina e Rafael Barreto.
 - **Checagens obrigatórias:** confirmar a lista oficial da CBF, a situação individual de cada atleta, a composição final da delegação e o calendário da preparação/competição; não apresentar os dois atletas do Sub-16 como convocados para o Mundial se estiverem apenas integrando os treinamentos.
@@ -2662,6 +2662,12 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Apuração:** resultado, sequência dos gols e cenário do confronto de volta conferidos em cobertura jornalística e ficha/notícias da partida.
 - **Registro editorial:** publicação confirmada pelo editor; pauta de pós-jogo encerrada e incluída no histórico de publicações.
 
+
+## Publicação confirmada — Oito jogadores do Flamengo estão pendurados antes de confronto decisivo com o Palmeiras (12/11/2026)
+
+- **Estado:** publicada, conforme confirmação explícita do editor em 12/11/2026.
+- **Formato:** notícia de contexto / cenário disciplinar para a reta final do Brasileirão.
+- **Registro editorial:** pauta encerrada e incluída no histórico de publicações.
 
 ## Publicação confirmada — Crônica: Pedir a saída de Jardim fere o bom senso (12/11/2026)
 
