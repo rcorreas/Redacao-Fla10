@@ -2671,3 +2671,14 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Formato:** crônica / coluna de opinião.
 - **Eixo editorial:** defesa da continuidade de Leonardo Jardim, ponderando críticas pontuais ao trabalho do treinador e a necessidade de estabilidade técnica para a evolução do Flamengo.
 - **Registro editorial:** publicação confirmada pelo editor; peça encerrada e registrada no histórico de publicações.
+
+## Publicação confirmada — Flamengo emplaca três judocas no Mundial Júnior de Tashkent (12/11/2026)
+
+- **Estado:** publicada em 12/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título:** *Flamengo emplaca três judocas na delegação para o Mundial Júnior em Tashkent*.
+- **URL pública:** https://fla10.news/noticias/flamengo-emplaca-tres-judocas-na-delegacao-para-o-mundial-junior-em-tashkent
+- **Formato:** notícia — judô / representação rubro-negra na Seleção Brasileira.
+- **Atletas:** Clarisse Vallim (-70 kg), Vinícius Oliveira (-60 kg) e Manuela Maia (-63 kg), todos relacionados pela Confederação Brasileira de Judô como atletas do C.R. Flamengo/FJERJ-RJ.
+- **Competição:** Campeonato Mundial Júnior de Judô, de 19 a 22/11/2026, em Tashkent, no Uzbequistão.
+- **Contexto editorial:** a matéria amplia a informação inicial divulgada pelo Flamengo, que destacou Clarisse Vallim e Vinícius Oliveira, ao incorporar Manuela Maia com base na convocação oficial da CBJ.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
