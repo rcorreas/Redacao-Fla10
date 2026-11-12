@@ -2692,3 +2692,13 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Formato:** notícia explicativa — recuperação de atleta / tecnologia aplicada à odontologia esportiva.
 - **Ângulo:** funcionamento da máscara facial personalizada em TPU, desenvolvida a partir de escaneamento digital, e diferença entre a proteção externa e o protetor bucal utilizado por Danilo após as fraturas na mandíbula.
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Vídeo: Danilo treina com a máscara (12/11/2026)
+
+- **Estado:** publicado em 12/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título/URL pública:** *Danilo treina com a máscara — FlamengoTV* — https://fla10.news/videos/danilo-treina-com-a-mascara---flamengotv
+- **Formato:** vídeo — registro dos treinamentos de Danilo com a máscara facial de proteção.
+- **Contexto editorial:** conteúdo audiovisual complementar à notícia explicativa sobre a máscara facial e o protetor bucal utilizados pelo zagueiro durante a recuperação.
+- **Proveniência:** vídeo da FlamengoTV; classificado como **fonte externa**.
+- **Registro editorial:** publicação confirmada pelo editor; item encerrado e incluído no histórico de publicações.
