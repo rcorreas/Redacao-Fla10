@@ -2661,3 +2661,13 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Cenário da volta:** decisão no domingo, 15/11/2026, às 16h, no Beira-Rio. Flamengo precisa vencer por três gols para conquistar o título no tempo regulamentar ou por dois para levar a decisão aos pênaltis.
 - **Apuração:** resultado, sequência dos gols e cenário do confronto de volta conferidos em cobertura jornalística e ficha/notícias da partida.
 - **Registro editorial:** publicação confirmada pelo editor; pauta de pós-jogo encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Crônica: Pedir a saída de Jardim fere o bom senso (12/11/2026)
+
+- **Estado:** publicada em 12/11/2026, conforme confirmação explícita do editor.
+- **Título:** *Pedir a saída de Jardim fere o bom senso*.
+- **URL pública:** https://fla10.news/colunas/pedir-a-saida-de-jardim-fere-o-bom-senso
+- **Formato:** crônica / coluna de opinião.
+- **Eixo editorial:** defesa da continuidade de Leonardo Jardim, ponderando críticas pontuais ao trabalho do treinador e a necessidade de estabilidade técnica para a evolução do Flamengo.
+- **Registro editorial:** publicação confirmada pelo editor; peça encerrada e registrada no histórico de publicações.
