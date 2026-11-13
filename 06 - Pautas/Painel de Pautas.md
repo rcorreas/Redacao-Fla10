@@ -2708,3 +2708,16 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Contexto editorial:** conteúdo audiovisual complementar à notícia explicativa sobre a máscara facial e o protetor bucal utilizados pelo zagueiro durante a recuperação.
 - **Proveniência:** vídeo da FlamengoTV; classificado como **fonte externa**.
 - **Registro editorial:** publicação confirmada pelo editor; item encerrado e incluído no histórico de publicações.
+
+
+## Publicação confirmada — Sesc RJ Flamengo vence o Fluminense por 3 a 0 e reassume a liderança da Superliga (13/11/2026)
+
+- **Estado:** publicada, conforme confirmação explícita do editor em 13/11/2026.
+- **Título:** *Sesc RJ Flamengo vence o Fluminense por 3 a 0 e reassume a liderança da Superliga*.
+- **URL pública:** https://fla10.news/noticias/sesc-rj-flamengo-vence-o-fluminense-por-3-a-0-e-reassume-a-lideranca-da-superliga
+- **Formato:** notícia pós-jogo — Superliga Feminina 2026/27.
+- **Partida:** Sesc RJ Flamengo 3 x 0 Fluminense, em 12/11/2026, no Maracanãzinho, pela quinta rodada; parciais de 25/22, 25/18 e 25/23.
+- **Resultado esportivo:** quinta vitória do Flamengo em cinco jogos, 15 pontos e liderança da competição, sem perder sets.
+- **Destaques:** Tainara recebeu o Troféu VivaVôlei; Tainara e Simone Lee marcaram 16 pontos cada, conforme levantamento do Web Vôlei.
+- **Próximo compromisso:** Sesi Bauru x Sesc RJ Flamengo, em 17/11/2026, às 21h30, em Bauru.
+- **Registro editorial:** publicação confirmada pelo editor; pauta de pós-jogo encerrada e incluída no histórico de publicações.
