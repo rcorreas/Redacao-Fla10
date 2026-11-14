@@ -2730,3 +2730,18 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Formato:** reportagem Fla10 — categorias de base / planejamento esportivo.
 - **Ângulo:** decisão de repetir a ausência na Copa São Paulo de Futebol Júnior e priorizar a utilização do Sub-20 nas primeiras rodadas do Campeonato Carioca; análise do conflito de calendário, da reestruturação da base, do precedente de 2025 e dos efeitos esportivos e formativos da escolha.
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Paisas x Flamengo: onde assistir à Liga Sul-Americana (13/11/2026)
+
+- **Estado:** publicada em 13/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título:** *Paisas x Flamengo: onde assistir ao vivo e horário da estreia na Liga Sul-Americana*.
+- **URL pública:** https://fla10.news/noticias/paisas-x-flamengo-onde-assistir-ao-vivo-e-horario-da-estreia-na-liga-sul-americana
+- **Formato:** matéria de serviço — onde assistir.
+- **Partida:** Paisas Basketball x Flamengo, pela primeira rodada do Grupo F das quartas de final da Liga Sul-Americana de Basquete 2026.
+- **Data, horário e local:** 13/11/2026, às 22h40 (de Brasília), no Coliseo Universidad de Medellín, em Medellín, Colômbia.
+- **Transmissão:** canal oficial da FIBA no YouTube e BasqueteTV, conforme a Liga Nacional de Basquete.
+- **Contexto:** quadrangular com Paisas, Flamengo, CAIXA/Brasília e Boca Juniors; os dois primeiros avançam ao Final Four. O Flamengo chega invicto da primeira fase, com três vitórias.
+- **Controle de redundância:** distinta da matéria de serviço publicada em 23/10, que tratou da estreia do Flamengo contra o Paisas no Grupo D, no Maracanãzinho. Esta publicação cobre o reencontro pelas quartas de final, em Medellín.
+- **Ficha editorial:** [[2026-11-13 - Paisas x Flamengo - onde assistir Liga Sul-Americana]].
+- **Registro editorial:** pauta encerrada e incluída no histórico de publicações.
