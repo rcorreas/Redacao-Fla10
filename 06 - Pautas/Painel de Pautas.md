@@ -2793,3 +2793,17 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Contexto esportivo:** o Grupo F reúne Flamengo, CAIXA/Brasília, Boca Juniors e Paisas; os dois primeiros colocados avançam ao Final Four. O Flamengo vinha de vitória sobre o Paisas por 104 a 71; o Brasília, de derrota por 76 a 74 para o Boca Juniors.
 - **Ficha editorial:** [[2026-11-14 - Flamengo x Brasília - onde assistir Liga Sul-Americana]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta de serviço encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Nação Anjo: 13ª edição (14/11/2026)
+
+- **Estado:** publicada em 14/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *Nação Anjo: Flamengo lança 13ª edição de programa que já destinou mais de R$ 60 milhões ao esporte olímpico*.
+- **URL pública:** https://fla10.news/noticias/nacao-anjo-flamengo-lanca-13-edicao-de-programa-que-ja-destinou-mais-de-r-60-milhoes-ao-esporte-olimpico
+- **Formato:** notícia institucional / esportes olímpicos — programa de incentivo fiscal e formação de atletas.
+- **Informações centrais:** lançamento da 13ª edição em 12/11/2026; mais de R$ 60 milhões arrecadados historicamente; mais de 10 mil atletas beneficiados; recorde de R$ 11 milhões em 2025; aproximadamente mil jovens atendidos por ano em nove modalidades.
+- **Modalidades contempladas:** basquete, remo, futebol feminino, ginástica artística, judô, natação, polo aquático, nado artístico e vôlei.
+- **Mecanismo de participação:** destinação de parte do Imposto de Renda devido por pessoas físicas que utilizam a declaração completa, respeitadas as regras legais e os limites aplicáveis.
+- **Referência de apuração:** comunicado oficial do Flamengo, publicado em 12/11/2026.
+- **Ficha editorial:** [[2026-11-14 - Nação Anjo - 13ª edição]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
