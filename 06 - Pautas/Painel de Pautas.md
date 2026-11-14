@@ -2754,3 +2754,14 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Formato:** notícia — ginástica artística / atividades internacionais do Flamengo.
 - **Proveniência:** **pauta externa**, conforme classificação informada pelo editor; não contabilizar como produção editorial desenvolvida internamente.
 - **Registro editorial:** publicação confirmada; item externo encerrado e incluído no histórico de publicações.
+
+## Publicação confirmada — Flamengo atropela o Paisas por 104 a 71 e assume a liderança do Grupo F (14/11/2026)
+
+- **Estado:** publicada em 14/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *Flamengo atropela o Paisas por 104 a 71 em Medellín, com 23 pontos de Yago Santos, e assume a liderança do Grupo F da Liga Sul-Americana*.
+- **URL pública:** https://fla10.news/noticias/flamengo-atropela-o-paisas-por-104-a-71-em-medellin-com-23-pontos-de-yago-santos-e-assume-a-lideranca-do-grupo-f-da-liga-sul-americana
+- **Formato:** notícia pós-jogo — basquete masculino / Liga Sul-Americana 2026.
+- **Partida:** Paisas Basketball 71 x 104 Flamengo, em 13/11/2026, no Coliseo Universidad de Medellín, pelas quartas de final — Grupo F.
+- **Destaques do registro:** vitória rubro-negra por 33 pontos; Yago Santos, cestinha do Flamengo segundo o título publicado, com 23 pontos; resultado que colocou o Flamengo na liderança do Grupo F, conforme título e confirmação editorial.
+- **Registro editorial:** publicação confirmada pelo editor; pauta de pós-jogo encerrada e incluída no histórico de publicações.
+
