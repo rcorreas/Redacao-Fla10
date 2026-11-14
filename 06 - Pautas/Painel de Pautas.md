@@ -2721,3 +2721,12 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Destaques:** Tainara recebeu o Troféu VivaVôlei; Tainara e Simone Lee marcaram 16 pontos cada, conforme levantamento do Web Vôlei.
 - **Próximo compromisso:** Sesi Bauru x Sesc RJ Flamengo, em 17/11/2026, às 21h30, em Bauru.
 - **Registro editorial:** publicação confirmada pelo editor; pauta de pós-jogo encerrada e incluída no histórico de publicações.
+
+## Publicação confirmada — Flamengo não disputará a Copinha em 2027 (13/11/2026)
+
+- **Estado:** publicada em 13/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título de referência:** *Flamengo não disputará a Copinha em 2027*.
+- **URL pública:** https://fla10.news/noticias/flamengo-nao-disputara-a-copinha-em-2027-decisao-estrategica-cenario-financeiro-e-o-futuro-da-base-rubro-negra
+- **Formato:** reportagem Fla10 — categorias de base / planejamento esportivo.
+- **Ângulo:** decisão de repetir a ausência na Copa São Paulo de Futebol Júnior e priorizar a utilização do Sub-20 nas primeiras rodadas do Campeonato Carioca; análise do conflito de calendário, da reestruturação da base, do precedente de 2025 e dos efeitos esportivos e formativos da escolha.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
