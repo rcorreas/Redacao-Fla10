@@ -2745,3 +2745,12 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Controle de redundância:** distinta da matéria de serviço publicada em 23/10, que tratou da estreia do Flamengo contra o Paisas no Grupo D, no Maracanãzinho. Esta publicação cobre o reencontro pelas quartas de final, em Medellín.
 - **Ficha editorial:** [[2026-11-13 - Paisas x Flamengo - onde assistir Liga Sul-Americana]].
 - **Registro editorial:** pauta encerrada e incluída no histórico de publicações.
+
+## Publicação confirmada — Fla Ginástica leva cinco atletas a Portugal e fecha tour europeu com olho no futuro (14/11/2026)
+
+- **Estado:** publicada em 14/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título:** *Fla Ginástica leva cinco atletas a Portugal e fecha tour europeu com olho no futuro*.
+- **URL pública:** https://fla10.news/noticias/fla-ginastica-leva-cinco-atletas-a-portugal-e-fecha-tour-europeu-com-olho-no-futuro
+- **Formato:** notícia — ginástica artística / atividades internacionais do Flamengo.
+- **Proveniência:** **pauta externa**, conforme classificação informada pelo editor; não contabilizar como produção editorial desenvolvida internamente.
+- **Registro editorial:** publicação confirmada; item externo encerrado e incluído no histórico de publicações.
