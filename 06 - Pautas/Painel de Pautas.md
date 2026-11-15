@@ -2818,3 +2818,14 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Ângulo:** impacto potencial da suspensão do patrocínio da Betano e da restrição regulatória às apostas sobre o planejamento de 2027; distinguir o contrato máster da estimativa mais ampla de perdas apresentada pelo presidente Bap.
 - **Ressalva editorial:** os R$ 400 milhões a R$ 430 milhões são uma estimativa atribuída ao presidente do Flamengo, não uma perda já realizada nem um valor atribuível exclusivamente à Betano.
 - **Registro editorial:** publicação confirmada; incluir no histórico e retirar a peça da fila de produção. A pauta anterior sobre o balanço do 3º trimestre, déficit projetado e vendas de atletas permanece distinta e precisa de revisão própria.
+
+## Publicação confirmada — Boteco Fla10 News: 131 anos de Mengão (15/11/2026)
+
+- **Estado:** publicada em 15/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título:** *131 anos de Mengão! E a festa hoje tem que ser dentro de campo!*
+- **URL pública:** https://fla10.news/voz-torcedor/131-anos-de-mengao-e-a-festa-hoje-tem-que-ser-dentro-de-campo
+- **Formato:** A Voz do Torcedor — Boteco Fla10 News / Cadu na mesa do bar.
+- **Autor/personagem editorial:** Cadu Marques.
+- **Ângulo:** aniversário de 131 anos do Flamengo; homenagem a Arrascaeta e Bruno Henrique; decisão da Copa do Brasil Feminina entre Flamengo Maricá e Internacional; expectativa para Flamengo x Athletico-PR.
+- **Proveniência:** texto-base fornecido pelo editor; formatação editorial e pacote de SEO preparados em colaboração.
+- **Registro editorial:** publicação confirmada pelo editor; peça encerrada e incluída no histórico de publicações.
