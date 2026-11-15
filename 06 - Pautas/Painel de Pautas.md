@@ -2839,3 +2839,14 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Formato:** matéria de serviço — onde assistir.
 - **Competição:** Liga Sul-Americana de Basquete 2026, Grupo F.
 - **Registro editorial:** publicação confirmada pelo editor; pauta de serviço encerrada e incluída no histórico de publicações. Dados específicos de horário, local e transmissão não foram replicados neste registro porque não foram fornecidos nesta confirmação.
+
+
+## Publicação confirmada — Leônidas da Silva: o Diamante Negro (15/11/2026)
+
+- **Estado:** publicada em 15/11/2026, conforme confirmação explícita do editor.
+- **Título publicado:** *Leônidas da Silva: o Diamante Negro que encantou o mundo e fez história com a camisa do Flamengo*.
+- **URL pública:** https://fla10.news/flahistoria/leonidas-da-silva-o-diamante-negro-que-encantou-o-mundo-e-fez-historia-com-a-camisa-do-flamengo
+- **Formato:** Flamengo na História — reportagem histórica.
+- **Arquivo de produção:** [[2026-11-15 - Leônidas da Silva - Flamengo na História]].
+- **Ângulo:** trajetória do Diamante Negro, sua passagem pelo Flamengo, a Copa do Mundo de 1938, a popularização da bicicleta e o legado esportivo e social.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
