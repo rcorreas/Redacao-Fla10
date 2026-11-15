@@ -2807,3 +2807,14 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Referência de apuração:** comunicado oficial do Flamengo, publicado em 12/11/2026.
 - **Ficha editorial:** [[2026-11-14 - Nação Anjo - 13ª edição]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Flamengo pode perder R$ 430 milhões em 2027, e saída da Betano ameaça planejamento do clube (14/11/2026)
+
+- **Estado:** publicada em 14/11/2026, conforme confirmação editorial anterior e página pública da Fla10.
+- **Título publicado:** *Flamengo pode perder R$ 430 milhões em 2027, e saída da Betano ameaça planejamento do clube*.
+- **URL pública:** https://fla10.news/reportagens/flamengo-pode-perder-r-430-milhoes-em-2027-e-saida-da-betano-ameaca-planejamento-do-clube
+- **Formato:** reportagem / análise financeira.
+- **Ângulo:** impacto potencial da suspensão do patrocínio da Betano e da restrição regulatória às apostas sobre o planejamento de 2027; distinguir o contrato máster da estimativa mais ampla de perdas apresentada pelo presidente Bap.
+- **Ressalva editorial:** os R$ 400 milhões a R$ 430 milhões são uma estimativa atribuída ao presidente do Flamengo, não uma perda já realizada nem um valor atribuível exclusivamente à Betano.
+- **Registro editorial:** publicação confirmada; incluir no histórico e retirar a peça da fila de produção. A pauta anterior sobre o balanço do 3º trimestre, déficit projetado e vendas de atletas permanece distinta e precisa de revisão própria.
