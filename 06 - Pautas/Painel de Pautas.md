@@ -2829,3 +2829,13 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Ângulo:** aniversário de 131 anos do Flamengo; homenagem a Arrascaeta e Bruno Henrique; decisão da Copa do Brasil Feminina entre Flamengo Maricá e Internacional; expectativa para Flamengo x Athletico-PR.
 - **Proveniência:** texto-base fornecido pelo editor; formatação editorial e pacote de SEO preparados em colaboração.
 - **Registro editorial:** publicação confirmada pelo editor; peça encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Boca Juniors x Flamengo: onde assistir à Liga Sul-Americana (15/11/2026)
+
+- **Estado:** publicada em 15/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título:** *Boca Juniors x Flamengo: onde assistir ao vivo, horário e o que está em jogo na Liga Sul-Americana*.
+- **URL pública:** https://fla10.news/noticias/boca-juniors-x-flamengo-onde-assistir-ao-vivo-horario-e-o-que-esta-em-jogo-na-liga-sul-americana
+- **Formato:** matéria de serviço — onde assistir.
+- **Competição:** Liga Sul-Americana de Basquete 2026, Grupo F.
+- **Registro editorial:** publicação confirmada pelo editor; pauta de serviço encerrada e incluída no histórico de publicações. Dados específicos de horário, local e transmissão não foram replicados neste registro porque não foram fornecidos nesta confirmação.
