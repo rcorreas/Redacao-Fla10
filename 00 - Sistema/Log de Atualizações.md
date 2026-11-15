@@ -1056,3 +1056,12 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - **Dados registrados:** partida em 13/11/2026, às 22h40 (de Brasília), no Coliseo Universidad de Medellín, em Medellín, Colômbia; transmissão pelo canal oficial da FIBA no YouTube e pela BasqueteTV, conforme a Liga Nacional de Basquete.
 - **Controle de redundância:** publicação distinta do serviço de 23/10 sobre a estreia do Flamengo contra o Paisas na primeira fase; esta matéria trata do reencontro nas quartas de final, pelo Grupo F.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo publicado no portal não foi alterado por esta operação.
+
+
+## 2026-11-15 — Publicação confirmada: Boca Juniors x Flamengo — onde assistir à Liga Sul-Americana
+- O editor confirmou a publicação da matéria **“Boca Juniors x Flamengo: onde assistir ao vivo, horário e o que está em jogo na Liga Sul-Americana”**.
+- **URL pública:** https://fla10.news/noticias/boca-juniors-x-flamengo-onde-assistir-ao-vivo-horario-e-o-que-esta-em-jogo-na-liga-sul-americana
+- Criada a ficha editorial `06 - Pautas/2026-11-15 - Boca Juniors x Flamengo - onde assistir Liga Sul-Americana.md`, com status publicada e dados estritamente confirmados nesta atualização.
+- Atualizado o Painel de Pautas para registrar a publicação e encerrar a pauta de serviço.
+- Horário, local e canais de transmissão não foram repetidos no registro por não constarem na confirmação recebida nesta conversa.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo publicado no portal não foi alterado por esta operação.
