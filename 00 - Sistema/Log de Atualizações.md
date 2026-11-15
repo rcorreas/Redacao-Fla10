@@ -1065,3 +1065,12 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Atualizado o Painel de Pautas para registrar a publicação e encerrar a pauta de serviço.
 - Horário, local e canais de transmissão não foram repetidos no registro por não constarem na confirmação recebida nesta conversa.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo publicado no portal não foi alterado por esta operação.
+
+
+## 2026-11-15 — Publicação confirmada: Leônidas da Silva — Flamengo na História
+- O editor confirmou a publicação da reportagem **“Leônidas da Silva: o Diamante Negro que encantou o mundo e fez história com a camisa do Flamengo”**.
+- **URL pública:** https://fla10.news/flahistoria/leonidas-da-silva-o-diamante-negro-que-encantou-o-mundo-e-fez-historia-com-a-camisa-do-flamengo
+- Criada a ficha editorial `06 - Pautas/2026-11-15 - Leônidas da Silva - Flamengo na História.md`, com status publicada, recorte histórico, eixos editoriais e ressalva sobre a origem da bicicleta.
+- Atualizado o Painel de Pautas para registrar a publicação e encerrar a pauta.
+- **Formato:** Flamengo na História — reportagem histórica.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo publicado no portal não foi alterado por esta operação.
