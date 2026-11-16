@@ -2850,3 +2850,26 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Arquivo de produção:** [[2026-11-15 - Leônidas da Silva - Flamengo na História]].
 - **Ângulo:** trajetória do Diamante Negro, sua passagem pelo Flamengo, a Copa do Mundo de 1938, a popularização da bicicleta e o legado esportivo e social.
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Flamengo inaugura bustos de Arrascaeta e Bruno Henrique na Gávea no aniversário de 131 anos (15/11/2026)
+
+- **Estado:** publicada em 15/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *Flamengo inaugura bustos de Arrascaeta e Bruno Henrique na Gávea no aniversário de 131 anos*.
+- **URL pública:** https://fla10.news/noticias/flamengo-inaugura-bustos-de-arrascaeta-e-bruno-henrique-na-gavea-no-aniversario-de-131-anos
+- **Formato:** notícia institucional — aniversário de 131 anos do Flamengo.
+- **Ângulo:** inauguração dos bustos de Arrascaeta e Bruno Henrique na sede da Gávea, como homenagem a dois ídolos da história recente do clube.
+- **Ficha editorial:** [[2026-11-15 - Flamengo inaugura bustos de Arrascaeta e Bruno Henrique]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Flamengo vira sobre o Boca Juniors, vence por 82 a 74 e garante vaga no Final Four da Liga Sul-Americana (15/11/2026)
+
+- **Estado:** publicada em 15/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *Flamengo vira sobre o Boca Juniors, vence por 82 a 74 e garante vaga no Final Four da Liga Sul-Americana*.
+- **URL pública:** https://fla10.news/noticias/flamengo-vira-sobre-o-boca-juniors-vence-por-82-a-74-e-garante-vaga-no-final-four-da-liga-sul-americana
+- **Formato:** pós-jogo — basquete / Liga Sul-Americana.
+- **Partida e resultado:** Boca Juniors 74 x 82 Flamengo, em Medellín, pela última rodada do Grupo F.
+- **Informações centrais:** virada rubro-negra; classificação ao Final Four como líder do Grupo F; Yago Santos cestinha com 17 pontos; Emanuel Fernandes marcou 12 pontos e pegou quatro rebotes.
+- **Ficha editorial:** [[2026-11-15 - Flamengo x Boca Juniors - pós-jogo Liga Sul-Americana]].
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
