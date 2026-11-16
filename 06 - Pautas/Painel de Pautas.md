@@ -2904,3 +2904,16 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Formato:** notícia — atualização do elenco / preparação para Flamengo x Athletico-PR, pelo Brasileirão.
 - **Ângulo:** retorno de Lucas Paquetá aos treinamentos e liberação antecipada de Gonzalo Plata, com expectativa de que a dupla fique à disposição para o compromisso contra o Athletico-PR.
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — SESI Bauru x Sesc RJ Flamengo: onde assistir à Superliga (16/11/2026)
+
+- **Estado:** publicada em 16/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *SESI Bauru x Sesc RJ Flamengo: onde assistir ao vivo, horário e o que está em jogo na Superliga*.
+- **URL pública:** https://fla10.news/noticias/sesi-bauru-x-sesc-rj-flamengo-onde-assistir-ao-vivo-horario-e-o-que-esta-em-jogo-na-superliga
+- **Formato:** matéria de serviço — onde assistir, Superliga Feminina 2026/27.
+- **Partida:** SESI Vôlei Bauru x Sesc RJ Flamengo, pela sexta rodada.
+- **Data, horário e local:** 17/11/2026, às 21h30, na Arena Paulo Skaf, em Bauru (SP).
+- **Transmissão:** SporTV 2.
+- **Contexto:** confronto direto entre as equipes invictas; o Bauru chega na liderança e o Flamengo busca a sexta vitória para assumir o topo.
+- **Registro editorial:** publicação confirmada pelo editor; pauta de serviço encerrada e incluída no histórico de publicações.
