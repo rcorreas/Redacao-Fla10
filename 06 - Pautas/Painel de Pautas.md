@@ -2884,3 +2884,13 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Ângulo:** novo campo será o 12º do Ninho do Urubu e ampliará de três para quatro os gramados exclusivos do elenco principal a partir de janeiro de 2027; receberá grama híbrida Celebration Hybrid, a mesma prevista para o Maracanã.
 - **Apuração registrada:** obra iniciada em fevereiro de 2026 em terreno anexo adquirido pelo clube; plantio iniciado na semana anterior à publicação; etapas de sub-base, drenagem, brita, areia e irrigação; projeto apresentado pelo Flamengo como alinhado ao padrão Fifa Guidance.
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Athletico chega ao Maracanã em má fase, sem seu artilheiro e com problemas na defesa (16/11/2026)
+
+- **Estado:** publicada em 16/11/2026, conforme confirmação explícita do editor; pauta encerrada.
+- **Título publicado:** *Athletico chega ao Maracanã em má fase, sem seu artilheiro e com problemas na defesa*.
+- **URL pública:** https://fla10.news/noticias/athletico-chega-ao-maracana-em-ma-fase-sem-seu-artilheiro-e-com-problemas-na-defesa
+- **Formato:** análise de adversário / pré-jogo — Flamengo x Athletico-PR, 35ª rodada do Brasileirão.
+- **Ângulo:** momento recente do Furacão, posição na tabela, sequência sem vitórias, desfalques de Kevin Viveros, Dantas e Arthur Dias, alternativas de Odair Hellmann e fragilidades defensivas.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
