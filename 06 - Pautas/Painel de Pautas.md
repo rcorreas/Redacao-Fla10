@@ -2894,3 +2894,13 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Formato:** análise de adversário / pré-jogo — Flamengo x Athletico-PR, 35ª rodada do Brasileirão.
 - **Ângulo:** momento recente do Furacão, posição na tabela, sequência sem vitórias, desfalques de Kevin Viveros, Dantas e Arthur Dias, alternativas de Odair Hellmann e fragilidades defensivas.
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Paquetá volta aos treinos e Plata é liberado mais cedo; dupla deve reforçar o Flamengo contra o Athletico-PR (16/11/2026)
+
+- **Estado:** publicada em 16/11/2026, conforme confirmação explícita do editor; pauta encerrada.
+- **Título publicado:** *Paquetá volta aos treinos e Plata é liberado mais cedo; dupla deve reforçar o Flamengo contra o Athletico-PR*.
+- **URL pública:** https://fla10.news/noticias/paqueta-volta-aos-treinos-e-plata-e-liberado-mais-cedo-dupla-deve-reforcar-o-flamengo-contra-o-athletico-pr
+- **Formato:** notícia — atualização do elenco / preparação para Flamengo x Athletico-PR, pelo Brasileirão.
+- **Ângulo:** retorno de Lucas Paquetá aos treinamentos e liberação antecipada de Gonzalo Plata, com expectativa de que a dupla fique à disposição para o compromisso contra o Athletico-PR.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
