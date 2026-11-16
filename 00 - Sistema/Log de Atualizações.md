@@ -1074,3 +1074,21 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - Atualizado o Painel de Pautas para registrar a publicação e encerrar a pauta.
 - **Formato:** Flamengo na História — reportagem histórica.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo publicado no portal não foi alterado por esta operação.
+
+
+## 2026-11-15 — Publicação confirmada: Flamengo inaugura bustos de Arrascaeta e Bruno Henrique
+- O editor confirmou a publicação da matéria **“Flamengo inaugura bustos de Arrascaeta e Bruno Henrique na Gávea no aniversário de 131 anos”**.
+- **URL pública:** https://fla10.news/noticias/flamengo-inaugura-bustos-de-arrascaeta-e-bruno-henrique-na-gavea-no-aniversario-de-131-anos
+- Criada a ficha editorial `06 - Pautas/2026-11-15 - Flamengo inaugura bustos de Arrascaeta e Bruno Henrique.md` e atualizado o Painel de Pautas.
+- **Formato:** notícia institucional sobre a homenagem realizada na Gávea durante as comemorações dos 131 anos do clube.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-11-15 — Publicação confirmada: Flamengo x Boca Juniors — pós-jogo da Liga Sul-Americana
+- O editor confirmou a publicação da matéria **“Flamengo vira sobre o Boca Juniors, vence por 82 a 74 e garante vaga no Final Four da Liga Sul-Americana”**.
+- **URL pública:** https://fla10.news/noticias/flamengo-vira-sobre-o-boca-juniors-vence-por-82-a-74-e-garante-vaga-no-final-four-da-liga-sul-americana
+- Criada a ficha editorial `06 - Pautas/2026-11-15 - Flamengo x Boca Juniors - pós-jogo Liga Sul-Americana.md` e atualizado o Painel de Pautas.
+- **Resultado:** Boca Juniors 74 x 82 Flamengo; vitória de virada em Medellín e classificação rubro-negra ao Final Four como líder do Grupo F.
+- **Destaques registrados:** Yago Santos (17 pontos) e Emanuel Fernandes (12 pontos e quatro rebotes).
+- Esta publicação é distinta da matéria de serviço **“Boca Juniors x Flamengo: onde assistir...”**, já registrada anteriormente.
+- Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
