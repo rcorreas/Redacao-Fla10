@@ -2873,3 +2873,14 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Informações centrais:** virada rubro-negra; classificação ao Final Four como líder do Grupo F; Yago Santos cestinha com 17 pontos; Emanuel Fernandes marcou 12 pontos e pegou quatro rebotes.
 - **Ficha editorial:** [[2026-11-15 - Flamengo x Boca Juniors - pós-jogo Liga Sul-Americana]].
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Flamengo terá quarto campo exclusivo para o profissional em 2027 (16/11/2026)
+
+- **Estado:** publicada em 16/11/2026, conforme confirmação explícita do editor; pauta encerrada.
+- **Título:** *Flamengo terá quarto campo exclusivo para o profissional em 2027; gramado será o mesmo do Maracanã*.
+- **URL pública:** https://fla10.news/noticias/flamengo-tera-quarto-campo-exclusivo-para-o-profissional-em-2027-gramado-sera-o-mesmo-do-maracana
+- **Formato:** notícia — infraestrutura e futebol profissional.
+- **Ângulo:** novo campo será o 12º do Ninho do Urubu e ampliará de três para quatro os gramados exclusivos do elenco principal a partir de janeiro de 2027; receberá grama híbrida Celebration Hybrid, a mesma prevista para o Maracanã.
+- **Apuração registrada:** obra iniciada em fevereiro de 2026 em terreno anexo adquirido pelo clube; plantio iniciado na semana anterior à publicação; etapas de sub-base, drenagem, brita, areia e irrigação; projeto apresentado pelo Flamengo como alinhado ao padrão Fifa Guidance.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
