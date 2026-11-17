@@ -2938,3 +2938,15 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Ângulo:** esgotamento em menos de cinco minutos da carga destinada à torcida rubro-negra para Palmeiras x Flamengo, no Nubank Parque, evidenciando a procura da Nação por acompanhar o confronto direto na reta final do campeonato.
 - **Contexto confirmado na comunicação oficial do Flamengo:** partida em 21/11/2026, às 16h30; setor visitante Sul Superior, Portão D; carga de 2 mil ingressos; preço da inteira de R$ 240; compra limitada a um ingresso por conta e exigência de cadastro e biometria facial no sistema do Palmeiras.
 - **Registro editorial:** publicação confirmada; pauta encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Flamengo conquista 17 medalhas em Portugal (17/11/2026)
+
+- **Estado:** publicada em 17/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *Flamengo conquista 17 medalhas em Portugal e confirma força da ginástica artística rubro-negra*.
+- **URL pública:** https://fla10.news/noticias/flamengo-conquista-17-medalhas-em-portugal-e-confirma-forca-da-ginastica-artistica-rubro-negra
+- **Formato:** notícia — ginástica artística / torneio internacional.
+- **Competição:** Gaia International Tournament 2026, disputado em Vila Nova de Gaia, Portugal, nos dias 14 e 15 de novembro.
+- **Resultado:** 17 medalhas — 11 ouros, quatro pratas e dois bronzes — conquistadas por cinco ginastas das categorias infantil, juvenil e adulto.
+- **Destaques:** Millena Lima conquistou cinco ouros; Duda Montesino voltou ao pódio após período afastada por lesão, com quatro medalhas; Sarah Amaral, Stella Vieira e Eva Krylova completaram a campanha.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
