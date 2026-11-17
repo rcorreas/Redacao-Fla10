@@ -2547,14 +2547,14 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Controle editorial:** matéria factual, com foco na formação rubro-negra e na representação do clube nas seleções de base. Verificar se houve atualização da lista ou mudança de status antes da redação.
 
 
-### Reportagem Fla10 — VAR no Brasileirão: diferença entre Palmeiras e Flamengo e reclamações de adversários
-- **Estado:** transferida de 08/11 para 09/11/2026 por decisão do editor; pauta em desenvolvimento, com recorte, apuração e redação ainda pendentes. A primeira versão foi considerada insatisfatória e não está aprovada para publicação.
+### Reportagem Fla10 — VAR no Brasileirão: Palmeiras acumula saldo de 21 decisões acima do Flamengo e reclamações de rivais aumentam pressão sobre a arbitragem
+- **Estado:** **publicada em 17/11/2026**, conforme confirmação explícita do editor.
+- **URL:** https://fla10.news/reportagens/var-no-brasileirao-palmeiras-acumula-saldo-21-decisoes-acima-do-flamengo-e-reclamacoes-de-rivais-aumentam-pressao-sobre-a-arbitragem
 - **Formato:** reportagem investigativa / análise sobre arbitragem e uso do VAR.
-- **Ponto de partida:** levantamento atribuído à CazéTV, creditado ao jornalista Davi Wimmer, que aponta Palmeiras com saldo de +16 (74 decisões favoráveis e 58 contrárias) e Flamengo com -5 (56 favoráveis e 61 contrárias), diferença de 21 pontos.
-- **Diretriz editorial:** retomar a discussão com o editor antes de reescrever. Não presumir que o ranking comprova favorecimento; distinguir dados estatísticos, decisões tecnicamente reconhecidas, reclamações de clubes, opiniões de comentaristas e inferências.
-- **Apuração a revisar:** origem e metodologia do levantamento; memória de cálculo e relação individual dos lances; recortes temporais e critérios de classificação; episódios envolvendo São Paulo, Vasco, Santos e Vitória; manifestações da CBF e das federações; diferenças entre as bases da CazéTV e do Espião Estatístico/ge.
-- **Ponto de controle:** a primeira versão não deve ser publicada nem tratada como texto aprovado. Na retomada, redefinir a pergunta central, a tese, o conjunto de evidências e a estrutura da reportagem com o editor.
-- **Material de referência:** dossiê em PDF enviado pelo editor nesta conversa; consultar o documento integral e suas páginas finais antes de retomar a redação.
+- **Abordagem publicada:** levantamento atribuído à CazéTV (Palmeiras +16; Flamengo -5; diferença de 21 pontos), com ressalva metodológica e distinção entre decisões favoráveis, erros reconhecidos, reclamações de clubes e avaliações de especialistas.
+- **Casos abordados:** São Paulo x Palmeiras (2024 e 2025), manifestações do Flamengo, as duas semifinais da Copa do Brasil entre Vasco e Palmeiras (2026), reclamações do Santos e do Vitória, além da discussão sobre transparência e critérios de intervenção do VAR.
+- **Conclusão editorial:** os dados e episódios justificam cobrança por critérios uniformes e maior transparência, mas não comprovam favorecimento deliberado ou esquema para beneficiar o Palmeiras.
+- **Controle:** pauta encerrada; não permanece como pendência de produção.
 
 ### Reportagem Fla10 — O Flamengo que arrecada mais, mas precisa rever sua estratégia financeira
 - **Estado:** transferida de 08/11 para 09/11/2026 por decisão do editor; aprovada, com apuração, produção e publicação pendentes.
