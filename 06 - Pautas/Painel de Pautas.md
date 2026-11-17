@@ -2917,3 +2917,14 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Transmissão:** SporTV 2.
 - **Contexto:** confronto direto entre as equipes invictas; o Bauru chega na liderança e o Flamengo busca a sexta vitória para assumir o topo.
 - **Registro editorial:** publicação confirmada pelo editor; pauta de serviço encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Maracanã fortalece o Flamengo na reta final do Brasileirão (16/11/2026)
+
+- **Estado:** publicada em 16/11/2026, conforme confirmação explícita do editor; pauta encerrada.
+- **Título publicado:** *Maracanã fortalece o Flamengo na reta final e pode ser decisivo na corrida pelo título brasileiro*.
+- **URL pública:** https://fla10.news/noticias/maracana-fortalece-o-flamengo-na-reta-final-e-pode-ser-decisivo-na-corrida-pelo-titulo-brasileiro
+- **Formato:** notícia / análise de contexto — campanha como mandante e reta final do Campeonato Brasileiro.
+- **Ângulo:** sequência de oito vitórias consecutivas como mandante no Brasileirão, desempenho no Maracanã e importância dos quatro compromissos finais na disputa pelo título.
+- **Calendário registrado:** Flamengo x Athletico-PR (18/11, Maracanã); Palmeiras x Flamengo (21/11, Nubank Parque); Coritiba x Flamengo (29/11, Couto Pereira); Flamengo x Chapecoense (02/12, Maracanã).
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
