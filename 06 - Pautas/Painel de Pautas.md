@@ -2988,3 +2988,13 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Impacto na competição:** Flamengo chegou a 18 pontos, com seis vitórias em seis jogos e nenhum set perdido, assumindo a liderança; Sesi Bauru perdeu a invencibilidade e caiu para terceiro, com 17 pontos em sete partidas.
 - **Próximo compromisso:** Sesc RJ Flamengo x Osasco, em 23/11/2026, às 21h, no Maracanãzinho.
 - **Registro editorial:** publicação confirmada pelo editor; pauta de pós-jogo encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Flamengo x Athletico-PR: Rubro-Negro defende liderança no Maracanã (18/11/2026)
+
+- **Estado:** publicada em 18/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *Flamengo x Athletico-PR: Rubro-Negro defende liderança no Maracanã antes de confronto direto com Palmeiras*.
+- **URL pública:** https://fla10.news/noticias/flamengo-x-athletico-pr-rubro-negro-defende-lideranca-no-maracana-antes-de-confronto-direto-com-palmeiras
+- **Formato:** pré-jogo analítico / serviço — 35ª rodada do Campeonato Brasileiro.
+- **Ângulo:** Flamengo defende a liderança com 76 pontos e três de vantagem sobre o Palmeiras; oito jogadores pendurados; preparação para o confronto direto de 21/11.
+- **Registro editorial:** publicação confirmada pelo editor; pauta de pré-jogo encerrada e incluída no histórico de publicações.
