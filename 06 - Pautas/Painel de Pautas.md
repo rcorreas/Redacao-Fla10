@@ -3017,3 +3017,14 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Formato:** notícia — escalação oficial / serviço de jogo, Flamengo x Athletico-PR, pela 35ª rodada do Campeonato Brasileiro.
 - **Ângulo:** retorno de Alex Sandro à equipe titular e manutenção de Varela na lateral direita; escalação confirmada para a partida no Maracanã.
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Flamengo vence o Botafogo por 2 a 1 e assume vice-liderança do Carioca Feminino (18/11/2026)
+
+- **Estado:** publicada em 18/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *Flamengo vence o Botafogo por 2 a 1, mantém 100% de aproveitamento e assume vice-liderança do Carioca Feminino*.
+- **URL pública:** https://fla10.news/noticias/flamengo-vence-o-botafogo-por-2-a-1-mantem-100-de-aproveitamento-e-assume-vice-lideranca-do-carioca-feminino
+- **Formato:** pós-jogo — Campeonato Carioca Feminino 2026, segunda fase, terceira rodada.
+- **Partida:** Flamengo Maricá 2 x 1 Botafogo, em 18/11/2026, no Estádio Municipal João Saldanha, em Maricá (RJ).
+- **Gols:** Brendha (2) para o Flamengo; Jullia para o Botafogo.
+- **Resultado editorial:** pauta de pós-jogo encerrada; publicação incluída no histórico.
