@@ -2998,3 +2998,12 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Formato:** pré-jogo analítico / serviço — 35ª rodada do Campeonato Brasileiro.
 - **Ângulo:** Flamengo defende a liderança com 76 pontos e três de vantagem sobre o Palmeiras; oito jogadores pendurados; preparação para o confronto direto de 21/11.
 - **Registro editorial:** publicação confirmada pelo editor; pauta de pré-jogo encerrada e incluída no histórico de publicações.
+
+## Publicação confirmada — Gallardo confirma que Plata pediu para deixar o Equador e atacante volta ao Flamengo (18/11/2026)
+
+- **Estado:** publicada em 18/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *Gallardo confirma que Plata pediu para deixar o Equador; atacante volta ao Flamengo e fica à disposição contra o Athletico*.
+- **URL pública:** https://fla10.news/noticias/gallardo-confirma-que-plata-pediu-para-deixar-o-equador-atacante-volta-ao-flamengo-e-fica-a-disposicao-contra-o-athletico
+- **Formato:** notícia — atualização de elenco / repercussão da Data Fifa.
+- **Ângulo:** Marcelo Gallardo explicou que Gonzalo Plata pediu para retornar antecipadamente ao Brasil por motivos pessoais; o treinador aceitou a justificativa e liberou o atacante, que fica à disposição do Flamengo para enfrentar o Athletico-PR.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
