@@ -2975,3 +2975,16 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Contexto:** Flamengo líder com 76 pontos, três à frente do Palmeiras; Athletico-PR em quinto lugar, com 54 pontos. O confronto antecede o duelo direto entre Flamengo e Palmeiras, em 21/11.
 - **Técnico do Flamengo:** Leonardo Jardim.
 - **Registro editorial:** publicação confirmada pelo editor; pauta de serviço encerrada e incluída no histórico de publicações.
+
+## Publicação confirmada — Sesc RJ Flamengo vence Sesi Bauru e assume a liderança invicta da Superliga (17/11/2026)
+
+- **Estado:** publicada em 17/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *Sesc RJ Flamengo vence Sesi Bauru por 3 a 0, quebra invencibilidade e assume liderança invicta da Superliga*.
+- **URL pública:** https://fla10.news/noticias/sesc-rj-flamengo-vence-sesi-bauru-por-3-a-0-quebra-invencibilidade-e-assume-lideranca-invicta-da-superliga
+- **Formato:** pós-jogo — vôlei / Superliga Feminina 2026/27.
+- **Partida:** Sesi Bauru 0 x 3 Sesc RJ Flamengo, em 17/11/2026, na Arena Paulo Skaf, pela sexta rodada.
+- **Parciais:** 19/25, 16/25 e 24/26.
+- **Destaque individual:** Tainara marcou 17 pontos, foi a maior pontuadora do confronto e recebeu o troféu VivaVôlei.
+- **Impacto na competição:** Flamengo chegou a 18 pontos, com seis vitórias em seis jogos e nenhum set perdido, assumindo a liderança; Sesi Bauru perdeu a invencibilidade e caiu para terceiro, com 17 pontos em sete partidas.
+- **Próximo compromisso:** Sesc RJ Flamengo x Osasco, em 23/11/2026, às 21h, no Maracanãzinho.
+- **Registro editorial:** publicação confirmada pelo editor; pauta de pós-jogo encerrada e incluída no histórico de publicações.
