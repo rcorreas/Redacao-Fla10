@@ -2962,3 +2962,16 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Data e local:** 18/11/2026, no Estádio João Saldanha, em Maricá (RJ).
 - **Transmissão:** FlamengoTV, pelo YouTube — link informado pelo editor: https://www.youtube.com/watch?v=MaTpJhgfSVk.
 - **Registro editorial:** publicação confirmada pelo editor; pauta de serviço encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Flamengo x Athletico-PR: onde assistir pelo Brasileirão (17/11/2026)
+
+- **Estado:** publicada em 17/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *Flamengo x Athletico-PR: onde assistir ao vivo, horário, escalações e o que está em jogo na reta final do Brasileirão*.
+- **URL pública:** https://fla10.news/noticias/flamengo-x-athletico-pr-onde-assistir-ao-vivo-horario-escalacoes-e-o-que-esta-em-jogo-na-reta-final-do-brasileirao
+- **Formato:** matéria de serviço — onde assistir, prováveis escalações, arbitragem e contexto da 35ª rodada do Campeonato Brasileiro.
+- **Partida:** Flamengo x Athletico-PR, em 18/11/2026, às 20h30, no Maracanã.
+- **Transmissão:** SporTV e Premiere.
+- **Contexto:** Flamengo líder com 76 pontos, três à frente do Palmeiras; Athletico-PR em quinto lugar, com 54 pontos. O confronto antecede o duelo direto entre Flamengo e Palmeiras, em 21/11.
+- **Técnico do Flamengo:** Leonardo Jardim.
+- **Registro editorial:** publicação confirmada pelo editor; pauta de serviço encerrada e incluída no histórico de publicações.
