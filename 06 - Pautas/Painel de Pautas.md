@@ -3007,3 +3007,13 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Formato:** notícia — atualização de elenco / repercussão da Data Fifa.
 - **Ângulo:** Marcelo Gallardo explicou que Gonzalo Plata pediu para retornar antecipadamente ao Brasil por motivos pessoais; o treinador aceitou a justificativa e liberou o atacante, que fica à disposição do Flamengo para enfrentar o Athletico-PR.
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Escalação confirmada: Alex Sandro volta e Varela mantém a lateral direita contra o Athletico (18/11/2026)
+
+- **Estado:** publicada em 18/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *Escalação confirmada: Alex Sandro volta e Varela mantém a lateral direita contra o Athletico*.
+- **URL pública:** https://fla10.news/noticias/escalacao-confirmada-alex-sandro-volta-e-varela-mantem-a-lateral-direita-contra-o-athletico
+- **Formato:** notícia — escalação oficial / serviço de jogo, Flamengo x Athletico-PR, pela 35ª rodada do Campeonato Brasileiro.
+- **Ângulo:** retorno de Alex Sandro à equipe titular e manutenção de Varela na lateral direita; escalação confirmada para a partida no Maracanã.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
