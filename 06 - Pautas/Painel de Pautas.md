@@ -2950,3 +2950,15 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Resultado:** 17 medalhas — 11 ouros, quatro pratas e dois bronzes — conquistadas por cinco ginastas das categorias infantil, juvenil e adulto.
 - **Destaques:** Millena Lima conquistou cinco ouros; Duda Montesino voltou ao pódio após período afastada por lesão, com quatro medalhas; Sarah Amaral, Stella Vieira e Eva Krylova completaram a campanha.
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Flamengo Maricá x Botafogo: onde assistir ao Carioca Feminino (17/11/2026)
+
+- **Estado:** publicada em 17/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *Flamengo Maricá x Botafogo: onde assistir ao vivo, horário e o que está em jogo no Carioca Feminino*.
+- **URL pública:** https://fla10.news/noticias/flamengo-marica-x-botafogo-onde-assistir-ao-vivo-horario-e-o-que-esta-em-jogo-no-carioca-feminino
+- **Formato:** matéria de serviço — onde assistir, Campeonato Carioca Feminino 2026.
+- **Partida:** Flamengo Maricá x Botafogo, pela terceira rodada da segunda fase do Estadual.
+- **Data e local:** 18/11/2026, no Estádio João Saldanha, em Maricá (RJ).
+- **Transmissão:** FlamengoTV, pelo YouTube — link informado pelo editor: https://www.youtube.com/watch?v=MaTpJhgfSVk.
+- **Registro editorial:** publicação confirmada pelo editor; pauta de serviço encerrada e incluída no histórico de publicações.
