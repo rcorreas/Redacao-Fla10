@@ -3094,3 +3094,14 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Ângulo:** crônica bem-humorada sobre a vitória de virada do Flamengo por 2 a 1 sobre o Athletico-PR, a queda de intensidade no segundo tempo, as substituições de Leonardo Jardim e a expectativa para o confronto direto com o Palmeiras, em que um empate pode garantir matematicamente o título brasileiro.
 - **Produção:** texto-base fornecido pelo editor; revisão de formatação e pacote de SEO realizados em colaboração.
 - **Registro editorial:** publicação confirmada; pauta encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Flamengo pode ser campeão na casa do Palmeiras, mas taça deve ficar para o Maracanã (19/11/2026)
+
+- **Estado:** publicada em 19/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *Flamengo pode ser campeão na casa do Palmeiras, mas taça deve ficar para o Maracanã*.
+- **URL pública:** https://fla10.news/noticias/flamengo-pode-ser-campeao-na-casa-do-palmeiras-mas-taca-deve-ficar-para-o-maracana
+- **Formato:** notícia — reta final do Campeonato Brasileiro 2026 / possível cerimônia de entrega do troféu.
+- **Ângulo:** Flamengo pode garantir matematicamente o título diante do Palmeiras, no Nubank Parque, com um empate; planejamento atribuído à CBF pela imprensa prevê a entrega da taça no primeiro jogo do campeão como mandante após a conquista, potencialmente contra a Chapecoense, no Maracanã.
+- **Ressalva factual:** a cerimônia no Maracanã foi apresentada como planejamento reportado pela imprensa, não como confirmação oficial definitiva da CBF.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
