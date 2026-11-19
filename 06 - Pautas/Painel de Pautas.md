@@ -3028,3 +3028,16 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Partida:** Flamengo Maricá 2 x 1 Botafogo, em 18/11/2026, no Estádio Municipal João Saldanha, em Maricá (RJ).
 - **Gols:** Brendha (2) para o Flamengo; Jullia para o Botafogo.
 - **Resultado editorial:** pauta de pós-jogo encerrada; publicação incluída no histórico.
+
+## Publicação confirmada — Flamengo vence o Athletico-PR, abre seis pontos sobre o Palmeiras e fica perto do título brasileiro (18/11/2026)
+
+- **Estado:** publicada em 18/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *Flamengo vence o Athletico-PR, abre seis pontos sobre o Palmeiras e fica perto do título brasileiro*.
+- **URL pública:** https://fla10.news/noticias/flamengo-vence-o-athletico-pr-abre-seis-pontos-sobre-o-palmeiras-e-fica-perto-do-titulo-brasileiro
+- **Formato:** pós-jogo — Campeonato Brasileiro 2026, 35ª rodada.
+- **Partida:** Flamengo 2 x 1 Athletico-PR, em 18/11/2026, no Maracanã.
+- **Gols:** Kerwin Vargas abriu o placar para o Athletico-PR; Carrascal empatou e Jorginho marcou o gol da virada rubro-negra.
+- **Contexto da classificação:** com a derrota do Palmeiras por 2 a 1 para o Cruzeiro, o Flamengo chegou a 79 pontos e abriu seis de vantagem na liderança, a três rodadas do fim.
+- **Próximo compromisso:** Palmeiras x Flamengo, em 21/11/2026, às 16h30, no Nubank Parque; o confronto direto poderá confirmar matematicamente o título.
+- **Desfalques registrados:** Erick Pulgar e Léo Pereira receberam o terceiro cartão amarelo e estão suspensos para a partida contra o Palmeiras.
+- **Registro editorial:** pauta de pós-jogo encerrada; publicação incluída no histórico.
