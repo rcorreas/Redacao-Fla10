@@ -3114,3 +3114,14 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **URL pública:** https://fla10.news/videos/o-espetaculo-da-nacao-rubro-negra
 - **Formato:** vídeo — torcida / conteúdo audiovisual.
 - **Registro editorial:** publicação confirmada pelo editor; item encerrado e incluído no histórico de publicações.
+
+
+## Publicação confirmada — Maracanã vira palco de espetáculo da Nação (19/11/2026)
+
+- **Estado:** publicada em 19/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *Maracanã vira palco de espetáculo da Nação, que empurra o Flamengo e transforma noite em uma festa Rubro-Negra*.
+- **URL pública:** https://fla10.news/noticias/maracana-vira-palco-de-espetaculo-da-nacao-que-empurra-flamengo-e-transforma-noite-em-festa
+- **Formato:** notícia especial — torcida / ambiente de jogo / Campeonato Brasileiro 2026.
+- **Partida:** Flamengo 2 x 1 Athletico-PR, em 18/11/2026, no Maracanã.
+- **Ângulo:** festa da Nação com 68.545 torcedores, bandeiras e mosaico na entrada dos jogadores, apresentações de Mocidade Independente de Padre Miguel e Mangueira, e apoio da arquibancada nos momentos de maior pressão do segundo tempo.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
