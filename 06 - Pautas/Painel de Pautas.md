@@ -3082,3 +3082,15 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Formato:** Reportagens Fla10 — regulação, sustentabilidade financeira e governança do futebol brasileiro.
 - **Ângulo:** posição do Flamengo em defesa da manutenção do cronograma do Sistema de Sustentabilidade Financeira da CBF; prazo de transição das dívidas anteriores a 2026; debate sobre sanções, igualdade entre clubes associativos e SAFs, transparência dos investimentos e fiscalização pela ANRESF.
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Boteco Fla10: “Ganhamo, porra! Mas precisava desse teste cardíaco, Jardim?” (19/11/2026)
+
+- **Estado:** publicada em 19/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *Ganhamo, porra! Mas precisava desse teste cardíaco, Jardim?*
+- **URL pública:** https://fla10.news/voz-torcedor/ganhamo-porra-mas-precisava-desse-teste-cardiaco-jardim-
+- **Formato:** A Voz do Torcedor — Boteco Fla10 News.
+- **Autor/persona:** Cadu — Mesa de Bar, Voz da Nação.
+- **Ângulo:** crônica bem-humorada sobre a vitória de virada do Flamengo por 2 a 1 sobre o Athletico-PR, a queda de intensidade no segundo tempo, as substituições de Leonardo Jardim e a expectativa para o confronto direto com o Palmeiras, em que um empate pode garantir matematicamente o título brasileiro.
+- **Produção:** texto-base fornecido pelo editor; revisão de formatação e pacote de SEO realizados em colaboração.
+- **Registro editorial:** publicação confirmada; pauta encerrada e incluída no histórico de publicações.
