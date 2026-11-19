@@ -3041,3 +3041,13 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Próximo compromisso:** Palmeiras x Flamengo, em 21/11/2026, às 16h30, no Nubank Parque; o confronto direto poderá confirmar matematicamente o título.
 - **Desfalques registrados:** Erick Pulgar e Léo Pereira receberam o terceiro cartão amarelo e estão suspensos para a partida contra o Palmeiras.
 - **Registro editorial:** pauta de pós-jogo encerrada; publicação incluída no histórico.
+
+
+## Publicação confirmada — Depois do Apito: O Flamengo está muito perto da taça, mas ainda precisa jogar como se ainda estivesse longe (18/11/2026)
+
+- **Estado:** publicada em 18/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *Depois do Apito: O Flamengo está muito perto da taça, mas ainda precisa jogar como se ainda estivesse longe*.
+- **URL pública:** https://fla10.news/colunas/o-flamengo-esta-muito-perto-da-taca-mas-ainda-precisa-jogar-como-se-ainda-estivesse-longe
+- **Formato:** crônica — coluna Depois do Apito, assinada pela persona editorial Miguel Sampaio.
+- **Ângulo:** a reação do Flamengo ao golaço de Kerwin Vargas, a queda de intensidade no segundo tempo, a vantagem aberta sobre o Palmeiras e a necessidade de transformar a proximidade do título em conquista; registra também as suspensões de Pulgar e Léo Pereira para o confronto direto.
+- **Registro editorial:** crônica publicada; item encerrado e incluído no histórico de publicações.
