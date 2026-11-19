@@ -3051,3 +3051,14 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Formato:** crônica — coluna Depois do Apito, assinada pela persona editorial Miguel Sampaio.
 - **Ângulo:** a reação do Flamengo ao golaço de Kerwin Vargas, a queda de intensidade no segundo tempo, a vantagem aberta sobre o Palmeiras e a necessidade de transformar a proximidade do título em conquista; registra também as suspensões de Pulgar e Léo Pereira para o confronto direto.
 - **Registro editorial:** crônica publicada; item encerrado e incluído no histórico de publicações.
+
+
+## Publicação confirmada — Flamengo vence, mas perde o controle: virada sobre o Athletico expõe limites da equipe de Jardim (19/11/2026)
+
+- **Estado:** publicada em 19/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *Flamengo vence, mas perde o controle: virada sobre o Athletico expõe limites da equipe de Jardim*.
+- **URL pública:** https://fla10.news/noticias/flamengo-vence-mas-perde-o-controle-virada-sobre-o-athletico-expoe-limites-da-equipe-de-jardim
+- **Formato:** análise jornalística — Campeonato Brasileiro 2026, 35ª rodada.
+- **Partida:** Flamengo 2 x 1 Athletico-PR, em 18/11/2026, no Maracanã.
+- **Ângulo:** reação rubro-negra ao golaço de Kerwin Vargas, construção da virada com Carrascal e Jorginho, perda de intensidade no segundo tempo, crescimento do Athletico e desafios de Leonardo Jardim antes do confronto direto com o Palmeiras.
+- **Registro editorial:** análise publicada; pauta encerrada e incluída no histórico de publicações.
