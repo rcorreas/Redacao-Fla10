@@ -3062,3 +3062,14 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Partida:** Flamengo 2 x 1 Athletico-PR, em 18/11/2026, no Maracanã.
 - **Ângulo:** reação rubro-negra ao golaço de Kerwin Vargas, construção da virada com Carrascal e Jorginho, perda de intensidade no segundo tempo, crescimento do Athletico e desafios de Leonardo Jardim antes do confronto direto com o Palmeiras.
 - **Registro editorial:** análise publicada; pauta encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Raio-X Tático: Flamengo x Athletico-PR (19/11/2026)
+
+- **Estado:** publicada em 19/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *Raio-X Tático: Flamengo pressiona, vira o jogo e perde o controle diante do Athletico*.
+- **URL pública:** https://fla10.news/raio-x/raio-x-tatico-flamengo-pressiona-vira-o-jogo-e-perde-o-controle-diante-do-athletico
+- **Formato:** Raio-X Tático — Campeonato Brasileiro 2026, 35ª rodada.
+- **Partida:** Flamengo 2 x 1 Athletico-PR, em 18/11/2026, no Maracanã.
+- **Abordagem:** análise das estruturas iniciais, pressão e progressão do Flamengo no primeiro tempo, mecanismos do 3-4-2-1 do Athletico-PR, construção dos gols, queda de intensidade rubro-negra no segundo tempo e alterações das equipes.
+- **Registro editorial:** Raio-X Tático publicado; pauta encerrada e incluída no histórico de publicações.
