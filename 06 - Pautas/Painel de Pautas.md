@@ -3105,3 +3105,12 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Ângulo:** Flamengo pode garantir matematicamente o título diante do Palmeiras, no Nubank Parque, com um empate; planejamento atribuído à CBF pela imprensa prevê a entrega da taça no primeiro jogo do campeão como mandante após a conquista, potencialmente contra a Chapecoense, no Maracanã.
 - **Ressalva factual:** a cerimônia no Maracanã foi apresentada como planejamento reportado pela imprensa, não como confirmação oficial definitiva da CBF.
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — O espetáculo da Nação Rubro-Negra (19/11/2026)
+
+- **Estado:** publicado em 19/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *O espetáculo da Nação Rubro-Negra*.
+- **URL pública:** https://fla10.news/videos/o-espetaculo-da-nacao-rubro-negra
+- **Formato:** vídeo — torcida / conteúdo audiovisual.
+- **Registro editorial:** publicação confirmada pelo editor; item encerrado e incluído no histórico de publicações.
