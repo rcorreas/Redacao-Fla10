@@ -3073,3 +3073,12 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Partida:** Flamengo 2 x 1 Athletico-PR, em 18/11/2026, no Maracanã.
 - **Abordagem:** análise das estruturas iniciais, pressão e progressão do Flamengo no primeiro tempo, mecanismos do 3-4-2-1 do Athletico-PR, construção dos gols, queda de intensidade rubro-negra no segundo tempo e alterações das equipes.
 - **Registro editorial:** Raio-X Tático publicado; pauta encerrada e incluída no histórico de publicações.
+
+## Publicação confirmada — Flamengo cobra rigor no fair play financeiro (19/11/2026)
+
+- **Estado:** publicada em 19/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *Flamengo cobra rigor no fair play financeiro e rejeita adiamento de punições no futebol brasileiro*.
+- **URL pública:** https://fla10.news/reportagens/flamengo-cobra-rigor-no-fair-play-financeiro-e-rejeita-adiamento-de-punicoes-no-futebol-brasileiro
+- **Formato:** Reportagens Fla10 — regulação, sustentabilidade financeira e governança do futebol brasileiro.
+- **Ângulo:** posição do Flamengo em defesa da manutenção do cronograma do Sistema de Sustentabilidade Financeira da CBF; prazo de transição das dívidas anteriores a 2026; debate sobre sanções, igualdade entre clubes associativos e SAFs, transparência dos investimentos e fiscalização pela ANRESF.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
