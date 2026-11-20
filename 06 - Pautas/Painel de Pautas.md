@@ -3208,3 +3208,15 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Produção:** pesquisa, apuração, redação e revisão em colaboração entre editor e IA.
 - **Arquivo de produção e histórico:** [[2026-11-20 - Sem Betano Flamengo - patrocínio master]].
 - **Registro editorial:** publicação confirmada pelo editor; item encerrado e incluído no histórico de publicações.
+
+
+## Publicação confirmada — Abel não confirma time reserva e coloca finais na frente: como o Palmeiras chega para a decisão contra o Flamengo (20/11/2026)
+
+- **Estado:** publicada em 20/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *Abel não confirma time reserva e coloca finais na frente: como o Palmeiras chega para a decisão contra o Flamengo*.
+- **URL pública:** https://fla10.news/noticias/abel-nao-confirma-time-reserva-e-coloca-finais-na-frente-como-o-palmeiras-chega-para-a-decisao-contra-o-flamengo
+- **Formato:** notícia — pré-jogo / contexto do adversário, Palmeiras x Flamengo.
+- **Origem:** publicação informada pelo editor; não atribuída a pauta previamente programada.
+- **Ângulo:** Abel Ferreira não confirma se escalará uma equipe reserva e coloca as finais no centro das prioridades do Palmeiras antes da decisão contra o Flamengo.
+- **Arquivo de produção e histórico:** [[2026-11-20 - Abel Palmeiras antes da decisao]].
+- **Registro editorial:** publicação confirmada pelo editor; item encerrado e incluído no histórico de publicações.
