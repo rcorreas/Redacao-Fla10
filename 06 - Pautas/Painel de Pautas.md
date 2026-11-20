@@ -1983,8 +1983,9 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 
 ### 21/11/2026 — sábado
 - **Evento:** Palmeiras x Flamengo — Brasileirão; 16h30, Nubank Parque.
-- **Pauta de serviço:** Onde assistir — 20/11.
+- **Pauta de serviço:** Onde assistir — produção e publicação somente depois das 20h30 de 20/11, por orientação do editor; não antecipar a produção/publicação.
 - **Cobertura no evento:** pré-jogo pela manhã; pós-jogo; análise jornalística; Depois do Apito; Raio-X Tático.
+- **Fla Tirinhas:** incluir uma tirinha na agenda de 21/11; tema ainda a decidir pelo editor.
 - **Classificação editorial:** futebol masculino profissional — equipe principal.
 
 ### 23/11/2026 — segunda-feira
@@ -2379,15 +2380,15 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Registro editorial:** publicação confirmada pelo editor; pauta de pós-jogo encerrada e incluída no histórico de publicações.
 
 
-## Série editorial — Flamengo na História (sábados)
+## Série editorial — Flamengo na História
 
-**Estado:** programação corrigida em 07/11/2026 por orientação do editor. A pauta de 1912 já foi publicada e sai da fila de produção. O tema escolhido para a edição de hoje é 1914. Publicar uma pauta por sábado, na ordem abaixo. O Fla-Flu de 1963 permanece excluído por já ter sido publicado.
+**Estado:** programação corrigida em 20/11/2026 por orientação do editor. A pauta de 1912 já foi publicada e sai da fila de produção. O Fla-Flu de 1963 permanece excluído por já ter sido publicado. Publicar uma pauta por edição semanal, respeitando as datas atualizadas abaixo.
 
 | Data | Pauta | Estado |
 |---|---|---|
 | 07/11/2026 | 1914: O primeiro título estadual que começou a construir a grandeza do Flamengo | **Publicada em 07/11/2026** |
 | 14/11/2026 | Leônidas da Silva: o Diamante Negro que ajudou a transformar o Flamengo | Programada |
-| 21/11/2026 | 1953–1955: O segundo tricampeonato carioca — como o Flamengo voltou a dominar o Rio | Programada |
+| 22/11/2026 | 1953–1955: O segundo tricampeonato carioca — como o Flamengo voltou a dominar o Rio | Programada — transferida de 21/11 para domingo, por decisão do editor |
 | 28/11/2026 | Como o Flamengo se tornou o clube de uma Nação | Programada |
 | 05/12/2026 | 1992: A conquista brasileira que marcou a despedida de uma geração | Programada |
 | 12/12/2026 | 1995: Romário, Sávio e Edmundo — o time dos sonhos que não conquistou o mundo | Programada |
@@ -3183,3 +3184,14 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Formato:** notícia — serviço / cenários para a conquista do Campeonato Brasileiro 2026.
 - **Origem da pauta:** conteúdo novo, identificado e produzido em 20/11/2026; não constava de pauta anterior. Registro feito diretamente no histórico de publicações da data, sem atribuir planejamento prévio.
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
+
+## Atualização da agenda editorial — 20/11/2026
+
+- **Onde assistir — Palmeiras x Flamengo:** pauta prevista para hoje, mas sua produção/publicação está autorizada somente depois das 20h30 (horário de Brasília), por orientação expressa do editor. Não antecipar.
+- **Flamengo na História:** transferida de sábado, 21/11, para domingo, 22/11. Tema: *1953–1955: O segundo tricampeonato carioca — como o Flamengo voltou a dominar o Rio*. Produção pendente.
+- **Fla Tirinhas:** incluída na agenda de sábado, 21/11. Tema ainda não definido.
+- **Sugestões de pautas pesquisadas para publicação em 20/11 — aguardando escolha do editor:**
+  1. **Sem Betano, como o Flamengo pretende preencher o espaço mais valioso da camisa?** Apurar a suspensão temporária do contrato, a estratégia de patrocínios pontuais, as conversas para Palmeiras x Flamengo, a possibilidade de elevar um parceiro já presente no uniforme e o impacto sobre o planejamento comercial de 2027. Separar informação confirmada de negociação em andamento e não tratar a Shopee como acordo fechado para o espaço master. Base: UOL, 20/11/2026 (https://www.uol.com.br/esporte/futebol/colunas/rodrigo-mattos/2026/11/20/como-flamengo-vai-negociar-patrocinador-master-apos-suspensao-da-betano.htm); ge, 13/11/2026 (https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/13/flamengo-e-betano-debatem-suspensao-de-patrocinio.ghtml); UOL, 17/11/2026 (https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/11/17/betano-patrocinio-flamengo.ghtm).
+  2. **Os 50 jogos de Leonardo Jardim: números fortes, mas o que ainda falta para conquistar a confiança da Nação?** Analisar os 33 triunfos, 13 empates e quatro derrotas nos 50 jogos considerados pelo clube, os 98 gols marcados e 39 sofridos, o desempenho no Brasileirão e o contraste entre aproveitamento, eliminações e percepção da torcida. Contextualizar também a sequência invicta de 16 partidas. Não transformar a pauta em defesa ou ataque automático ao treinador: confrontar desempenho, resultados e identidade de jogo. Base: Flamengo, 19/11/2026 (https://www.flamengo.com.br/noticias/futebol/leonardo-jardim-completa-50-jogos-no-comando-do-flamengo); ge, 17/11/2026 (https://ge.globo.com/google/amp/futebol/times/flamengo/noticia/2026/11/17/jardim-vai-completar-50-jogos-no-flamengo-com-aproveitamento-alto-mas-desconfianca-da-torcida.ghtml).
+- **Status das sugestões:** pesquisa inicial concluída; temas não aprovados nem considerados pautas em produção até escolha do editor.
