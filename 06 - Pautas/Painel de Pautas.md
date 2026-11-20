@@ -3173,3 +3173,13 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Checklist obrigatório da agenda:** (1) calendário oficial da modalidade; (2) tabela/agenda do organizador; (3) transmissão em canal oficial ou grade do detentor dos direitos; (4) tarefa de “Onde assistir” na véspera; (5) tarefa de pós-jogo após o evento, condicionada à existência de informações suficientes.
 - **Aplicação ao caso:** Unifacisa x Flamengo — “Onde assistir” deveria constar em 18/11; transmissão SporTV confirmada pela LNB em 16/11 e pelo ge em 19/11. A tarefa não foi incluída e fica registrada como falha de agenda, não como matéria publicada.
 - **Fontes de verificação:** LNB — agenda semanal de transmissões (16/11/2026), https://lnb.com.br/noticias/onde-assistir-ao-nbb-caixa-2026-27-agenda-de-transmissoes-da-semana-5/; tabela oficial, https://lnb.com.br/nbb/tabela-de-jogos/; ge — serviço do jogo (19/11/2026), https://ge.globo.com/pb/basquete/nbb/noticia/2026/11/19/unifacisa-x-flamengo-pelo-nbb-20262027-onde-assistir-ao-vivo-horario-e-detalhes.ghtml.
+
+
+## Publicação confirmada — À um empate do título: os cenários do Flamengo para ser campeão no sábado (20/11/2026)
+
+- **Estado:** publicada em 20/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *À um empate do título: os cenários do Flamengo para ser campeão no sábado*.
+- **URL pública:** https://fla10.news/noticias/a-um-empate-do-titulo-os-cenarios-do-flamengo-para-ser-campeao-no-sabado
+- **Formato:** notícia — serviço / cenários para a conquista do Campeonato Brasileiro 2026.
+- **Origem da pauta:** conteúdo novo, identificado e produzido em 20/11/2026; não constava de pauta anterior. Registro feito diretamente no histórico de publicações da data, sem atribuir planejamento prévio.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
