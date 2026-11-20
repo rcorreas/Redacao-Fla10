@@ -3220,3 +3220,15 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Ângulo:** Abel Ferreira não confirma se escalará uma equipe reserva e coloca as finais no centro das prioridades do Palmeiras antes da decisão contra o Flamengo.
 - **Arquivo de produção e histórico:** [[2026-11-20 - Abel Palmeiras antes da decisao]].
 - **Registro editorial:** publicação confirmada pelo editor; item encerrado e incluído no histórico de publicações.
+
+
+## Publicação confirmada — AeroFla termina em desencontro (20/11/2026)
+
+- **Estado:** publicada em 20/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *AeroFla termina em desencontro: torcida lota o Galeão, mas delegação passa por outro acesso e não encontra a Nação*.
+- **URL pública:** https://fla10.news/noticias/aerofla-termina-em-desencontro-torcida-lota-o-galeao-mas-delegacao-passa-por-outro-acesso-e-nao-encontra-a-nacao
+- **Formato:** notícia — torcida / mobilização pré-jogo / Palmeiras x Flamengo.
+- **Origem:** matéria produzida em colaboração e publicada após solicitação do editor; registro incluído no histórico de publicações, sem atribuir pauta prévia.
+- **Ângulo:** desencontro no Galeão após alteração do acesso da delegação; explicações de José Boto e Danilo, posição do Flamengo e frustração dos torcedores.
+- **Arquivo de produção e histórico:** [[2026-11-20 - AeroFla termina em desencontro]].
+- **Registro editorial:** publicação confirmada pelo editor; item encerrado e incluído no histórico de publicações.
