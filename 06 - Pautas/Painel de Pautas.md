@@ -3149,3 +3149,27 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Ângulo:** mobilização da Nação para recepcionar e apoiar a delegação no Aeroporto Internacional do Galeão antes do embarque para São Paulo; concentração prevista para sexta-feira (20), a partir das 12h, no Terminal de Cargas, com voo previsto para as 16h.
 - **Contexto apurado:** o Flamengo chega ao confronto na liderança, com 79 pontos contra 73 do Palmeiras, e precisa de um empate para confirmar matematicamente o título, conforme o cenário publicado em 19/11. A Prefeitura do Rio preparava operação de mobilidade e segurança para organizar a concentração; orientações oficiais deveriam ser aguardadas.
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Flamengo perde para Unifacisa no NBB (19/11/2026)
+
+- **Estado:** publicada em 19/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *Flamengo é atropelado no primeiro quarto, não sustenta reação e perde para Unifacisa no NBB*.
+- **URL pública:** https://fla10.news/noticias/flamengo-e-atropelado-no-primeiro-quarto-nao-sustenta-reacao-e-perde-para-unifacisa-no-nbb
+- **Formato:** pós-jogo — basquete masculino / NBB 2026/27.
+- **Partida:** Unifacisa 102 x 79 Flamengo, em 19/11/2026, na Arena Unifacisa, em Campina Grande (PB).
+- **Parciais:** 33–15, 25–30, 19–23 e 25–11.
+- **Destaques:** Luis Montero foi o cestinha rubro-negro, com 24 pontos e nove rebotes; Flamengo terminou em sexto lugar na classificação após a partida, conforme a LNB.
+- **Próximo compromisso:** Basquete Cearense x Flamengo, em 22/11/2026, às 16h, com transmissão pelo YouTube do NBB CAIXA e Flamengo TV.
+- **Registro editorial:** publicação confirmada pelo editor; pauta de pós-jogo encerrada e incluída no histórico.
+
+## Revisão de falha da agenda — Unifacisa x Flamengo (19/11/2026)
+
+- **Falha identificada pelo editor:** a agenda não incluiu a matéria de serviço “Onde assistir” para Unifacisa x Flamengo, realizada em 19/11/2026.
+- **O que deveria ter acontecido:** a pauta deveria ter sido identificada e programada para 18/11, véspera do jogo. A partida estava na tabela oficial da LNB às 19h, na Arena Unifacisa, e a agenda semanal de transmissões da própria Liga, publicada em 16/11, já confirmava o SporTV.
+- **Diagnóstico:** falha de cobertura do calendário e de conversão de jogos futuros em tarefas editoriais. O fluxo não pode depender apenas das pautas já lembradas, de notícias que chegam ao longo do dia ou de pedidos pontuais do editor.
+- **Correção permanente do processo:** em cada revisão de agenda, percorrer uma janela móvel mínima de sete dias e conferir os calendários oficiais de todas as equipes do Flamengo que tenham compromisso no período — futebol masculino e feminino, base, basquete, vôlei e demais modalidades acompanhadas pela Redação. Para cada jogo, registrar data, horário, competição, local e situação da transmissão, com fonte e data da checagem.
+- **Regra de antecedência:** criar a tarefa “Onde assistir” para o dia anterior a cada partida com serviço editorial pertinente. Se a transmissão ainda não estiver confirmada, não publicar nem redigir a matéria como se estivesse confirmada: registrar a pendência, acompanhar a confirmação e atualizar a agenda. Se a confirmação ocorrer apenas no dia do jogo, avaliar a publicação de serviço no próprio dia, sem inventar antecedência.
+- **Checklist obrigatório da agenda:** (1) calendário oficial da modalidade; (2) tabela/agenda do organizador; (3) transmissão em canal oficial ou grade do detentor dos direitos; (4) tarefa de “Onde assistir” na véspera; (5) tarefa de pós-jogo após o evento, condicionada à existência de informações suficientes.
+- **Aplicação ao caso:** Unifacisa x Flamengo — “Onde assistir” deveria constar em 18/11; transmissão SporTV confirmada pela LNB em 16/11 e pelo ge em 19/11. A tarefa não foi incluída e fica registrada como falha de agenda, não como matéria publicada.
+- **Fontes de verificação:** LNB — agenda semanal de transmissões (16/11/2026), https://lnb.com.br/noticias/onde-assistir-ao-nbb-caixa-2026-27-agenda-de-transmissoes-da-semana-5/; tabela oficial, https://lnb.com.br/nbb/tabela-de-jogos/; ge — serviço do jogo (19/11/2026), https://ge.globo.com/pb/basquete/nbb/noticia/2026/11/19/unifacisa-x-flamengo-pelo-nbb-20262027-onde-assistir-ao-vivo-horario-e-detalhes.ghtml.
