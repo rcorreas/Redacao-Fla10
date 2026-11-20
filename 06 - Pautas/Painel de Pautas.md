@@ -3125,3 +3125,15 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Partida:** Flamengo 2 x 1 Athletico-PR, em 18/11/2026, no Maracanã.
 - **Ângulo:** festa da Nação com 68.545 torcedores, bandeiras e mosaico na entrada dos jogadores, apresentações de Mocidade Independente de Padre Miguel e Mangueira, e apoio da arquibancada nos momentos de maior pressão do segundo tempo.
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Galeria de Arte Rubro-Negra: A arte de ser Flamengo (19/11/2026)
+
+- **Estado:** publicada em 19/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título da obra:** *A arte de ser Flamengo*.
+- **URL pública:** https://fla10.news/galeria/SUAlRlcbwYXBI1iKixIQ
+- **Formato:** Galeria de Arte Rubro-Negra — fotografia / registro visual da torcida.
+- **Obra retratada:** entrada dos jogadores de Flamengo x Athletico-PR, em 18/11/2026, no Maracanã, com bandeiras, mosaico tridimensional e cantos da Nação.
+- **Descrição editorial:** a arquibancada é apresentada metaforicamente como obra de arte viva; o urubu de asas estendidas e a mensagem de união ocupam o centro da composição, enquanto bandeiras e cantos formam sua linguagem visual e sonora. O texto contextualiza a virada por 2 a 1 e a tensão da reta decisiva do Brasileirão.
+- **Crédito conceitual:** Artista — Nação Rubro-Negra; técnica — bandeiras, mosaico, canto e paixão.
+- **Registro editorial:** publicação confirmada pelo editor; item encerrado e incluído no histórico de publicações.
