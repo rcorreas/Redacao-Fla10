@@ -3137,3 +3137,15 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Descrição editorial:** a arquibancada é apresentada metaforicamente como obra de arte viva; o urubu de asas estendidas e a mensagem de união ocupam o centro da composição, enquanto bandeiras e cantos formam sua linguagem visual e sonora. O texto contextualiza a virada por 2 a 1 e a tensão da reta decisiva do Brasileirão.
 - **Crédito conceitual:** Artista — Nação Rubro-Negra; técnica — bandeiras, mosaico, canto e paixão.
 - **Registro editorial:** publicação confirmada pelo editor; item encerrado e incluído no histórico de publicações.
+
+
+## Publicação confirmada — Aerofla: torcida do Flamengo prepara festa no Galeão antes da decisão contra o Palmeiras (19/11/2026)
+
+- **Estado:** publicada em 19/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *Aerofla: torcida do Flamengo prepara festa no Galeão antes da decisão contra o Palmeiras*.
+- **URL pública:** https://fla10.news/noticias/aerofla-torcida-do-flamengo-prepara-festa-no-galeao-antes-da-decisao-contra-o-palmeiras
+- **Formato:** notícia — torcida / mobilização pré-jogo / Campeonato Brasileiro 2026.
+- **Partida relacionada:** Palmeiras x Flamengo, em 21/11/2026, às 16h30, no Nubank Parque, pela 36ª rodada.
+- **Ângulo:** mobilização da Nação para recepcionar e apoiar a delegação no Aeroporto Internacional do Galeão antes do embarque para São Paulo; concentração prevista para sexta-feira (20), a partir das 12h, no Terminal de Cargas, com voo previsto para as 16h.
+- **Contexto apurado:** o Flamengo chega ao confronto na liderança, com 79 pontos contra 73 do Palmeiras, e precisa de um empate para confirmar matematicamente o título, conforme o cenário publicado em 19/11. A Prefeitura do Rio preparava operação de mobilidade e segurança para organizar a concentração; orientações oficiais deveriam ser aguardadas.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
