@@ -1092,3 +1092,12 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - **Destaques registrados:** Yago Santos (17 pontos) e Emanuel Fernandes (12 pontos e quatro rebotes).
 - Esta publicação é distinta da matéria de serviço **“Boca Juniors x Flamengo: onde assistir...”**, já registrada anteriormente.
 - Alterações documentais realizadas no GitHub, branch `main`. A sincronização do vault local do Obsidian não foi verificada; o conteúdo do portal não foi alterado por esta operação.
+
+
+## 2026-11-21 — Rascunho de análise jornalística: Palmeiras 1 x 1 Flamengo
+- Produzida a análise jornalística **“Flamengo reage, encontra soluções no banco e confirma o decacampeonato na casa do Palmeiras”**.
+- Arquivo: `06 - Pautas/2026-11-21 - Análise jornalística Palmeiras x Flamengo - decacampeonato.md`.
+- **Estado:** rascunho para revisão editorial; não publicado.
+- A análise diferencia-se do pós-jogo factual e da crônica Depois do Apito, sem substituir o Raio-X Tático. O texto avalia as dificuldades do Flamengo no primeiro tempo, a reação, o impacto das entradas de Carrascal e Bruno Henrique, o empate de Samuel Lino e os problemas defensivos observados.
+- Fontes centrais: CBF, ge, UOL e CNN Brasil. A ficha de apuração registra as fontes, divergências estatísticas descartadas e a contagem de duas rodadas restantes após a 36ª rodada.
+- Atualizados o Painel de Pautas e o Log no GitHub, branch `main`. O conteúdo não foi publicado no site; a sincronização do vault local do Obsidian não foi verificada.
