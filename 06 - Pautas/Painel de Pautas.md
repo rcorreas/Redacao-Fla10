@@ -3232,3 +3232,15 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Ângulo:** desencontro no Galeão após alteração do acesso da delegação; explicações de José Boto e Danilo, posição do Flamengo e frustração dos torcedores.
 - **Arquivo de produção e histórico:** [[2026-11-20 - AeroFla termina em desencontro]].
 - **Registro editorial:** publicação confirmada pelo editor; item encerrado e incluído no histórico de publicações.
+
+
+## Publicação confirmada — Palmeiras x Flamengo: onde assistir (20/11/2026)
+
+- **Estado:** publicada em 20/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *Palmeiras x Flamengo: onde assistir ao vivo, horário e escalações da decisão do Brasileirão*.
+- **URL pública:** https://fla10.news/noticias/palmeiras-x-flamengo-onde-assistir-ao-vivo-horario-e-escalacoes-da-decisao-do-brasileirao
+- **Formato:** serviço de jogo — Campeonato Brasileiro 2026, 36ª rodada.
+- **Partida:** Palmeiras x Flamengo, em 21/11/2026, às 16h30, no Nubank Parque, em São Paulo.
+- **Conteúdo:** onde assistir, prováveis escalações, arbitragem, cenário do confronto e ficha técnica.
+- **Origem:** pauta de serviço prevista na agenda de 20/11; redação autorizada pelo editor após 20h30.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
