@@ -3248,11 +3248,12 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 
 ## Análise jornalística — Palmeiras 1 x 1 Flamengo (21/11/2026)
 
-- **Estado:** rascunho produzido para revisão editorial; não publicado.
+- **Estado:** **publicada em 21/11/2026**, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *Flamengo reage, encontra soluções no banco e confirma o decacampeonato na casa do Palmeiras*.
+- **URL pública:** https://fla10.news/noticias/flamengo-reage-encontra-solucoes-no-banco-e-confirma-o-decacampeonato-na-casa-do-palmeiras
 - **Formato:** análise jornalística pós-jogo — distinta do pós-jogo factual, do Raio-X Tático e da crônica Depois do Apito.
-- **Título de trabalho:** *Flamengo reage, encontra soluções no banco e confirma o decacampeonato na casa do Palmeiras*.
 - **Partida:** Palmeiras 1 x 1 Flamengo, 36ª rodada do Campeonato Brasileiro 2026, em 21/11/2026, no Nubank Parque.
 - **Tese:** o Flamengo sofreu com a pressão e as transições palmeirenses no início, reagiu no fim do primeiro tempo e melhorou com Carrascal e Bruno Henrique; o empate confirmou a regularidade da campanha, sem apagar as falhas defensivas do jogo.
 - **Arquivo:** [[2026-11-21 - Análise jornalística Palmeiras x Flamengo - decacampeonato]].
 - **Apuração:** CBF, ge, UOL e CNN Brasil. A ficha interna registra divergências secundárias de estatísticas e a contagem correta de duas rodadas restantes.
-- **Pendência:** revisão do editor; não marcar como publicada sem confirmação explícita.
+- **Registro editorial:** publicação confirmada; pauta encerrada e incluída no histórico de publicações.
