@@ -1,7 +1,9 @@
 ---
 title: "Flamengo reage, encontra soluções no banco e confirma o decacampeonato na casa do Palmeiras"
 date: 2026-11-21
-status: rascunho para revisão editorial
+status: publicada
+publicacao_confirmada: true
+url_publica: https://fla10.news/noticias/flamengo-reage-encontra-solucoes-no-banco-e-confirma-o-decacampeonato-na-casa-do-palmeiras
 section: notícias
 format: análise jornalística pós-jogo
 origin: produção interna — pesquisa, apuração, análise e redação em colaboração
@@ -92,7 +94,9 @@ A conquista pertence às 36 rodadas, à regularidade dos jogadores e à capacida
 
 ## Ficha de apuração — uso interno
 
-**Estado:** rascunho para revisão editorial; não publicado.
+**Estado:** publicada em 21/11/2026, conforme confirmação explícita do editor.
+
+**URL pública:** https://fla10.news/noticias/flamengo-reage-encontra-solucoes-no-banco-e-confirma-o-decacampeonato-na-casa-do-palmeiras
 
 **Tese:** o Flamengo sofreu com os encaixes de pressão do Palmeiras e com a falta de proteção à frente da defesa, mas cresceu ainda no primeiro tempo e melhorou com Carrascal e Bruno Henrique. O empate confirmou uma campanha de recuperação e regularidade, sem apagar as falhas observadas na decisão.
 
