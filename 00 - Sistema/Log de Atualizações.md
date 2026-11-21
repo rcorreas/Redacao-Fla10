@@ -1101,3 +1101,12 @@ Registro resumido de alterações relevantes no vault. O histórico completo de 
 - A análise diferencia-se do pós-jogo factual e da crônica Depois do Apito, sem substituir o Raio-X Tático. O texto avalia as dificuldades do Flamengo no primeiro tempo, a reação, o impacto das entradas de Carrascal e Bruno Henrique, o empate de Samuel Lino e os problemas defensivos observados.
 - Fontes centrais: CBF, ge, UOL e CNN Brasil. A ficha de apuração registra as fontes, divergências estatísticas descartadas e a contagem de duas rodadas restantes após a 36ª rodada.
 - Atualizados o Painel de Pautas e o Log no GitHub, branch `main`. O conteúdo não foi publicado no site; a sincronização do vault local do Obsidian não foi verificada.
+
+
+## 2026-11-21 — Publicação confirmada: análise jornalística Palmeiras 1 x 1 Flamengo
+- O editor confirmou a publicação da análise **“Flamengo reage, encontra soluções no banco e confirma o decacampeonato na casa do Palmeiras”**.
+- **URL pública:** https://fla10.news/noticias/flamengo-reage-encontra-solucoes-no-banco-e-confirma-o-decacampeonato-na-casa-do-palmeiras
+- Atualizados os metadados do arquivo de produção para `status: publicada` e `publicacao_confirmada: true`, com registro da URL pública.
+- Atualizado o Painel de Pautas: a análise deixa de constar como rascunho pendente e passa ao histórico de publicações confirmadas.
+- **Formato:** análise jornalística pós-jogo — separada do pós-jogo factual, do Raio-X Tático e da crônica Depois do Apito.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada. A confirmação refere-se à publicação no site, não à sincronização do vault local do Obsidian.
