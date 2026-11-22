@@ -3278,3 +3278,14 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Partida:** Palmeiras 1 x 1 Flamengo, 36ª rodada do Campeonato Brasileiro 2026, em 21/11/2026, no Nubank Parque.
 - **Ângulo:** comparação entre o 3-4-1-2 de Abel Ferreira e o 4-3-3 de Leonardo Jardim; encaixes individuais do Palmeiras; respostas de Jardim com Carrascal e Bruno Henrique; construção do gol de empate de Samuel Lino.
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Retrospecto do decacampeonato (22/11/2026)
+
+- **Estado:** publicada em 22/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Seção:** Reportagens Fla10.
+- **Título publicado:** *Do início turbulento ao decacampeonato: como o Flamengo virou o Brasileirão e conquistou o título na casa do Palmeiras*.
+- **URL pública:** https://fla10.news/reportagens/do-inicio-turbulento-ao-decacampeonato-como-o-flamengo-virou-o-brasileirao-e-conquistou-o-titulo-na-casa-do-palmeiras
+- **Formato:** reportagem retrospectiva da campanha do Campeonato Brasileiro de 2026.
+- **Ângulo:** trajetória desde Filipe Luís e a chegada de Leonardo Jardim, mudança de modelo de jogo, liderança e vantagem do Palmeiras, pausa para a Copa do Mundo, retomada, arrancada rubro-negra e confirmação antecipada do décimo título na casa do principal adversário.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
