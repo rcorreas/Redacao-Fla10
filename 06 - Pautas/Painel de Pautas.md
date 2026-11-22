@@ -3267,3 +3267,14 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **URL pública:** https://fla10.news/tirinhas/menor-abandonado
 - **Data exibida na página:** 22/11/2026.
 - **Registro editorial:** pauta encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Raio-X Tático: Jardim encontra os espaços (22/11/2026)
+
+- **Estado:** publicada em 22/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *Raio-X Tático: Jardim encontra os espaços, desmonta os encaixes de Abel e conduz o Flamengo ao empate do decacampeonato*.
+- **URL pública:** https://fla10.news/raio-x/raio-x-tatico-jardim-encontra-os-espacos-desmonta-os-encaixes-de-abel-e-conduz-o-flamengo-ao-empate-do-decacampeonato
+- **Formato:** Raio-X Tático — análise tática pós-jogo.
+- **Partida:** Palmeiras 1 x 1 Flamengo, 36ª rodada do Campeonato Brasileiro 2026, em 21/11/2026, no Nubank Parque.
+- **Ângulo:** comparação entre o 3-4-1-2 de Abel Ferreira e o 4-3-3 de Leonardo Jardim; encaixes individuais do Palmeiras; respostas de Jardim com Carrascal e Bruno Henrique; construção do gol de empate de Samuel Lino.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
