@@ -3190,7 +3190,7 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 
 - **Onde assistir — Palmeiras x Flamengo:** pauta prevista para hoje, mas sua produção/publicação está autorizada somente depois das 20h30 (horário de Brasília), por orientação expressa do editor. Não antecipar.
 - **Flamengo na História:** transferida de sábado, 21/11, para domingo, 22/11. Tema: *1953–1955: O segundo tricampeonato carioca — como o Flamengo voltou a dominar o Rio*. Produção pendente.
-- **Fla Tirinhas:** incluída na agenda de sábado, 21/11. Tema ainda não definido.
+- **Fla Tirinhas — O Menor Abandonado:** publicada, conforme confirmação explícita do editor. URL: https://fla10.news/tirinhas/menor-abandonado. A página do portal exibe a data de 22/11/2026.
 - **Sugestões de pautas pesquisadas para publicação em 20/11 — aguardando escolha do editor:**
   1. **Sem Betano, como o Flamengo pretende preencher o espaço mais valioso da camisa? — publicada em 20/11/2026.** Sugestão escolhida pelo editor, apurada e desenvolvida em matéria; registro de publicação: [[2026-11-20 - Sem Betano Flamengo - patrocínio master]]. URL: https://fla10.news/noticias/sem-betano-flamengo-tenta-transformar-espaco-master-em-nova-oportunidade-comercial. A matéria aborda a estratégia de patrocínios pontuais, as conversas para jogos de grande exposição, a possibilidade de ampliar temporariamente a presença de parceiros já existentes e a preservação do valor comercial do espaço master. Base: UOL, 20/11/2026 (https://www.uol.com.br/esporte/futebol/colunas/rodrigo-mattos/2026/11/20/como-flamengo-vai-negociar-patrocinador-master-apos-suspensao-da-betano.htm); ge, 13/11/2026 (https://ge.globo.com/futebol/times/flamengo/noticia/2026/11/13/flamengo-e-betano-debatem-suspensao-de-patrocinio.ghtml); UOL, 17/11/2026 (https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/11/17/betano-patrocinio-flamengo.ghtm).
   2. **Os 50 jogos de Leonardo Jardim: números fortes, mas o que ainda falta para conquistar a confiança da Nação?** Analisar os 33 triunfos, 13 empates e quatro derrotas nos 50 jogos considerados pelo clube, os 98 gols marcados e 39 sofridos, o desempenho no Brasileirão e o contraste entre aproveitamento, eliminações e percepção da torcida. Contextualizar também a sequência invicta de 16 partidas. Não transformar a pauta em defesa ou ataque automático ao treinador: confrontar desempenho, resultados e identidade de jogo. Base: Flamengo, 19/11/2026 (https://www.flamengo.com.br/noticias/futebol/leonardo-jardim-completa-50-jogos-no-comando-do-flamengo); ge, 17/11/2026 (https://ge.globo.com/google/amp/futebol/times/flamengo/noticia/2026/11/17/jardim-vai-completar-50-jogos-no-flamengo-com-aproveitamento-alto-mas-desconfianca-da-torcida.ghtml).
@@ -3257,3 +3257,13 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Arquivo:** [[2026-11-21 - Análise jornalística Palmeiras x Flamengo - decacampeonato]].
 - **Apuração:** CBF, ge, UOL e CNN Brasil. A ficha interna registra divergências secundárias de estatísticas e a contagem correta de duas rodadas restantes.
 - **Registro editorial:** publicação confirmada; pauta encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Fla Tirinhas: O Menor Abandonado
+
+- **Estado:** publicada, conforme confirmação explícita do editor.
+- **Formato:** Fla Tirinhas.
+- **Título:** *O Menor Abandonado*.
+- **URL pública:** https://fla10.news/tirinhas/menor-abandonado
+- **Data exibida na página:** 22/11/2026.
+- **Registro editorial:** pauta encerrada e incluída no histórico de publicações.
