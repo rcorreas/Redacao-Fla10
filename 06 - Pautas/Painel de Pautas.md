@@ -3300,3 +3300,13 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Partida:** Vasco 3 x 3 Flamengo Maricá, em 21/11/2026, no Estádio Nivaldo Pereira.
 - **Resumo:** Flamengo Maricá reagiu após ir para o intervalo perdendo por 3 a 1. Fernanda marcou duas vezes e Kaylane fez o gol de empate. Com o resultado, a equipe depende de um empate contra o Fluminense para avançar à final.
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Samuel Lino e Carrascal (23/11/2026)
+
+- **Estado:** publicada em 23/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *Samuel Lino e Carrascal: de contestados a protagonistas do decacampeonato*.
+- **URL pública:** https://fla10.news/noticias/samuel-lino-e-carrascal-de-contestados-a-protagonistas-do-decacampeonato
+- **Formato:** notícia especial / matéria completa sobre a campanha do Brasileirão 2026.
+- **Resumo:** reportagem sobre a recuperação de Samuel Lino e Jorge Carrascal após períodos de críticas e oscilações, destacando a evolução dos dois e suas contribuições para o decacampeonato do Flamengo.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
