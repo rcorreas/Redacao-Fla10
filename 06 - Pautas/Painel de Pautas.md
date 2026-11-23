@@ -3289,3 +3289,14 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Formato:** reportagem retrospectiva da campanha do Campeonato Brasileiro de 2026.
 - **Ângulo:** trajetória desde Filipe Luís e a chegada de Leonardo Jardim, mudança de modelo de jogo, liderança e vantagem do Palmeiras, pausa para a Copa do Mundo, retomada, arrancada rubro-negra e confirmação antecipada do décimo título na casa do principal adversário.
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Flamengo Maricá 3 x 3 Vasco (23/11/2026)
+
+- **Estado:** publicada em 23/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *Flamengo Maricá reage após primeiro tempo difícil, busca empate com o Vasco e fica a um ponto da final*.
+- **URL pública:** https://fla10.news/noticias/flamengo-marica-reage-apos-primeiro-tempo-dificil-busca-empate-com-o-vasco-e-fica-a-um-ponto-da-final
+- **Formato:** pós-jogo — Campeonato Carioca Feminino, 4ª rodada.
+- **Partida:** Vasco 3 x 3 Flamengo Maricá, em 21/11/2026, no Estádio Nivaldo Pereira.
+- **Resumo:** Flamengo Maricá reagiu após ir para o intervalo perdendo por 3 a 1. Fernanda marcou duas vezes e Kaylane fez o gol de empate. Com o resultado, a equipe depende de um empate contra o Fluminense para avançar à final.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
