@@ -3321,3 +3321,11 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Resultado:** Basquete Cearense 66 x 92 Flamengo
 - **Resumo:** Flamengo reage após terminar o primeiro tempo em desvantagem por 37 a 35, domina o segundo tempo por 57 a 29 e vence por 92 a 66 em Fortaleza. Yago Mateus lidera a equipe com 17 pontos, cinco assistências e quatro rebotes.
 - **Fechamento editorial:** Publicação confirmada pelo usuário em 23/11/2026.
+
+
+### 23/11/2026 — Publicação confirmada
+
+- **Formato:** Onde Assistir — vôlei feminino / Superliga 2026/27
+- **Jogo:** Sesc RJ Flamengo x Osasco São Cristóvão Saúde
+- **URL:** https://fla10.news/noticias/sesc-rj-flamengo-x-osasco-onde-assistir-ao-vivo-horario-e-informacoes-do-classico-pela-superliga
+- **Status:** Publicada
