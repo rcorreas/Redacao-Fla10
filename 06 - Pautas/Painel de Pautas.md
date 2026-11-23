@@ -3338,3 +3338,15 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **URL:** https://fla10.news/noticias/flamengo-faz-dobradinha-no-solo-conquista-ouro-e-prata-e-brilha-no-sul-americano-de-ginastica-artistica
 - **Destaques:** Julia Coutinho conquistou o ouro no solo (12,767); Nicole Bello ficou com a prata (12,100). Julia também foi prata no individual geral, e ambas integraram a seleção brasileira vice-campeã por equipes.
 - **Status:** Publicada
+
+
+## Publicação confirmada — Flamengo é decacampeão e segue incomodando (23/11/2026)
+
+- **Estado:** publicada em 23/11/2026, conforme confirmação explícita do editor e URL fornecida; página pública conferida.
+- **Título publicado:** *Flamengo é decacampeão e segue incomodando*.
+- **Seção:** Colunas — Na Pena do Urubu.
+- **Autor:** Carlão Azevedo.
+- **URL pública:** https://fla10.news/colunas/flamengo-e-decacampeao-e-segue-incomodando
+- **Formato:** coluna de opinião / comentário sobre o decacampeonato brasileiro de 2026.
+- **Origem da pauta:** texto fornecido pelo editor para formatação final e pacote SEO; não constava como pauta previamente agendada.
+- **Registro editorial:** publicação confirmada; item encerrado e incluído no histórico de publicações.
