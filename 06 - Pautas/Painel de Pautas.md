@@ -3329,3 +3329,12 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Jogo:** Sesc RJ Flamengo x Osasco São Cristóvão Saúde
 - **URL:** https://fla10.news/noticias/sesc-rj-flamengo-x-osasco-onde-assistir-ao-vivo-horario-e-informacoes-do-classico-pela-superliga
 - **Status:** Publicada
+
+
+### 23/11/2026 — Publicação confirmada
+
+- **Formato:** Notícia — ginástica artística / Sul-Americano Adulto
+- **Pauta:** Flamengo faz dobradinha no solo, conquista ouro e prata e brilha no Sul-Americano de Ginástica Artística
+- **URL:** https://fla10.news/noticias/flamengo-faz-dobradinha-no-solo-conquista-ouro-e-prata-e-brilha-no-sul-americano-de-ginastica-artistica
+- **Destaques:** Julia Coutinho conquistou o ouro no solo (12,767); Nicole Bello ficou com a prata (12,100). Julia também foi prata no individual geral, e ambas integraram a seleção brasileira vice-campeã por equipes.
+- **Status:** Publicada
