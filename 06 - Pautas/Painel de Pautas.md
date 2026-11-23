@@ -3310,3 +3310,14 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Formato:** notícia especial / matéria completa sobre a campanha do Brasileirão 2026.
 - **Resumo:** reportagem sobre a recuperação de Samuel Lino e Jorge Carrascal após períodos de críticas e oscilações, destacando a evolução dos dois e suas contribuições para o decacampeonato do Flamengo.
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
+
+## Publicações confirmadas — 23/11/2026
+
+### Flamengo muda postura após o intervalo, impõe seu ritmo e vence o Basquete Cearense pelo NBB
+- **Status:** Publicada
+- **URL:** https://fla10.news/noticias/flamengo-muda-postura-apos-o-intervalo-impoe-seu-ritmo-e-vence-o-basquete-cearense-pelo-nbb
+- **Formato:** Pós-jogo — basquete / NBB 2026/27
+- **Resultado:** Basquete Cearense 66 x 92 Flamengo
+- **Resumo:** Flamengo reage após terminar o primeiro tempo em desvantagem por 37 a 35, domina o segundo tempo por 57 a 29 e vence por 92 a 66 em Fortaleza. Yago Mateus lidera a equipe com 17 pontos, cinco assistências e quatro rebotes.
+- **Fechamento editorial:** Publicação confirmada pelo usuário em 23/11/2026.
