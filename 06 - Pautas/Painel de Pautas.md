@@ -3350,3 +3350,15 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Formato:** coluna de opinião / comentário sobre o decacampeonato brasileiro de 2026.
 - **Origem da pauta:** texto fornecido pelo editor para formatação final e pacote SEO; não constava como pauta previamente agendada.
 - **Registro editorial:** publicação confirmada; item encerrado e incluído no histórico de publicações.
+
+
+## Publicação confirmada — Sesc Flamengo supera Osasco (24/11/2026)
+
+- **Estado:** publicada em 24/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *Sesc Flamengo supera Osasco em clássico, mantém 100% e assume a liderança da Superliga*.
+- **URL pública:** https://fla10.news/noticias/sesc-flamengo-supera-osasco-em-classico-mantem-100-e-assume-a-lideranca-da-superliga
+- **Formato:** pós-jogo — vôlei feminino / Superliga 2026/27.
+- **Partida:** Sesc RJ Flamengo 3 x 1 Osasco São Cristóvão Saúde, em 23/11/2026, no Maracanãzinho.
+- **Parciais:** 25/16, 30/28, 10/25 e 25/16.
+- **Destaques:** Tainara (24 pontos e Troféu VivaVôlei) e Simone Lee (21 pontos).
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
