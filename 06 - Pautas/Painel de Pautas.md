@@ -3389,3 +3389,13 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **URL pública:** https://fla10.news/noticias/flamengo-marica-empata-com-o-fluminense-e-garante-vaga-na-final-do-carioca-feminino
 - **Formato:** pós-jogo — futebol feminino / Campeonato Carioca.
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Flamengo na História: Copa Mercosul de 1999 no estádio do Palmeiras (25/11/2026)
+
+- **Estado:** publicada em 25/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *Há 27 anos, o Flamengo conquistava um título internacional na casa do Palmeiras: a noite em que Lê calou o Parque Antárctica e deu ao Flamengo a Copa Mercosul*.
+- **URL pública:** https://fla10.news/flahistoria/ha-27-anos-o-flamengo-conquistava-um-titulo-internacional-na-casa-do-palmeiras-a-noite-em-que-le-calou-o-parque-antarctica-e-deu-ao-flamengo-a-copa-mercosul
+- **Formato:** Flamengo na História — retrospectiva histórica / Copa Mercosul de 1999.
+- **Tema:** empate por 3 a 3 com o Palmeiras no antigo Palestra Itália, gol decisivo de Lê e analogia com o título brasileiro de 2026 conquistado no mesmo endereço.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
