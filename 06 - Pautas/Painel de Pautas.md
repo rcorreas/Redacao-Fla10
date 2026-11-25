@@ -3408,3 +3408,13 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **URL pública:** https://fla10.news/videos/flamengo-campeao-da-copa-mercosul-de-1999-na-casa-do-palmeiras
 - **Formato:** vídeo — Flamengo na História / Copa Mercosul de 1999.
 - **Registro editorial:** publicação confirmada pelo editor; item encerrado e incluído no histórico de publicações.
+
+
+## Publicação confirmada — Ninho do Urubu: condenação de engenheiros não encerra luta das famílias por justiça (25/11/2026)
+
+- **Estado:** publicada em 25/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *Tragédia do Ninho do Urubu: condenação de engenheiros não encerra luta das famílias por justiça*.
+- **URL pública:** https://fla10.news/noticias/tragedia-do-ninho-do-urubu-condenacao-de-engenheiros-nao-encerra-luta-das-familias-por-justica
+- **Formato:** reportagem especial — Justiça / Flamengo / incêndio no Ninho do Urubu.
+- **Ângulo:** condenação em segunda instância de dois engenheiros da NHJ do Brasil a oito anos de detenção; manutenção das absolvições dos outros cinco réus julgados nessa etapa; cobrança da AFAVINU por responsabilização mais ampla; distinção entre absolvição, rejeição de denúncia e prescrição; possibilidade de recursos do MPRJ e das defesas.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
