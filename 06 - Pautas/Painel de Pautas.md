@@ -3399,3 +3399,12 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Formato:** Flamengo na História — retrospectiva histórica / Copa Mercosul de 1999.
 - **Tema:** empate por 3 a 3 com o Palmeiras no antigo Palestra Itália, gol decisivo de Lê e analogia com o título brasileiro de 2026 conquistado no mesmo endereço.
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Vídeo da Copa Mercosul de 1999 (25/11/2026)
+
+- **Estado:** publicado em 25/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título:** *Flamengo campeão da Copa Mercosul de 1999 na casa do Palmeiras*.
+- **URL pública:** https://fla10.news/videos/flamengo-campeao-da-copa-mercosul-de-1999-na-casa-do-palmeiras
+- **Formato:** vídeo — Flamengo na História / Copa Mercosul de 1999.
+- **Registro editorial:** publicação confirmada pelo editor; item encerrado e incluído no histórico de publicações.
