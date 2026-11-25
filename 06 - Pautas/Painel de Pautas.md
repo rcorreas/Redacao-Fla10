@@ -3362,3 +3362,13 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Parciais:** 25/16, 30/28, 10/25 e 25/16.
 - **Destaques:** Tainara (24 pontos e Troféu VivaVôlei) e Simone Lee (21 pontos).
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Flamengo Maricá 2 x 1 Vasco (24/11/2026)
+
+- **Estado:** publicada em 24/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *Flamengo Maricá vence o Vasco de virada e estreia com vitória na Copinha Feminina*.
+- **URL pública:** https://fla10.news/noticias/flamengo-marica-vence-o-vasco-de-virada-e-estreia-com-vitoria-na-copinha-feminina
+- **Formato:** pós-jogo — Copinha Feminina, categoria sub-20.
+- **Partida:** Flamengo Maricá 2 x 1 Vasco.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
