@@ -3418,3 +3418,13 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Formato:** reportagem especial — Justiça / Flamengo / incêndio no Ninho do Urubu.
 - **Ângulo:** condenação em segunda instância de dois engenheiros da NHJ do Brasil a oito anos de detenção; manutenção das absolvições dos outros cinco réus julgados nessa etapa; cobrança da AFAVINU por responsabilização mais ampla; distinção entre absolvição, rejeição de denúncia e prescrição; possibilidade de recursos do MPRJ e das defesas.
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Flamengo terá cortes no futebol e em outras áreas (25/11/2026)
+
+- **Estado:** publicada em 25/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *Flamengo terá cortes no futebol e em outras áreas; Bap prevê ajustes nos próximos 60 dias*.
+- **URL pública:** https://fla10.news/noticias/flamengo-tera-cortes-no-futebol-e-em-outras-areas-bap-preve-ajustes-nos-proximos-60-dias
+- **Formato:** notícia — planejamento financeiro do Flamengo para 2027.
+- **Ângulo:** anúncio de cortes no futebol e em outras áreas nos próximos 60 dias; diferença estimada de R$ 403 milhões nas receitas em relação a 2026, com cerca de R$ 140 milhões previstos para recomposição e o restante a ser enfrentado com ajustes. A matéria distingue a projeção comparativa do orçamento total de 2027 e não atribui cortes específicos a jogadores ou contratos sem confirmação.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
