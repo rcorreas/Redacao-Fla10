@@ -3372,3 +3372,20 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Formato:** pós-jogo — Copinha Feminina, categoria sub-20.
 - **Partida:** Flamengo Maricá 2 x 1 Vasco.
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
+ 
+## Publicação confirmada — Flamengo abre planejamento de 2027 (24/11/2026)
+
+- **Estado:** publicada em 24/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *Flamengo abre planejamento de 2027, mas futuro de Leonardo Jardim segue indefinido*.
+- **URL pública:** https://fla10.news/noticias/flamengo-abre-planejamento-de-2027-mas-futuro-de-leonardo-jardim-segue-indefinido
+- **Formato:** notícia — planejamento do futebol profissional.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
+## Publicação confirmada — Flamengo Maricá garante vaga na final do Carioca Feminino (24/11/2026)
+
+- **Estado:** publicada em 24/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *Flamengo Maricá empata com o Fluminense e garante vaga na final do Carioca Feminino*.
+- **URL pública:** https://fla10.news/noticias/flamengo-marica-empata-com-o-fluminense-e-garante-vaga-na-final-do-carioca-feminino
+- **Formato:** pós-jogo — futebol feminino / Campeonato Carioca.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
