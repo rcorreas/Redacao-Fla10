@@ -3440,3 +3440,19 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Ângulo:** a trajetória de Samuel Lino como ponto de partida para refletir sobre a impaciência da torcida, o tribunal da arquibancada, a falta de oportunidade de redenção para jogadores condenados precocemente e o efeito das críticas sobre a confiança e o equilíbrio emocional de atletas.
 - **Controle de redundância:** crônica autoral sobre a relação entre cobrança, pressão e tempo de maturação; distinta da crônica anterior sobre a conquista do decacampeonato e da reportagem sobre Samuel Lino e Carrascal.
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
+## Publicação confirmada — Garotos do Ninho como patrimônio do Flamengo (26/11/2026)
+
+- **Estado:** publicada, conforme confirmação explícita do editor em 26/11/2026.
+- **Título informado:** *Flamengo tenta transformar o potencial dos Garotos do Ninho em patrimônio dentro e fora de campo*.
+- **URL pública:** pendente de recuperação; o registro da conversa disponível para esta conferência preserva apenas o início do endereço (https://fla10.news/...), sem o caminho completo. Não inventar slug.
+- **Formato:** notícia / formação e valorização de atletas da base.
+- **Registro editorial:** publicação confirmada; URL completa ainda precisa ser vinculada ao histórico.
+
+## Publicação confirmada — A campanha do deca nos números (26/11/2026)
+
+- **Estado:** publicada, conforme confirmação explícita do editor em 26/11/2026.
+- **Título informado:** *A campanha do deca nos números: Flamengo lidera em xG, xGA e confirma superioridade nas métricas avançadas*.
+- **URL pública:** pendente de recuperação; o registro da conversa disponível para esta conferência não preserva o endereço completo. Não inventar slug.
+- **Formato:** análise estatística / métricas avançadas da campanha do decacampeonato.
+- **Registro editorial:** publicação confirmada; URL completa ainda precisa ser vinculada ao histórico.
