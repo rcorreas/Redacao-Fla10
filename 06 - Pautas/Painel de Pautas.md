@@ -3445,7 +3445,7 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 
 - **Estado:** publicada, conforme confirmação explícita do editor em 26/11/2026.
 - **Título informado:** *Flamengo tenta transformar o potencial dos Garotos do Ninho em patrimônio dentro e fora de campo*.
-- **URL pública:** pendente de recuperação; o registro da conversa disponível para esta conferência preserva apenas o início do endereço (https://fla10.news/...), sem o caminho completo. Não inventar slug.
+- **URL pública:** https://fla10.news/noticias/flamengo-tenta-transformar-o-potencial-dos-garotos-do-ninho-em-patrimonio-dentro-e-fora-de-campo
 - **Formato:** notícia / formação e valorização de atletas da base.
 - **Registro editorial:** publicação confirmada; URL completa ainda precisa ser vinculada ao histórico.
 
@@ -3453,6 +3453,6 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 
 - **Estado:** publicada, conforme confirmação explícita do editor em 26/11/2026.
 - **Título informado:** *A campanha do deca nos números: Flamengo lidera em xG, xGA e confirma superioridade nas métricas avançadas*.
-- **URL pública:** pendente de recuperação; o registro da conversa disponível para esta conferência não preserva o endereço completo. Não inventar slug.
+- **URL pública:** https://fla10.news/noticias/a-campanha-do-deca-nos-numeros-flamengo-lidera-em-xg-xga-e-confirma-superioridade-nas-metricas-avancadas
 - **Formato:** análise estatística / métricas avançadas da campanha do decacampeonato.
 - **Registro editorial:** publicação confirmada; URL completa ainda precisa ser vinculada ao histórico.
