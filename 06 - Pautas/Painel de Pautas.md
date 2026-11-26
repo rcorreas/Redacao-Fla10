@@ -3428,3 +3428,15 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Formato:** notícia — planejamento financeiro do Flamengo para 2027.
 - **Ângulo:** anúncio de cortes no futebol e em outras áreas nos próximos 60 dias; diferença estimada de R$ 403 milhões nas receitas em relação a 2026, com cerca de R$ 140 milhões previstos para recomposição e o restante a ser enfrentado com ajustes. A matéria distingue a projeção comparativa do orçamento total de 2027 e não atribui cortes específicos a jogadores ou contratos sem confirmação.
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
+## Publicação confirmada — Depois do Apito: Entre as vaias e os aplausos, o futebol não costuma esperar (26/11/2026)
+
+- **Estado:** publicada em 26/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *Entre as vaias e os aplausos, o futebol não costuma esperar*.
+- **URL pública:** https://fla10.news/colunas/entre-as-vaias-e-os-aplausos-o-futebol-nao-costuma-esperar
+- **Seção:** Colunas — Depois do Apito.
+- **Autor/persona:** Miguel Sampaio.
+- **Formato:** crônica.
+- **Ângulo:** a trajetória de Samuel Lino como ponto de partida para refletir sobre a impaciência da torcida, o tribunal da arquibancada, a falta de oportunidade de redenção para jogadores condenados precocemente e o efeito das críticas sobre a confiança e o equilíbrio emocional de atletas.
+- **Controle de redundância:** crônica autoral sobre a relação entre cobrança, pressão e tempo de maturação; distinta da crônica anterior sobre a conquista do decacampeonato e da reportagem sobre Samuel Lino e Carrascal.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
