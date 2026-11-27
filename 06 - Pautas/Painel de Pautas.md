@@ -3467,3 +3467,13 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Partida:** Flamengo Maricá x Fluminense, em 27/11/2026, às 15h, no Estádio João Saldanha, em Maricá.
 - **Transmissão:** FlamengoTV, no YouTube.
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
+## Publicação confirmada — Tarumã x Flamengo Maricá: onde assistir à Copinha Feminina (26/11/2026)
+
+- **Estado:** publicada em 26/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *Tarumã x Flamengo Maricá: onde assistir ao vivo, horário e informações da Copinha Feminina*.
+- **URL pública:** https://fla10.news/noticias/taruma-x-flamengo-marica-onde-assistir-ao-vivo-horario-e-informacoes-da-copinha-feminina
+- **Formato:** serviço de jogo — Copinha Feminina 2026, categoria sub-20, segunda rodada do Grupo A.
+- **Partida:** Tarumã-AM x Flamengo Maricá, em 27/11/2026, às 21h (de Brasília), no Estádio do Canindé, em São Paulo.
+- **Transmissão:** TV Brasil e YouTube oficial do Paulistão; programação da TV Brasil com início previsto para 20h45.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
