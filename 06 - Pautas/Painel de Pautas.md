@@ -3477,3 +3477,12 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Partida:** Tarumã-AM x Flamengo Maricá, em 27/11/2026, às 21h (de Brasília), no Estádio do Canindé, em São Paulo.
 - **Transmissão:** TV Brasil e YouTube oficial do Paulistão; programação da TV Brasil com início previsto para 20h45.
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
+## Publicação confirmada — Flamengo de Bap corta o futuro para preservar o presente (27/11/2026)
+
+- **Estado:** publicada em 27/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *Flamengo de Bap corta o futuro para preservar o presente: a conta da gestão chega aos esportes olímpicos, ao futebol feminino e à base*.
+- **URL pública:** https://fla10.news/noticias/flamengo-de-bap-corta-o-futuro-para-preservar-o-presente-a-conta-da-gestao-chega-aos-esportes-olimpicos-ao-futebol-feminino-e-a-base
+- **Formato:** reportagem / análise crítica de gestão esportiva.
+- **Ângulo:** crítica à política de cortes de Bap nos esportes olímpicos, ao tratamento dado ao futebol feminino e aos problemas da base masculina; registra que a redução de investimentos já vinha ocorrendo antes da suspensão do patrocínio da Betano.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
