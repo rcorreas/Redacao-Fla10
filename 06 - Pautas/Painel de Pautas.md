@@ -3456,3 +3456,14 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **URL pública:** https://fla10.news/noticias/a-campanha-do-deca-nos-numeros-flamengo-lidera-em-xg-xga-e-confirma-superioridade-nas-metricas-avancadas
 - **Formato:** análise estatística / métricas avançadas da campanha do decacampeonato.
 - **Registro editorial:** publicação confirmada; URL completa ainda precisa ser vinculada ao histórico.
+
+
+## Publicação confirmada — Flamengo Maricá x Fluminense: onde assistir à final do Carioca Feminino (26/11/2026)
+
+- **Estado:** publicada em 26/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *Flamengo Maricá x Fluminense: onde assistir à final do Carioca Feminino*.
+- **URL pública:** https://fla10.news/noticias/flamengo-x-fluminense-onde-assistir-a-final-do-carioca-feminino
+- **Formato:** serviço de jogo — final do Campeonato Carioca Feminino, partida de ida.
+- **Partida:** Flamengo Maricá x Fluminense, em 27/11/2026, às 15h, no Estádio João Saldanha, em Maricá.
+- **Transmissão:** FlamengoTV, no YouTube.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
