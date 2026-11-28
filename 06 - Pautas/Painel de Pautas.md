@@ -3486,3 +3486,16 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Formato:** reportagem / análise crítica de gestão esportiva.
 - **Ângulo:** crítica à política de cortes de Bap nos esportes olímpicos, ao tratamento dado ao futebol feminino e aos problemas da base masculina; registra que a redução de investimentos já vinha ocorrendo antes da suspensão do patrocínio da Betano.
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
+## Publicação confirmada — Flamengo goleia o Tarumã por 5 a 0 na Copinha Feminina (28/11/2026)
+
+- **Estado:** publicada em 28/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *Flamengo goleia o Tarumã por 5 a 0 e assume liderança isolada na Copinha Feminina*.
+- **URL pública:** https://fla10.news/noticias/flamengo-goleia-o-taruma-por-5-a-0-e-assume-lideranca-isolada-na-copinha-feminina
+- **Formato:** pós-jogo — Copinha Feminina 2026, segunda rodada do Grupo A.
+- **Partida:** Flamengo 5 x 0 Tarumã-AM, em 27/11/2026, no Canindé, em São Paulo.
+- **Gols:** Isabela Nunes (2), Campos (2) e Nicolly Manuel.
+- **Contexto:** Flamengo chegou aos seis pontos e assumiu a liderança isolada do Grupo A; próximo compromisso contra o Palmeiras em 30/11, às 21h.
+- **Diretriz de cobertura:** prioridade dada ao registro do resultado e à leitura da partida; evitar nova matéria redundante sobre a mesma goleada ou sobre a classificação já abordada no pós-jogo.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
