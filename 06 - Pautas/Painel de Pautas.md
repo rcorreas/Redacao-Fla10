@@ -3509,3 +3509,13 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Gols:** Raquel Fernandes abriu o placar para o Fluminense; Núbia, de pênalti, e Brendha viraram para o Flamengo; Carioca empatou aos 50 minutos do segundo tempo.
 - **Contexto:** o Flamengo reagiu na etapa final e chegou a ficar em vantagem, mas sofreu o empate no último lance. A decisão do título ficou para o jogo de volta, em 30/11/2026, às 15h, no Estádio Marcelo Vieira, em Xerém; novo empate leva a disputa aos pênaltis.
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
+
+
+## Publicação confirmada — Flamengo conhece grupos e caminho do Carioca 2027 (28/11/2026)
+
+- **Estado:** publicada em 28/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *Flamengo conhece grupos e caminho para tentar o tetracampeonato carioca em 2027*.
+- **URL pública:** https://fla10.news/noticias/flamengo-conhece-grupos-e-caminho-para-tentar-o-tetracampeonato-carioca-em-2027
+- **Formato:** notícia — Campeonato Carioca 2027 / grupos, tabela básica e regulamento.
+- **Ângulo:** Flamengo no Grupo A, estreia contra o Boavista, confrontos com Botafogo e Fluminense na primeira fase, calendário básico, formato eliminatório e mudanças aprovadas pela FERJ.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
