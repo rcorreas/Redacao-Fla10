@@ -497,7 +497,6 @@ Debater uma pauta por vez; definir pergunta central, tese, evidências necessár
 - **Eficiência ofensiva do Flamengo no Brasileirão:** transferida para 21/10/2026; não consta mais como tarefa de hoje.
 - **Campinho tático — Bahia 0 x 3 Flamengo:** cancelado pelo editor em 20/10/2026; retirar da lista de pendências e não produzir.
 
-
 ## Publicação confirmada — 20 de outubro de 2026
 
 ### Flamengo vence o Botafogo no clássico e conquista primeira vitória no NBB 2026/27
@@ -997,7 +996,6 @@ Após a partida, a cobertura prevista compreende **cinco entregas separadas**:
 ## Confirmação editorial — pautas transferidas para quarta-feira, 28/10/2026
 
 Por solicitação do editor em 27/10, ficam confirmadas para amanhã, quarta-feira, 28/10/2026, as duas pautas que permanecem pendentes:
-
 1. **A defesa pode decidir o Brasileirão? Flamengo e Palmeiras chegam à reta final com números próximos** — análise comparativa; atualizar e validar os dados dos dois clubes com o mesmo recorte temporal e critérios equivalentes antes de redigir.
 2. **Reportagens Fla10 — Da base ao profissional: o caminho dos Garotos do Ninho** — debater recorte temporal, hipótese central e plano de apuração antes de autorizar a redação.
 
@@ -1498,7 +1496,6 @@ O editor aprovou integrar as dimensões econômica, cultural e social da força 
 
 
 #### Aprofundamento da apuração — dimensão cultural, comercial e distribuição de valor
-
 **Diretriz confirmada pelo editor:** integrar as dimensões econômica, cultural e social da força da Nação, com o poder econômico como eixo principal e a dimensão cultural como explicação de sua origem.
 
 **7. A torcida como fenômeno cultural e social**
@@ -1999,7 +1996,6 @@ A pesquisa acadêmica reforça que a identificação com o clube, o comprometime
 - A página oficial do Flamengo lista jogos posteriores da equipe principal contra Coritiba e Chapecoense ainda sem data/horário confirmados; não gerar pauta com data presumida.
 - Datas do Carioca Feminino estão sujeitas a alteração, conforme ressalva da tabela divulgada pelo clube.
 
-
 ## Complemento obrigatório da agenda — pautas Onde Assistir
 
 **Correção editorial em 02/11/2026:** a agenda prospectiva anterior indicava em alguns itens a data prevista para a matéria Onde Assistir, mas não apresentava uma programação completa e explícita dessas pautas. A tabela abaixo passa a ser o controle operacional: cada evento gera uma pauta de serviço na véspera, além da cobertura no dia do jogo conforme a modalidade. A inclusão na agenda não significa que a matéria já esteja produzida ou publicada.
@@ -2497,8 +2493,7 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 ## Publicação confirmada — Flamengo 1 x 1 Vasco: semifinal do Carioca Sub-20 (07/11/2026)
 
 - **Estado:** publicada em 07/11/2026, conforme confirmação explícita do editor.
-- **Título:** *Flamengo empata com o Vasco na Gávea e terá de vencer fora para chegar à final do Carioca Sub-20*.
-- **URL pública:** https://fla10.news/noticias/flamengo-empata-com-o-vasco-na-gavea-e-tera-de-vencer-fora-para-chegar-a-final-do-carioca-sub-20
+- **Título:** *Flamengo empata com o Vasco na Gávea e terá de vencer fora para chegar à final do Carioca Sub-20*.- **URL pública:** https://fla10.news/noticias/flamengo-empata-com-o-vasco-na-gavea-e-tera-de-vencer-fora-para-chegar-a-final-do-carioca-sub-20
 - **Formato:** notícia pós-jogo — semifinal do Campeonato Carioca Sub-20, jogo de ida.
 - **Partida:** Flamengo 1 x 1 Vasco, em 07/11/2026, no Estádio José Bastos Padilha, na Gávea.
 - **Gols:** João Victor marcou para o Flamengo aos 25 minutos do primeiro tempo; Wanyson empatou para o Vasco aos 33 minutos da etapa final.
@@ -2997,8 +2992,7 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Título publicado:** *Flamengo x Athletico-PR: Rubro-Negro defende liderança no Maracanã antes de confronto direto com Palmeiras*.
 - **URL pública:** https://fla10.news/noticias/flamengo-x-athletico-pr-rubro-negro-defende-lideranca-no-maracana-antes-de-confronto-direto-com-palmeiras
 - **Formato:** pré-jogo analítico / serviço — 35ª rodada do Campeonato Brasileiro.
-- **Ângulo:** Flamengo defende a liderança com 76 pontos e três de vantagem sobre o Palmeiras; oito jogadores pendurados; preparação para o confronto direto de 21/11.
-- **Registro editorial:** publicação confirmada pelo editor; pauta de pré-jogo encerrada e incluída no histórico de publicações.
+- **Ângulo:** Flamengo defende a liderança com 76 pontos e três de vantagem sobre o Palmeiras; oito jogadores pendurados; preparação para o confronto direto de 21/11.- **Registro editorial:** publicação confirmada pelo editor; pauta de pré-jogo encerrada e incluída no histórico de publicações.
 
 ## Publicação confirmada — Gallardo confirma que Plata pediu para deixar o Equador e atacante volta ao Flamengo (18/11/2026)
 
@@ -3499,3 +3493,14 @@ Sempre que o editor informar que uma matéria foi publicada e fornecer sua URL, 
 - **Diretriz de cobertura:** prioridade dada ao registro do resultado e à leitura da partida; evitar nova matéria redundante sobre a mesma goleada ou sobre a classificação já abordada no pós-jogo.
 - **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
 
+
+## Publicação confirmada — Flamengo Maricá 2 x 2 Fluminense na final do Carioca Feminino (28/11/2026)
+
+- **Estado:** publicada em 28/11/2026, conforme confirmação explícita do editor e URL fornecida.
+- **Título publicado:** *Flamengo Maricá vira sobre o Fluminense, mas sofre empate no último lance da final do Carioca Feminino*.
+- **URL pública:** https://fla10.news/noticias/flamengo-marica-vira-sobre-o-fluminense-mas-sofre-empate-no-ultimo-lance-da-final-do-carioca-feminino
+- **Formato:** pós-jogo — Campeonato Carioca Feminino 2026, final (partida de ida).
+- **Partida:** Flamengo Maricá 2 x 2 Fluminense, em 27/11/2026, no Estádio João Saldanha, em Maricá.
+- **Gols:** Raquel Fernandes abriu o placar para o Fluminense; Núbia, de pênalti, e Brendha viraram para o Flamengo; Carioca empatou aos 50 minutos do segundo tempo.
+- **Contexto:** o Flamengo reagiu na etapa final e chegou a ficar em vantagem, mas sofreu o empate no último lance. A decisão do título ficou para o jogo de volta, em 30/11/2026, às 15h, no Estádio Marcelo Vieira, em Xerém; novo empate leva a disputa aos pênaltis.
+- **Registro editorial:** publicação confirmada pelo editor; pauta encerrada e incluída no histórico de publicações.
